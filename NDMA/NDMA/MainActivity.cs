@@ -3,6 +3,7 @@ using Android.OS;
 using Android.Support.V7.App;
 using Android.Runtime;
 using Android.Widget;
+using Android.Content;
 
 namespace NDMA
 {
@@ -15,12 +16,42 @@ namespace NDMA
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.activity_main);
+
+            //connecting the buttons to the approaite handlers
+            Button Register = FindViewById<Button>(Resource.Id.Register);
+            Button Login = FindViewById<Button>(Resource.Id.Login);
+
+            Login.Click += delegate
+            {
+                ButtonClicked("Login");
+            };
+
+            Register.Click += delegate
+            {
+                ButtonClicked("Register");
+            };
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
             Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
+        }
+
+        public void ButtonClicked(string id)
+        {
+            if(string.Equals(id, "Login"))
+            {
+                Toast.MakeText(Application.Context, 
+                    "You have pressed the " + id + " button so many times", 
+                    ToastLength.Short).Show();
+            }
+            else if(string.Equals(id, "Register"))
+            {
+                Toast.MakeText(Application.Context,
+                   "You have pressed the " + id + " button",
+                   ToastLength.Short).Show();
+            }
         }
     }
 }
