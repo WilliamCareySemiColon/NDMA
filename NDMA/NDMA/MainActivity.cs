@@ -39,23 +39,19 @@ namespace NDMA
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
 
-        public void ButtonClicked(string id)
+        private void ButtonClicked(string id)
         {
             if(string.Equals(id, "Login"))
             {
-                //Toast.MakeText(Application.Context, 
-                //    "You have pressed the " + id + " button so many times", 
-                //    ToastLength.Short).Show();
-
-                //switching to the new intent
+                //switching to the the login page
                 Intent LoginActivity = new Intent(this, typeof(Login));
                 StartActivity(LoginActivity);
             }
             else if(string.Equals(id, "Register"))
             {
-                Toast.MakeText(Application.Context,
-                   "You have pressed the " + id + " button",
-                   ToastLength.Short).Show();
+                //start the register page
+                Intent RegisterActivity = new Intent(this, typeof(Register));
+                StartActivity(RegisterActivity);
             }
         }
     }
