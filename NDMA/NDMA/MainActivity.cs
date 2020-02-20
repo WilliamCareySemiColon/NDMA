@@ -4,6 +4,7 @@ using Android.Support.V7.App;
 using Android.Runtime;
 using Android.Widget;
 using Android.Content;
+using NDMA.Resources;
 
 namespace NDMA
 {
@@ -42,9 +43,13 @@ namespace NDMA
         {
             if(string.Equals(id, "Login"))
             {
-                Toast.MakeText(Application.Context, 
-                    "You have pressed the " + id + " button so many times", 
-                    ToastLength.Short).Show();
+                //Toast.MakeText(Application.Context, 
+                //    "You have pressed the " + id + " button so many times", 
+                //    ToastLength.Short).Show();
+
+                //switching to the new intent
+                Intent LoginActivity = new Intent(this, typeof(Login));
+                StartActivity(LoginActivity);
             }
             else if(string.Equals(id, "Register"))
             {
