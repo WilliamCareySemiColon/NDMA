@@ -65,8 +65,21 @@ namespace NDMA.Resources
 
         private void ButtonClicked(string id)
         {
-            Toast.MakeText(Application.Context,
+            if (string.Equals(id, "Login"))
+            {
+                Intent LoginActivity = new Intent(this, typeof(Login));
+                StartActivity(LoginActivity);
+            }
+
+            else if (string.Equals(id, "Register"))
+            {
+                 Toast.MakeText(Application.Context,
                 "You have pressed the " + id + " button", ToastLength.Short).Show();
+
+                Intent HomeActivity = new Intent(this, typeof(Home));
+                StartActivity(HomeActivity);
+
+            }
         }
     }
 }

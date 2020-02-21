@@ -4080,46 +4080,49 @@ namespace NDMA
 			public const int design_text_input_password_icon = 2131492908;
 			
 			// aapt resource value: 0x7F0C002D
-			public const int login = 2131492909;
+			public const int Home = 2131492909;
 			
 			// aapt resource value: 0x7F0C002E
-			public const int mtrl_layout_snackbar = 2131492910;
+			public const int login = 2131492910;
 			
 			// aapt resource value: 0x7F0C002F
-			public const int mtrl_layout_snackbar_include = 2131492911;
+			public const int mtrl_layout_snackbar = 2131492911;
 			
 			// aapt resource value: 0x7F0C0030
-			public const int notification_action = 2131492912;
+			public const int mtrl_layout_snackbar_include = 2131492912;
 			
 			// aapt resource value: 0x7F0C0031
-			public const int notification_action_tombstone = 2131492913;
+			public const int notification_action = 2131492913;
 			
 			// aapt resource value: 0x7F0C0032
-			public const int notification_template_custom_big = 2131492914;
+			public const int notification_action_tombstone = 2131492914;
 			
 			// aapt resource value: 0x7F0C0033
-			public const int notification_template_icon_group = 2131492915;
+			public const int notification_template_custom_big = 2131492915;
 			
 			// aapt resource value: 0x7F0C0034
-			public const int notification_template_part_chronometer = 2131492916;
+			public const int notification_template_icon_group = 2131492916;
 			
 			// aapt resource value: 0x7F0C0035
-			public const int notification_template_part_time = 2131492917;
+			public const int notification_template_part_chronometer = 2131492917;
 			
 			// aapt resource value: 0x7F0C0036
-			public const int Register = 2131492918;
+			public const int notification_template_part_time = 2131492918;
 			
 			// aapt resource value: 0x7F0C0037
-			public const int select_dialog_item_material = 2131492919;
+			public const int Register = 2131492919;
 			
 			// aapt resource value: 0x7F0C0038
-			public const int select_dialog_multichoice_material = 2131492920;
+			public const int select_dialog_item_material = 2131492920;
 			
 			// aapt resource value: 0x7F0C0039
-			public const int select_dialog_singlechoice_material = 2131492921;
+			public const int select_dialog_multichoice_material = 2131492921;
 			
 			// aapt resource value: 0x7F0C003A
-			public const int support_simple_spinner_dropdown_item = 2131492922;
+			public const int select_dialog_singlechoice_material = 2131492922;
+			
+			// aapt resource value: 0x7F0C003B
+			public const int support_simple_spinner_dropdown_item = 2131492923;
 			
 			static Layout()
 			{

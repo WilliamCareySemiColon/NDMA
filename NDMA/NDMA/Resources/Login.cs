@@ -54,6 +54,9 @@ namespace NDMA.Resources
                 Toast.MakeText(Application.Context,
                 "Username =  " + usernameValue + " password = " + passwordValue,
                 ToastLength.Short).Show();
+
+                Intent HomeActivity = new Intent(this, typeof(Home));
+                StartActivity(HomeActivity);
             }
             else if (string.Equals(id, "Register"))
             {
