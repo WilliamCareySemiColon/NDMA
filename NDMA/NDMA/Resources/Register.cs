@@ -37,15 +37,36 @@ namespace NDMA.Resources
                 Resource.Array.SexCategory, Android.Resource.Layout.SimpleSpinnerItem);
             sexCategoryAdpater.SetDropDownViewResource(Android.Resource.Layout.SimpleSpinnerDropDownItem);
             sexCategory.Adapter = sexCategoryAdpater;
+            //button details
+            Button register = FindViewById<Button>(Resource.Id.Register);
+            register.Click += delegate
+            {
+                ButtonClicked("Register");
+            };
 
+            Button loginInstead = FindViewById<Button>(Resource.Id.LoginInstead);
+            loginInstead.Click += delegate
+            {
+                ButtonClicked("Login");
+            };
         }
 
         private void Spinner_ItemSelected(Object sender,AdapterView.ItemSelectedEventArgs e)
         {
             var spinner = sender as Spinner;
-            Toast.MakeText(Application.Context,
+            if(!(string.Equals(spinner.GetItemAtPosition(e.Position).ToString(),"Age Category") 
+                || string.Equals(spinner.GetItemAtPosition(e.Position).ToString(), "Sex Category")))
+            {
+                Toast.MakeText(Application.Context,
                 "You choice the item " + spinner.GetItemAtPosition(e.Position),
                 ToastLength.Short).Show();
+            }
+        }
+
+        private void ButtonClicked(string id)
+        {
+            Toast.MakeText(Application.Context,
+                "You have pressed the " + id + " button", ToastLength.Short).Show();
         }
     }
 }
