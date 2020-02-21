@@ -1,7 +1,175 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background = "@color/MainBodyColour ">
 
-</LinearLayout>
+    <!--The objects inside the page view-->
+
+    <!--
+        android:textColor = "@color/MainFontOrButtonStyle"
+
+        android:textColor = "@color/GhostWhite"
+    -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentEnd = "true"
+        android:text = "Please register your details"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop = "50dp"
+        android:textAlignment = "center"
+        android:fontFamily = "sans-serif"
+        android:textSize = "22dp"
+        />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentEnd = "true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop = "125dp"
+        android:hint = "name"
+        android:fontFamily = "sans-serif"
+        android:textAlignment = "center"
+        android:id = "@+id/Name"
+    />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentEnd = "true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop = "175dp"
+        android:hint = "username"
+        android:fontFamily = "sans-serif"
+        android:textAlignment = "center"
+        android:id = "@+id/Username"
+    />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentEnd = "true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop = "225dp"
+        android:hint = "email"
+        android:fontFamily = "sans-serif"
+        android:textAlignment = "center"
+        android:id = "@+id/Email"
+    />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentEnd = "true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop = "275dp"
+        android:hint = "password"
+        android:fontFamily = "sans-serif"
+        android:textAlignment = "center"
+        android:id = "@+id/Password"
+        
+    />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentEnd = "true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop = "325dp"
+        android:hint = "confirm password"
+        android:fontFamily = "sans-serif"
+        android:textAlignment = "center"
+        android:id = "@+id/ConfirmPassword"
+    />
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentEnd = "true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop = "380dp"
+        android:fontFamily = "sans-serif"
+        android:textAlignment = "center"
+        android:id = "@+id/AgeCategory"
+        android:spinnerMode = "dialog"
+    />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentEnd = "true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop = "420dp"
+        android:fontFamily = "sans-serif"
+        android:textAlignment = "center"
+        android:id = "@+id/SexCategory"
+        
+    />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text = "Login"
+        android:textSize = "16dp"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentEnd = "true"
+        android:layout_marginLeft="120dp"
+        android:layout_marginRight="120dp"
+        android:layout_marginTop = "450dp"
+        android:id = "@+id/Register"
+       
+    />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text = "Login instead"
+        android:textSize = "16dp"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentEnd = "true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop = "500dp"
+        android:id = "@+id/LoginInstead"
+        />
+
+</RelativeLayout>
+

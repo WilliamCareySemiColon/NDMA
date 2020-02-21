@@ -27,6 +27,7 @@ namespace NDMA.Resources
             Button login = FindViewById<Button>(Resource.Id.Login);
             Button RegisterInstead = FindViewById<Button>(Resource.Id.RegisterInstead);
 
+
             //setting the handlers onto the application itself
             login.Click += delegate
             {
