@@ -10,7 +10,7 @@
   </string-array>
   <!--Sex details-->
   <string-array name ="SexCategory">
-    <item >Sge Category</item>
+    <item >Sex Category</item>
     <item>Male</item>
     <item>Female</item>
   </string-array>

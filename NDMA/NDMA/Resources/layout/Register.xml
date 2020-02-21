@@ -137,7 +137,7 @@
         android:fontFamily = "sans-serif"
         android:textAlignment = "center"
         android:id = "@+id/SexCategory"
-        
+        android:spinnerMode = "dialog"
     />
 
     <Button
