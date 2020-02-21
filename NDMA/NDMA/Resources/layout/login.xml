@@ -36,8 +36,10 @@
         android:hint = "username"
         android:fontFamily = "sans-serif"
         android:textAlignment = "center"
+        android:inputType="text"
         android:textColor = "@color/MainFontOrButtonStyle"
-        android:id = "@+id/Username"/>
+        android:id = "@+id/Username"
+        />
 
     <EditText
         android:layout_width="wrap_content"
@@ -52,6 +54,7 @@
         android:hint = "password"
         android:fontFamily = "sans-serif"
         android:textAlignment = "center"
+        android:inputType="textPassword"
         android:textColor = "@color/MainFontOrButtonStyle"
         android:id = "@+id/Password"
     />

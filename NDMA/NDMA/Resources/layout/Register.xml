@@ -45,6 +45,7 @@
         android:fontFamily = "sans-serif"
         android:textAlignment = "center"
         android:id = "@+id/Name"
+        android:inputType="text"
         android:textColor = "@color/MainFontOrButtonStyle"
     />
 
@@ -62,6 +63,7 @@
         android:fontFamily = "sans-serif"
         android:textAlignment = "center"
         android:id = "@+id/Username"
+        android:inputType="text"
         android:textColor = "@color/MainFontOrButtonStyle"
     />
 
@@ -79,6 +81,7 @@
         android:fontFamily = "sans-serif"
         android:textAlignment = "center"
         android:id = "@+id/Email"
+        android:inputType="textEmailAddress"
         android:textColor = "@color/MainFontOrButtonStyle"
     />
 
@@ -96,6 +99,7 @@
         android:fontFamily = "sans-serif"
         android:textAlignment = "center"
         android:id = "@+id/Password"
+        android:inputType="textPassword"
         android:textColor = "@color/MainFontOrButtonStyle"
     />
     <EditText
@@ -112,6 +116,7 @@
         android:fontFamily = "sans-serif"
         android:textAlignment = "center"
         android:id = "@+id/ConfirmPassword"
+        android:inputType="textPassword"
         android:textColor = "@color/MainFontOrButtonStyle"
     />
     <Spinner
