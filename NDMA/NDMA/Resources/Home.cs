@@ -21,6 +21,10 @@ namespace NDMA.Resources
 
             // Create your application here
             SetContentView(Resource.Layout.Home);
+
+            //Setting the text of the views of the appliaction
+            TextView carbs = FindViewById<TextView>(Resource.Id.CarbsView);
+            carbs.Text = "?%";
         }
     }
 }

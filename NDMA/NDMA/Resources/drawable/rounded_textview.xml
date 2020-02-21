@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Code found at the folowing url https://stackoverflow.com/questions/25203501/android-creating-a-circular-textview/25203778-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:drawable="@drawable/circle" />
+</selector>
