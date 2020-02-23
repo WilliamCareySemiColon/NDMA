@@ -1,13 +1,29 @@
 
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
+    <Button
+        android:id = "@+id/AdvisorSystem"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text = "Hello World"
+        android:text = "View Advisor System"
+    />
+   
+    <Button
+        android:id = "@+id/ViewAccountDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text = "View Account Details"
+    />
+
+    <Button
+        android:id = "@+id/LogDailyDiet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text = "Log Daily Diet"
     />
 
 </LinearLayout>

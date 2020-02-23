@@ -21,6 +21,37 @@ namespace NDMA.Resources
 
             // Create your application here
             SetContentView(Resource.Layout.Home);
+
+            Button advisorSystem = FindViewById<Button>(Resource.Id.AdvisorSystem);
+            Button viewAccountDetails = FindViewById<Button>(Resource.Id.ViewAccountDetails);
+            Button logDailyDiet = FindViewById<Button>(Resource.Id.LogDailyDiet);
+
+            advisorSystem.Click += delegate
+            {
+                ButtonClicked("Advise");
+            };
+
+            viewAccountDetails.Click += delegate
+            {
+                ButtonClicked("ViewAccount");
+            };
+
+            logDailyDiet.Click += delegate
+            {
+                ButtonClicked("LogDiet");
+            };
+
+        }
+
+        private void ButtonClicked(string id)
+        {
+            Toast.MakeText(Application.Context, "You have pressed the " + id + " Button", ToastLength.Short).Show();
+
+            if(string.Equals(id, "LogDiet"))
+            {
+                Intent LogDietActivity = new Intent(this, typeof(LogDiet));
+                StartActivity(LogDietActivity);
+            }
         }
     }
 }
