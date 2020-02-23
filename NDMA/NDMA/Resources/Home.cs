@@ -37,6 +37,12 @@ namespace NDMA.Resources
         {
             Toast.MakeText(Application.Context, "Ypu have pressed the button with the id of " + id,
                 ToastLength.Short).Show();
+
+            if(string.Equals(id, "Log"))
+            {
+                Intent LogDietActivity = new Intent(this, typeof(LogDiet));
+                StartActivity(LogDietActivity);
+            }
         }
     }
 }
