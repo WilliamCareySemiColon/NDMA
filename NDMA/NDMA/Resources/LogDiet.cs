@@ -34,6 +34,13 @@ namespace NDMA.Resources
             discard.Click += delegate { ButtonClicked("discard"); };
             save.Click += delegate { ButtonClicked("save"); };
             submit.Click += delegate { ButtonClicked("submit"); };
+
+            String[] information = new String[] { "Sampe", "Sampe" , "Sampe" , "Sampe" , "Sampe" };
+
+            //attempting to connect to the listview
+            ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, information);
+            ListView list = FindViewById < ListView >(Resource.Id.UserFoodList);
+            list.Adapter = listAdapter;
         }
 
         private void ButtonClicked(string id)
