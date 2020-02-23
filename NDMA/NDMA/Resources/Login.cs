@@ -42,7 +42,7 @@ namespace NDMA.Resources
 
         private void ButtonClicked(string id)
         {
-            if(string.Equals(id, "Login"))
+            if (string.Equals(id, "Login"))
             {
                 //getting the username and password details
                 EditText username = FindViewById<EditText>(Resource.Id.Username);
@@ -61,10 +61,10 @@ namespace NDMA.Resources
             else if (string.Equals(id, "Register"))
             {
                 // start the register page
-                 Intent RegisterActivity = new Intent(this, typeof(Register));
+                Intent RegisterActivity = new Intent(this, typeof(Register));
                 StartActivity(RegisterActivity);
             }
-                
+
         }
 
     }

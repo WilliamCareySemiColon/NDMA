@@ -26,7 +26,7 @@ namespace NDMA.Resources
             //age category details
             Spinner ageCategory = FindViewById<Spinner>(Resource.Id.AgeCategory);
             ageCategory.ItemSelected += new EventHandler<AdapterView.ItemSelectedEventArgs>(Spinner_ItemSelected);
-            ArrayAdapter ageCategoryAdapter = ArrayAdapter.CreateFromResource(this, 
+            ArrayAdapter ageCategoryAdapter = ArrayAdapter.CreateFromResource(this,
                 Resource.Array.AgeCategory, Android.Resource.Layout.SimpleSpinnerItem);
             ageCategoryAdapter.SetDropDownViewResource(Android.Resource.Layout.SimpleSpinnerDropDownItem);
             ageCategory.Adapter = ageCategoryAdapter;
@@ -51,10 +51,10 @@ namespace NDMA.Resources
             };
         }
 
-        private void Spinner_ItemSelected(Object sender,AdapterView.ItemSelectedEventArgs e)
+        private void Spinner_ItemSelected(Object sender, AdapterView.ItemSelectedEventArgs e)
         {
             var spinner = sender as Spinner;
-            if(!(string.Equals(spinner.GetItemAtPosition(e.Position).ToString(),"Age Category") 
+            if (!(string.Equals(spinner.GetItemAtPosition(e.Position).ToString(), "Age Category")
                 || string.Equals(spinner.GetItemAtPosition(e.Position).ToString(), "Sex Category")))
             {
                 Toast.MakeText(Application.Context,
@@ -73,8 +73,8 @@ namespace NDMA.Resources
 
             else if (string.Equals(id, "Register"))
             {
-                 Toast.MakeText(Application.Context,
-                "You have pressed the " + id + " button", ToastLength.Short).Show();
+                Toast.MakeText(Application.Context,
+               "You have pressed the " + id + " button", ToastLength.Short).Show();
 
                 Intent HomeActivity = new Intent(this, typeof(Home));
                 StartActivity(HomeActivity);
