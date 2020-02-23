@@ -15,6 +15,8 @@ namespace NDMA.Resources
     [Activity(Label = "LogDiet")]
     public class LogDiet : Activity
     {
+
+        String[] information = new String[] { "Sampe", "Sampe", "Sampe", "Sampe", "Sampe" };
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -35,12 +37,20 @@ namespace NDMA.Resources
             save.Click += delegate { ButtonClicked("save"); };
             submit.Click += delegate { ButtonClicked("submit"); };
 
-            String[] information = new String[] { "Sampe", "Sampe" , "Sampe" , "Sampe" , "Sampe" };
 
             //attempting to connect to the listview
             ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, information);
             ListView list = FindViewById < ListView >(Resource.Id.UserFoodList);
             list.Adapter = listAdapter;
+
+            list.ItemClick +=  delegate (object sender, AdapterView.ItemClickEventArgs e)
+            {
+                ListItemClicked(list, new View(Application.Context), e.Position, e.Position);
+                    //, list.SelectedItemId);
+
+            };
+
+
         }
 
         private void ButtonClicked(string id)
@@ -50,5 +60,13 @@ namespace NDMA.Resources
 
 
         }
+
+        private void ListItemClicked(ListView l, View v, int position, long id)
+        {
+            var t = information[position];
+            Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
+        }
+
+       
     }
 }
