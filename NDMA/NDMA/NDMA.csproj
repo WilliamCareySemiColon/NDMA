@@ -99,9 +99,7 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher_round.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Resources\drawable\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <PackageReference Include="Xamarin.Android.Support.Design" Version="28.0.0.3" />
     <PackageReference Include="Xamarin.Android.Support.Core.Utils" Version="28.0.0.3" />
@@ -124,9 +122,16 @@
     </AndroidResource>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <AndroidResource Include="Resources\layout\LogDiet.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
+=======
+    <AndroidResource Include="Resources\drawable\rounded_textview.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\circle.xml" />
+>>>>>>> 839ee71dad96a33133b8a982bf0d00413979a8c6
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

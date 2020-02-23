@@ -22,6 +22,7 @@ namespace NDMA.Resources
             // Create your application here
             SetContentView(Resource.Layout.Home);
 
+<<<<<<< HEAD
             Button advisorSystem = FindViewById<Button>(Resource.Id.AdvisorSystem);
             Button viewAccountDetails = FindViewById<Button>(Resource.Id.ViewAccountDetails);
             Button logDailyDiet = FindViewById<Button>(Resource.Id.LogDailyDiet);
@@ -52,6 +53,11 @@ namespace NDMA.Resources
                 Intent LogDietActivity = new Intent(this, typeof(LogDiet));
                 StartActivity(LogDietActivity);
             }
+=======
+            //Setting the text of the views of the appliaction
+            TextView carbs = FindViewById<TextView>(Resource.Id.CarbsView);
+            carbs.Text = "?%";
+>>>>>>> 839ee71dad96a33133b8a982bf0d00413979a8c6
         }
     }
 }

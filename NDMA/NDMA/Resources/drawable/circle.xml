@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Code found at the folowing url https://stackoverflow.com/questions/25203501/android-creating-a-circular-textview/25203778-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+  <solid android:color="#9FE554" />
+
+  <size
+      android:height="60dp"
+      android:width="60dp" />
+
+</shape>
