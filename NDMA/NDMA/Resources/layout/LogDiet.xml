@@ -46,8 +46,8 @@
         android:layout_alignParentRight = "true"
         android:layout_alignParentStart = "true"
         android:layout_alignParentEnd = "true"
-        android:layout_marginLeft="60dp"
-        android:layout_marginRight="240dp"
+         android:layout_marginLeft="40dp"
+        android:layout_marginRight="220dp"
         android:layout_marginTop = "500dp"
     />
 
@@ -60,8 +60,8 @@
         android:layout_alignParentRight = "true"
         android:layout_alignParentStart = "true"
         android:layout_alignParentEnd = "true"
-        android:layout_marginLeft="60dp"
-        android:layout_marginRight="240dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="220dp"
         android:layout_marginTop = "550dp"
         
     />
@@ -75,8 +75,8 @@
         android:layout_alignParentRight = "true"
         android:layout_alignParentStart = "true"
         android:layout_alignParentEnd = "true"
-        android:layout_marginLeft="240dp"
-        android:layout_marginRight="60dp"
+       android:layout_marginLeft="220dp"
+        android:layout_marginRight="40dp"
         android:layout_marginTop = "550dp"
         
     />
@@ -90,8 +90,8 @@
         android:layout_alignParentRight = "true"
         android:layout_alignParentStart = "true"
         android:layout_alignParentEnd = "true"
-        android:layout_marginLeft="240dp"
-        android:layout_marginRight="60dp"
+        android:layout_marginLeft="220dp"
+        android:layout_marginRight="40dp"
         android:layout_marginTop = "500dp"
     />
 
