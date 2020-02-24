@@ -5,6 +5,7 @@ using Android.Runtime;
 using Android.Widget;
 using Android.Content;
 using NDMA.Resources;
+using System;
 
 namespace NDMA
 {
@@ -39,15 +40,15 @@ namespace NDMA
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
 
-        private void ButtonClicked(string id)
+        private void ButtonClicked(String id)
         {
-            if(string.Equals(id, "Login"))
+            if(String.Equals(id, "Login",StringComparison.CurrentCulture))
             {
                 //switching to the the login page
-                Intent LoginActivity = new Intent(this, typeof(Login));
+                Intent LoginActivity = new Intent(this, typeof(UserLogin));
                 StartActivity(LoginActivity);
             }
-            else if(string.Equals(id, "Register"))
+            else if(String.Equals(id, "Register", StringComparison.CurrentCulture))
             {
                 //start the register page
                 Intent RegisterActivity = new Intent(this, typeof(Register));

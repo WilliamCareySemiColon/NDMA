@@ -17,7 +17,7 @@ namespace NDMA.Resources
     public class LogDiet : Activity
     {
 
-        String[] information = new String[] { "Sampe", "Sampe", "Sampe", "Sampe", "Sampe" };
+        private String[] information = new String[] { "Sampe", "Sampe", "Sampe", "Sampe", "Sampe" };
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -46,8 +46,9 @@ namespace NDMA.Resources
 
             list.ItemClick +=  delegate (object sender, AdapterView.ItemClickEventArgs e)
             {
-                ListItemClicked(list, new View(Application.Context), e.Position, e.Position);
-                    //, list.SelectedItemId);
+                //ListItemClicked(list, new View(Application.Context), e.Position, e.Position);
+                ListItemClicked( e.Position, e.Position);
+                //, list.SelectedItemId);
 
             };
 
@@ -59,7 +60,7 @@ namespace NDMA.Resources
             Toast.MakeText(Application.Context,
                 "You have pressed the button with the id " + id, ToastLength.Short).Show();
 
-            if(String.Equals(id,"add"))
+            if(String.Equals(id,"add", StringComparison.CurrentCulture))
             {
                 Intent SearchForFoodActivity = new Intent(this, typeof(SearchForFood));
                 StartActivity(SearchForFoodActivity);
@@ -67,12 +68,17 @@ namespace NDMA.Resources
 
         }
 
-        private void ListItemClicked(ListView l, View v, int position, long id)
+        //private void ListItemClicked(ListView l, View v, int position, long id)
+        //{
+        //    var t = information[position];
+        //    Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
+        //}
+
+        private void ListItemClicked(int position, long id)
         {
             var t = information[position];
             Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
         }
 
-       
     }
 }

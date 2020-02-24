@@ -54,8 +54,8 @@ namespace NDMA.Resources
         private void Spinner_ItemSelected(Object sender, AdapterView.ItemSelectedEventArgs e)
         {
             var spinner = sender as Spinner;
-            if (!(string.Equals(spinner.GetItemAtPosition(e.Position).ToString(), "Age Category")
-                || string.Equals(spinner.GetItemAtPosition(e.Position).ToString(), "Sex Category")))
+            if (!(string.Equals(spinner.GetItemAtPosition(e.Position).ToString(), "Age Category", StringComparison.CurrentCulture)
+                || string.Equals(spinner.GetItemAtPosition(e.Position).ToString(), "Sex Category", StringComparison.CurrentCulture)))
             {
                 Toast.MakeText(Application.Context,
                 "You choice the item " + spinner.GetItemAtPosition(e.Position),
@@ -67,7 +67,7 @@ namespace NDMA.Resources
         {
             if (string.Equals(id, "Login"))
             {
-                Intent LoginActivity = new Intent(this, typeof(Login));
+                Intent LoginActivity = new Intent(this, typeof(UserLogin));
                 StartActivity(LoginActivity);
             }
 

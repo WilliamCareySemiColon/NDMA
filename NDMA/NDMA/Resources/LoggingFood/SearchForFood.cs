@@ -22,10 +22,25 @@ namespace NDMA.Resources.LoggingFood
             // Create your application here
             SetContentView(Resource.Layout.SearchForFood);
 
+            EditText search = FindViewById<EditText>(Resource.Id.Search);
+            search.TextChanged += delegate
+            {
+                TextChanged(search.Text);
+            };
+
             //Button handlers
             Button cancel = FindViewById<Button>(Resource.Id.Cancel);
 
             cancel.Click += delegate { Finish(); };
+            //getting to the 
+
+        }
+
+        private void TextChanged(string message)
+        {
+            TextView text = FindViewById<TextView>(Resource.Id.SampleTest);
+
+            text.Text = message;
         }
     }
 }

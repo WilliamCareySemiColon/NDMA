@@ -13,7 +13,7 @@ using Android.Widget;
 namespace NDMA.Resources
 {
     [Activity(Label = "Login")]
-    public class Login : Activity
+    public class UserLogin : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -42,7 +42,7 @@ namespace NDMA.Resources
 
         private void ButtonClicked(string id)
         {
-            if (string.Equals(id, "Login"))
+            if (string.Equals(id, "Login", StringComparison.CurrentCulture))
             {
                 //getting the username and password details
                 EditText username = FindViewById<EditText>(Resource.Id.Username);
@@ -58,7 +58,7 @@ namespace NDMA.Resources
                 Intent HomeActivity = new Intent(this, typeof(Home));
                 StartActivity(HomeActivity);
             }
-            else if (string.Equals(id, "Register"))
+            else if (string.Equals(id, "Register", StringComparison.CurrentCulture))
             {
                 // start the register page
                 Intent RegisterActivity = new Intent(this, typeof(Register));
