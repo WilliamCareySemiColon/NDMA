@@ -9,6 +9,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using NDMA.Resources.LoggingFood;
 
 namespace NDMA.Resources
 {
@@ -58,6 +59,11 @@ namespace NDMA.Resources
             Toast.MakeText(Application.Context,
                 "You have pressed the button with the id " + id, ToastLength.Short).Show();
 
+            if(String.Equals(id,"add"))
+            {
+                Intent SearchForFoodActivity = new Intent(this, typeof(SearchForFood));
+                StartActivity(SearchForFoodActivity);
+            }
 
         }
 

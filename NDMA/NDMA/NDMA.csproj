@@ -63,6 +63,7 @@
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Home.cs" />
     <Compile Include="Resources\LogDiet.cs" />
+    <Compile Include="Resources\LoggingFood\SearchForFood.cs" />
     <Compile Include="Resources\Login.cs" />
     <Compile Include="Resources\Register.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
@@ -135,6 +136,11 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\FoodLoggedList.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\SearchForFood.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

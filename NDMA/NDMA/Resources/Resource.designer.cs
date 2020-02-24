@@ -4146,16 +4146,19 @@ namespace NDMA
 			public const int Register = 2131492921;
 			
 			// aapt resource value: 0x7F0C003A
-			public const int select_dialog_item_material = 2131492922;
+			public const int SearchForFood = 2131492922;
 			
 			// aapt resource value: 0x7F0C003B
-			public const int select_dialog_multichoice_material = 2131492923;
+			public const int select_dialog_item_material = 2131492923;
 			
 			// aapt resource value: 0x7F0C003C
-			public const int select_dialog_singlechoice_material = 2131492924;
+			public const int select_dialog_multichoice_material = 2131492924;
 			
 			// aapt resource value: 0x7F0C003D
-			public const int support_simple_spinner_dropdown_item = 2131492925;
+			public const int select_dialog_singlechoice_material = 2131492925;
+			
+			// aapt resource value: 0x7F0C003E
+			public const int support_simple_spinner_dropdown_item = 2131492926;
 			
 			static Layout()
 			{
