@@ -62,8 +62,10 @@
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Home.cs" />
+    <Compile Include="Resources\JsonLoggedFood\Food.cs" />
     <Compile Include="Resources\LogDiet.cs" />
     <Compile Include="Resources\LoggingFood\SearchForFood.cs" />
+    <Compile Include="Resources\SearchForFood.cs" />
     <Compile Include="Resources\UserLogin.cs" />
     <Compile Include="Resources\Register.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
@@ -111,6 +113,9 @@
     </PackageReference>
     <PackageReference Include="refit">
       <Version>5.0.23</Version>
+    </PackageReference>
+    <PackageReference Include="System.Net.Http">
+      <Version>4.3.4</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Design" Version="28.0.0.3" />
     <PackageReference Include="Xamarin.Android.Support.Core.Utils" Version="28.0.0.3" />
