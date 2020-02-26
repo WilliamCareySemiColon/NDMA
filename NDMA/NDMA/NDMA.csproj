@@ -61,6 +61,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="JsonClassResources\Food.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="JsonClassResources\ParsedFood.cs" />
+>>>>>>> implementRestApiIntoApp
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Home.cs" />
     <Compile Include="Resources\LogDiet.cs" />
@@ -69,6 +73,7 @@
     <Compile Include="Resources\Register.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rest\NDMARestService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
