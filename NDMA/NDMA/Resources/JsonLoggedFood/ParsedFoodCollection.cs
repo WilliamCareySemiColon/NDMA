@@ -12,11 +12,13 @@ using Android.Widget;
 
 namespace NDMA.Resources.JsonLoggedFood
 {
-    public class Food
+    public class ParsedFoodCollection
     {
-        public String Text { get; set; }
+        public String Q { get; set; }
 
-        //public List<String> Parsed { get; set; }
+        //public List<DBParsed> Parsed { get; set; }
+
+        //public List<DBHints> Hints { get; set; }
 
         //public String Hints { get; set; }
     }

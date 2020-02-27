@@ -62,7 +62,10 @@
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Home.cs" />
-    <Compile Include="Resources\JsonLoggedFood\Food.cs" />
+    <Compile Include="Resources\JsonLoggedFood\DBFood.cs" />
+    <Compile Include="Resources\JsonLoggedFood\DBNutrients.cs" />
+    <Compile Include="Resources\JsonLoggedFood\DBParsed.cs" />
+    <Compile Include="Resources\JsonLoggedFood\ParsedFoodCollection.cs" />
     <Compile Include="Resources\LogDiet.cs" />
     <Compile Include="Resources\LoggingFood\SearchForFood.cs" />
     <Compile Include="Resources\SearchForFood.cs" />
@@ -72,6 +75,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
     <None Include="Resources\AboutResources.txt" />
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />
