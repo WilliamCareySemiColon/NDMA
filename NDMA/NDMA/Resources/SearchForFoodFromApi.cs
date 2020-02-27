@@ -73,7 +73,7 @@ namespace NDMA.Resources
         {
             HttpClient client = new HttpClient();
             //string url = $"https://api.edamam.com/api/food-database/parser?ingr={keyWord}&app_id={FoodDBApiCreds[0]}&app_key={FoodDBApiCreds[1]}";
-            string url = $"https://api.edamam.com/search?q={keyWord}n&app_id={RecipeSearchApCreds[0]}&app_key={RecipeSearchApCreds[1]}";//&from=0&to=3&calories=591-722&health=alcohol-free"
+            string url = $"https://api.edamam.com/search?q={keyWord}&app_id={RecipeSearchApCreds[0]}&app_key={RecipeSearchApCreds[1]}";//&from=0&to=3&calories=591-722&health=alcohol-free"
             HttpResponseMessage response;
             String json;
             Uri uri;
@@ -127,6 +127,10 @@ namespace NDMA.Resources
         {
             var t = ListToDisplayTemp[position];
             Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
+
+            Intent FoodSpecActvity = new Intent(this, typeof(FoodLayoutSpec));
+            StartActivity(FoodSpecActvity);
+           // Finish();
         }
 
     }

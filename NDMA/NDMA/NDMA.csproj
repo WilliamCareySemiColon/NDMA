@@ -61,11 +61,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
+    <Compile Include="Resources\FoodLayoutSpec.cs" />
     <Compile Include="Resources\Home.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBFood.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBNutrients.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBParsed.cs" />
     <Compile Include="Resources\JsonLoggedFood\ParsedFoodCollection.cs" />
+    <Compile Include="Resources\AddAdditionalIngredient.cs" />
     <Compile Include="Resources\LogDiet.cs" />
     <Compile Include="Resources\LoggingFood\SearchForFood.cs" />
     <Compile Include="Resources\SearchForFoodFromApi.cs" />
@@ -160,6 +162,26 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\SearchForFoodListView.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\FoodLayoutSpecification.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\FoodSpecListView.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\AddAdditionalIngredient.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\SearchIngredient.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
