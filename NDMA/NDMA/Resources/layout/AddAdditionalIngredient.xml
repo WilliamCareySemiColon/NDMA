@@ -48,6 +48,7 @@
         android:layout_marginLeft="200dp"
         android:layout_marginRight="40dp"
         android:text = "Search"
+        android:id = "@+id/NutSearch"
     />
 
     <include layout = "@layout/searchingredient"/>
