@@ -68,7 +68,7 @@
     <Compile Include="Resources\JsonLoggedFood\ParsedFoodCollection.cs" />
     <Compile Include="Resources\LogDiet.cs" />
     <Compile Include="Resources\LoggingFood\SearchForFood.cs" />
-    <Compile Include="Resources\SearchForFood.cs" />
+    <Compile Include="Resources\SearchForFoodFromApi.cs" />
     <Compile Include="Resources\UserLogin.cs" />
     <Compile Include="Resources\Register.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
@@ -155,6 +155,11 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\SearchForFood.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\SearchForFoodListView.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

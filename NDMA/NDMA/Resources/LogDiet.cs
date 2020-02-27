@@ -62,7 +62,7 @@ namespace NDMA.Resources
 
             if(String.Equals(id,"add", StringComparison.CurrentCulture))
             {
-                Intent SearchForFoodActivity = new Intent(this, typeof(SearchForFood));
+                Intent SearchForFoodActivity = new Intent(this, typeof(SearchForFoodFromApi));
                 StartActivity(SearchForFoodActivity);
             }
 

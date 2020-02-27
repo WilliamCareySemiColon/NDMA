@@ -16,7 +16,7 @@ using Newtonsoft.Json;
 namespace NDMA.Resources
 {
     [Activity(Label = "SearchForFood")]
-    public class SearchForFood : Activity
+    public class SearchForFoodFromApi : Activity
     {
         //food api creditails to read from
         private readonly string[] FoodDBApiCreds = new string[]
@@ -37,6 +37,8 @@ namespace NDMA.Resources
             "c570405e",
             "14793a0482c121e16b365ac4ff89cb1e"
         };
+
+        string[] ListToDisplayTemp;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -61,8 +63,6 @@ namespace NDMA.Resources
 
         private void TextChanged(string message)
         {
-            //TextView text = FindViewById<TextView>(Resource.Id.SampleTest);
-
             if (message.Length >= 3)
             {
                 GetFood(message);
@@ -83,31 +83,51 @@ namespace NDMA.Resources
                 uri = new Uri(url);
                 response = await client.GetAsync(uri);
                 json = await response.Content.ReadAsStringAsync();
-                //Toast.MakeText(Application.Context, json.Length, ToastLength.Long).Show();
                 food = JsonConvert.DeserializeObject<ParsedFoodCollection>(json);
 
                 Toast.MakeText(Application.Context, food.Q
                     , ToastLength.Short).Show();
 
-                //Toast.MakeText(Application.Context, food.Parsed[0].food.Label
-                //    , ToastLength.Short).Show();
-
-                //Console.WriteLine(food.Text);
             }
             catch (Exception e)
             {
                 Toast.MakeText(Application.Context, "Exception " + e.Message.ToString(), ToastLength.Long).Show();
             }
-            //var response = await client.GetAsync(url).ConfigureAwait(false);
 
+            //attempting to connect to the listview
+            int Size = 10;
+            ListToDisplayTemp = new string[Size];
 
-            //Toast.MakeText(Application.Context, "Before the read items as string ", ToastLength.Long).Show();
-            //var json = await response.Content.ReadAsStringAsync();
+            for(int i = 0; i < Size; i++)
+            {
+                ListToDisplayTemp[i] = keyWord;
+            }
+            
+            //{ keyWord};
+            ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, ListToDisplayTemp);
+            ListView list = FindViewById<ListView>(Resource.Id.SearchFoodList);
+            list.Adapter = listAdapter;
 
-            //Toast.MakeText(Application.Context,json.Length, ToastLength.Long).Show();
+            list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e)
+            {
+                //ListItemClicked(list, new View(Application.Context), e.Position, e.Position);
+                ListItemClicked(e.Position, e.Position);
+                //, list.SelectedItemId);
+
+            };
         }
 
+        //private void ListItemClicked(ListView l, View v, int position, long id)
+        //{
+        //    var t = information[position];
+        //    Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
+        //}
 
+        private void ListItemClicked(int position, long id)
+        {
+            var t = ListToDisplayTemp[position];
+            Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
+        }
 
     }
 }

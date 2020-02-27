@@ -3639,10 +3639,7 @@ namespace NDMA
 			public const int right_side = 2131296396;
 			
 			// aapt resource value: 0x7F090014
-			public const int SampleTest = 2131296276;
-			
-			// aapt resource value: 0x7F090015
-			public const int Save = 2131296277;
+			public const int Save = 2131296276;
 			
 			// aapt resource value: 0x7F09008D
 			public const int save_image_matrix = 2131296397;
@@ -3671,8 +3668,11 @@ namespace NDMA
 			// aapt resource value: 0x7F090094
 			public const int scrollView = 2131296404;
 			
+			// aapt resource value: 0x7F090015
+			public const int Search = 2131296277;
+			
 			// aapt resource value: 0x7F090016
-			public const int Search = 2131296278;
+			public const int SearchFoodList = 2131296278;
 			
 			// aapt resource value: 0x7F090096
 			public const int search_badge = 2131296406;
@@ -4158,16 +4158,19 @@ namespace NDMA
 			public const int SearchForFood = 2131492922;
 			
 			// aapt resource value: 0x7F0C003B
-			public const int select_dialog_item_material = 2131492923;
+			public const int SearchForFoodListView = 2131492923;
 			
 			// aapt resource value: 0x7F0C003C
-			public const int select_dialog_multichoice_material = 2131492924;
+			public const int select_dialog_item_material = 2131492924;
 			
 			// aapt resource value: 0x7F0C003D
-			public const int select_dialog_singlechoice_material = 2131492925;
+			public const int select_dialog_multichoice_material = 2131492925;
 			
 			// aapt resource value: 0x7F0C003E
-			public const int support_simple_spinner_dropdown_item = 2131492926;
+			public const int select_dialog_singlechoice_material = 2131492926;
+			
+			// aapt resource value: 0x7F0C003F
+			public const int support_simple_spinner_dropdown_item = 2131492927;
 			
 			static Layout()
 			{

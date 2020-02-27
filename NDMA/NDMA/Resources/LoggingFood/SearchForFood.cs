@@ -38,9 +38,9 @@ namespace NDMA.Resources.LoggingFood
 
         private void TextChanged(string message)
         {
-            TextView text = FindViewById<TextView>(Resource.Id.SampleTest);
+            //TextView text = FindViewById<TextView>(Resource.Id.SampleTest);
 
-            text.Text = message;
+            //text.Text = message;
         }
     }
 }
