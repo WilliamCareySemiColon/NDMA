@@ -61,18 +61,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
-    <Compile Include="Resources\FoodLayoutSpec.cs" />
-    <Compile Include="Resources\Home.cs" />
+    <Compile Include="Resources\Activitites\FoodLayoutSpec.cs" />
+    <Compile Include="Resources\Activitites\Home.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBFood.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBNutrients.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBParsed.cs" />
     <Compile Include="Resources\JsonLoggedFood\ParsedFoodCollection.cs" />
-    <Compile Include="Resources\AddAdditionalIngredient.cs" />
-    <Compile Include="Resources\LogDiet.cs" />
+    <Compile Include="Resources\Activitites\AddAdditionalIngredient.cs" />
+    <Compile Include="Resources\Activitites\LogDiet.cs" />
     <Compile Include="Resources\LoggingFood\SearchForFood.cs" />
-    <Compile Include="Resources\SearchForFoodFromApi.cs" />
-    <Compile Include="Resources\UserLogin.cs" />
-    <Compile Include="Resources\Register.cs" />
+    <Compile Include="Resources\Activitites\SearchForFoodFromApi.cs" />
+    <Compile Include="Resources\Activitites\UserLogin.cs" />
+    <Compile Include="Resources\Activitites\Register.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
