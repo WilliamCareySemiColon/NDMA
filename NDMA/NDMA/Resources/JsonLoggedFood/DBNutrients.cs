@@ -14,12 +14,6 @@ namespace NDMA.Resources.JsonLoggedFood
 {
     class DBNutrients
     {
-        //public float ENERC_KCAL { get; set; }
-        //public float PROCNT { get; set;}
-        //public float Fat { get; set; }
-        //public float CHOCDF { get; set; }
-        //public float FIBTG { get; set; }
-
         public String label { get; set; }
         public String Image { get; set; }
         public String Source { get; set; }
@@ -29,6 +23,7 @@ namespace NDMA.Resources.JsonLoggedFood
         public float Calories { get; set; }
         public float TotalWeight { get; set; }
         public List<Ingredient> Ingredients { get; set; }
+        public TotalOverallNutrients TotalNutrients { get; set; }
 
     }
 }
