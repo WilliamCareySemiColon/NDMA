@@ -12,8 +12,8 @@ using Android.Widget;
 
 namespace NDMA.Resources.JsonLoggedFood
 {
-    class DBParsed
+    public class DBParsed
     {
-        public DBFood food { get; set; }
+        //public DBFood food { get; set; }
     }
 }

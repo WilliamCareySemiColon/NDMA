@@ -66,6 +66,7 @@
     <Compile Include="Resources\JsonLoggedFood\DBFood.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBNutrients.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBParsed.cs" />
+    <Compile Include="Resources\JsonLoggedFood\Ingredient.cs" />
     <Compile Include="Resources\JsonLoggedFood\ParsedFoodCollection.cs" />
     <Compile Include="Resources\Activitites\AddAdditionalIngredient.cs" />
     <Compile Include="Resources\Activitites\LogDiet.cs" />

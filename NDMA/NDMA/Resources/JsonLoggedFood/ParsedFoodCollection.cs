@@ -9,17 +9,25 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using Newtonsoft.Json;
 
 namespace NDMA.Resources.JsonLoggedFood
 {
     public class ParsedFoodCollection
     {
+        [JsonProperty("q")]
         public String Q { get; set; }
 
-        //public List<DBParsed> Parsed { get; set; }
+        [JsonProperty("count")]
+        public int Count { get; set; }
 
-        //public List<DBHints> Hints { get; set; }
+        [JsonProperty("hits")]
+        internal List<DBFood> Hits { get; set; }
 
-        //public String Hints { get; set; }
+        public ParsedFoodCollection()
+        {
+            Hits = new List<DBFood>();
+        }
+
     }
 }

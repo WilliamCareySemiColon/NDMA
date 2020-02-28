@@ -85,7 +85,9 @@ namespace NDMA.Resources
                 json = await response.Content.ReadAsStringAsync();
                 food = JsonConvert.DeserializeObject<ParsedFoodCollection>(json);
 
-                Toast.MakeText(Application.Context, food.Q
+                //Getting the items for the api and reading them to the console
+
+                Toast.MakeText(Application.Context, food.Q + " " + food.Count + " " + food.Hits.ToArray()[1].Recipe.label
                     , ToastLength.Short).Show();
 
             }

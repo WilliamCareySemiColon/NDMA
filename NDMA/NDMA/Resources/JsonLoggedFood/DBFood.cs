@@ -14,10 +14,12 @@ namespace NDMA.Resources.JsonLoggedFood
 {
     class DBFood
     {
-        public String FoodID { get; set; }
-        public String Label { get; set; }
-        public DBNutrients nutrients { get; set; }
-        public String Category { get; set; }
-        public String CategoryLabel { get; set; }
+        public DBNutrients Recipe { get; set; }
+
+        //public String FoodID { get; set; }
+        //public String Label { get; set; }
+        //public DBNutrients nutrients { get; set; }
+        //public String Category { get; set; }
+        //public String CategoryLabel { get; set; }
     }
 }
