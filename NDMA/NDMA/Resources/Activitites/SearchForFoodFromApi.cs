@@ -10,6 +10,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using NDMA.Resources.Adapter;
 using NDMA.Resources.JsonLoggedFood;
 using Newtonsoft.Json;
 
@@ -63,43 +64,58 @@ namespace NDMA.Resources
             HttpClient client = new HttpClient();
             int from = 0, to = 10;
             //string url = $"https://api.edamam.com/api/food-database/parser?ingr={keyWord}&app_id={FoodDBApiCreds[0]}&app_key={FoodDBApiCreds[1]}";
-            string url = "https://api.edamam.com/search?q=" + keyWord + "&app_id="+ RecipeSearchApCreds[0] + "&app_key=" 
+            string url = "https://api.edamam.com/search?q=" + keyWord + "&app_id=" + RecipeSearchApCreds[0] + "&app_key="
                 + RecipeSearchApCreds[1] + "&from=" + from + "&to=" + to;
             HttpResponseMessage response;
             String json;
             Uri uri;
             ParsedFoodCollection food;
-            try {
+            CustomSearchedAPIListAdapter listAdapter;
+            ListView list = FindViewById<ListView>(Resource.Id.SearchFoodList);
+            try
+            {
                 uri = new Uri(url);
                 response = await client.GetAsync(uri);
                 json = await response.Content.ReadAsStringAsync();
                 food = JsonConvert.DeserializeObject<ParsedFoodCollection>(json);
 
-                //Getting the items for the api and reading them to the console
-
                 Toast.MakeText(Application.Context, food.Q + " " + food.Count + " " + food.Hits.ToArray()[1].Recipe.label
                     , ToastLength.Short).Show();
 
+                //attempting to connect to the listview
+                int Size = food.Hits.Count;
+                ListToDisplayTemp = new string[Size];
+
+                for (int i = 0; i < Size; i++)
+                {
+                    ListToDisplayTemp[i] = food.Hits.ToArray()[i].Recipe.label;
+                }
+
+                 listAdapter = new CustomSearchedAPIListAdapter(this, food);
+                list.Adapter = listAdapter;
+
+                
             }
             catch (Exception e)
             {
                 Toast.MakeText(Application.Context, "Exception " + e.Message.ToString(), ToastLength.Long).Show();
+
+                //attempting to connect to the listview
+                int Size = 10;
+                ListToDisplayTemp = new string[Size];
+
+                for (int i = 0; i < Size; i++)
+                {
+                    ListToDisplayTemp[i] = "Apple";
+                }
+                ArrayAdapter listAdapter2 = new ArrayAdapter(this,
+                    Android.Resource.Layout.SimpleExpandableListItem1,
+                    ListToDisplayTemp);
+
+                list.Adapter = listAdapter2;
             }
 
-            //attempting to connect to the listview
-            int Size = 10;
-            ListToDisplayTemp = new string[Size];
-
-            for(int i = 0; i < Size; i++)
-            {
-                ListToDisplayTemp[i] = keyWord;
-            }
-            
             //{ keyWord};
-            ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, ListToDisplayTemp);
-            ListView list = FindViewById<ListView>(Resource.Id.SearchFoodList);
-            list.Adapter = listAdapter;
-
             list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e)
             {
                 //ListItemClicked(list, new View(Application.Context), e.Position, e.Position);
@@ -122,7 +138,7 @@ namespace NDMA.Resources
 
             Intent FoodSpecActvity = new Intent(this, typeof(FoodLayoutSpec));
             StartActivity(FoodSpecActvity);
-           // Finish();
+            // Finish();
         }
 
     }

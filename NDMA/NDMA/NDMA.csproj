@@ -61,9 +61,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
-    <Compile Include="Resources\Activitites\Adapters\MyCustomAdapter.cs" />
     <Compile Include="Resources\Activitites\FoodLayoutSpec.cs" />
     <Compile Include="Resources\Activitites\Home.cs" />
+    <Compile Include="Resources\Adapter\CustomSearchedAPIListAdapter.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBFood.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBNutrients.cs" />
     <Compile Include="Resources\JsonLoggedFood\FoodSpec.cs" />
@@ -189,7 +189,7 @@
     </AndroidResource>
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\layout\ApiListViewDisplay.xml">
+    <AndroidResource Include="Resources\layout\DisplaySearchedAPIListLayout.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

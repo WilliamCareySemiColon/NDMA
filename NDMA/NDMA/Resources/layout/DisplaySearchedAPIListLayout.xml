@@ -1,0 +1,23 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id = "@+id/TestTextView"
+        android:layout_marginLeft = "20dp"
+        android:layout_marginRight = "20dp"
+    />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id = "@+id/TestImageView"
+        android:layout_marginLeft = "20dp"
+        android:layout_marginRight = "20dp"
+    />
+
+</LinearLayout>
