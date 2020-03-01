@@ -31,8 +31,6 @@ namespace NDMA.Resources
         private readonly string[] RecipeSearchApCreds = new string[] {
             "c570405e", "14793a0482c121e16b365ac4ff89cb1e" };
 
-        string[] ListToDisplayTemp;
-
         //The variable to work with in this class
         HttpClient client;
         HttpResponseMessage response;
@@ -79,7 +77,8 @@ namespace NDMA.Resources
                 json = await response.Content.ReadAsStringAsync();
                 food = JsonConvert.DeserializeObject<ParsedFoodCollection>(json);
 
-                Toast.MakeText(Application.Context, food.Q + " " + food.Count + " " + food.Hits.ToArray()[1].Recipe.label
+                Toast.MakeText(Application.Context, 
+                    food.Q + " " + food.Count + " " + food.Hits.ToArray()[1].Recipe.label
                     , ToastLength.Short).Show();
 
                 listAdapter = new CustomSearchedAPIListAdapter(this, food);
@@ -110,10 +109,13 @@ namespace NDMA.Resources
 
         private void ListItemClicked(int position, long id)
         {
-            var t = ListToDisplayTemp[position];
-            Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
+            var t = food.Hits.ToArray()[position];
+            var json = JsonConvert.SerializeObject(food);
+            //Toast.MakeText(Application.Context, t.label + " " + id, ToastLength.Short).Show();
 
             Intent FoodSpecActvity = new Intent(this, typeof(FoodLayoutSpec));
+            FoodSpecActvity.PutExtra("FoodHitsSpec", json);
+            FoodSpecActvity.PutExtra("Postion", position);
             StartActivity(FoodSpecActvity);
             // Finish();
         }

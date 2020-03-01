@@ -9,6 +9,8 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using NDMA.Resources.JsonLoggedFood;
+using Newtonsoft.Json;
 
 namespace NDMA.Resources
 {
@@ -47,6 +49,14 @@ namespace NDMA.Resources
                 //, list.SelectedItemId);
 
             };
+
+            var text = Intent.GetStringExtra("FoodHitsSpec");
+            var pos = Intent.GetIntExtra("Postion",0);
+
+            var FoodItem = JsonConvert.DeserializeObject<ParsedFoodCollection>(text);
+
+            Toast.MakeText(this,"Sample string: " + 
+                FoodItem.Hits.ToArray()[pos].Recipe.label, ToastLength.Short);
         }
 
         //private void ListItemClicked(ListView l, View v, int position, long id)
