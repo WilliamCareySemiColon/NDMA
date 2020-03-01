@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
+    <Compile Include="Resources\Activitites\FoodDailySchedule.cs" />
     <Compile Include="Resources\Activitites\FoodLayoutSpec.cs" />
     <Compile Include="Home.cs" />
     <Compile Include="Resources\Adapter\CustomSearchedAPIListAdapter.cs" />
@@ -194,6 +195,11 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\DisplaySearchedAPIListLayout.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\FoodDailySchedule.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

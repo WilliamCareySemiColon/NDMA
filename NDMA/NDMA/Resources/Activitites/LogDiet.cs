@@ -9,6 +9,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using NDMA.Resources.Activitites;
 using NDMA.Resources.LoggingFood;
 
 namespace NDMA.Resources
@@ -17,7 +18,7 @@ namespace NDMA.Resources
     public class LogDiet : Activity
     {
 
-        private String[] information = new String[] { "Sampe", "Sampe", "Sampe", "Sampe", "Sampe" };
+        private String[] information = null;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -25,6 +26,12 @@ namespace NDMA.Resources
             // Create your application here
             SetContentView(Resource.Layout.LogDiet);
 
+            if(information == null)
+            {
+                Intent FoodScheduleActivitiy = new Intent(this, typeof(FoodDailySchedule));
+                StartActivity(FoodScheduleActivitiy);
+            }
+            information = new String[] { "Sampe", "Sampe", "Sampe", "Sampe", "Sampe" };
             //Button items and their handlers
             Button add = FindViewById<Button>(Resource.Id.Add);
             Button cancel = FindViewById<Button>(Resource.Id.Cancel);
