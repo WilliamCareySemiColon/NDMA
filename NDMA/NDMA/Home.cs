@@ -9,6 +9,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using NDMA.Resources.AdvisorActivities;
 
 namespace NDMA.Resources
 {
@@ -42,6 +43,12 @@ namespace NDMA.Resources
             {
                 Intent LogDietActivity = new Intent(this, typeof(LogDiet));
                 StartActivity(LogDietActivity);
+            }
+
+            if (string.Equals(id, "Advise", StringComparison.CurrentCulture))
+            {
+                Intent AdviseActivity = new Intent(this, typeof(AdvisorMain));
+                StartActivity(AdviseActivity);
             }
         }
     }
