@@ -25,6 +25,22 @@ namespace NDMA.Resources.AdvisorActivities
             TextView header = FindViewById<TextView>(Resource.Id.HeaderMainAdvise);
 
             header.Text = "Underdone";
+
+            string[] Sm = new string[]
+            {
+                "Sample",
+                "Sample",
+                "Sample",
+                "Sample",
+                 "Sample"
+            };
+
+            ListView list = FindViewById<ListView>(Resource.Id.AdviseFoodListView);
+            ArrayAdapter arrayAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleExpandableListItem1, Sm);
+            list.Adapter = arrayAdapter;
+
+            Button button = FindViewById<Button>(Resource.Id.AdviseReturnBtn);
+            button.Click += delegate { Finish(); };
         }
     }
 }
