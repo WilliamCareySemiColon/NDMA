@@ -83,11 +83,12 @@ namespace NDMA.Resources.AdvisorActivities
                         StartActivity(intent);
                         break;
                     }
-                //case "checkQuickly":
-                //    {
-                //        Intent intent = new Intent(this, typeof());
-                //        break;
-                //    }
+                case "checkQuickly":
+                    {
+                        Intent intent = new Intent(this, typeof(CheckDailyInputForWeeklySample));
+                        StartActivity(intent);
+                        break;
+                    }
                 case "cancel":
                     {
                         Finish();
@@ -98,9 +99,6 @@ namespace NDMA.Resources.AdvisorActivities
                         break;
                     }
             }
-            //Toast.MakeText(Application.Context,
-            //    "You have presseed the button with the id of " + id,
-            //    ToastLength.Short).Show();
         }
     }
 }
