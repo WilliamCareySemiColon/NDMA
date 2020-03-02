@@ -26,7 +26,7 @@ namespace NDMA.Resources
             // Create your application here
             SetContentView(Resource.Layout.LogDiet);
 
-            if(information == null)
+            if (information == null)
             {
                 Intent FoodScheduleActivitiy = new Intent(this, typeof(FoodDailySchedule));
                 StartActivity(FoodScheduleActivitiy);
@@ -48,30 +48,54 @@ namespace NDMA.Resources
 
             //attempting to connect to the listview
             ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, information);
-            ListView list = FindViewById < ListView >(Resource.Id.UserFoodList);
+            ListView list = FindViewById<ListView>(Resource.Id.UserFoodList);
             list.Adapter = listAdapter;
 
-            list.ItemClick +=  delegate (object sender, AdapterView.ItemClickEventArgs e)
-            {
-                //ListItemClicked(list, new View(Application.Context), e.Position, e.Position);
-                ListItemClicked( e.Position, e.Position);
-                //, list.SelectedItemId);
+            list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e)
+           {
+               //ListItemClicked(list, new View(Application.Context), e.Position, e.Position);
+               ListItemClicked(e.Position, e.Position);
+               //, list.SelectedItemId);
 
-            };
-
+           };
 
         }
 
         private void ButtonClicked(string id)
         {
-            Toast.MakeText(Application.Context,
-                "You have pressed the button with the id " + id, ToastLength.Short).Show();
-
-            if(String.Equals(id,"add", StringComparison.CurrentCulture))
+            switch (id)
             {
-                Intent SearchForFoodActivity = new Intent(this, typeof(SearchForFoodFromApi));
-                StartActivity(SearchForFoodActivity);
-            }
+                case "add":
+                    {
+                        Intent SearchForFoodActivity = new Intent(this, typeof(SearchForFoodFromApi));
+                        StartActivity(SearchForFoodActivity);
+                        break;
+                    }
+                case "cancel":
+                    {
+                        Finish();
+                        break;
+                    }
+                case "discard":
+                    {
+                        Toast.MakeText(Application.Context, "You have pressed the button with the id " + id, ToastLength.Short).Show();
+                        break;
+                    }
+                case "save":
+                    {
+                        Toast.MakeText(Application.Context, "You have pressed the button with the id " + id, ToastLength.Short).Show();
+                        break;
+                    }
+                case "submit":
+                    {
+                        Toast.MakeText(Application.Context, "You have pressed the button with the id " + id, ToastLength.Short).Show();
+                        break;
+                    }
+                default:
+                    {
+                        break;
+                    }
+            }//end switch
 
         }
 

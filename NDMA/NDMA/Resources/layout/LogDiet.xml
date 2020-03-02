@@ -18,9 +18,7 @@
         android:layout_marginRight="120dp"
     />
 
-    <include
-       layout = "@layout/foodloggedlist"
-    />
+    <include layout = "@layout/foodloggedlist"/>
 
     <Button
         android:layout_width="wrap_content"
