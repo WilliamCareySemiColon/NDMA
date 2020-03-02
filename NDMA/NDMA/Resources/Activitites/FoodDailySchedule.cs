@@ -43,5 +43,21 @@ namespace NDMA.Resources.Activitites
 
 
         }
+
+        private void ButtonClicked(String id)
+        {
+            string CheckBoxesCollection;
+
+            if(String.Equals(id,"Cancel"))
+            {
+                CheckBoxesCollection = null;
+
+            }
+            
+            else if (String.Equals(id, "Submit"))
+            {
+
+            }
+        }
     }
 }

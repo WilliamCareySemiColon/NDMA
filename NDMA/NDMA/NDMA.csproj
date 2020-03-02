@@ -66,6 +66,10 @@
     <Compile Include="Home.cs" />
     <Compile Include="Resources\Adapter\CustomSearchedAPIListAdapter.cs" />
     <Compile Include="Resources\AdvisorActivities\AdvisorMain.cs" />
+    <Compile Include="Resources\AdvisorActivities\DoneRightAdvise.cs" />
+    <Compile Include="Resources\AdvisorActivities\MainAdviseContent.cs" />
+    <Compile Include="Resources\AdvisorActivities\OverdoneAdvise.cs" />
+    <Compile Include="Resources\AdvisorActivities\Underdone.cs" />
     <Compile Include="Resources\APIResources\RecipeSearchClass.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBFood.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBNutrients.cs" />
@@ -206,6 +210,11 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\AdvisorMain.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\UserAdviseMainLayout.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
