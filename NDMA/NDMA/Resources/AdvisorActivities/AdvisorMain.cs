@@ -22,6 +22,7 @@ namespace NDMA.Resources.AdvisorActivities
             // Create your application here
             SetContentView(Resource.Layout.AdvisorMain);
 
+            //Setting the handlers on the buttons
             Button advise = FindViewById<Button>(Resource.Id.AdviseBtn);
             Button overdone = FindViewById<Button>(Resource.Id.OverdoneBtn);
             Button underdone = FindViewById<Button>(Resource.Id.UnderdoneBtn);
@@ -33,8 +34,33 @@ namespace NDMA.Resources.AdvisorActivities
             underdone.Click += delegate { ButtonClicked("underdone"); };
             checkQuicklyBtn.Click += delegate { ButtonClicked("checkQuickly"); };
             cancel.Click += delegate { ButtonClicked("cancel"); };
+            //setting the handlers on the images     WeeklyStatusImage
+            ImageView dailyStatusImage = FindViewById<ImageView>(Resource.Id.DailyStatusImage);
+            ImageView weeklyStatusImage = FindViewById<ImageView>(Resource.Id.WeeklyStatusImage);
+
+            dailyStatusImage.Click += delegate { ImageClicked("Daily"); };
+            weeklyStatusImage.Click += delegate { ImageClicked("Weekly"); };
+           
         }
 
+        private void ImageClicked(String id)
+        {
+            //Toast.MakeText(Application.Context, "You have pressed the image with tthe id of " + id,
+            //    ToastLength.Short).Show();
+
+            if(String.Equals(id,"Daily"))
+            {
+                Intent intent = new Intent(this, typeof(DailyStatusGraph));
+                StartActivity(intent);
+            }
+            else if (String.Equals(id, "Weekly"))
+            {
+                Intent intent = new Intent(this, typeof(WeeklyStatusGraph));
+                StartActivity(intent);
+            }
+
+        }
+      
         private void ButtonClicked(String id)
         {
             switch (id)
