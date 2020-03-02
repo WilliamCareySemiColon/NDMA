@@ -22,14 +22,12 @@ namespace NDMA.Resources.AdvisorActivities
             // Create your application here
             SetContentView(Resource.Layout.AdvisorMain);
 
-            Button doneRight = FindViewById<Button>(Resource.Id.DoneRightBtn);
             Button advise = FindViewById<Button>(Resource.Id.AdviseBtn);
             Button overdone = FindViewById<Button>(Resource.Id.OverdoneBtn);
             Button underdone = FindViewById<Button>(Resource.Id.UnderdoneBtn);
             Button checkQuicklyBtn = FindViewById<Button>(Resource.Id.CheckQuicklyBtn);
             Button cancel = FindViewById<Button>(Resource.Id.CancelAdvise);
 
-            doneRight.Click += delegate { ButtonClicked("DoneRight"); };
             advise.Click += delegate { ButtonClicked("Advise"); };
             overdone.Click += delegate { ButtonClicked("overdone"); };
             underdone.Click += delegate { ButtonClicked("underdone"); };
@@ -41,12 +39,6 @@ namespace NDMA.Resources.AdvisorActivities
         {
             switch (id)
             {
-                case "DoneRight":
-                    {
-                        Intent intent = new Intent(this, typeof(DoneRightAdvise));
-                        StartActivity(intent);
-                        break;
-                    }
                 case "Advise":
                     {
                         Intent intent = new Intent(this, typeof(MainAdviseContent));
@@ -83,8 +75,6 @@ namespace NDMA.Resources.AdvisorActivities
             //Toast.MakeText(Application.Context,
             //    "You have presseed the button with the id of " + id,
             //    ToastLength.Short).Show();
-
-            //Finish();
         }
     }
 }
