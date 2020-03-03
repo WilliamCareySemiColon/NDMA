@@ -36,20 +36,33 @@ namespace NDMA.Resources
 
         private void ButtonClicked(string id)
         {
-            Toast.MakeText(Application.Context, "Ypu have pressed the button with the id of " + id,
-                ToastLength.Short).Show();
 
-            if (string.Equals(id, "Log", StringComparison.CurrentCulture))
+            switch (id)
             {
-                Intent LogDietActivity = new Intent(this, typeof(LogDiet));
-                StartActivity(LogDietActivity);
-            }
+                case "Log":
+                    {
+                        Intent LogDietActivity = new Intent(this, typeof(LogDiet));
+                        StartActivity(LogDietActivity);
+                        break;
+                    }
+                case "Advise":
+                    {
+                        Intent AdviseActivity = new Intent(this, typeof(AdvisorMain));
+                        StartActivity(AdviseActivity);
+                        break;
+                    }
+                case "View":
+                    {
+                        Toast.MakeText(Application.Context, 
+                            "You have pressed the button with the id of " + id,ToastLength.Short).Show();
+                        break;
+                    }
+                default:
+                    {
+                        break;
+                    }
+            }//end switch case
 
-            if (string.Equals(id, "Advise", StringComparison.CurrentCulture))
-            {
-                Intent AdviseActivity = new Intent(this, typeof(AdvisorMain));
-                StartActivity(AdviseActivity);
-            }
         }
     }
 }
