@@ -17,10 +17,7 @@ namespace NDMA.Resources.Adapter
     class CustomSearchedAPIListAdapter : BaseAdapter
     {
         Activity context;
-
-        //public List<Animal> items;
         public ParsedFoodCollection foods;
-        Android.Content.Res.Resources res;
 
         public CustomSearchedAPIListAdapter(Activity context, ParsedFoodCollection food) //We need a context to inflate our row view from 
             : base()
@@ -53,15 +50,10 @@ namespace NDMA.Resources.Adapter
             var view = (convertView ?? context.LayoutInflater.Inflate(Resource.Layout.DisplaySearchedAPIListLayout, parent, false)) as LinearLayout;
 
             //Find references to each subview in the list item's view
-            //var imageItem = view.FindViewById(Resource.Id.TestImageView) as ImageView;
             var textTop = view.FindViewById(Resource.Id.TestTextView) as TextView;
             var imageItem = view.FindViewById(Resource.Id.TestImageView) as ImageView;
-            //var textBottom = view.FindViewById(Resource.id.textBottom) as TextView;
 
             //Assign this item's values to the various subviews 
-
-            //imageItem.SetImageResource( res item.Recipe.Image
-            //    );
             imageItem.SetImageBitmap(GetImageBitmapFromUrl(item.Recipe.Image));
             textTop.Text = item.Recipe.label;
 

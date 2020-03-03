@@ -9,7 +9,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
-using NDMA.Resources.Activitites;
+using NDMA.Resources.Adapter;
 using NDMA.Resources.LoggingFood;
 
 namespace NDMA.Resources
@@ -104,9 +104,11 @@ namespace NDMA.Resources
 
 
             //attempting to connect to the listview
+            CustomDefaultListAdapter listSimpleAdapter = new CustomDefaultListAdapter(this, template);
             ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, template);
             ListView list = FindViewById<ListView>(Resource.Id.UserFoodList);
-            list.Adapter = listAdapter;
+            list.Adapter = listSimpleAdapter;
+
 
             list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e)
             {
@@ -115,6 +117,7 @@ namespace NDMA.Resources
                 //, list.SelectedItemId);
 
             };
+
         }
 
         private void GetTemplateFromUser()

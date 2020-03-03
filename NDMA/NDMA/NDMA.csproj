@@ -61,9 +61,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
-    <Compile Include="Resources\Activitites\FoodDailySchedule.cs" />
     <Compile Include="Resources\Activitites\FoodLayoutSpec.cs" />
     <Compile Include="Home.cs" />
+    <Compile Include="Resources\Adapter\CustomDefaultListAdapter.cs" />
     <Compile Include="Resources\Adapter\CustomSearchedAPIListAdapter.cs" />
     <Compile Include="Resources\AdvisorActivities\AdvisorMain.cs" />
     <Compile Include="Resources\AdvisorActivities\CheckDailyInputForWeeklySample.cs" />
@@ -122,9 +122,7 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher_round.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Resources\drawable\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers">
       <Version>2.9.8</Version>
@@ -227,6 +225,11 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\CheckDailyInputForWeeklySample.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\CustomSimpleListLayout.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
