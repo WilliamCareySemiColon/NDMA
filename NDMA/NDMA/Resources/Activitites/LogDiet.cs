@@ -17,24 +17,16 @@ namespace NDMA.Resources
     [Activity(Label = "LogDiet")]
     public class LogDiet : Activity
     {
-        private String [] template = null;
-        private String[] information = null;
+        private String[] template = null;
         private CheckBox[] checkBoxes;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
 
             // Create your application here
-            if (information == null)
-            {
-                //Intent FoodScheduleActivitiy = new Intent(this, typeof(FoodDailySchedule));
-                //StartActivity(FoodScheduleActivitiy);
-                SetContentView(Resource.Layout.FoodDailySchedule);
-
-            }
+            SetContentView(Resource.Layout.FoodDailySchedule);
 
             GetTemplateFromUser();
-           
         }
 
         private void ButtonClicked(string id)
@@ -83,12 +75,14 @@ namespace NDMA.Resources
 
         private void ListItemClicked(int position, long id)
         {
-            var t = information[position];
+            var t = template[position];
             Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
         }
 
         private void SetUpMainLoggingPage()
         {
+            SetContentView(Resource.Layout.LogDiet);
+
             //Button items and their handlers
             Button add = FindViewById<Button>(Resource.Id.Add);
             Button cancel = FindViewById<Button>(Resource.Id.Cancel);
@@ -105,19 +99,15 @@ namespace NDMA.Resources
 
             //attempting to connect to the listview
             CustomDefaultListAdapter listSimpleAdapter = new CustomDefaultListAdapter(this, template);
-            ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, template);
             ListView list = FindViewById<ListView>(Resource.Id.UserFoodList);
             list.Adapter = listSimpleAdapter;
-
 
             list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e)
             {
                 //ListItemClicked(list, new View(Application.Context), e.Position, e.Position);
                 ListItemClicked(e.Position, e.Position);
                 //, list.SelectedItemId);
-
             };
-
         }
 
         private void GetTemplateFromUser()
@@ -150,33 +140,24 @@ namespace NDMA.Resources
             int count = checkBoxes.Length;
             string[] convert = new string[count];
 
-            for(int i = 0; i < count; i++)
+            foreach (CheckBox check in checkBoxes)
             {
-                if(checkBoxes[i].Selected == true)
+                if (check.Selected)
                 {
-                    convert[amount] = checkBoxes[i].Text;
+                    convert[amount] = check.Text;
                     amount++;
                 }
             }
 
             template = new String[amount];
 
-            for(int i = 0; i < amount; i++)
+            for (int i = 0; i < amount; i++)
             {
                 template[i] = convert[i];
+                
             }
-
-            information = new String[] { "Sampe", "Sampe", "Sampe", "Sampe", "Sampe" };
-
-            if (!(information == null))
-            {
-                SetContentView(Resource.Layout.LogDiet);
-            }
-
-            Toast.MakeText(Application.Context, "Your schedule is curently being created", ToastLength.Short).Show();
 
             SetUpMainLoggingPage();
         }
-
     }
 }
