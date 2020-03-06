@@ -10,7 +10,6 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using NDMA.Resources.Adapter;
-using NDMA.Resources.LoggingFood;
 
 namespace NDMA.Resources
 {

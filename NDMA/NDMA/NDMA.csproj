@@ -81,8 +81,8 @@
     <Compile Include="Resources\Activitites\AddAdditionalIngredient.cs" />
     <Compile Include="Resources\Activitites\LogDiet.cs" />
     <Compile Include="Resources\JsonLoggedFood\TotalOverallNutrients.cs" />
-    <Compile Include="Resources\LoggingFood\SearchForFood.cs" />
     <Compile Include="Resources\Activitites\SearchForFoodFromApi.cs" />
+    <Compile Include="Resources\ZZZTestData\TestSampleData.cs" />
     <Compile Include="UserLogin.cs" />
     <Compile Include="Register.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
