@@ -23,7 +23,8 @@
         android:fontFamily = "sans-serif"
         android:textSize = "20dp"
         android:textAlignment = "center"
-        android:textColor = "@color/MainFontOrButtonStyle"/>
+        android:textColor = "@color/GhostWhite"
+    />
 
     <Button
         android:layout_width="wrap_content"

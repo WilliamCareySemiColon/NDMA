@@ -15,11 +15,11 @@ namespace NDMA.Resources.ZZZTestData
     public static class TestSampleData
     {
         public static string Name = "William";
-        public static string Username = "Wiilo190198";
+        public static string Username = "Will190198";
         public static string Password = "password";
-        public static string Email = "abc@gmail.com";
+        public static string Email = "c16315253@gmail.com";
         public static string SexCategory = "Male";
-        public static string AgeCategory = "Between 18 and 35";
+        public static string AgeCategory = "22";
         public static string Diet = null;
         public static string NutritionDefincy = null;
     }
