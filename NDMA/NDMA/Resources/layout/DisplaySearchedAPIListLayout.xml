@@ -3,7 +3,7 @@
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background = "@color/MainBodyColour ">
+    android:background = "@color/MainFontOrButtonStyle">
 
     <TextView
         android:layout_width="200dp"
@@ -11,6 +11,7 @@
         android:id = "@+id/TestTextView"
         android:layout_marginLeft = "20dp"
         android:layout_marginRight = "20dp"
+        android:textColor = "#FFF"
     />
 
     <ImageView

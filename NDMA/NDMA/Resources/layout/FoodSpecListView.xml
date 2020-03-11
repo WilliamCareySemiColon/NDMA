@@ -4,8 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="200dp"
     android:layout_marginTop = "240dp"
-    android:background = "@color/MainBodyColour "
-    >
+    android:background = "@drawable/BackGroundGradient ">
      <!--android:id = "@id/FoodSpecNutrientListView"-->
     <ListView
        android:id = "@+id/NutFoodList"
