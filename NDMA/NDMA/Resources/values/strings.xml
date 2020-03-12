@@ -4,9 +4,9 @@
   <!--Age details-->
   <string-array name ="AgeCategory">
     <item >Age Category</item>
-    <item >Under 18</item>
-    <item >Between 18 and 35</item>
-    <item>Over 35</item>
+    <item >20</item>
+    <item >21</item>
+    <item>22</item>
   </string-array>
   <!--Sex details-->
   <string-array name ="SexCategory">
