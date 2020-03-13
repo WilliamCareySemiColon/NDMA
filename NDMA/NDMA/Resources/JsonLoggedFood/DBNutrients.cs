@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace NDMA.Resources.JsonLoggedFood
 {
-    class DBNutrients
+    public class DBNutrients
     {
         public String label { get; set; }
         public String Image { get; set; }

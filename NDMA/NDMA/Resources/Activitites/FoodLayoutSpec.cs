@@ -35,8 +35,8 @@ namespace NDMA.Resources
                 Finish();
             };
 
-            Button AddIngredient = FindViewById<Button>(Resource.Id.AddIngredient);
-            AddIngredient.Click += delegate { ClickItem("sample"); };
+            //Button AddIngredient = FindViewById<Button>(Resource.Id.AddIngredient);
+            //AddIngredient.Click += delegate { ClickItem("sample"); };
 
             ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, SampleIngreList);
             ListView list = FindViewById<ListView>(Resource.Id.NutFoodList);
@@ -50,13 +50,19 @@ namespace NDMA.Resources
 
             };
 
-            var text = Intent.GetStringExtra("FoodHitsSpec");
-            var pos = Intent.GetIntExtra("Postion",0);
+            var food = FoodStorage.FoodStorage.DBFood;
 
-            var FoodItem = JsonConvert.DeserializeObject<ParsedFoodCollection>(text);
+            Toast.MakeText(this, "Food item" + FoodStorage.FoodStorage.DBFood.Recipe.label, ToastLength.Short).Show();
 
-            Toast.MakeText(this,"Sample string: " + 
-                FoodItem.Hits.ToArray()[pos].Recipe.label, ToastLength.Short);
+            //Toast.MakeText(this, "Food item" + food.Recipe.label,ToastLength.Short);
+
+            //var text = Intent.GetStringExtra("FoodHitsSpec");
+            //var pos = Intent.GetIntExtra("Postion",0);
+
+            //var FoodItem = JsonConvert.DeserializeObject<ParsedFoodCollection>(text);
+
+            //Toast.MakeText(this,"Sample string: " + 
+            //    FoodItem.Hits.ToArray()[pos].Recipe.label, ToastLength.Short);
         }
 
         //private void ListItemClicked(ListView l, View v, int position, long id)

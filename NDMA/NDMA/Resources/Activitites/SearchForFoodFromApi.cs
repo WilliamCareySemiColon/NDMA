@@ -12,6 +12,7 @@ using Android.Views;
 using Android.Widget;
 using NDMA.Resources.Adapter;
 using NDMA.Resources.JsonLoggedFood;
+//using NDMA.Resources.FoodStorageItems;
 using Newtonsoft.Json;
 
 namespace NDMA.Resources
@@ -110,8 +111,13 @@ namespace NDMA.Resources
         private void ListItemClicked(int position, long id)
         {
             var t = food.Hits.ToArray()[position];
+            //FoodStorage.FoodStorage.food
+            FoodStorage.FoodStorage.food = food;
+            FoodStorage.FoodStorage.DBFood = t;
             var json = JsonConvert.SerializeObject(food);
             //Toast.MakeText(Application.Context, t.label + " " + id, ToastLength.Short).Show();
+
+            
 
             Intent FoodSpecActvity = new Intent(this, typeof(FoodLayoutSpec));
             FoodSpecActvity.PutExtra("FoodHitsSpec", json);
