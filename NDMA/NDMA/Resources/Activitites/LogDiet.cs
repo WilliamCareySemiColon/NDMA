@@ -66,16 +66,12 @@ namespace NDMA.Resources
 
         }
 
-        //private void ListItemClicked(ListView l, View v, int position, long id)
-        //{
-        //    var t = information[position];
-        //    Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
-        //}
-
-        private void ListItemClicked(int position, long id)
+        private void ListItemClicked(object sender, AdapterView.ItemClickEventArgs e)
         {
-            var t = template[position];
-            Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
+            var listView = sender as ListView;
+
+            var t = template[e.Position];
+            Toast.MakeText(this, t + " " + listView.SelectedItemPosition, ToastLength.Short).Show();
         }
 
         private void SetUpMainLoggingPage()
@@ -103,9 +99,7 @@ namespace NDMA.Resources
 
             list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e)
             {
-                //ListItemClicked(list, new View(Application.Context), e.Position, e.Position);
-                ListItemClicked(e.Position, e.Position);
-                //, list.SelectedItemId);
+                ListItemClicked(sender,e);
             };
         }
 
@@ -153,7 +147,14 @@ namespace NDMA.Resources
             for (int i = 0; i < amount; i++)
             {
                 template[i] = convert[i];
-                
+            }
+
+            foreach(CheckBox check in checkBoxes)
+            {
+                if(!template.Contains(check.Text))
+                {
+                    check.Selected = false;
+                }
             }
 
             SetUpMainLoggingPage();

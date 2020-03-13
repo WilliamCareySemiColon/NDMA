@@ -28,7 +28,7 @@ namespace NDMA.Resources.Adapter
         }
         public override Java.Lang.Object GetItem(int position)
         {
-            return position;
+            return headerCollection[position];
         }
         public override long GetItemId(int position)
         {
@@ -44,9 +44,17 @@ namespace NDMA.Resources.Adapter
 
             //Find references to each subview in the list item's view
             var textTop = view.FindViewById(Resource.Id.SimpleListViewTextView) as TextView;
-
             //Assign this item's values to the various subviews 
             textTop.Text = item;
+
+            //capture the button
+            var button = view.FindViewById(Resource.Id.SimpleListViewAddButton) as Button;
+            button.Click += delegate {
+                //Intent SearchForFoodActivity = new Intent(context, typeof(SearchForFoodFromApi));
+                //context.StartActivity(SearchForFoodActivity);
+
+                Toast.MakeText(context, "Pressed the add button", ToastLength.Short).Show();
+            };
 
             //Finally return the view 
             return view;
