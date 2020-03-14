@@ -32,6 +32,8 @@
         android:layout_marginRight="130dp"
         android:layout_marginTop = "80dp"
         android:id = "@+id/AdviseBtn"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
 
     <Button
@@ -46,6 +48,8 @@
         android:layout_marginRight="10dp"
         android:layout_marginTop = "80dp"
         android:id = "@+id/OverdoneBtn"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
 
     <Button
@@ -60,6 +64,8 @@
         android:layout_marginRight="240dp"
         android:layout_marginTop = "80dp"
         android:id = "@+id/UnderdoneBtn"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
     <Button
         android:layout_width="wrap_content"
@@ -73,6 +79,8 @@
         android:layout_marginRight="180dp"
         android:layout_marginTop = "160dp"
         android:id = "@+id/CheckQuicklyBtn"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
 
     <Button
@@ -87,6 +95,8 @@
         android:layout_marginRight="40dp"
         android:layout_marginTop = "160dp"
         android:id = "@+id/CancelAdvise"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
 
     <TextView

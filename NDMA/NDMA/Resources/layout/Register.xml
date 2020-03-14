@@ -158,7 +158,7 @@
         android:layout_marginRight="120dp"
         android:layout_marginTop = "480dp"
         android:id = "@+id/Register"
-        android:background = "@color/MainFontOrButtonStyle"
+       android:background = "@drawable/custombutton"
         android:textColor = "@color/GhostWhite"
     />
 
@@ -176,7 +176,7 @@
         android:layout_marginRight="100dp"
         android:layout_marginTop = "550dp"
         android:id = "@+id/LoginInstead"
-        android:background = "@color/MainFontOrButtonStyle"
+        android:background = "@drawable/custombutton"
         android:textColor = "@color/GhostWhite"
         />
 

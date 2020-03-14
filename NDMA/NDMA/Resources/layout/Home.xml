@@ -9,21 +9,27 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text = "View Account"
+        android:text = " View Account "
         android:id = "@+id/ViewAccount"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text = "Vist Advisor System"
+        android:text = " Vist Advisor System "
         android:id = "@+id/AdvisorSystem"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text = "Log Daily Diet"
+        android:text = " Log Daily Diet "
         android:id = "@+id/LogDiet"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
 </LinearLayout>

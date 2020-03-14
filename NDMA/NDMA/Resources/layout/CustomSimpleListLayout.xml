@@ -31,9 +31,9 @@
         android:text ="+"
         android:layout_marginBottom = "10dp"
          android:id = "@+id/SimpleListViewAddButton"
-        android:background = "@color/MainFontOrButtonStyle"
-        android:textColor = "@color/GhostWhite"
         android:textSize = "33dp"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
 
 </LinearLayout>

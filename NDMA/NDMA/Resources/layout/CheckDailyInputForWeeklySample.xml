@@ -48,6 +48,8 @@
         android:layout_marginLeft="200dp"
         android:layout_marginRight="40dp"
         android:layout_marginTop = "100dp"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
 
     <TextView
@@ -77,6 +79,8 @@
         android:layout_marginLeft="200dp"
         android:layout_marginRight="40dp"
         android:layout_marginTop = "250dp"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
 
     <TextView
@@ -106,6 +110,8 @@
         android:layout_marginLeft="200dp"
         android:layout_marginRight="40dp"
         android:layout_marginTop = "400dp"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
 
 <Button
@@ -122,5 +128,7 @@
         android:layout_marginRight="120dp"
         android:layout_marginTop = "600dp"
         android:id = "@+id/CancelCheck"
+        android:background = "@drawable/custombutton"
+        android:textColor = "@color/GhostWhite"
     />
 </RelativeLayout>
