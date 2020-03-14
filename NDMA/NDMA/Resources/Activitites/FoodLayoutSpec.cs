@@ -41,6 +41,9 @@ namespace NDMA.Resources
                 IngAmount[i] = ingrdients.ToArray()[i].Weight.ToString();
             }
 
+            TextView FoodDisplayedName = FindViewById<TextView>(Resource.Id.FoodLayoutItemNameId);
+            FoodDisplayedName.Text = food.Recipe.label;
+
             //connecting to the ui
             Button RetSearch = FindViewById<Button>(Resource.Id.ReturnToSearch);
             RetSearch.Click += delegate { Finish(); };

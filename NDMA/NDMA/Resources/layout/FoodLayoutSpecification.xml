@@ -7,6 +7,7 @@
     android:background = "@drawable/BackGroundGradient ">
 
     <TextView
+        android:textColor = "@color/GhostWhite"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text = "Food Item Specifications "
@@ -37,6 +38,7 @@
     />
 
     <TextView
+        android:textColor = "@color/GhostWhite"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text = "Item Name"
@@ -49,6 +51,7 @@
         android:layout_marginLeft="100dp"
         android:layout_marginRight="100dp"
         android:textSize = "16dp"
+        android:id = "@+id/FoodLayoutItemNameId"
     />
 
     <include
@@ -67,6 +70,8 @@
         android:layout_marginTop = "500dp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="260dp"
+        android:background = "@color/MainFontOrButtonStyle"
+        android:textColor = "@color/GhostWhite"
     />
 
     <!--<Button
@@ -97,6 +102,8 @@
         android:layout_marginTop = "500dp"
         android:layout_marginLeft="290dp"
         android:layout_marginRight="10dp"
+        android:background = "@color/MainFontOrButtonStyle"
+        android:textColor = "@color/GhostWhite"
     />
 
 </RelativeLayout>
