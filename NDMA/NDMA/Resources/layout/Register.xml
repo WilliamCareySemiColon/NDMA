@@ -20,7 +20,7 @@
         android:textAlignment = "center"
         android:fontFamily = "sans-serif"
         android:textSize = "22dp"
-        android:textColor = "@color/MainFontOrButtonStyle"
+        android:textColor = "@color/GhostWhite"
         />
 
     <EditText

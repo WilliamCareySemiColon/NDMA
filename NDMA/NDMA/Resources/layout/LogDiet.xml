@@ -19,7 +19,7 @@
         android:layout_marginTop = "30dp"
         android:layout_marginLeft="120dp"
         android:layout_marginRight="120dp"
-        android:textColor = "@color/MainFontOrButtonStyle"
+        android:textColor = "@color/GhostWhite"
     />
 
     <include
