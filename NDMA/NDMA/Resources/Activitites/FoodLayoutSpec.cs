@@ -54,15 +54,11 @@ namespace NDMA.Resources
 
             Toast.MakeText(this, "Food item" + FoodStorage.FoodStorage.DBFood.Recipe.label, ToastLength.Short).Show();
 
-            //Toast.MakeText(this, "Food item" + food.Recipe.label,ToastLength.Short);
+            var foodImage = FindViewById<ImageView>(Resource.Id.FoodLayoutPhotoId);
 
-            //var text = Intent.GetStringExtra("FoodHitsSpec");
-            //var pos = Intent.GetIntExtra("Postion",0);
+            foodImage.SetImageBitmap(GetImageBitmapFromUrl(food.Recipe.Image));
 
-            //var FoodItem = JsonConvert.DeserializeObject<ParsedFoodCollection>(text);
 
-            //Toast.MakeText(this,"Sample string: " + 
-            //    FoodItem.Hits.ToArray()[pos].Recipe.label, ToastLength.Short);
         }
 
         //private void ListItemClicked(ListView l, View v, int position, long id)
@@ -70,6 +66,22 @@ namespace NDMA.Resources
         //    var t = information[position];
         //    Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
         //}
+
+        private Android.Graphics.Bitmap GetImageBitmapFromUrl(string url)
+        {
+            Android.Graphics.Bitmap imageBitmap = null;
+
+            using (var webClient = new System.Net.WebClient())
+            {
+                var imageBytes = webClient.DownloadData(url);
+                if (imageBytes != null && imageBytes.Length > 0)
+                {
+                    imageBitmap = Android.Graphics.BitmapFactory.DecodeByteArray(imageBytes, 0, imageBytes.Length);
+                }
+            }
+
+            return imageBitmap;
+        }
 
         private void ListItemClicked(int position, long id)
         {

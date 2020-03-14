@@ -12,7 +12,6 @@ using Android.Views;
 using Android.Widget;
 using NDMA.Resources.Adapter;
 using NDMA.Resources.JsonLoggedFood;
-//using NDMA.Resources.FoodStorageItems;
 using Newtonsoft.Json;
 
 namespace NDMA.Resources
@@ -47,14 +46,12 @@ namespace NDMA.Resources
             SetContentView(Resource.Layout.SearchForFood);
 
             EditText search = FindViewById<EditText>(Resource.Id.Search);
-
             //Button handlers
             Button cancel = FindViewById<Button>(Resource.Id.Cancel);
             Button searchBtn = FindViewById<Button>(Resource.Id.btnSearch);
 
             cancel.Click += delegate { Finish(); };
             searchBtn.Click += delegate { SearchApi(search.Text); };
-
         }
 
         private void SearchApi(string message)
@@ -62,7 +59,6 @@ namespace NDMA.Resources
             if (message.Length >= 3)
                 GetFood(message);
         }
-
         private async void GetFood(String keyWord)
         {
             client = new HttpClient();
@@ -95,19 +91,10 @@ namespace NDMA.Resources
             //{ keyWord};
             list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e)
             {
-                //ListItemClicked(list, new View(Application.Context), e.Position, e.Position);
                 ListItemClicked(e.Position, e.Position);
-                //, list.SelectedItemId);
 
             };
         }
-
-        //private void ListItemClicked(ListView l, View v, int position, long id)
-        //{
-        //    var t = information[position];
-        //    Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
-        //}
-
         private void ListItemClicked(int position, long id)
         {
             var t = food.Hits.ToArray()[position];
