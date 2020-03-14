@@ -8,7 +8,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:minWidth="200dp"
+        android:minWidth="150dp"
         android:id = "@+id/SimpleListViewTextView"
         android:textColor = "@color/GhostWhite"
         android:textSize = "33dp"
