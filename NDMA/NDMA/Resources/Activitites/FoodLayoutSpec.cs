@@ -9,6 +9,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using NDMA.Resources.Adapter;
 using NDMA.Resources.JsonLoggedFood;
 using Newtonsoft.Json;
 
@@ -17,7 +18,7 @@ namespace NDMA.Resources
     [Activity(Label = "FoodLayoutSpec")]
     public class FoodLayoutSpec : Activity
     {
-        private String[] IngNames;
+        private String[] IngNames, IngAmount;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -33,9 +34,11 @@ namespace NDMA.Resources
             //getting the names of the ingrdients themselves
             var count = ingrdients.Count;
             IngNames = new String[count];
+            IngAmount = new String[count];
             for(int i = 0; i < count;i++)
             {
                 IngNames[i] = ingrdients.ToArray()[i].Text;
+                IngAmount[i] = ingrdients.ToArray()[i].Weight.ToString();
             }
 
             //connecting to the ui
@@ -57,8 +60,9 @@ namespace NDMA.Resources
             //AddIngredient.Click += delegate { ClickItem("sample"); };
 
             ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, IngNames);
+            FoodLayoutSpecArrayAdapter FoodListAdapter = new FoodLayoutSpecArrayAdapter(this, IngNames, IngAmount);
             ListView list = FindViewById<ListView>(Resource.Id.NutFoodList);
-            list.Adapter = listAdapter;
+            list.Adapter = FoodListAdapter;
 
             list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e)
             {
@@ -66,10 +70,7 @@ namespace NDMA.Resources
 
             };
 
-            Toast.MakeText(this, "Food item" + FoodStorage.FoodStorage.DBFood.Recipe.label, ToastLength.Short).Show();
-
-            
-
+            //Toast.MakeText(this, "Food item" + FoodStorage.FoodStorage.DBFood.Recipe.label, ToastLength.Short).Show();
 
         }
 

@@ -65,6 +65,7 @@
     <Compile Include="Home.cs" />
     <Compile Include="Resources\Adapter\CustomDefaultListAdapter.cs" />
     <Compile Include="Resources\Adapter\CustomSearchedAPIListAdapter.cs" />
+    <Compile Include="Resources\Adapter\FoodLayoutSpecArrayAdapter.cs" />
     <Compile Include="Resources\AdvisorActivities\AdvisorMain.cs" />
     <Compile Include="Resources\AdvisorActivities\CheckDailyInputForWeeklySample.cs" />
     <Compile Include="Resources\AdvisorActivities\DailyStatusGraph.cs" />
@@ -233,6 +234,11 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\CustomSimpleListLayout.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\FoodLayoutSpecListViewContents.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
