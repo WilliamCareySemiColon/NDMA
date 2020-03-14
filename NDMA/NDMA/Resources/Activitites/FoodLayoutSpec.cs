@@ -17,15 +17,28 @@ namespace NDMA.Resources
     [Activity(Label = "FoodLayoutSpec")]
     public class FoodLayoutSpec : Activity
     {
-        private readonly string[] SampleIngreList =
-            new string[] { "Item", "Item", "Item", "Item", "Item", "Item" };
+        private String[] IngNames;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
 
             // Create your application here FoodLayoutSpecification
             SetContentView(Resource.Layout.FoodLayoutSpecification);
+            //getting the food details
+            var food = FoodStorage.FoodStorage.DBFood;
+            var ingrdients = food.Recipe.Ingredients;
+            //setting the food image into the displaying on the page.
+            var foodImage = FindViewById<ImageView>(Resource.Id.FoodLayoutPhotoId);
+            foodImage.SetImageBitmap(GetImageBitmapFromUrl(food.Recipe.Image));
+            //getting the names of the ingrdients themselves
+            var count = ingrdients.Count;
+            IngNames = new String[count];
+            for(int i = 0; i < count;i++)
+            {
+                IngNames[i] = ingrdients.ToArray()[i].Text;
+            }
 
+            //connecting to the ui
             Button RetSearch = FindViewById<Button>(Resource.Id.ReturnToSearch);
             RetSearch.Click += delegate { Finish(); };
 
@@ -35,37 +48,30 @@ namespace NDMA.Resources
                 Finish();
             };
 
+            /*********************************************************************************************
+             * Was attemptng the idea of allowing the capability of modifying the food for home cook basis
+             * Using a button to add other ingredients itself. 
+             * Incomplete due to time constraints and workload
+             *********************************************************************************************/
             //Button AddIngredient = FindViewById<Button>(Resource.Id.AddIngredient);
             //AddIngredient.Click += delegate { ClickItem("sample"); };
 
-            ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, SampleIngreList);
+            ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, IngNames);
             ListView list = FindViewById<ListView>(Resource.Id.NutFoodList);
             list.Adapter = listAdapter;
 
             list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e)
             {
-                //ListItemClicked(list, new View(Application.Context), e.Position, e.Position);
                 ListItemClicked(e.Position, e.Position);
-                //, list.SelectedItemId);
 
             };
 
-            var food = FoodStorage.FoodStorage.DBFood;
-
             Toast.MakeText(this, "Food item" + FoodStorage.FoodStorage.DBFood.Recipe.label, ToastLength.Short).Show();
 
-            var foodImage = FindViewById<ImageView>(Resource.Id.FoodLayoutPhotoId);
-
-            foodImage.SetImageBitmap(GetImageBitmapFromUrl(food.Recipe.Image));
+            
 
 
         }
-
-        //private void ListItemClicked(ListView l, View v, int position, long id)
-        //{
-        //    var t = information[position];
-        //    Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
-        //}
 
         private Android.Graphics.Bitmap GetImageBitmapFromUrl(string url)
         {
@@ -85,7 +91,7 @@ namespace NDMA.Resources
 
         private void ListItemClicked(int position, long id)
         {
-            var t = SampleIngreList[position];
+            var t = IngNames[position];
             Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
         }
 
