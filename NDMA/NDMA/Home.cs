@@ -32,6 +32,9 @@ namespace NDMA.Resources
             vistAdvisorSystem.Click += delegate { ButtonClicked("Advise"); };
 
             LogDailyDiet.Click += delegate { ButtonClicked("Log"); };
+
+            //setting the static list for later measurements
+            FoodStorageItems.StaticFoodCollection.StoredFood = new List<JsonLoggedFood.DBFood>();
         }
 
         private void ButtonClicked(string id)

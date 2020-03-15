@@ -10,6 +10,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using NDMA.Resources.Adapter;
+using NDMA.Resources.JsonLoggedFood;
 
 namespace NDMA.Resources
 {
@@ -56,17 +57,25 @@ namespace NDMA.Resources
                         FoodStorageItems.FoodScheduleStorage.ScheduleTrack = null;
                         FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage = null;
                         FoodStorageItems.FoodScheduleStorage.ScheduleID = null;
+                        FoodStorageItems.StaticFoodCollection.StoredFood = new List<DBFood>();
                         Finish();
                         break;
                     }
-                case "save":
-                    {
-                        Toast.MakeText(Application.Context, "You have pressed the button with the id " + id, ToastLength.Short).Show();
-                        break;
-                    }
+                //case "save":
+                //    {
+                //        Toast.MakeText(Application.Context, "You have pressed the button with the id " + id, ToastLength.Short).Show();
+                //        break;
+                //    }
                 case "submit":
                     {
-                        Toast.MakeText(Application.Context, "You have pressed the button with the id " + id, ToastLength.Short).Show();
+                        FoodStorageItems.FoodScheduleStorage.Template = null;
+                        FoodStorageItems.FoodScheduleStorage.ScheduleTrack = null;
+                        FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage = null;
+                        FoodStorageItems.FoodScheduleStorage.ScheduleID = null;
+                        Toast.MakeText(Application.Context,
+                            "The size of the list is "  + FoodStorageItems.StaticFoodCollection.StoredFood.Count
+                            , ToastLength.Short).Show();
+                        Finish();
                         break;
                     }
                 default:
@@ -85,13 +94,13 @@ namespace NDMA.Resources
             //Button add = FindViewById<Button>(Resource.Id.Add);
             Button cancel = FindViewById<Button>(Resource.Id.Cancel);
             Button discard = FindViewById<Button>(Resource.Id.Discard);
-            Button save = FindViewById<Button>(Resource.Id.Save);
+            //Button save = FindViewById<Button>(Resource.Id.Save);
             Button submit = FindViewById<Button>(Resource.Id.Submit);
             //applying the handlers to the buttons
             //add.Click += delegate { ButtonClicked("add"); };
             cancel.Click += delegate { ButtonClicked("cancel"); };
             discard.Click += delegate { ButtonClicked("discard"); };
-            save.Click += delegate { ButtonClicked("save"); };
+            //save.Click += delegate { ButtonClicked("save"); };
             submit.Click += delegate { ButtonClicked("submit"); };
 
             //attempting to connect to the listview
@@ -187,7 +196,6 @@ namespace NDMA.Resources
             {
                 if(resultCode == Result.Ok)
                 {
-                    Toast.MakeText(this, "Successfully for returning the result", ToastLength.Short).Show();
                     SetListView();
                 }
             }

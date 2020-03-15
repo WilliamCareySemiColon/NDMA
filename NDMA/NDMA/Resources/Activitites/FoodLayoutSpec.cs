@@ -19,6 +19,7 @@ namespace NDMA.Resources
     public class FoodLayoutSpec : Activity
     {
         private String[] IngNames, IngAmount;
+        DBFood food;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -26,7 +27,7 @@ namespace NDMA.Resources
             // Create your application here FoodLayoutSpecification
             SetContentView(Resource.Layout.FoodLayoutSpecification);
             //getting the food details
-            var food = FoodStorage.FoodStorage.DBFood;
+            food = FoodStorage.FoodStorage.DBFood;
             var ingrdients = food.Recipe.Ingredients;
             //setting the food image into the displaying on the page.
             var foodImage = FindViewById<ImageView>(Resource.Id.FoodLayoutPhotoId);
@@ -57,6 +58,7 @@ namespace NDMA.Resources
                     FoodStorageItems.FoodScheduleStorage.ScheduleID];
 
                 FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage[pos] = FoodDisplayedName.Text;
+                FoodStorageItems.StaticFoodCollection.StoredFood.Add(food);
                 
                 SetResult(Result.Ok);
                 Finish();
