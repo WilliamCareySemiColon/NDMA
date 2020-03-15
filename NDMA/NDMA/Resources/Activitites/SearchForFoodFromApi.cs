@@ -104,13 +104,37 @@ namespace NDMA.Resources
             var json = JsonConvert.SerializeObject(food);
             //Toast.MakeText(Application.Context, t.label + " " + id, ToastLength.Short).Show();
 
-            
-
             Intent FoodSpecActvity = new Intent(this, typeof(FoodLayoutSpec));
-            FoodSpecActvity.PutExtra("FoodHitsSpec", json);
-            FoodSpecActvity.PutExtra("Postion", position);
-            StartActivity(FoodSpecActvity);
+            //FoodSpecActvity.PutExtra("FoodHitsSpec", json);
+            //FoodSpecActvity.PutExtra("Postion", position);
+            StartActivityForResult(FoodSpecActvity, 1);
+            //StartActivity(FoodSpecActvity);
             // Finish();
+        }
+
+        protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data)
+        {
+
+            if (requestCode == 1)
+            {
+                if (resultCode == Result.Ok)
+                {
+                    //int result = data.getIntExtra("result", 0);
+                    //mTextViewResult.setText("" + result);
+
+                    Toast.MakeText(this, "Application was success in returning data with " + data
+                        , ToastLength.Short).Show();
+                    Finish();
+                }
+                if (resultCode == Result.Canceled)
+                {
+                    //mTextViewResult.setText("Nothing selected");
+
+                    Toast.MakeText(this, "Application was failure in returning data with " + data
+                        , ToastLength.Short).Show();
+                }
+            }
+
         }
 
     }

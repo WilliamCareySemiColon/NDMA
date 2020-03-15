@@ -46,7 +46,12 @@ namespace NDMA.Resources
 
             //connecting to the ui
             Button RetSearch = FindViewById<Button>(Resource.Id.ReturnToSearch);
-            RetSearch.Click += delegate { Finish(); };
+            RetSearch.Click += delegate {
+                Intent data = new Intent();
+                data.SetData(Android.Net.Uri.Parse("Sample string"));
+                SetResult(Result.Canceled, data);
+                Finish(); 
+            };
 
             Button Log = FindViewById<Button>(Resource.Id.Log);
             Log.Click += delegate {
@@ -58,7 +63,10 @@ namespace NDMA.Resources
                 //FoodItems.Add(food.Recipe.label);
 
                 //FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage = FoodItems;
-                Toast.MakeText(Application.Context, "Successfully logged the data", ToastLength.Short).Show();
+                Intent data = new Intent();
+                data.SetData(Android.Net.Uri.Parse("Another Sample string"));
+                SetResult(Result.Ok, data);
+                //Toast.MakeText(Application.Context, "Successfully logged the data", ToastLength.Short).Show();
                 Finish();
             };
 
