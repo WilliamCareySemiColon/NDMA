@@ -50,7 +50,10 @@ namespace NDMA.Resources
             Button cancel = FindViewById<Button>(Resource.Id.Cancel);
             Button searchBtn = FindViewById<Button>(Resource.Id.btnSearch);
 
-            cancel.Click += delegate { Finish(); };
+            cancel.Click += delegate {
+                SetResult(Result.Canceled);
+                Finish(); 
+            };
             searchBtn.Click += delegate { SearchApi(search.Text); };
         }
 
@@ -121,6 +124,7 @@ namespace NDMA.Resources
             {
                 if (resultCode == Result.Ok)
                 {
+                    SetResult(Result.Ok);
                     Finish();
                 }
                 //if (resultCode == Result.Canceled){

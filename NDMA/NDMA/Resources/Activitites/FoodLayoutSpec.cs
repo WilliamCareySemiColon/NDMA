@@ -47,9 +47,7 @@ namespace NDMA.Resources
             //connecting to the ui
             Button RetSearch = FindViewById<Button>(Resource.Id.ReturnToSearch);
             RetSearch.Click += delegate {
-                Intent data = new Intent();
-                data.SetData(Android.Net.Uri.Parse("Sample string"));
-                SetResult(Result.Canceled, data);
+                SetResult(Result.Canceled);
                 Finish(); 
             };
 

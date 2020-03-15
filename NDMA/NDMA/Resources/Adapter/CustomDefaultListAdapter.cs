@@ -17,10 +17,12 @@ namespace NDMA.Resources.Adapter
     {
         Activity context;
         String [] headerCollection;
-        public CustomDefaultListAdapter(Activity context, String [] headerCollection) : base()
+        String[] foodNames;
+        public CustomDefaultListAdapter(Activity context, String [] headerCollection, String[] foodNames) : base()
         {
             this.context = context;
             this.headerCollection = headerCollection;
+            this.foodNames = foodNames;
         }
         public override int Count
         {
@@ -59,7 +61,7 @@ namespace NDMA.Resources.Adapter
                 FoodStorageItems.FoodScheduleStorage.ScheduleID = item;
 
                 Intent SearchForFoodActivity = new Intent(context, typeof(SearchForFoodFromApi));
-                context.StartActivity(SearchForFoodActivity);              
+                context.StartActivityForResult(SearchForFoodActivity,2);              
 
                 //Toast.MakeText(context,
                 //                "Pressed the add button with id of " + item, 

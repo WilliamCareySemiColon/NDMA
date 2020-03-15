@@ -15,7 +15,12 @@ namespace NDMA.Resources.FoodStorageItems
     public static class FoodScheduleStorage
     {
         public static String[] Template;
-        public static List<String> FoodItemNamesStorage { get; set; }
+
+        public static Dictionary<String, int> ScheduleTrack;
+
+        public static String[] FoodItemNamesStorage;
+
+        //public static List<String> FoodItemNamesStorage { get; set; }
         public static String ScheduleID { get; set; }
         public static String SuccesfullyLogged { get; set; }
     }

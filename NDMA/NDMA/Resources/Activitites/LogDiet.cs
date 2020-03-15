@@ -74,14 +74,6 @@ namespace NDMA.Resources
 
         }
 
-        private void ListItemClicked(object sender, AdapterView.ItemClickEventArgs e)
-        {
-            var listView = sender as ListView;
-
-            var t = template[e.Position];
-            Toast.MakeText(this, t + " " + listView.SelectedItemPosition, ToastLength.Short).Show();
-        }
-
         private void SetUpMainLoggingPage()
         {
             SetContentView(Resource.Layout.LogDiet);
@@ -100,15 +92,18 @@ namespace NDMA.Resources
             submit.Click += delegate { ButtonClicked("submit"); };
 
             //attempting to connect to the listview
+            SetListView();
+        }
+
+        public void SetListView()
+        {
+            //attempting to connect to the listview
             CustomDefaultListAdapter listSimpleAdapter = new CustomDefaultListAdapter(this,
-                FoodStorageItems.FoodScheduleStorage.Template);
+                FoodStorageItems.FoodScheduleStorage.Template,
+                FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage);
+
             ListView list = FindViewById<ListView>(Resource.Id.UserFoodList);
             list.Adapter = listSimpleAdapter;
-
-            list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e)
-            {
-                ListItemClicked(sender,e);
-            };
         }
 
         private void GetTemplateFromUser()
@@ -151,12 +146,20 @@ namespace NDMA.Resources
             }
 
             template = new String[amount + 1];
+            Dictionary<String, int> ScheduleTrack = new Dictionary<String, int>();
+            String[] FoodNames = new String[amount + 1];
+            FoodNames[0] = "";
 
             template[0] = "Food Schedule List";
+            ScheduleTrack.Add("Food Schedule List", 0);
 
             for (int i = 0; i < amount; i++)
             {
-                template[i+1] = convert[i];
+                int j = i + 1;
+                template[j] = convert[i];
+
+                ScheduleTrack.Add(template[j], j);
+                FoodNames[j] = "";
             }
 
             foreach(CheckBox check in checkBoxes)
@@ -168,8 +171,22 @@ namespace NDMA.Resources
             }
 
             FoodStorageItems.FoodScheduleStorage.Template = template;
+            FoodStorageItems.FoodScheduleStorage.ScheduleTrack = ScheduleTrack;
+
+            FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage = FoodNames;
 
             SetUpMainLoggingPage();
+        }
+
+        protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data)
+        {
+            if(requestCode == 2)
+            {
+                if(resultCode == Result.Ok)
+                {
+                    Toast.MakeText(this, "Successfully for returning the result", ToastLength.Short).Show();
+                }
+            }
         }
     }
 }
