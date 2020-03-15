@@ -9,13 +9,11 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
-using NDMA.Resources.JsonLoggedFood;
 
-namespace NDMA.Resources.FoodStorage
+namespace NDMA.Resources.FoodStorageItems
 {
-    public static class FoodStorage
+    public static class FoodScheduleStorage
     {
-        public static ParsedFoodCollection food { get; set; }
-        public static DBFood DBFood { get; set; }
+        public static String[] Template;
     }
 }

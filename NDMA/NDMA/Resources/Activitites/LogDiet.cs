@@ -23,21 +23,28 @@ namespace NDMA.Resources
             base.OnCreate(savedInstanceState);
 
             // Create your application here
-            SetContentView(Resource.Layout.FoodDailySchedule);
+            if(FoodStorageItems.FoodScheduleStorage.Template == null)
+            {
+                SetContentView(Resource.Layout.FoodDailySchedule);
 
-            GetTemplateFromUser();
+                GetTemplateFromUser();
+            }
+           else
+            {
+                SetUpMainLoggingPage();
+            }
         }
 
         private void ButtonClicked(string id)
         {
             switch (id)
             {
-                case "add":
-                    {
-                        Intent SearchForFoodActivity = new Intent(this, typeof(SearchForFoodFromApi));
-                        StartActivity(SearchForFoodActivity);
-                        break;
-                    }
+                //case "add":
+                //    {
+                //        Intent SearchForFoodActivity = new Intent(this, typeof(SearchForFoodFromApi));
+                //        StartActivity(SearchForFoodActivity);
+                //        break;
+                //    }
                 case "cancel":
                     {
                         Finish();
@@ -45,7 +52,8 @@ namespace NDMA.Resources
                     }
                 case "discard":
                     {
-                        Toast.MakeText(Application.Context, "You have pressed the button with the id " + id, ToastLength.Short).Show();
+                        FoodStorageItems.FoodScheduleStorage.Template = null;
+                        Finish();
                         break;
                     }
                 case "save":
@@ -79,13 +87,13 @@ namespace NDMA.Resources
             SetContentView(Resource.Layout.LogDiet);
 
             //Button items and their handlers
-            Button add = FindViewById<Button>(Resource.Id.Add);
+            //Button add = FindViewById<Button>(Resource.Id.Add);
             Button cancel = FindViewById<Button>(Resource.Id.Cancel);
             Button discard = FindViewById<Button>(Resource.Id.Discard);
             Button save = FindViewById<Button>(Resource.Id.Save);
             Button submit = FindViewById<Button>(Resource.Id.Submit);
             //applying the handlers to the buttons
-            add.Click += delegate { ButtonClicked("add"); };
+            //add.Click += delegate { ButtonClicked("add"); };
             cancel.Click += delegate { ButtonClicked("cancel"); };
             discard.Click += delegate { ButtonClicked("discard"); };
             save.Click += delegate { ButtonClicked("save"); };
@@ -93,7 +101,8 @@ namespace NDMA.Resources
 
 
             //attempting to connect to the listview
-            CustomDefaultListAdapter listSimpleAdapter = new CustomDefaultListAdapter(this, template);
+            CustomDefaultListAdapter listSimpleAdapter = new CustomDefaultListAdapter(this,
+                FoodStorageItems.FoodScheduleStorage.Template);
             ListView list = FindViewById<ListView>(Resource.Id.UserFoodList);
             list.Adapter = listSimpleAdapter;
 
@@ -142,11 +151,13 @@ namespace NDMA.Resources
                 }
             }
 
-            template = new String[amount];
+            template = new String[amount + 1];
+
+            template[0] = "Food Schedule List";
 
             for (int i = 0; i < amount; i++)
             {
-                template[i] = convert[i];
+                template[i+1] = convert[i];
             }
 
             foreach(CheckBox check in checkBoxes)
@@ -156,6 +167,8 @@ namespace NDMA.Resources
                     check.Selected = false;
                 }
             }
+
+            FoodStorageItems.FoodScheduleStorage.Template = template;
 
             SetUpMainLoggingPage();
         }

@@ -25,7 +25,7 @@
     <include
         layout = "@layout/foodloggedlist"/>
 
-    <Button
+    <!--<Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text = "+"
@@ -39,7 +39,7 @@
         android:layout_marginTop = "450dp"
         android:background = "@drawable/custombutton"
         android:textColor = "@color/GhostWhite"
-    />
+    />-->
 
     <Button
         android:layout_width="wrap_content"

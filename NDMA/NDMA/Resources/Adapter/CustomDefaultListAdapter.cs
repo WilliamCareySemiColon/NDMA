@@ -50,10 +50,14 @@ namespace NDMA.Resources.Adapter
             //capture the button
             var button = view.FindViewById(Resource.Id.SimpleListViewAddButton) as Button;
             button.Click += delegate {
-                //Intent SearchForFoodActivity = new Intent(context, typeof(SearchForFoodFromApi));
-                //context.StartActivity(SearchForFoodActivity);
 
-                Toast.MakeText(context, "Pressed the add button", ToastLength.Short).Show();
+                Intent SearchForFoodActivity = new Intent(context, typeof(SearchForFoodFromApi));
+                context.StartActivity(SearchForFoodActivity);              
+
+                Toast.MakeText(context,
+                                "Pressed the add button with id of " + item, 
+                                ToastLength.Short).Show();
+
             };
 
             //Finally return the view 
