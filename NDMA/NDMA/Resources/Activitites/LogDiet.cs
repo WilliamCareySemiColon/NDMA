@@ -99,7 +99,6 @@ namespace NDMA.Resources
             save.Click += delegate { ButtonClicked("save"); };
             submit.Click += delegate { ButtonClicked("submit"); };
 
-
             //attempting to connect to the listview
             CustomDefaultListAdapter listSimpleAdapter = new CustomDefaultListAdapter(this,
                 FoodStorageItems.FoodScheduleStorage.Template);

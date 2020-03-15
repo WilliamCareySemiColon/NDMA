@@ -47,9 +47,16 @@ namespace NDMA.Resources.Adapter
             //Assign this item's values to the various subviews 
             textTop.Text = item;
 
+            if (FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage != null)
+            {
+                var FoodNames = view.FindViewById(Resource.Id.SimpleListViewTextViewType) as TextView;
+                FoodNames.Text = FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage.ToArray()[position];
+            }
+
             //capture the button
             var button = view.FindViewById(Resource.Id.SimpleListViewAddButton) as Button;
             button.Click += delegate {
+                FoodStorageItems.FoodScheduleStorage.ScheduleID = item;
 
                 Intent SearchForFoodActivity = new Intent(context, typeof(SearchForFoodFromApi));
                 context.StartActivity(SearchForFoodActivity);              
