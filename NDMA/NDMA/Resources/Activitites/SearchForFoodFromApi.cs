@@ -56,6 +56,10 @@ namespace NDMA.Resources
 
         private void SearchApi(string message)
         {
+            Toast.MakeText(this, 
+                "Application is searching for the items with the keyword: " + message, 
+                ToastLength.Long).Show();
+
             if (message.Length >= 3)
                 GetFood(message);
         }
@@ -108,8 +112,6 @@ namespace NDMA.Resources
             //FoodSpecActvity.PutExtra("FoodHitsSpec", json);
             //FoodSpecActvity.PutExtra("Postion", position);
             StartActivityForResult(FoodSpecActvity, 1);
-            //StartActivity(FoodSpecActvity);
-            // Finish();
         }
 
         protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data)
@@ -119,20 +121,10 @@ namespace NDMA.Resources
             {
                 if (resultCode == Result.Ok)
                 {
-                    //int result = data.getIntExtra("result", 0);
-                    //mTextViewResult.setText("" + result);
-
-                    Toast.MakeText(this, "Application was success in returning data with " + data
-                        , ToastLength.Short).Show();
                     Finish();
                 }
-                if (resultCode == Result.Canceled)
-                {
-                    //mTextViewResult.setText("Nothing selected");
-
-                    Toast.MakeText(this, "Application was failure in returning data with " + data
-                        , ToastLength.Short).Show();
-                }
+                //if (resultCode == Result.Canceled){
+                //}
             }
 
         }

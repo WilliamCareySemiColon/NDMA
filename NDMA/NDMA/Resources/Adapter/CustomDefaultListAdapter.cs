@@ -61,9 +61,9 @@ namespace NDMA.Resources.Adapter
                 Intent SearchForFoodActivity = new Intent(context, typeof(SearchForFoodFromApi));
                 context.StartActivity(SearchForFoodActivity);              
 
-                Toast.MakeText(context,
-                                "Pressed the add button with id of " + item, 
-                                ToastLength.Short).Show();
+                //Toast.MakeText(context,
+                //                "Pressed the add button with id of " + item, 
+                //                ToastLength.Short).Show();
 
             };
 
