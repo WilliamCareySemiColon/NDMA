@@ -11,7 +11,7 @@
         android:minWidth="150dp"
         android:id = "@+id/SimpleListViewTextView"
         android:textColor = "@color/GhostWhite"
-        android:textSize = "33dp"
+        android:textSize = "24dp"
         android:layout_marginTop = "10dp"
     />
 
@@ -21,7 +21,7 @@
         android:minWidth="150dp"
         android:id = "@+id/SimpleListViewTextViewType"
         android:textColor = "@color/GhostWhite"
-        android:textSize = "33dp"
+        android:textSize = "22dp"
         android:layout_marginTop = "10dp"
     />
 

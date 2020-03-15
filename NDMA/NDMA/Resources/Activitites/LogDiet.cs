@@ -185,6 +185,7 @@ namespace NDMA.Resources
                 if(resultCode == Result.Ok)
                 {
                     Toast.MakeText(this, "Successfully for returning the result", ToastLength.Short).Show();
+                    SetListView();
                 }
             }
         }

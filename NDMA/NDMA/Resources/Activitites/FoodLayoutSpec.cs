@@ -53,6 +53,10 @@ namespace NDMA.Resources
 
             Button Log = FindViewById<Button>(Resource.Id.Log);
             Log.Click += delegate {
+                var pos = FoodStorageItems.FoodScheduleStorage.ScheduleTrack[
+                    FoodStorageItems.FoodScheduleStorage.ScheduleID];
+
+                FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage[pos] = FoodDisplayedName.Text;
                 //List<String> FoodItems = FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage;
                 //if (FoodItems == null)
                 //{
@@ -61,9 +65,9 @@ namespace NDMA.Resources
                 //FoodItems.Add(food.Recipe.label);
 
                 //FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage = FoodItems;
-                Intent data = new Intent();
-                data.SetData(Android.Net.Uri.Parse("Another Sample string"));
-                SetResult(Result.Ok, data);
+                //Intent data = new Intent();
+                //data.SetData(Android.Net.Uri.Parse("Another Sample string"));
+                SetResult(Result.Ok);
                 //Toast.MakeText(Application.Context, "Successfully logged the data", ToastLength.Short).Show();
                 Finish();
             };
