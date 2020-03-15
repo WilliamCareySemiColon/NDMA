@@ -57,18 +57,8 @@ namespace NDMA.Resources
                     FoodStorageItems.FoodScheduleStorage.ScheduleID];
 
                 FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage[pos] = FoodDisplayedName.Text;
-                //List<String> FoodItems = FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage;
-                //if (FoodItems == null)
-                //{
-                //    FoodItems = new List<String>();
-                //}
-                //FoodItems.Add(food.Recipe.label);
-
-                //FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage = FoodItems;
-                //Intent data = new Intent();
-                //data.SetData(Android.Net.Uri.Parse("Another Sample string"));
+                
                 SetResult(Result.Ok);
-                //Toast.MakeText(Application.Context, "Successfully logged the data", ToastLength.Short).Show();
                 Finish();
             };
 
@@ -84,12 +74,6 @@ namespace NDMA.Resources
             FoodLayoutSpecArrayAdapter FoodListAdapter = new FoodLayoutSpecArrayAdapter(this, IngNames, IngAmount);
             ListView list = FindViewById<ListView>(Resource.Id.NutFoodList);
             list.Adapter = FoodListAdapter;
-
-            //list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e)
-            //{
-            //    ListItemClicked(e.Position, e.Position);
-            //};
-
         }
 
         private Android.Graphics.Bitmap GetImageBitmapFromUrl(string url)
@@ -107,18 +91,5 @@ namespace NDMA.Resources
 
             return imageBitmap;
         }
-
-        //private void ListItemClicked(int position, long id)
-        //{
-        //    var t = IngNames[position];
-        //    Toast.MakeText(Application.Context, t + " " + id, ToastLength.Short).Show();
-        //}
-
-        //private void ClickItem(String word)
-        //{
-        //    Toast.MakeText(Application.Context, "Word: " + word, ToastLength.Short).Show();
-        //    Intent AddIngredientActvity = new Intent(this, typeof(AddAdditionalIngredient));
-        //    StartActivity(AddIngredientActvity);
-        //}
     }
 }

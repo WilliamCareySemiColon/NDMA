@@ -53,6 +53,9 @@ namespace NDMA.Resources
                 case "discard":
                     {
                         FoodStorageItems.FoodScheduleStorage.Template = null;
+                        FoodStorageItems.FoodScheduleStorage.ScheduleTrack = null;
+                        FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage = null;
+                        FoodStorageItems.FoodScheduleStorage.ScheduleID = null;
                         Finish();
                         break;
                     }
