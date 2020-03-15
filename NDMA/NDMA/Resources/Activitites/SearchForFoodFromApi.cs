@@ -70,36 +70,25 @@ namespace NDMA.Resources
         {
             client = new HttpClient();
             int from = 0, to = 10;
-            //string url = $"https://api.edamam.com/api/food-database/parser?ingr={keyWord}&app_id={FoodDBApiCreds[0]}&app_key={FoodDBApiCreds[1]}";
             string url = "https://api.edamam.com/search?q=" + keyWord + "&app_id=" + RecipeSearchApCreds[0] + "&app_key="
                 + RecipeSearchApCreds[1] + "&from=" + from + "&to=" + to;
             ListView list = FindViewById<ListView>(Resource.Id.SearchFoodList);
-            try
-            {
+            try {
                 uri = new Uri(url);
                 response = await client.GetAsync(uri);
                 json = await response.Content.ReadAsStringAsync();
+
                 food = JsonConvert.DeserializeObject<ParsedFoodCollection>(json);
-
-                Toast.MakeText(Application.Context, 
-                    food.Q + " " + food.Count + " " + food.Hits.ToArray()[1].Recipe.label
-                    , ToastLength.Short).Show();
-
                 listAdapter = new CustomSearchedAPIListAdapter(this, food);
                 list.Adapter = listAdapter;
             }
-            catch (Exception e)
-            {
-                Toast.MakeText(Application.Context,
-                    "Error while retreiving the results from the api. Try agina later"
-                    + e.Message.ToString(), ToastLength.Long).Show();
+            catch (Exception e) {
+                Toast.MakeText(Application.Context, "Error while retreiving the results from the api. Try agina later" 
+                    + e.Message.ToString() , ToastLength.Long).Show();
             }
 
-            //{ keyWord};
-            list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e)
-            {
+            list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e) {
                 ListItemClicked(e.Position, e.Position);
-
             };
         }
         private void ListItemClicked(int position, long id)
