@@ -19,6 +19,7 @@ namespace NDMA.Resources.AdvisorActivities
     {
         private String[] IngNames, IngAmount;
         DBFood food;
+        int data;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -54,11 +55,31 @@ namespace NDMA.Resources.AdvisorActivities
 
             Button Log = FindViewById<Button>(Resource.Id.Log);
             Log.Click += delegate {
-                //var pos = FoodStorageItems.FoodScheduleStorage.ScheduleTrack[
-                //    FoodStorageItems.FoodScheduleStorage.ScheduleID];
 
-                //FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage[pos] = FoodDisplayedName.Text;
-                //FoodStorageItems.StaticFoodCollection.StoredFood.Add(food);
+                SetData();
+
+                if(FoodStorageForTestData.FoodStorage.FoodCollectionItems.Count == FoodStorageForTestData.FoodStorage.MaxItemsAmount + 1)
+                {
+                    List<DBFood> lisItems = FoodStorageForTestData.FoodStorage.FoodCollectionItems;
+
+                    DBFood[] arrItems = lisItems.ToArray();
+
+                    arrItems[FoodStorageForTestData.FoodStorage.FoodCollectionItemsPos
+                        [
+                            FoodStorageForTestData.FoodStorage.FoodTrackId
+                        ]] = food;
+
+                    FoodStorageForTestData.FoodStorage.FoodCollectionItems = new List<DBFood>();
+
+                    foreach(DBFood food in arrItems)
+                    {
+                        FoodStorageForTestData.FoodStorage.FoodCollectionItems.Add(food);
+                    }
+                }
+                else
+                {
+                    AddToListCollection();
+                }
 
                 SetResult(Result.Ok);
                 Finish();
@@ -69,6 +90,38 @@ namespace NDMA.Resources.AdvisorActivities
             ListView list = FindViewById<ListView>(Resource.Id.NutFoodList);
             list.Adapter = FoodListAdapter;
 
+        }
+
+        private void AddToListCollection()
+        {
+            FoodStorageForTestData.FoodStorage.FoodCollectionItems.Add(food);
+            FoodStorageForTestData.FoodStorage.FoodCollectionItemsPos.Add(FoodStorageForTestData.FoodStorage.FoodTrackId, data);
+        }
+
+        private void SetData()
+        {
+            switch(FoodStorageForTestData.FoodStorage.FoodTrackId)
+            {
+                case "Breakfast":
+                    {
+                        data = 0;
+                        break;
+                    }
+                case "Lunch":
+                    {
+                        data = 1;
+                        break;
+                    }
+                case "Dinner":
+                    {
+                        data = 2;
+                        break;
+                    }
+                default:
+                    {
+                        break;
+                    }
+            }
         }
 
         private Android.Graphics.Bitmap GetImageBitmapFromUrl(string url)

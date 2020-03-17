@@ -19,6 +19,10 @@ namespace NDMA.Resources.AdvisorActivities
         {
             base.OnCreate(savedInstanceState);
 
+            FoodStorageForTestData.FoodStorage.MaxItemsAmount = 3;
+            FoodStorageForTestData.FoodStorage.FoodCollectionItems = new List<JsonLoggedFood.DBFood>();
+            FoodStorageForTestData.FoodStorage.FoodCollectionItemsPos = new Dictionary<String, int>();
+
             // Create your application here
             SetContentView(Resource.Layout.CheckDailyInputForWeeklySample);
 
@@ -47,9 +51,23 @@ namespace NDMA.Resources.AdvisorActivities
         {
             switch(id)
             {
+                case "breakfast":
+                    {
+                        FoodStorageForTestData.FoodStorage.FoodTrackId = "Breakfast";
+                        break;
+                    }
+                case "lunch":
+                    {
+                        FoodStorageForTestData.FoodStorage.FoodTrackId = "Lunch";
+                        break;
+                    }
+                case "dinner":
+                    {
+                        FoodStorageForTestData.FoodStorage.FoodTrackId = "Dinner";
+                        break;
+                    }
                 default:
                     {
-                        //Toast.MakeText(this, id + "  btn pressed", ToastLength.Short).Show();
                         break;
                     }
             }
@@ -74,11 +92,47 @@ namespace NDMA.Resources.AdvisorActivities
             }
         }
 
+        private TextView GetTextView()
+        {
+
+            switch (FoodStorageForTestData.FoodStorage.FoodTrackId)
+            {
+                case "Breakfast":
+                    {
+                        FindViewById<Button>(Resource.Id.TestAddBreakfastBtn).Text = "Add - Disabled";
+                        FindViewById<Button>(Resource.Id.TestAddBreakfastBtn).Enabled = false;
+                        return FindViewById<TextView>(Resource.Id.InputBreakFastName);
+                    }
+                case "Lunch":
+                    {
+                        FindViewById<Button>(Resource.Id.TestAddLunchBtn).Text = "Add - Disabled";
+                        FindViewById<Button>(Resource.Id.TestAddLunchBtn).Enabled = false;
+                        return FindViewById<TextView>(Resource.Id.InputLunchName);
+                    }
+                case "Dinner":
+                    {
+                        FindViewById<Button>(Resource.Id.TestAddDinnerBtn).Text = "Add - Disabled";
+                        FindViewById<Button>(Resource.Id.TestAddDinnerBtn).Enabled = false;
+                        return FindViewById<TextView>(Resource.Id.InputDinnerName);
+                    }
+                default:
+                    {
+                        break;
+                    }
+            }
+            return null;
+        }
+
         protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data)
         {
             if(requestCode == 4 && resultCode == Result.Ok)
             {
-                Toast.MakeText(this, "Application was successfully in returning the data", ToastLength.Short).Show();
+                //Toast.MakeText(this, "Application was successfully in returning the data", ToastLength.Short).Show();
+                var textviewSet = GetTextView();
+                textviewSet.Text = FoodStorageForTestData.FoodStorage.FoodCollectionItems.ToArray()[
+                        FoodStorageForTestData.FoodStorage.FoodCollectionItemsPos[
+                            FoodStorageForTestData.FoodStorage.FoodTrackId]
+                    ].Recipe.label;
             }
             else
             {

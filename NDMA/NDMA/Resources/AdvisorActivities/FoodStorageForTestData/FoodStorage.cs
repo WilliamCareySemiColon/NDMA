@@ -17,5 +17,13 @@ namespace NDMA.Resources.AdvisorActivities.FoodStorageForTestData
     {
         public static ParsedFoodCollection food { get; set; }
         public static DBFood DBFood { get; set; }
+
+        public static String FoodTrackId { get; set; }
+
+        public static List<DBFood> FoodCollectionItems { get; set; }
+
+        public static Dictionary<String,int> FoodCollectionItemsPos { get; set; }
+
+        public static int MaxItemsAmount { get; set; }
     }
 }
