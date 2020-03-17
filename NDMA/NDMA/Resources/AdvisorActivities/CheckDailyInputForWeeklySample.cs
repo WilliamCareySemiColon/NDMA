@@ -25,6 +25,27 @@ namespace NDMA.Resources.AdvisorActivities
             Button returnBtn = FindViewById<Button>(Resource.Id.CancelCheck);
             returnBtn.Click += delegate { Finish(); };
 
+            Button breakFastAdd = FindViewById<Button>(Resource.Id.TestAddBreakfastBtn);
+            breakFastAdd.Click += delegate { ButtonPressed("breakfast"); };
+
+            Button lunchAddn = FindViewById<Button>(Resource.Id.TestAddLunchBtn);
+            lunchAddn.Click += delegate { ButtonPressed("lunch"); };
+
+            Button dinnerAdd = FindViewById<Button>(Resource.Id.TestAddDinnerBtn);
+            dinnerAdd.Click += delegate { ButtonPressed("dinner"); };
+
+        }
+
+        private void ButtonPressed(string id)
+        {
+            switch(id)
+            {
+                default:
+                    {
+                        Toast.MakeText(this, id + "  btn pressed", ToastLength.Short).Show();
+                        break;
+                    }
+            }
         }
     }
 }
