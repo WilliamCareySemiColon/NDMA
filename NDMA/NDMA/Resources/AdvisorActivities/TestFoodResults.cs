@@ -26,10 +26,8 @@ namespace NDMA.Resources.AdvisorActivities
 
             FinishAssessingInfoBtn.Click += delegate
             {
-                //SetResult(Result.Ok);
-                //Finish();
-
-                Toast.MakeText(this, "Pressed", ToastLength.Short).Show();
+                SetResult(Result.Ok);
+                Finish();
             };
         }
     }
