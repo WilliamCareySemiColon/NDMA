@@ -31,7 +31,26 @@ namespace NDMA.Resources.AdvisorActivities
                 SetResult(Result.Ok);
                 Finish();
             };
-            //searchBtn.Click += delegate { SearchApi(search.Text); };
+            searchBtn.Click += delegate { SearchApi(search.Text); };
+        }
+
+        private void SearchApi(string message)
+        {
+
+            if (message.Length >= 3)
+            {
+                Toast.MakeText(this,
+               "Application is searching for the items with the keyword: " + message,
+               ToastLength.Long).Show();
+
+                //GetFood(message);
+            }
+            else
+            {
+                Toast.MakeText(this,
+                "character length needs to be at least 3 charaters: " + message,
+                ToastLength.Long).Show();
+            }
         }
     }
 }

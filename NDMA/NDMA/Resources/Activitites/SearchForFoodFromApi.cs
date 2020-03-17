@@ -59,12 +59,21 @@ namespace NDMA.Resources
 
         private void SearchApi(string message)
         {
-            Toast.MakeText(this, 
-                "Application is searching for the items with the keyword: " + message, 
-                ToastLength.Long).Show();
 
             if (message.Length >= 3)
+            {
+                Toast.MakeText(this,
+               "Application is searching for the items with the keyword: " + message,
+               ToastLength.Long).Show();
+
                 GetFood(message);
+            }
+            else
+            {
+                Toast.MakeText(this,
+                "character length needs to be at least 3 charaters: " + message,
+                ToastLength.Long).Show();
+            }
         }
         private async void GetFood(String keyWord)
         {
