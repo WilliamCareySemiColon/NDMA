@@ -65,8 +65,6 @@ namespace NDMA.Resources.Adapter
                 {
                     imageBitmap = Android.Graphics.BitmapFactory.DecodeByteArray(imageBytes, 0, imageBytes.Length);
                 }
-
-
             }
 
             return imageBitmap;

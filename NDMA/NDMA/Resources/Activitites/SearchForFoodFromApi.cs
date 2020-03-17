@@ -105,7 +105,6 @@ namespace NDMA.Resources
             var t = food.Hits.ToArray()[position];
             FoodStorage.FoodStorage.food = food;
             FoodStorage.FoodStorage.DBFood = t;
-            var json = JsonConvert.SerializeObject(food);
 
             Intent FoodSpecActvity = new Intent(this, typeof(FoodLayoutSpec));
             StartActivityForResult(FoodSpecActvity, 1);

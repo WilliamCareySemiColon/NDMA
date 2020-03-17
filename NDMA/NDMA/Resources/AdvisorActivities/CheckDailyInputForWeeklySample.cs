@@ -42,7 +42,7 @@ namespace NDMA.Resources.AdvisorActivities
             {
                 default:
                     {
-                        Toast.MakeText(this, id + "  btn pressed", ToastLength.Short).Show();
+                        //Toast.MakeText(this, id + "  btn pressed", ToastLength.Short).Show();
                         break;
                     }
             }

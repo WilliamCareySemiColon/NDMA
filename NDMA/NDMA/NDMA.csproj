@@ -70,8 +70,10 @@
     <Compile Include="Resources\AdvisorActivities\AdvisorMain.cs" />
     <Compile Include="Resources\AdvisorActivities\CheckDailyInputForWeeklySample.cs" />
     <Compile Include="Resources\AdvisorActivities\DailyStatusGraph.cs" />
+    <Compile Include="Resources\AdvisorActivities\FoodStorageForTestData\FoodStorage.cs" />
     <Compile Include="Resources\AdvisorActivities\MainAdviseContent.cs" />
     <Compile Include="Resources\AdvisorActivities\OverdoneAdvise.cs" />
+    <Compile Include="Resources\AdvisorActivities\TestAdviseLog.cs" />
     <Compile Include="Resources\AdvisorActivities\TestDataSearchAPI.cs" />
     <Compile Include="Resources\AdvisorActivities\Underdone.cs" />
     <Compile Include="Resources\AdvisorActivities\WeeklyStatusGraph.cs" />

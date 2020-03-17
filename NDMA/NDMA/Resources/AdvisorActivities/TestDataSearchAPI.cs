@@ -52,7 +52,7 @@ namespace NDMA.Resources.AdvisorActivities
             Button searchBtn = FindViewById<Button>(Resource.Id.btnSearch);
 
             cancel.Click += delegate {
-                SetResult(Result.Ok);
+                SetResult(Result.Canceled);
                 Finish();
             };
             searchBtn.Click += delegate { SearchApi(search.Text); };
@@ -108,14 +108,12 @@ namespace NDMA.Resources.AdvisorActivities
         private void ListItemClicked(int position, long id)
         {
             var t = food.Hits.ToArray()[position];
-            //FoodStorage.FoodStorage.food
-            FoodStorage.FoodStorage.food = food;
-            FoodStorage.FoodStorage.DBFood = t;
-            var json = JsonConvert.SerializeObject(food);
-            //Toast.MakeText(Application.Context, t.label + " " + id, ToastLength.Short).Show();
 
-            //Intent FoodSpecActvity = new Intent(this, typeof(FoodLayoutSpec));
-            //StartActivityForResult(FoodSpecActvity, 1);
+            FoodStorageForTestData.FoodStorage.food = food;
+            FoodStorageForTestData.FoodStorage.DBFood = t;
+
+            Intent FoodSpecActvity = new Intent(this, typeof(TestAdviseLog));
+            StartActivityForResult(FoodSpecActvity, 1);
         }
 
         protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data)
