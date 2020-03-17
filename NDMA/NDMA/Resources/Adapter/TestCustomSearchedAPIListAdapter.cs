@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 
 using Android.App;
-
 using Android.Content;
 using Android.OS;
 using Android.Runtime;
@@ -14,17 +13,14 @@ using NDMA.Resources.JsonLoggedFood;
 
 namespace NDMA.Resources.Adapter
 {
-    class CustomSearchedAPIListAdapter : BaseAdapter
+    class TestCustomSearchedAPIListAdapter : BaseAdapter
     {
         public Activity context;
         public ParsedFoodCollection foods;
-
-        public CustomSearchedAPIListAdapter(Activity context, ParsedFoodCollection food) //We need a context to inflate our row view from 
-            : base()
+        public TestCustomSearchedAPIListAdapter(Activity context, ParsedFoodCollection food) : base()
         {
             this.context = context;
             this.foods = food;
-           
         }
         public override int Count
         {
@@ -44,9 +40,6 @@ namespace NDMA.Resources.Adapter
             //Get our object for this position
             var item = foods.Hits.ToArray()[position];
 
-            //Try to reuse convertView if it's not null, otherwise inflate it from our item layout
-            // This gives us some performance gains by not always inflating a new view
-            // This will sound familiar to MonoTouch developers with UITableViewCell.DequeueReusableCell()
             var view = (convertView ?? context.LayoutInflater.Inflate(Resource.Layout.DisplaySearchedAPIListLayout, parent, false)) as LinearLayout;
 
             //Find references to each subview in the list item's view
