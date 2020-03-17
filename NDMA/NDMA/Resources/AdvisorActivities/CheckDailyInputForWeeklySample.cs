@@ -25,6 +25,9 @@ namespace NDMA.Resources.AdvisorActivities
             Button returnBtn = FindViewById<Button>(Resource.Id.CancelCheck);
             returnBtn.Click += delegate { Finish(); };
 
+            Button CheckBtn = FindViewById<Button>(Resource.Id.SubmitCheck);
+            CheckBtn.Click += delegate { CheckFoodStatus(); };
+
             Button breakFastAdd = FindViewById<Button>(Resource.Id.TestAddBreakfastBtn);
             breakFastAdd.Click += delegate { ButtonPressed("breakfast"); };
 
@@ -33,6 +36,10 @@ namespace NDMA.Resources.AdvisorActivities
 
             Button dinnerAdd = FindViewById<Button>(Resource.Id.TestAddDinnerBtn);
             dinnerAdd.Click += delegate { ButtonPressed("dinner"); };
+
+            TextView bFast = FindViewById<TextView>(Resource.Id.InputBreakFastName);
+            TextView lunch = FindViewById<TextView>(Resource.Id.InputLunchName);
+            TextView dinner = FindViewById<TextView>(Resource.Id.InputDinnerName);
 
         }
 
@@ -49,6 +56,22 @@ namespace NDMA.Resources.AdvisorActivities
 
             Intent TestDataApiSearchIntent = new Intent(this, typeof(TestDataSearchAPI));
             StartActivityForResult(TestDataApiSearchIntent, 4);
+        }
+
+        private void CheckFoodStatus()
+        {
+            var bFatsText = FindViewById<TextView>(Resource.Id.InputBreakFastName).Text;
+            var lunchText = FindViewById<TextView>(Resource.Id.InputLunchName).Text;
+            var dinnrText = FindViewById<TextView>(Resource.Id.InputDinnerName).Text;
+
+            if(String.Equals(bFatsText, "Input Breakfast Name") ||
+                String.Equals(lunchText, "Input Lunch Name") ||
+                String.Equals(dinnrText, "Input Dinner Name") )
+            {
+                Toast.MakeText(this, 
+                    "Cannot check unless all the fields are fields with the necessary food details", 
+                    ToastLength.Short).Show();
+            }
         }
 
         protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data)
