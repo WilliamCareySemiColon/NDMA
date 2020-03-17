@@ -46,6 +46,21 @@ namespace NDMA.Resources.AdvisorActivities
                         break;
                     }
             }
+
+            Intent TestDataApiSearchIntent = new Intent(this, typeof(TestDataSearchAPI));
+            StartActivityForResult(TestDataApiSearchIntent, 4);
+        }
+
+        protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data)
+        {
+            if(requestCode == 4 && resultCode == Result.Ok)
+            {
+                Toast.MakeText(this, "Application was successfully in returning the data", ToastLength.Short).Show();
+            }
+            else
+            {
+                Toast.MakeText(this, "Application was not successfully in returning the data", ToastLength.Short).Show();
+            }
         }
     }
 }

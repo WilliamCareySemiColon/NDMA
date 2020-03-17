@@ -71,6 +71,7 @@
     <Compile Include="Resources\AdvisorActivities\DailyStatusGraph.cs" />
     <Compile Include="Resources\AdvisorActivities\MainAdviseContent.cs" />
     <Compile Include="Resources\AdvisorActivities\OverdoneAdvise.cs" />
+    <Compile Include="Resources\AdvisorActivities\TestDataSearchAPI.cs" />
     <Compile Include="Resources\AdvisorActivities\Underdone.cs" />
     <Compile Include="Resources\AdvisorActivities\WeeklyStatusGraph.cs" />
     <Compile Include="Resources\APIResources\RecipeSearchClass.cs" />
