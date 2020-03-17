@@ -90,6 +90,11 @@ namespace NDMA.Resources.AdvisorActivities
                     "Cannot check unless all the fields are fields with the necessary food details", 
                     ToastLength.Short).Show();
             }
+            else
+            {
+                Intent intent = new Intent(this, typeof(TestFoodResults));
+                StartActivityForResult(intent, 8);
+            }
         }
 
         private TextView GetTextView()
@@ -117,10 +122,9 @@ namespace NDMA.Resources.AdvisorActivities
                     }
                 default:
                     {
-                        break;
+                        return null;
                     }
             }
-            return null;
         }
 
         protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data)
@@ -133,6 +137,10 @@ namespace NDMA.Resources.AdvisorActivities
                         FoodStorageForTestData.FoodStorage.FoodCollectionItemsPos[
                             FoodStorageForTestData.FoodStorage.FoodTrackId]
                     ].Recipe.label;
+            }
+            else if (requestCode == 8 && resultCode == Result.Ok)
+            {
+                Finish();
             }
             else
             {

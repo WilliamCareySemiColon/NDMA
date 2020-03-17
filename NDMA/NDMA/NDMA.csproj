@@ -75,6 +75,7 @@
     <Compile Include="Resources\AdvisorActivities\OverdoneAdvise.cs" />
     <Compile Include="Resources\AdvisorActivities\TestAdviseLog.cs" />
     <Compile Include="Resources\AdvisorActivities\TestDataSearchAPI.cs" />
+    <Compile Include="Resources\AdvisorActivities\TestFoodResults.cs" />
     <Compile Include="Resources\AdvisorActivities\Underdone.cs" />
     <Compile Include="Resources\AdvisorActivities\WeeklyStatusGraph.cs" />
     <Compile Include="Resources\APIResources\RecipeSearchClass.cs" />
@@ -250,6 +251,11 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\CustomButton.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\TestFoodResults.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
