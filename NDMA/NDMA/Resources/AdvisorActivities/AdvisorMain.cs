@@ -33,13 +33,16 @@ namespace NDMA.Resources.AdvisorActivities
             advise.Click += delegate {
                 //ButtonClicked("Advise"); 
 
-                NutrionalAdvisor.GetCalories(FoodStorageItems.StaticFoodCollection.StoredFood, this);
+                var element = NutrionalAdvisor.GetUnderConsumedProducts(FoodStorageItems.StaticFoodCollection.StoredFood);
+
+                Toast.MakeText(this, "Length of underconsumed products: " + element, ToastLength.Short).Show();
+                //.GetCalories(FoodStorageItems.StaticFoodCollection.StoredFood, this);
             };
             overdone.Click += delegate { ButtonClicked("overdone"); };
             underdone.Click += delegate { ButtonClicked("underdone"); };
             checkQuicklyBtn.Click += delegate { ButtonClicked("checkQuickly"); };
             cancel.Click += delegate { ButtonClicked("cancel"); };
-            //setting the handlers on the images     WeeklyStatusImage
+            //setting the handlers on the images  WeeklyStatusImage
             ImageView dailyStatusImage = FindViewById<ImageView>(Resource.Id.DailyStatusImage);
             ImageView weeklyStatusImage = FindViewById<ImageView>(Resource.Id.WeeklyStatusImage);
 
