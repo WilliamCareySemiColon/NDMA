@@ -72,9 +72,9 @@ namespace NDMA.Resources
                         FoodStorageItems.FoodScheduleStorage.ScheduleTrack = null;
                         FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage = null;
                         FoodStorageItems.FoodScheduleStorage.ScheduleID = null;
-                        Toast.MakeText(Application.Context,
-                            "The size of the list is "  + FoodStorageItems.StaticFoodCollection.StoredFood.Count
-                            , ToastLength.Short).Show();
+                        //Toast.MakeText(Application.Context,
+                        //    "The size of the list is "  + FoodStorageItems.StaticFoodCollection.StoredFood.Count
+                        //    , ToastLength.Short).Show();
                         Finish();
                         break;
                     }

@@ -91,6 +91,10 @@
     <Compile Include="Resources\Activitites\LogDiet.cs" />
     <Compile Include="Resources\JsonLoggedFood\TotalOverallNutrients.cs" />
     <Compile Include="Resources\Activitites\SearchForFoodFromApi.cs" />
+    <Compile Include="Resources\NutritionalAdvisors\NutrionalAdvisor.cs" />
+    <Compile Include="Resources\ZZZTestData\CalculatedSubtance.cs" />
+    <Compile Include="Resources\ZZZTestData\Substance.cs" />
+    <Compile Include="Resources\ZZZTestData\TestRecAmoDBData.cs" />
     <Compile Include="Resources\ZZZTestData\TestSampleData.cs" />
     <Compile Include="UserLogin.cs" />
     <Compile Include="Register.cs" />
@@ -257,6 +261,7 @@
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
     Other similar extension points exist, see Microsoft.Common.targets.

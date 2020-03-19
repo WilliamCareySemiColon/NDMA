@@ -9,6 +9,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using NDMA.Resources.NutritionalAdvisors;
 
 namespace NDMA.Resources.AdvisorActivities
 {
@@ -29,7 +30,11 @@ namespace NDMA.Resources.AdvisorActivities
             Button checkQuicklyBtn = FindViewById<Button>(Resource.Id.CheckQuicklyBtn);
             Button cancel = FindViewById<Button>(Resource.Id.CancelAdvise);
 
-            advise.Click += delegate { ButtonClicked("Advise"); };
+            advise.Click += delegate {
+                //ButtonClicked("Advise"); 
+
+                NutrionalAdvisor.GetCalories(FoodStorageItems.StaticFoodCollection.StoredFood, this);
+            };
             overdone.Click += delegate { ButtonClicked("overdone"); };
             underdone.Click += delegate { ButtonClicked("underdone"); };
             checkQuicklyBtn.Click += delegate { ButtonClicked("checkQuickly"); };

@@ -22,5 +22,7 @@ namespace NDMA.Resources.ZZZTestData
         public static string AgeCategory = "22";
         public static string Diet = null;
         public static string NutritionDefincy = null;
+        public static float Calories = 2500;
+        public static float MinCalories = 2000;
     }
 }
