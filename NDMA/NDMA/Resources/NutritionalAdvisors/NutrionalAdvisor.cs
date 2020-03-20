@@ -77,7 +77,7 @@ namespace NDMA.Resources.NutritionalAdvisors
             }
             //fat - going through percentage rather then direct value
             float FatPercentage = float.Parse(TestRecAmoDBData.Fat.MaxPercentage);
-            if(fat > (TestSampleData.Calories * FatPercentage / 100))
+            if(fat > (TestSampleData.Calories * (FatPercentage / 100)))
             {
                 OverComsumedfood.Add(fat);
             }
@@ -146,7 +146,7 @@ namespace NDMA.Resources.NutritionalAdvisors
             }
             //fat - going through percentage rather then direct value
             float FatPercentage = float.Parse(TestRecAmoDBData.Fat.MinPercentage);
-            if (fat < (TestSampleData.Calories * FatPercentage / 100))
+            if (fat < (TestSampleData.Calories * (FatPercentage / 100)))
             {
                 UnderComsumedfood.Add(fat);
             }
@@ -189,5 +189,10 @@ namespace NDMA.Resources.NutritionalAdvisors
             return UnderComsumedfood.Count;
         }
 
+        //the method to getting the advise from the system
+        public static void GetNutritionalAdvise()
+        {
+
+        }
     }
 }

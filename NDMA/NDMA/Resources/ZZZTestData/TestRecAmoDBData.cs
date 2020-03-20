@@ -25,7 +25,7 @@ namespace NDMA.Resources.ZZZTestData
          * That translates to between 225 and 325 grams of carbohydrates a day
          *******************************************************************************/
 
-        public static Substance Carbohydrates = new Substance("130g", 
+        public static Substance Carbohydrates = new Substance("325g", 
                 new string[] { "milk", "grains", "fruits", "vegetables" });
 
         /*************************************************************************************************

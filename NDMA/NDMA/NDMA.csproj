@@ -96,6 +96,10 @@
     <Compile Include="Resources\ZZZTestData\Substance.cs" />
     <Compile Include="Resources\ZZZTestData\TestRecAmoDBData.cs" />
     <Compile Include="Resources\ZZZTestData\TestSampleData.cs" />
+    <Compile Include="TestStaticData\FoodAndDiet\Diet.cs" />
+    <Compile Include="TestStaticData\FoodAndDiet\FoodCategory.cs" />
+    <Compile Include="TestStaticData\NutitionalDifficulty\NutritionslDifficulty.cs" />
+    <Compile Include="TestStaticData\StaticDataModel.cs" />
     <Compile Include="UserLogin.cs" />
     <Compile Include="Register.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
