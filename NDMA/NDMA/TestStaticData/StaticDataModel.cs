@@ -26,6 +26,16 @@ namespace NDMA.TestStaticData
             "increase the amount of physical activity done on a daily basis, or reduce the amount of calories consumed, people can become obese.",
             GetImageBitmapFromUrl("https://i2-prod.mirror.co.uk/incoming/article2036874.ece/ALTERNATES/s1200b/fat-overweight.jpg"));
 
+        public static NutritionslDifficulty Underweight = new NutritionslDifficulty("Underweight",
+           "For example, do veiny arms mean you're underweight? Some people who are very thin complain about veiny arms. " +
+            "But bodybuilders have veiny arms, as well. So veiny arms, alone, aren't necessarily an indicator that you are too thin." +
+            "Other people complain about joints that look too large.If you are underweight and carry very little muscle mass, your bones " +
+            "and your joints may appear more prominent.But again, having large bones or a more noticeable joint doesn't mean that you are " +
+            "definitely underweight. Other symptoms of being underweight may include problems due to malnutrition: Fragile bones " +
+            "Irregular menstrual periods or problems getting pregnant Hair loss Weak immune system Dizziness or fatigue from anemia " +
+            "Poor growth and development, especially in children who are underweight",
+           GetImageBitmapFromUrl("https://www.naturalremedies.org/images/underweight-1.jpg"));
+
         public static Diet Vegetarian = new Diet("Vegetarian",
             "Vegetarianism is the practice of abstaining from the consumption of meat (red meat, poultry, seafood, and the flesh of any other animal)," +
             " and may also include abstention from by-products of animal slaughter. Vegetarianism may be adopted for various reasons.Many people " +
