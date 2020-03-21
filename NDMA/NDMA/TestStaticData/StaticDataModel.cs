@@ -14,7 +14,7 @@ using NDMA.TestStaticData.NutitionalDifficulty;
 
 namespace NDMA.TestStaticData
 {
-    class StaticDataModel
+    public static class StaticDataModel
     {
         //setting the nutrional disease
         public static NutritionslDifficulty Obesity =new NutritionslDifficulty("Obesity", 

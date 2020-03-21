@@ -10,6 +10,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using NDMA.Resources.Adapter;
+using NDMA.Resources.NutritionalAdvisors;
 
 namespace NDMA.Resources.AdvisorActivities
 {
@@ -48,6 +49,9 @@ namespace NDMA.Resources.AdvisorActivities
             ListView list = FindViewById<ListView>(Resource.Id.AdviseFoodListView);
             AdvisorAdapter arrayAdapter2 = new AdvisorAdapter(this, Sm, Sm2);
             list.Adapter = arrayAdapter2;
+
+            TextView adviseText = FindViewById<TextView>(Resource.Id.AdviseParagraph);
+            adviseText.Text = NutrionalAdvisor.GetCaloriesAdvise(FoodStorageItems.StaticFoodCollection.StoredFood,this);
 
             Button button = FindViewById<Button>(Resource.Id.AdviseReturnBtn);
             button.Click += delegate { Finish(); };

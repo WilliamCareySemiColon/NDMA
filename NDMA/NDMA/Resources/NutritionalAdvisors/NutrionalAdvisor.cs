@@ -11,13 +11,14 @@ using Android.Views;
 using Android.Widget;
 using NDMA.Resources.JsonLoggedFood;
 using NDMA.Resources.ZZZTestData;
+using NDMA.TestStaticData;
 
 namespace NDMA.Resources.NutritionalAdvisors
 {
     public static class NutrionalAdvisor
     {
         //test method to connect the advisor page to the actual advisor
-        public static void GetCalories(List<DBFood> dBFoodCollection, Activity context)
+        public static String GetCaloriesAdvise(List<DBFood> dBFoodCollection, Activity context)
         {
             double cal = 0;
             string message;
@@ -32,20 +33,14 @@ namespace NDMA.Resources.NutritionalAdvisors
 
             }
 
-            if (cal > TestSampleData.Calories)
-            {
-                message = "Too much calories are being consumed with consumed food, please consome less";
+            if (cal > TestSampleData.Calories) {
+                return StaticDataModel.Obesity.GetDescription();
             }
-            else if (cal < TestSampleData.MinCalories)
-            {
-                message = "Too little calories are being consumed with consumed food, please consome more";
+            else if (cal < TestSampleData.MinCalories) {
+                return StaticDataModel.Underweight.GetDescription();
+            } else {
+                return "Amount of calories comsuned within acceptable paramters";
             }
-            else
-            {
-                message = "Amount of calories comsuned within acceptable paramters";
-            }
-
-            Toast.MakeText(context, message,ToastLength.Short).Show();
         }
 
         //actually methods for the three main pages
