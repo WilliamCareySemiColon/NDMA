@@ -9,6 +9,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using NDMA.Resources.Adapter;
 
 namespace NDMA.Resources.AdvisorActivities
 {
@@ -24,7 +25,7 @@ namespace NDMA.Resources.AdvisorActivities
 
             TextView header = FindViewById<TextView>(Resource.Id.HeaderMainAdvise);
 
-            header.Text = "Underdone";
+            header.Text = "Underdone advise contents";
 
             string[] Sm = new string[]
             {
@@ -35,9 +36,18 @@ namespace NDMA.Resources.AdvisorActivities
                  "Sample"
             };
 
+            string[] Sm2 = new string[]
+           {
+                "Sample",
+                "Sample",
+                "Sample",
+                "Sample",
+                 "Sample"
+           };
+
             ListView list = FindViewById<ListView>(Resource.Id.AdviseFoodListView);
-            ArrayAdapter arrayAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleExpandableListItem1, Sm);
-            list.Adapter = arrayAdapter;
+            AdvisorAdapter arrayAdapter2 = new AdvisorAdapter(this, Sm, Sm2);
+            list.Adapter = arrayAdapter2;
 
             Button button = FindViewById<Button>(Resource.Id.AdviseReturnBtn);
             button.Click += delegate { Finish(); };

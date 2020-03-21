@@ -46,7 +46,6 @@ namespace NDMA.Resources.AdvisorActivities
            };
 
             ListView list = FindViewById<ListView>(Resource.Id.AdviseFoodListView);
-            ArrayAdapter arrayAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleExpandableListItem1, Sm);
             AdvisorAdapter arrayAdapter2 = new AdvisorAdapter(this, Sm, Sm2);
             list.Adapter = arrayAdapter2;
 
