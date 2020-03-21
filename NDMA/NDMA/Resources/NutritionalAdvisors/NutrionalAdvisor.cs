@@ -32,9 +32,6 @@ namespace NDMA.Resources.NutritionalAdvisors
 
             }
 
-            var boolState = cal > TestSampleData.Calories ? true : false;
-
-
             if (cal > TestSampleData.Calories)
             {
                 message = "Too much calories are being consumed with consumed food, please consome less";
@@ -190,7 +187,7 @@ namespace NDMA.Resources.NutritionalAdvisors
         }
 
         //the method to getting the advise from the system
-        public static void GetNutritionalAdvise()
+        public static void GetNutritionalAdvise(List<DBFood> dBFoodCollection)
         {
 
         }

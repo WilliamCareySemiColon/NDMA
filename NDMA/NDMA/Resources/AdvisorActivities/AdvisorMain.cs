@@ -30,14 +30,7 @@ namespace NDMA.Resources.AdvisorActivities
             Button checkQuicklyBtn = FindViewById<Button>(Resource.Id.CheckQuicklyBtn);
             Button cancel = FindViewById<Button>(Resource.Id.CancelAdvise);
 
-            advise.Click += delegate {
-                //ButtonClicked("Advise"); 
-
-                var element = NutrionalAdvisor.GetUnderConsumedProducts(FoodStorageItems.StaticFoodCollection.StoredFood);
-
-                Toast.MakeText(this, "Length of underconsumed products: " + element, ToastLength.Short).Show();
-                //.GetCalories(FoodStorageItems.StaticFoodCollection.StoredFood, this);
-            };
+            advise.Click += delegate { ButtonClicked("Advise"); };
             overdone.Click += delegate { ButtonClicked("overdone"); };
             underdone.Click += delegate { ButtonClicked("underdone"); };
             checkQuicklyBtn.Click += delegate { ButtonClicked("checkQuickly"); };
