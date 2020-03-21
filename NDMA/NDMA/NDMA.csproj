@@ -63,6 +63,7 @@
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Activitites\FoodLayoutSpec.cs" />
     <Compile Include="Home.cs" />
+    <Compile Include="Resources\Adapter\AdvisorAdapter.cs" />
     <Compile Include="Resources\Adapter\CustomDefaultListAdapter.cs" />
     <Compile Include="Resources\Adapter\CustomSearchedAPIListAdapter.cs" />
     <Compile Include="Resources\Adapter\FoodLayoutSpecArrayAdapter.cs" />
@@ -265,7 +266,11 @@
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\AdvisorListDisplayFoodContents.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
     Other similar extension points exist, see Microsoft.Common.targets.
