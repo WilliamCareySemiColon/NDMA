@@ -45,25 +45,13 @@ namespace NDMA.Resources.Adapter
 
             var view = (convertView ?? context.LayoutInflater.Inflate(Resource.Layout.AdvisorListDisplayFoodContents, parent, false)) as LinearLayout;
 
-            ////Find references to each subview in the list item's view
-            //var textTop = view.FindViewById(Resource.Id.SimpleListViewTextView) as TextView;
-            ////Assign this item's values to the various subviews 
-            //textTop.Text = item;
+            //Find references to each subview in the list item's view
+            var textTop = view.FindViewById(Resource.Id.FoodNameDisplayAdvise) as TextView;
+            //Assign this item's values to the various subviews 
+            textTop.Text = item;
 
-            //if (FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage != null)
-            //{
-            //    var FoodNames = view.FindViewById(Resource.Id.SimpleListViewTextViewType) as TextView;
-            //    FoodNames.Text = FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage.ToArray()[position];
-            //}
-
-            ////capture the button
-            //var button = view.FindViewById(Resource.Id.SimpleListViewAddButton) as Button;
-            //button.Click += delegate {
-            //    FoodStorageItems.FoodScheduleStorage.ScheduleID = item;
-
-            //    Intent SearchForFoodActivity = new Intent(context, typeof(SearchForFoodFromApi));
-            //    context.StartActivityForResult(SearchForFoodActivity, 2);
-            //};
+            var FoodNames = view.FindViewById(Resource.Id.FoodQuantityDisplayAdvise) as TextView;
+            FoodNames.Text = foodNames[position];
 
             //Finally return the view 
             return view;
