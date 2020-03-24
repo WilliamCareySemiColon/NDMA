@@ -208,6 +208,5132 @@ namespace NDMA
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_tileMode = global::NDMA.Resource.Styleable.GradientColor_android_tileMode;
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_type = global::NDMA.Resource.Styleable.GradientColor_android_type;
 			global::Xamarin.Essentials.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::NDMA.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::NDMA.Resource.Animation.abc_fade_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::NDMA.Resource.Animation.abc_fade_out;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::NDMA.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_popup_enter = global::NDMA.Resource.Animation.abc_popup_enter;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_popup_exit = global::NDMA.Resource.Animation.abc_popup_exit;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::NDMA.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_bottom = global::NDMA.Resource.Animation.abc_slide_in_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_top = global::NDMA.Resource.Animation.abc_slide_in_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_bottom = global::NDMA.Resource.Animation.abc_slide_out_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_top = global::NDMA.Resource.Animation.abc_slide_out_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_tooltip_enter = global::NDMA.Resource.Animation.abc_tooltip_enter;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_tooltip_exit = global::NDMA.Resource.Animation.abc_tooltip_exit;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_in = global::NDMA.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_out = global::NDMA.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_in = global::NDMA.Resource.Animation.design_snackbar_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_out = global::NDMA.Resource.Animation.design_snackbar_out;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromLeft = global::NDMA.Resource.Animation.EnterFromLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromRight = global::NDMA.Resource.Animation.EnterFromRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToLeft = global::NDMA.Resource.Animation.ExitToLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToRight = global::NDMA.Resource.Animation.ExitToRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_appbar_state_list_animator = global::NDMA.Resource.Animator.design_appbar_state_list_animator;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_fab_hide_motion_spec = global::NDMA.Resource.Animator.design_fab_hide_motion_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_fab_show_motion_spec = global::NDMA.Resource.Animator.design_fab_show_motion_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_btn_state_list_anim = global::NDMA.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::NDMA.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_chip_state_list_anim = global::NDMA.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_hide_motion_spec = global::NDMA.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_show_motion_spec = global::NDMA.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::NDMA.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::NDMA.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarDivider = global::NDMA.Resource.Attribute.actionBarDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarItemBackground = global::NDMA.Resource.Attribute.actionBarItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarPopupTheme = global::NDMA.Resource.Attribute.actionBarPopupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::NDMA.Resource.Attribute.actionBarSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSplitStyle = global::NDMA.Resource.Attribute.actionBarSplitStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarStyle = global::NDMA.Resource.Attribute.actionBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabBarStyle = global::NDMA.Resource.Attribute.actionBarTabBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabStyle = global::NDMA.Resource.Attribute.actionBarTabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabTextStyle = global::NDMA.Resource.Attribute.actionBarTabTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTheme = global::NDMA.Resource.Attribute.actionBarTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarWidgetTheme = global::NDMA.Resource.Attribute.actionBarWidgetTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionButtonStyle = global::NDMA.Resource.Attribute.actionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionDropDownStyle = global::NDMA.Resource.Attribute.actionDropDownStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionLayout = global::NDMA.Resource.Attribute.actionLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionMenuTextAppearance = global::NDMA.Resource.Attribute.actionMenuTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionMenuTextColor = global::NDMA.Resource.Attribute.actionMenuTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeBackground = global::NDMA.Resource.Attribute.actionModeBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCloseButtonStyle = global::NDMA.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCloseDrawable = global::NDMA.Resource.Attribute.actionModeCloseDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCopyDrawable = global::NDMA.Resource.Attribute.actionModeCopyDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCutDrawable = global::NDMA.Resource.Attribute.actionModeCutDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeFindDrawable = global::NDMA.Resource.Attribute.actionModeFindDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModePasteDrawable = global::NDMA.Resource.Attribute.actionModePasteDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModePopupWindowStyle = global::NDMA.Resource.Attribute.actionModePopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeSelectAllDrawable = global::NDMA.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeShareDrawable = global::NDMA.Resource.Attribute.actionModeShareDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeSplitBackground = global::NDMA.Resource.Attribute.actionModeSplitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeStyle = global::NDMA.Resource.Attribute.actionModeStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeWebSearchDrawable = global::NDMA.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionOverflowButtonStyle = global::NDMA.Resource.Attribute.actionOverflowButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionOverflowMenuStyle = global::NDMA.Resource.Attribute.actionOverflowMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionProviderClass = global::NDMA.Resource.Attribute.actionProviderClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionViewClass = global::NDMA.Resource.Attribute.actionViewClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.activityChooserViewStyle = global::NDMA.Resource.Attribute.activityChooserViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::NDMA.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogCenterButtons = global::NDMA.Resource.Attribute.alertDialogCenterButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogStyle = global::NDMA.Resource.Attribute.alertDialogStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogTheme = global::NDMA.Resource.Attribute.alertDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.allowStacking = global::NDMA.Resource.Attribute.allowStacking;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alpha = global::NDMA.Resource.Attribute.alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alphabeticModifiers = global::NDMA.Resource.Attribute.alphabeticModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.arrowHeadLength = global::NDMA.Resource.Attribute.arrowHeadLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.arrowShaftLength = global::NDMA.Resource.Attribute.arrowShaftLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoCompleteTextViewStyle = global::NDMA.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeMaxTextSize = global::NDMA.Resource.Attribute.autoSizeMaxTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeMinTextSize = global::NDMA.Resource.Attribute.autoSizeMinTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizePresetSizes = global::NDMA.Resource.Attribute.autoSizePresetSizes;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeStepGranularity = global::NDMA.Resource.Attribute.autoSizeStepGranularity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeTextType = global::NDMA.Resource.Attribute.autoSizeTextType;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.background = global::NDMA.Resource.Attribute.background;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundSplit = global::NDMA.Resource.Attribute.backgroundSplit;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundStacked = global::NDMA.Resource.Attribute.backgroundStacked;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTint = global::NDMA.Resource.Attribute.backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTintMode = global::NDMA.Resource.Attribute.backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.barLength = global::NDMA.Resource.Attribute.barLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_autoHide = global::NDMA.Resource.Attribute.behavior_autoHide;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_fitToContents = global::NDMA.Resource.Attribute.behavior_fitToContents;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_hideable = global::NDMA.Resource.Attribute.behavior_hideable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_overlapTop = global::NDMA.Resource.Attribute.behavior_overlapTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_peekHeight = global::NDMA.Resource.Attribute.behavior_peekHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_skipCollapsed = global::NDMA.Resource.Attribute.behavior_skipCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderlessButtonStyle = global::NDMA.Resource.Attribute.borderlessButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderWidth = global::NDMA.Resource.Attribute.borderWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomAppBarStyle = global::NDMA.Resource.Attribute.bottomAppBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomNavigationStyle = global::NDMA.Resource.Attribute.bottomNavigationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetDialogTheme = global::NDMA.Resource.Attribute.bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetStyle = global::NDMA.Resource.Attribute.bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxBackgroundColor = global::NDMA.Resource.Attribute.boxBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxBackgroundMode = global::NDMA.Resource.Attribute.boxBackgroundMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCollapsedPaddingTop = global::NDMA.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusBottomEnd = global::NDMA.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusBottomStart = global::NDMA.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusTopEnd = global::NDMA.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusTopStart = global::NDMA.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxStrokeColor = global::NDMA.Resource.Attribute.boxStrokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxStrokeWidth = global::NDMA.Resource.Attribute.boxStrokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarButtonStyle = global::NDMA.Resource.Attribute.buttonBarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::NDMA.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::NDMA.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::NDMA.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarStyle = global::NDMA.Resource.Attribute.buttonBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonGravity = global::NDMA.Resource.Attribute.buttonGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonIconDimen = global::NDMA.Resource.Attribute.buttonIconDimen;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonPanelSideLayout = global::NDMA.Resource.Attribute.buttonPanelSideLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyle = global::NDMA.Resource.Attribute.buttonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyleSmall = global::NDMA.Resource.Attribute.buttonStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonTint = global::NDMA.Resource.Attribute.buttonTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonTintMode = global::NDMA.Resource.Attribute.buttonTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardBackgroundColor = global::NDMA.Resource.Attribute.cardBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardCornerRadius = global::NDMA.Resource.Attribute.cardCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardElevation = global::NDMA.Resource.Attribute.cardElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardMaxElevation = global::NDMA.Resource.Attribute.cardMaxElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardPreventCornerOverlap = global::NDMA.Resource.Attribute.cardPreventCornerOverlap;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardUseCompatPadding = global::NDMA.Resource.Attribute.cardUseCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardViewStyle = global::NDMA.Resource.Attribute.cardViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkboxStyle = global::NDMA.Resource.Attribute.checkboxStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedChip = global::NDMA.Resource.Attribute.checkedChip;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedIcon = global::NDMA.Resource.Attribute.checkedIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedIconEnabled = global::NDMA.Resource.Attribute.checkedIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedIconVisible = global::NDMA.Resource.Attribute.checkedIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedTextViewStyle = global::NDMA.Resource.Attribute.checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipBackgroundColor = global::NDMA.Resource.Attribute.chipBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipCornerRadius = global::NDMA.Resource.Attribute.chipCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipEndPadding = global::NDMA.Resource.Attribute.chipEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipGroupStyle = global::NDMA.Resource.Attribute.chipGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIcon = global::NDMA.Resource.Attribute.chipIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconEnabled = global::NDMA.Resource.Attribute.chipIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconSize = global::NDMA.Resource.Attribute.chipIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconTint = global::NDMA.Resource.Attribute.chipIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconVisible = global::NDMA.Resource.Attribute.chipIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipMinHeight = global::NDMA.Resource.Attribute.chipMinHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipSpacing = global::NDMA.Resource.Attribute.chipSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipSpacingHorizontal = global::NDMA.Resource.Attribute.chipSpacingHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipSpacingVertical = global::NDMA.Resource.Attribute.chipSpacingVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStandaloneStyle = global::NDMA.Resource.Attribute.chipStandaloneStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStartPadding = global::NDMA.Resource.Attribute.chipStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStrokeColor = global::NDMA.Resource.Attribute.chipStrokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStrokeWidth = global::NDMA.Resource.Attribute.chipStrokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStyle = global::NDMA.Resource.Attribute.chipStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIcon = global::NDMA.Resource.Attribute.closeIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconEnabled = global::NDMA.Resource.Attribute.closeIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconEndPadding = global::NDMA.Resource.Attribute.closeIconEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconSize = global::NDMA.Resource.Attribute.closeIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconStartPadding = global::NDMA.Resource.Attribute.closeIconStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconTint = global::NDMA.Resource.Attribute.closeIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconVisible = global::NDMA.Resource.Attribute.closeIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeItemLayout = global::NDMA.Resource.Attribute.closeItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseContentDescription = global::NDMA.Resource.Attribute.collapseContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleGravity = global::NDMA.Resource.Attribute.collapsedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleTextAppearance = global::NDMA.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseIcon = global::NDMA.Resource.Attribute.collapseIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.color = global::NDMA.Resource.Attribute.color;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorAccent = global::NDMA.Resource.Attribute.colorAccent;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorBackgroundFloating = global::NDMA.Resource.Attribute.colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorButtonNormal = global::NDMA.Resource.Attribute.colorButtonNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlActivated = global::NDMA.Resource.Attribute.colorControlActivated;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlHighlight = global::NDMA.Resource.Attribute.colorControlHighlight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlNormal = global::NDMA.Resource.Attribute.colorControlNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorError = global::NDMA.Resource.Attribute.colorError;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimary = global::NDMA.Resource.Attribute.colorPrimary;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimaryDark = global::NDMA.Resource.Attribute.colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSecondary = global::NDMA.Resource.Attribute.colorSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSwitchThumbNormal = global::NDMA.Resource.Attribute.colorSwitchThumbNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.commitIcon = global::NDMA.Resource.Attribute.commitIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentDescription = global::NDMA.Resource.Attribute.contentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetEnd = global::NDMA.Resource.Attribute.contentInsetEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetEndWithActions = global::NDMA.Resource.Attribute.contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetLeft = global::NDMA.Resource.Attribute.contentInsetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetRight = global::NDMA.Resource.Attribute.contentInsetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetStart = global::NDMA.Resource.Attribute.contentInsetStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetStartWithNavigation = global::NDMA.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPadding = global::NDMA.Resource.Attribute.contentPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingBottom = global::NDMA.Resource.Attribute.contentPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingLeft = global::NDMA.Resource.Attribute.contentPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingRight = global::NDMA.Resource.Attribute.contentPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingTop = global::NDMA.Resource.Attribute.contentPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentScrim = global::NDMA.Resource.Attribute.contentScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.controlBackground = global::NDMA.Resource.Attribute.controlBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.coordinatorLayoutStyle = global::NDMA.Resource.Attribute.coordinatorLayoutStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cornerRadius = global::NDMA.Resource.Attribute.cornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterEnabled = global::NDMA.Resource.Attribute.counterEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterMaxLength = global::NDMA.Resource.Attribute.counterMaxLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterOverflowTextAppearance = global::NDMA.Resource.Attribute.counterOverflowTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterTextAppearance = global::NDMA.Resource.Attribute.counterTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.customNavigationLayout = global::NDMA.Resource.Attribute.customNavigationLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.defaultQueryHint = global::NDMA.Resource.Attribute.defaultQueryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogCornerRadius = global::NDMA.Resource.Attribute.dialogCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogPreferredPadding = global::NDMA.Resource.Attribute.dialogPreferredPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogTheme = global::NDMA.Resource.Attribute.dialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.displayOptions = global::NDMA.Resource.Attribute.displayOptions;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.divider = global::NDMA.Resource.Attribute.divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerHorizontal = global::NDMA.Resource.Attribute.dividerHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerPadding = global::NDMA.Resource.Attribute.dividerPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerVertical = global::NDMA.Resource.Attribute.dividerVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.drawableSize = global::NDMA.Resource.Attribute.drawableSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.drawerArrowStyle = global::NDMA.Resource.Attribute.drawerArrowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::NDMA.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropDownListViewStyle = global::NDMA.Resource.Attribute.dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextBackground = global::NDMA.Resource.Attribute.editTextBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextColor = global::NDMA.Resource.Attribute.editTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextStyle = global::NDMA.Resource.Attribute.editTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.elevation = global::NDMA.Resource.Attribute.elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.enforceMaterialTheme = global::NDMA.Resource.Attribute.enforceMaterialTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.enforceTextAppearance = global::NDMA.Resource.Attribute.enforceTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.errorEnabled = global::NDMA.Resource.Attribute.errorEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.errorTextAppearance = global::NDMA.Resource.Attribute.errorTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::NDMA.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expanded = global::NDMA.Resource.Attribute.expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleGravity = global::NDMA.Resource.Attribute.expandedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMargin = global::NDMA.Resource.Attribute.expandedTitleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginBottom = global::NDMA.Resource.Attribute.expandedTitleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginEnd = global::NDMA.Resource.Attribute.expandedTitleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginStart = global::NDMA.Resource.Attribute.expandedTitleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginTop = global::NDMA.Resource.Attribute.expandedTitleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleTextAppearance = global::NDMA.Resource.Attribute.expandedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabAlignmentMode = global::NDMA.Resource.Attribute.fabAlignmentMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleMargin = global::NDMA.Resource.Attribute.fabCradleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleRoundedCornerRadius = global::NDMA.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleVerticalOffset = global::NDMA.Resource.Attribute.fabCradleVerticalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCustomSize = global::NDMA.Resource.Attribute.fabCustomSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabSize = global::NDMA.Resource.Attribute.fabSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollEnabled = global::NDMA.Resource.Attribute.fastScrollEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::NDMA.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::NDMA.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalThumbDrawable = global::NDMA.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalTrackDrawable = global::NDMA.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.firstBaselineToTopHeight = global::NDMA.Resource.Attribute.firstBaselineToTopHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.floatingActionButtonStyle = global::NDMA.Resource.Attribute.floatingActionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.font = global::NDMA.Resource.Attribute.font;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontFamily = global::NDMA.Resource.Attribute.fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderAuthority = global::NDMA.Resource.Attribute.fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderCerts = global::NDMA.Resource.Attribute.fontProviderCerts;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderFetchStrategy = global::NDMA.Resource.Attribute.fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderFetchTimeout = global::NDMA.Resource.Attribute.fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderPackage = global::NDMA.Resource.Attribute.fontProviderPackage;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderQuery = global::NDMA.Resource.Attribute.fontProviderQuery;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontStyle = global::NDMA.Resource.Attribute.fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontVariationSettings = global::NDMA.Resource.Attribute.fontVariationSettings;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontWeight = global::NDMA.Resource.Attribute.fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.foregroundInsidePadding = global::NDMA.Resource.Attribute.foregroundInsidePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.gapBetweenBars = global::NDMA.Resource.Attribute.gapBetweenBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.goIcon = global::NDMA.Resource.Attribute.goIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.headerLayout = global::NDMA.Resource.Attribute.headerLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.height = global::NDMA.Resource.Attribute.height;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperText = global::NDMA.Resource.Attribute.helperText;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperTextEnabled = global::NDMA.Resource.Attribute.helperTextEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperTextTextAppearance = global::NDMA.Resource.Attribute.helperTextTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideMotionSpec = global::NDMA.Resource.Attribute.hideMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnContentScroll = global::NDMA.Resource.Attribute.hideOnContentScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnScroll = global::NDMA.Resource.Attribute.hideOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintAnimationEnabled = global::NDMA.Resource.Attribute.hintAnimationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintEnabled = global::NDMA.Resource.Attribute.hintEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintTextAppearance = global::NDMA.Resource.Attribute.hintTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.homeAsUpIndicator = global::NDMA.Resource.Attribute.homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.homeLayout = global::NDMA.Resource.Attribute.homeLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hoveredFocusedTranslationZ = global::NDMA.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.icon = global::NDMA.Resource.Attribute.icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconEndPadding = global::NDMA.Resource.Attribute.iconEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconGravity = global::NDMA.Resource.Attribute.iconGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconifiedByDefault = global::NDMA.Resource.Attribute.iconifiedByDefault;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconPadding = global::NDMA.Resource.Attribute.iconPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconSize = global::NDMA.Resource.Attribute.iconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconStartPadding = global::NDMA.Resource.Attribute.iconStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTint = global::NDMA.Resource.Attribute.iconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTintMode = global::NDMA.Resource.Attribute.iconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.imageButtonStyle = global::NDMA.Resource.Attribute.imageButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.indeterminateProgressStyle = global::NDMA.Resource.Attribute.indeterminateProgressStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.initialActivityCount = global::NDMA.Resource.Attribute.initialActivityCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.insetForeground = global::NDMA.Resource.Attribute.insetForeground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.isLightTheme = global::NDMA.Resource.Attribute.isLightTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemBackground = global::NDMA.Resource.Attribute.itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemHorizontalPadding = global::NDMA.Resource.Attribute.itemHorizontalPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemHorizontalTranslationEnabled = global::NDMA.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconPadding = global::NDMA.Resource.Attribute.itemIconPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconSize = global::NDMA.Resource.Attribute.itemIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconTint = global::NDMA.Resource.Attribute.itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemPadding = global::NDMA.Resource.Attribute.itemPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemSpacing = global::NDMA.Resource.Attribute.itemSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearance = global::NDMA.Resource.Attribute.itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearanceActive = global::NDMA.Resource.Attribute.itemTextAppearanceActive;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearanceInactive = global::NDMA.Resource.Attribute.itemTextAppearanceInactive;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextColor = global::NDMA.Resource.Attribute.itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.keylines = global::NDMA.Resource.Attribute.keylines;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.labelVisibilityMode = global::NDMA.Resource.Attribute.labelVisibilityMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lastBaselineToBottomHeight = global::NDMA.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout = global::NDMA.Resource.Attribute.layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layoutManager = global::NDMA.Resource.Attribute.layoutManager;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchor = global::NDMA.Resource.Attribute.layout_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchorGravity = global::NDMA.Resource.Attribute.layout_anchorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_behavior = global::NDMA.Resource.Attribute.layout_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_collapseMode = global::NDMA.Resource.Attribute.layout_collapseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::NDMA.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_dodgeInsetEdges = global::NDMA.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_insetEdge = global::NDMA.Resource.Attribute.layout_insetEdge;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_keyline = global::NDMA.Resource.Attribute.layout_keyline;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollFlags = global::NDMA.Resource.Attribute.layout_scrollFlags;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollInterpolator = global::NDMA.Resource.Attribute.layout_scrollInterpolator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.liftOnScroll = global::NDMA.Resource.Attribute.liftOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lineHeight = global::NDMA.Resource.Attribute.lineHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lineSpacing = global::NDMA.Resource.Attribute.lineSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::NDMA.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listDividerAlertDialog = global::NDMA.Resource.Attribute.listDividerAlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listItemLayout = global::NDMA.Resource.Attribute.listItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listLayout = global::NDMA.Resource.Attribute.listLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listMenuViewStyle = global::NDMA.Resource.Attribute.listMenuViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPopupWindowStyle = global::NDMA.Resource.Attribute.listPopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeight = global::NDMA.Resource.Attribute.listPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeightLarge = global::NDMA.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeightSmall = global::NDMA.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::NDMA.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingRight = global::NDMA.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.logo = global::NDMA.Resource.Attribute.logo;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.logoDescription = global::NDMA.Resource.Attribute.logoDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.materialButtonStyle = global::NDMA.Resource.Attribute.materialButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.materialCardViewStyle = global::NDMA.Resource.Attribute.materialCardViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxActionInlineWidth = global::NDMA.Resource.Attribute.maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxButtonHeight = global::NDMA.Resource.Attribute.maxButtonHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxImageSize = global::NDMA.Resource.Attribute.maxImageSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.measureWithLargestChild = global::NDMA.Resource.Attribute.measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.menu = global::NDMA.Resource.Attribute.menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.multiChoiceItemLayout = global::NDMA.Resource.Attribute.multiChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationContentDescription = global::NDMA.Resource.Attribute.navigationContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationIcon = global::NDMA.Resource.Attribute.navigationIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationMode = global::NDMA.Resource.Attribute.navigationMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationViewStyle = global::NDMA.Resource.Attribute.navigationViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.numericModifiers = global::NDMA.Resource.Attribute.numericModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.overlapAnchor = global::NDMA.Resource.Attribute.overlapAnchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingBottomNoButtons = global::NDMA.Resource.Attribute.paddingBottomNoButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingEnd = global::NDMA.Resource.Attribute.paddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingStart = global::NDMA.Resource.Attribute.paddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingTopNoTitle = global::NDMA.Resource.Attribute.paddingTopNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelBackground = global::NDMA.Resource.Attribute.panelBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelMenuListTheme = global::NDMA.Resource.Attribute.panelMenuListTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelMenuListWidth = global::NDMA.Resource.Attribute.panelMenuListWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleContentDescription = global::NDMA.Resource.Attribute.passwordToggleContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleDrawable = global::NDMA.Resource.Attribute.passwordToggleDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleEnabled = global::NDMA.Resource.Attribute.passwordToggleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleTint = global::NDMA.Resource.Attribute.passwordToggleTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleTintMode = global::NDMA.Resource.Attribute.passwordToggleTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupMenuStyle = global::NDMA.Resource.Attribute.popupMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupTheme = global::NDMA.Resource.Attribute.popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupWindowStyle = global::NDMA.Resource.Attribute.popupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.preserveIconSpacing = global::NDMA.Resource.Attribute.preserveIconSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.pressedTranslationZ = global::NDMA.Resource.Attribute.pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.progressBarPadding = global::NDMA.Resource.Attribute.progressBarPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.progressBarStyle = global::NDMA.Resource.Attribute.progressBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.queryBackground = global::NDMA.Resource.Attribute.queryBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.queryHint = global::NDMA.Resource.Attribute.queryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.radioButtonStyle = global::NDMA.Resource.Attribute.radioButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyle = global::NDMA.Resource.Attribute.ratingBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyleIndicator = global::NDMA.Resource.Attribute.ratingBarStyleIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyleSmall = global::NDMA.Resource.Attribute.ratingBarStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.reverseLayout = global::NDMA.Resource.Attribute.reverseLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.rippleColor = global::NDMA.Resource.Attribute.rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimAnimationDuration = global::NDMA.Resource.Attribute.scrimAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimBackground = global::NDMA.Resource.Attribute.scrimBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::NDMA.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchHintIcon = global::NDMA.Resource.Attribute.searchHintIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchIcon = global::NDMA.Resource.Attribute.searchIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchViewStyle = global::NDMA.Resource.Attribute.searchViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.seekBarStyle = global::NDMA.Resource.Attribute.seekBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackground = global::NDMA.Resource.Attribute.selectableItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::NDMA.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showAsAction = global::NDMA.Resource.Attribute.showAsAction;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showDividers = global::NDMA.Resource.Attribute.showDividers;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showMotionSpec = global::NDMA.Resource.Attribute.showMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showText = global::NDMA.Resource.Attribute.showText;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showTitle = global::NDMA.Resource.Attribute.showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleChoiceItemLayout = global::NDMA.Resource.Attribute.singleChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleLine = global::NDMA.Resource.Attribute.singleLine;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleSelection = global::NDMA.Resource.Attribute.singleSelection;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.snackbarButtonStyle = global::NDMA.Resource.Attribute.snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.snackbarStyle = global::NDMA.Resource.Attribute.snackbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spanCount = global::NDMA.Resource.Attribute.spanCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinBars = global::NDMA.Resource.Attribute.spinBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerDropDownItemStyle = global::NDMA.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerStyle = global::NDMA.Resource.Attribute.spinnerStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.splitTrack = global::NDMA.Resource.Attribute.splitTrack;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.srcCompat = global::NDMA.Resource.Attribute.srcCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.stackFromEnd = global::NDMA.Resource.Attribute.stackFromEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_above_anchor = global::NDMA.Resource.Attribute.state_above_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsed = global::NDMA.Resource.Attribute.state_collapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsible = global::NDMA.Resource.Attribute.state_collapsible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_liftable = global::NDMA.Resource.Attribute.state_liftable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_lifted = global::NDMA.Resource.Attribute.state_lifted;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarBackground = global::NDMA.Resource.Attribute.statusBarBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarScrim = global::NDMA.Resource.Attribute.statusBarScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.strokeColor = global::NDMA.Resource.Attribute.strokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.strokeWidth = global::NDMA.Resource.Attribute.strokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subMenuArrow = global::NDMA.Resource.Attribute.subMenuArrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.submitBackground = global::NDMA.Resource.Attribute.submitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitle = global::NDMA.Resource.Attribute.subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextAppearance = global::NDMA.Resource.Attribute.subtitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextColor = global::NDMA.Resource.Attribute.subtitleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextStyle = global::NDMA.Resource.Attribute.subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.suggestionRowLayout = global::NDMA.Resource.Attribute.suggestionRowLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchMinWidth = global::NDMA.Resource.Attribute.switchMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchPadding = global::NDMA.Resource.Attribute.switchPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchStyle = global::NDMA.Resource.Attribute.switchStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchTextAppearance = global::NDMA.Resource.Attribute.switchTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabBackground = global::NDMA.Resource.Attribute.tabBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabContentStart = global::NDMA.Resource.Attribute.tabContentStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabGravity = global::NDMA.Resource.Attribute.tabGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIconTint = global::NDMA.Resource.Attribute.tabIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIconTintMode = global::NDMA.Resource.Attribute.tabIconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicator = global::NDMA.Resource.Attribute.tabIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorAnimationDuration = global::NDMA.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorColor = global::NDMA.Resource.Attribute.tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorFullWidth = global::NDMA.Resource.Attribute.tabIndicatorFullWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorGravity = global::NDMA.Resource.Attribute.tabIndicatorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorHeight = global::NDMA.Resource.Attribute.tabIndicatorHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabInlineLabel = global::NDMA.Resource.Attribute.tabInlineLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMaxWidth = global::NDMA.Resource.Attribute.tabMaxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMinWidth = global::NDMA.Resource.Attribute.tabMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMode = global::NDMA.Resource.Attribute.tabMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPadding = global::NDMA.Resource.Attribute.tabPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingBottom = global::NDMA.Resource.Attribute.tabPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingEnd = global::NDMA.Resource.Attribute.tabPaddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingStart = global::NDMA.Resource.Attribute.tabPaddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingTop = global::NDMA.Resource.Attribute.tabPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabRippleColor = global::NDMA.Resource.Attribute.tabRippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabSelectedTextColor = global::NDMA.Resource.Attribute.tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabStyle = global::NDMA.Resource.Attribute.tabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextAppearance = global::NDMA.Resource.Attribute.tabTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextColor = global::NDMA.Resource.Attribute.tabTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabUnboundedRipple = global::NDMA.Resource.Attribute.tabUnboundedRipple;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAllCaps = global::NDMA.Resource.Attribute.textAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceBody1 = global::NDMA.Resource.Attribute.textAppearanceBody1;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceBody2 = global::NDMA.Resource.Attribute.textAppearanceBody2;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceButton = global::NDMA.Resource.Attribute.textAppearanceButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceCaption = global::NDMA.Resource.Attribute.textAppearanceCaption;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline1 = global::NDMA.Resource.Attribute.textAppearanceHeadline1;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline2 = global::NDMA.Resource.Attribute.textAppearanceHeadline2;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline3 = global::NDMA.Resource.Attribute.textAppearanceHeadline3;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline4 = global::NDMA.Resource.Attribute.textAppearanceHeadline4;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline5 = global::NDMA.Resource.Attribute.textAppearanceHeadline5;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline6 = global::NDMA.Resource.Attribute.textAppearanceHeadline6;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::NDMA.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItem = global::NDMA.Resource.Attribute.textAppearanceListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSecondary = global::NDMA.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSmall = global::NDMA.Resource.Attribute.textAppearanceListItemSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceOverline = global::NDMA.Resource.Attribute.textAppearanceOverline;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::NDMA.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::NDMA.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::NDMA.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::NDMA.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSubtitle1 = global::NDMA.Resource.Attribute.textAppearanceSubtitle1;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSubtitle2 = global::NDMA.Resource.Attribute.textAppearanceSubtitle2;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorAlertDialogListItem = global::NDMA.Resource.Attribute.textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorSearchUrl = global::NDMA.Resource.Attribute.textColorSearchUrl;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textEndPadding = global::NDMA.Resource.Attribute.textEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textInputStyle = global::NDMA.Resource.Attribute.textInputStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textStartPadding = global::NDMA.Resource.Attribute.textStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.theme = global::NDMA.Resource.Attribute.theme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thickness = global::NDMA.Resource.Attribute.thickness;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTextPadding = global::NDMA.Resource.Attribute.thumbTextPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTint = global::NDMA.Resource.Attribute.thumbTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTintMode = global::NDMA.Resource.Attribute.thumbTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMark = global::NDMA.Resource.Attribute.tickMark;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMarkTint = global::NDMA.Resource.Attribute.tickMarkTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMarkTintMode = global::NDMA.Resource.Attribute.tickMarkTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tint = global::NDMA.Resource.Attribute.tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tintMode = global::NDMA.Resource.Attribute.tintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.title = global::NDMA.Resource.Attribute.title;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleEnabled = global::NDMA.Resource.Attribute.titleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargin = global::NDMA.Resource.Attribute.titleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginBottom = global::NDMA.Resource.Attribute.titleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginEnd = global::NDMA.Resource.Attribute.titleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargins = global::NDMA.Resource.Attribute.titleMargins;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginStart = global::NDMA.Resource.Attribute.titleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginTop = global::NDMA.Resource.Attribute.titleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextAppearance = global::NDMA.Resource.Attribute.titleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextColor = global::NDMA.Resource.Attribute.titleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextStyle = global::NDMA.Resource.Attribute.titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarId = global::NDMA.Resource.Attribute.toolbarId;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::NDMA.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarStyle = global::NDMA.Resource.Attribute.toolbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipForegroundColor = global::NDMA.Resource.Attribute.tooltipForegroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipFrameBackground = global::NDMA.Resource.Attribute.tooltipFrameBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipText = global::NDMA.Resource.Attribute.tooltipText;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.track = global::NDMA.Resource.Attribute.track;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.trackTint = global::NDMA.Resource.Attribute.trackTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.trackTintMode = global::NDMA.Resource.Attribute.trackTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ttcIndex = global::NDMA.Resource.Attribute.ttcIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.useCompatPadding = global::NDMA.Resource.Attribute.useCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.viewInflaterClass = global::NDMA.Resource.Attribute.viewInflaterClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.voiceIcon = global::NDMA.Resource.Attribute.voiceIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBar = global::NDMA.Resource.Attribute.windowActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBarOverlay = global::NDMA.Resource.Attribute.windowActionBarOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionModeOverlay = global::NDMA.Resource.Attribute.windowActionModeOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedHeightMajor = global::NDMA.Resource.Attribute.windowFixedHeightMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedHeightMinor = global::NDMA.Resource.Attribute.windowFixedHeightMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedWidthMajor = global::NDMA.Resource.Attribute.windowFixedWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedWidthMinor = global::NDMA.Resource.Attribute.windowFixedWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowMinWidthMajor = global::NDMA.Resource.Attribute.windowMinWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowMinWidthMinor = global::NDMA.Resource.Attribute.windowMinWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowNoTitle = global::NDMA.Resource.Attribute.windowNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::NDMA.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::NDMA.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::NDMA.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::NDMA.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::NDMA.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::NDMA.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::NDMA.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_text_material = global::NDMA.Resource.Color.abc_btn_colored_text_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_color_highlight_material = global::NDMA.Resource.Color.abc_color_highlight_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_hint_foreground_material_dark = global::NDMA.Resource.Color.abc_hint_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_hint_foreground_material_light = global::NDMA.Resource.Color.abc_hint_foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_input_method_navigation_guard = global::NDMA.Resource.Color.abc_input_method_navigation_guard;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::NDMA.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::NDMA.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_material_dark = global::NDMA.Resource.Color.abc_primary_text_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_material_light = global::NDMA.Resource.Color.abc_primary_text_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text = global::NDMA.Resource.Color.abc_search_url_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_normal = global::NDMA.Resource.Color.abc_search_url_text_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_pressed = global::NDMA.Resource.Color.abc_search_url_text_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_selected = global::NDMA.Resource.Color.abc_search_url_text_selected;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_secondary_text_material_dark = global::NDMA.Resource.Color.abc_secondary_text_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_secondary_text_material_light = global::NDMA.Resource.Color.abc_secondary_text_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_btn_checkable = global::NDMA.Resource.Color.abc_tint_btn_checkable;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_default = global::NDMA.Resource.Color.abc_tint_default;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_edittext = global::NDMA.Resource.Color.abc_tint_edittext;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_seek_thumb = global::NDMA.Resource.Color.abc_tint_seek_thumb;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_spinner = global::NDMA.Resource.Color.abc_tint_spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_switch_track = global::NDMA.Resource.Color.abc_tint_switch_track;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.accent_material_dark = global::NDMA.Resource.Color.accent_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.accent_material_light = global::NDMA.Resource.Color.accent_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_floating_material_dark = global::NDMA.Resource.Color.background_floating_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_floating_material_light = global::NDMA.Resource.Color.background_floating_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_material_dark = global::NDMA.Resource.Color.background_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_material_light = global::NDMA.Resource.Color.background_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_disabled_material_dark = global::NDMA.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_disabled_material_light = global::NDMA.Resource.Color.bright_foreground_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_inverse_material_dark = global::NDMA.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_inverse_material_light = global::NDMA.Resource.Color.bright_foreground_inverse_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_material_dark = global::NDMA.Resource.Color.bright_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_material_light = global::NDMA.Resource.Color.bright_foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.button_material_dark = global::NDMA.Resource.Color.button_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.button_material_light = global::NDMA.Resource.Color.button_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_dark_background = global::NDMA.Resource.Color.cardview_dark_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_light_background = global::NDMA.Resource.Color.cardview_light_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_end_color = global::NDMA.Resource.Color.cardview_shadow_end_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_start_color = global::NDMA.Resource.Color.cardview_shadow_start_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_bottom_navigation_shadow_color = global::NDMA.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_default_color_primary = global::NDMA.Resource.Color.design_default_color_primary;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_default_color_primary_dark = global::NDMA.Resource.Color.design_default_color_primary_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_error = global::NDMA.Resource.Color.design_error;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_end_color = global::NDMA.Resource.Color.design_fab_shadow_end_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_mid_color = global::NDMA.Resource.Color.design_fab_shadow_mid_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_start_color = global::NDMA.Resource.Color.design_fab_shadow_start_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_end_inner_color = global::NDMA.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_end_outer_color = global::NDMA.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_top_inner_color = global::NDMA.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_top_outer_color = global::NDMA.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_snackbar_background_color = global::NDMA.Resource.Color.design_snackbar_background_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_tint_password_toggle = global::NDMA.Resource.Color.design_tint_password_toggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_dark = global::NDMA.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_light = global::NDMA.Resource.Color.dim_foreground_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_dark = global::NDMA.Resource.Color.dim_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_light = global::NDMA.Resource.Color.dim_foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.error_color_material_dark = global::NDMA.Resource.Color.error_color_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.error_color_material_light = global::NDMA.Resource.Color.error_color_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_dark = global::NDMA.Resource.Color.foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_light = global::NDMA.Resource.Color.foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_dark = global::NDMA.Resource.Color.highlighted_text_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_light = global::NDMA.Resource.Color.highlighted_text_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_800 = global::NDMA.Resource.Color.material_blue_grey_800;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_900 = global::NDMA.Resource.Color.material_blue_grey_900;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_950 = global::NDMA.Resource.Color.material_blue_grey_950;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_deep_teal_200 = global::NDMA.Resource.Color.material_deep_teal_200;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_deep_teal_500 = global::NDMA.Resource.Color.material_deep_teal_500;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_100 = global::NDMA.Resource.Color.material_grey_100;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_300 = global::NDMA.Resource.Color.material_grey_300;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_50 = global::NDMA.Resource.Color.material_grey_50;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_600 = global::NDMA.Resource.Color.material_grey_600;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_800 = global::NDMA.Resource.Color.material_grey_800;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_850 = global::NDMA.Resource.Color.material_grey_850;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_900 = global::NDMA.Resource.Color.material_grey_900;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::NDMA.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_bottom_nav_item_tint = global::NDMA.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_bg_color_disabled = global::NDMA.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_bg_color_selector = global::NDMA.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_ripple_color = global::NDMA.Resource.Color.mtrl_btn_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_stroke_color_selector = global::NDMA.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_text_btn_ripple_color = global::NDMA.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_text_color_disabled = global::NDMA.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_text_color_selector = global::NDMA.Resource.Color.mtrl_btn_text_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_transparent_bg_color = global::NDMA.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_background_color = global::NDMA.Resource.Color.mtrl_chip_background_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_close_icon_tint = global::NDMA.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_ripple_color = global::NDMA.Resource.Color.mtrl_chip_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_text_color = global::NDMA.Resource.Color.mtrl_chip_text_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_fab_ripple_color = global::NDMA.Resource.Color.mtrl_fab_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_scrim_color = global::NDMA.Resource.Color.mtrl_scrim_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_colored_ripple_color = global::NDMA.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_icon_color_selector = global::NDMA.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::NDMA.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::NDMA.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_ripple_color = global::NDMA.Resource.Color.mtrl_tabs_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_default_box_stroke_color = global::NDMA.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_disabled_color = global::NDMA.Resource.Color.mtrl_textinput_disabled_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::NDMA.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::NDMA.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_text_btn_text_color_selector = global::NDMA.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_action_color_filter = global::NDMA.Resource.Color.notification_action_color_filter;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_icon_bg_color = global::NDMA.Resource.Color.notification_icon_bg_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_material_background_media_default_color = global::NDMA.Resource.Color.notification_material_background_media_default_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_dark_material_dark = global::NDMA.Resource.Color.primary_dark_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_dark_material_light = global::NDMA.Resource.Color.primary_dark_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_material_dark = global::NDMA.Resource.Color.primary_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_material_light = global::NDMA.Resource.Color.primary_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_dark = global::NDMA.Resource.Color.primary_text_default_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_light = global::NDMA.Resource.Color.primary_text_default_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_dark = global::NDMA.Resource.Color.primary_text_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_light = global::NDMA.Resource.Color.primary_text_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_dark = global::NDMA.Resource.Color.ripple_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_light = global::NDMA.Resource.Color.ripple_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_dark = global::NDMA.Resource.Color.secondary_text_default_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_light = global::NDMA.Resource.Color.secondary_text_default_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_disabled_material_dark = global::NDMA.Resource.Color.secondary_text_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_disabled_material_light = global::NDMA.Resource.Color.secondary_text_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_disabled_material_dark = global::NDMA.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_disabled_material_light = global::NDMA.Resource.Color.switch_thumb_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_dark = global::NDMA.Resource.Color.switch_thumb_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_light = global::NDMA.Resource.Color.switch_thumb_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_dark = global::NDMA.Resource.Color.switch_thumb_normal_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_light = global::NDMA.Resource.Color.switch_thumb_normal_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_dark = global::NDMA.Resource.Color.tooltip_background_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_light = global::NDMA.Resource.Color.tooltip_background_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::NDMA.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::NDMA.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_height_material = global::NDMA.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::NDMA.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::NDMA.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_elevation_material = global::NDMA.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::NDMA.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::NDMA.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::NDMA.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::NDMA.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::NDMA.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::NDMA.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::NDMA.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_height_material = global::NDMA.Resource.Dimension.abc_action_button_min_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_material = global::NDMA.Resource.Dimension.abc_action_button_min_width_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::NDMA.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::NDMA.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_alert_dialog_button_dimen = global::NDMA.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::NDMA.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_vertical_material = global::NDMA.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::NDMA.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_vertical_material = global::NDMA.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::NDMA.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_config_prefDialogWidth = global::NDMA.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_corner_material = global::NDMA.Resource.Dimension.abc_control_corner_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_inset_material = global::NDMA.Resource.Dimension.abc_control_inset_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_padding_material = global::NDMA.Resource.Dimension.abc_control_padding_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_corner_radius_material = global::NDMA.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::NDMA.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::NDMA.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::NDMA.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::NDMA.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::NDMA.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::NDMA.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_min_width_major = global::NDMA.Resource.Dimension.abc_dialog_min_width_major;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_min_width_minor = global::NDMA.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_padding_material = global::NDMA.Resource.Dimension.abc_dialog_padding_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_padding_top_material = global::NDMA.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_title_divider_material = global::NDMA.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::NDMA.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::NDMA.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::NDMA.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::NDMA.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::NDMA.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::NDMA.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::NDMA.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::NDMA.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_floating_window_z = global::NDMA.Resource.Dimension.abc_floating_window_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::NDMA.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_panel_menu_list_width = global::NDMA.Resource.Dimension.abc_panel_menu_list_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_progress_bar_height_material = global::NDMA.Resource.Dimension.abc_progress_bar_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_search_view_preferred_height = global::NDMA.Resource.Dimension.abc_search_view_preferred_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_search_view_preferred_width = global::NDMA.Resource.Dimension.abc_search_view_preferred_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::NDMA.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::NDMA.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::NDMA.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_switch_padding = global::NDMA.Resource.Dimension.abc_switch_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_body_1_material = global::NDMA.Resource.Dimension.abc_text_size_body_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_body_2_material = global::NDMA.Resource.Dimension.abc_text_size_body_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_button_material = global::NDMA.Resource.Dimension.abc_text_size_button_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_caption_material = global::NDMA.Resource.Dimension.abc_text_size_caption_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_1_material = global::NDMA.Resource.Dimension.abc_text_size_display_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_2_material = global::NDMA.Resource.Dimension.abc_text_size_display_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_3_material = global::NDMA.Resource.Dimension.abc_text_size_display_3_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_4_material = global::NDMA.Resource.Dimension.abc_text_size_display_4_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_headline_material = global::NDMA.Resource.Dimension.abc_text_size_headline_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_large_material = global::NDMA.Resource.Dimension.abc_text_size_large_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_medium_material = global::NDMA.Resource.Dimension.abc_text_size_medium_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_menu_header_material = global::NDMA.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_menu_material = global::NDMA.Resource.Dimension.abc_text_size_menu_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_small_material = global::NDMA.Resource.Dimension.abc_text_size_small_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subhead_material = global::NDMA.Resource.Dimension.abc_text_size_subhead_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::NDMA.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material = global::NDMA.Resource.Dimension.abc_text_size_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::NDMA.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_compat_inset_shadow = global::NDMA.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_elevation = global::NDMA.Resource.Dimension.cardview_default_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_radius = global::NDMA.Resource.Dimension.cardview_default_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_inset_horizontal_material = global::NDMA.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_inset_vertical_material = global::NDMA.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_horizontal_material = global::NDMA.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_vertical_material = global::NDMA.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_control_corner_material = global::NDMA.Resource.Dimension.compat_control_corner_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_notification_large_icon_max_height = global::NDMA.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_notification_large_icon_max_width = global::NDMA.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_appbar_elevation = global::NDMA.Resource.Dimension.design_appbar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::NDMA.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::NDMA.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::NDMA.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_elevation = global::NDMA.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_height = global::NDMA.Resource.Dimension.design_bottom_navigation_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_icon_size = global::NDMA.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::NDMA.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::NDMA.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_margin = global::NDMA.Resource.Dimension.design_bottom_navigation_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::NDMA.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_text_size = global::NDMA.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::NDMA.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::NDMA.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_border_width = global::NDMA.Resource.Dimension.design_fab_border_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_elevation = global::NDMA.Resource.Dimension.design_fab_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_image_size = global::NDMA.Resource.Dimension.design_fab_image_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_mini = global::NDMA.Resource.Dimension.design_fab_size_mini;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_normal = global::NDMA.Resource.Dimension.design_fab_size_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_translation_z_hovered_focused = global::NDMA.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_translation_z_pressed = global::NDMA.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_elevation = global::NDMA.Resource.Dimension.design_navigation_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_padding = global::NDMA.Resource.Dimension.design_navigation_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_size = global::NDMA.Resource.Dimension.design_navigation_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_item_horizontal_padding = global::NDMA.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_item_icon_padding = global::NDMA.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_max_width = global::NDMA.Resource.Dimension.design_navigation_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_padding_bottom = global::NDMA.Resource.Dimension.design_navigation_padding_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::NDMA.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::NDMA.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::NDMA.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_elevation = global::NDMA.Resource.Dimension.design_snackbar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::NDMA.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_max_width = global::NDMA.Resource.Dimension.design_snackbar_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_min_width = global::NDMA.Resource.Dimension.design_snackbar_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::NDMA.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical = global::NDMA.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::NDMA.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_text_size = global::NDMA.Resource.Dimension.design_snackbar_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_max_width = global::NDMA.Resource.Dimension.design_tab_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_scrollable_min_width = global::NDMA.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size = global::NDMA.Resource.Dimension.design_tab_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size_2line = global::NDMA.Resource.Dimension.design_tab_text_size_2line;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_textinput_caption_translate_y = global::NDMA.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_dark = global::NDMA.Resource.Dimension.disabled_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_light = global::NDMA.Resource.Dimension.disabled_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_default_thickness = global::NDMA.Resource.Dimension.fastscroll_default_thickness;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_margin = global::NDMA.Resource.Dimension.fastscroll_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_minimum_range = global::NDMA.Resource.Dimension.fastscroll_minimum_range;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_colored = global::NDMA.Resource.Dimension.highlight_alpha_material_colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_dark = global::NDMA.Resource.Dimension.highlight_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_light = global::NDMA.Resource.Dimension.highlight_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_alpha_material_dark = global::NDMA.Resource.Dimension.hint_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_alpha_material_light = global::NDMA.Resource.Dimension.hint_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::NDMA.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::NDMA.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::NDMA.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::NDMA.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::NDMA.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::NDMA.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::NDMA.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::NDMA.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::NDMA.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_height = global::NDMA.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_corner_radius = global::NDMA.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::NDMA.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_disabled_elevation = global::NDMA.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_disabled_z = global::NDMA.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_elevation = global::NDMA.Resource.Dimension.mtrl_btn_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_focused_z = global::NDMA.Resource.Dimension.mtrl_btn_focused_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_hovered_z = global::NDMA.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::NDMA.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_icon_padding = global::NDMA.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_inset = global::NDMA.Resource.Dimension.mtrl_btn_inset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_letter_spacing = global::NDMA.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_bottom = global::NDMA.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_left = global::NDMA.Resource.Dimension.mtrl_btn_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_right = global::NDMA.Resource.Dimension.mtrl_btn_padding_right;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_top = global::NDMA.Resource.Dimension.mtrl_btn_padding_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_pressed_z = global::NDMA.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_stroke_size = global::NDMA.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::NDMA.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::NDMA.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::NDMA.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_size = global::NDMA.Resource.Dimension.mtrl_btn_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_z = global::NDMA.Resource.Dimension.mtrl_btn_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_card_elevation = global::NDMA.Resource.Dimension.mtrl_card_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_card_spacing = global::NDMA.Resource.Dimension.mtrl_card_spacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_chip_pressed_translation_z = global::NDMA.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_chip_text_size = global::NDMA.Resource.Dimension.mtrl_chip_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_fab_elevation = global::NDMA.Resource.Dimension.mtrl_fab_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::NDMA.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_fab_translation_z_pressed = global::NDMA.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_navigation_elevation = global::NDMA.Resource.Dimension.mtrl_navigation_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::NDMA.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_navigation_item_icon_padding = global::NDMA.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::NDMA.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_snackbar_margin = global::NDMA.Resource.Dimension.mtrl_snackbar_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::NDMA.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::NDMA.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::NDMA.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::NDMA.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_padding_end = global::NDMA.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::NDMA.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::NDMA.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::NDMA.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_toolbar_default_height = global::NDMA.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_icon_size = global::NDMA.Resource.Dimension.notification_action_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_text_size = global::NDMA.Resource.Dimension.notification_action_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_big_circle_margin = global::NDMA.Resource.Dimension.notification_big_circle_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_content_margin_start = global::NDMA.Resource.Dimension.notification_content_margin_start;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_large_icon_height = global::NDMA.Resource.Dimension.notification_large_icon_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_large_icon_width = global::NDMA.Resource.Dimension.notification_large_icon_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_main_column_padding_top = global::NDMA.Resource.Dimension.notification_main_column_padding_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_media_narrow_margin = global::NDMA.Resource.Dimension.notification_media_narrow_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_right_icon_size = global::NDMA.Resource.Dimension.notification_right_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_right_side_padding_top = global::NDMA.Resource.Dimension.notification_right_side_padding_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_small_icon_background_padding = global::NDMA.Resource.Dimension.notification_small_icon_background_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_small_icon_size_as_large = global::NDMA.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_subtext_size = global::NDMA.Resource.Dimension.notification_subtext_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad = global::NDMA.Resource.Dimension.notification_top_pad;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad_large_text = global::NDMA.Resource.Dimension.notification_top_pad_large_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_corner_radius = global::NDMA.Resource.Dimension.subtitle_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_outline_width = global::NDMA.Resource.Dimension.subtitle_outline_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_shadow_offset = global::NDMA.Resource.Dimension.subtitle_shadow_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_shadow_radius = global::NDMA.Resource.Dimension.subtitle_shadow_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_corner_radius = global::NDMA.Resource.Dimension.tooltip_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_horizontal_padding = global::NDMA.Resource.Dimension.tooltip_horizontal_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_margin = global::NDMA.Resource.Dimension.tooltip_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::NDMA.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_precise_anchor_threshold = global::NDMA.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_vertical_padding = global::NDMA.Resource.Dimension.tooltip_vertical_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_y_offset_non_touch = global::NDMA.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_y_offset_touch = global::NDMA.Resource.Dimension.tooltip_y_offset_touch;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_action_bar_item_background_material = global::NDMA.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_borderless_material = global::NDMA.Resource.Drawable.abc_btn_borderless_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_material = global::NDMA.Resource.Drawable.abc_btn_check_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::NDMA.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::NDMA.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_colored_material = global::NDMA.Resource.Drawable.abc_btn_colored_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::NDMA.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_material = global::NDMA.Resource.Drawable.abc_btn_radio_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::NDMA.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::NDMA.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::NDMA.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::NDMA.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_internal_bg = global::NDMA.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_top_material = global::NDMA.Resource.Drawable.abc_cab_background_top_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::NDMA.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_control_background_material = global::NDMA.Resource.Drawable.abc_control_background_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_dialog_material_background = global::NDMA.Resource.Drawable.abc_dialog_material_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_edit_text_material = global::NDMA.Resource.Drawable.abc_edit_text_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_ab_back_material = global::NDMA.Resource.Drawable.abc_ic_ab_back_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::NDMA.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_clear_material = global::NDMA.Resource.Drawable.abc_ic_clear_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_go_search_api_material = global::NDMA.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::NDMA.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_search_api_material = global::NDMA.Resource.Drawable.abc_ic_search_api_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_16dp = global::NDMA.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_36dp = global::NDMA.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_48dp = global::NDMA.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::NDMA.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::NDMA.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_48dp = global::NDMA.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::NDMA.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_dark = global::NDMA.Resource.Drawable.abc_item_background_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_light = global::NDMA.Resource.Drawable.abc_item_background_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_divider_material = global::NDMA.Resource.Drawable.abc_list_divider_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::NDMA.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_focused_holo = global::NDMA.Resource.Drawable.abc_list_focused_holo;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_longpressed_holo = global::NDMA.Resource.Drawable.abc_list_longpressed_holo;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::NDMA.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_pressed_holo_light = global::NDMA.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::NDMA.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::NDMA.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::NDMA.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::NDMA.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_holo_dark = global::NDMA.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_holo_light = global::NDMA.Resource.Drawable.abc_list_selector_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::NDMA.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::NDMA.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::NDMA.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_material = global::NDMA.Resource.Drawable.abc_ratingbar_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_small_material = global::NDMA.Resource.Drawable.abc_ratingbar_small_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::NDMA.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::NDMA.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::NDMA.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::NDMA.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::NDMA.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_thumb_material = global::NDMA.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::NDMA.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_track_material = global::NDMA.Resource.Drawable.abc_seekbar_track_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::NDMA.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::NDMA.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_thumb_material = global::NDMA.Resource.Drawable.abc_switch_thumb_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::NDMA.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_material = global::NDMA.Resource.Drawable.abc_tab_indicator_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::NDMA.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::NDMA.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::NDMA.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::NDMA.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::NDMA.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_material = global::NDMA.Resource.Drawable.abc_textfield_search_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_cursor_material = global::NDMA.Resource.Drawable.abc_text_cursor_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::NDMA.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::NDMA.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::NDMA.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::NDMA.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::NDMA.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::NDMA.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_vector_test = global::NDMA.Resource.Drawable.abc_vector_test;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.avd_hide_password = global::NDMA.Resource.Drawable.avd_hide_password;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.avd_show_password = global::NDMA.Resource.Drawable.avd_show_password;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_bottom_navigation_item_background = global::NDMA.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_fab_background = global::NDMA.Resource.Drawable.design_fab_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility = global::NDMA.Resource.Drawable.design_ic_visibility;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility_off = global::NDMA.Resource.Drawable.design_ic_visibility_off;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_password_eye = global::NDMA.Resource.Drawable.design_password_eye;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_snackbar_background = global::NDMA.Resource.Drawable.design_snackbar_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_checked_black = global::NDMA.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_checked_circle = global::NDMA.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_close_circle = global::NDMA.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_snackbar_background = global::NDMA.Resource.Drawable.mtrl_snackbar_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_tabs_default_indicator = global::NDMA.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.navigation_empty_icon = global::NDMA.Resource.Drawable.navigation_empty_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_action_background = global::NDMA.Resource.Drawable.notification_action_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg = global::NDMA.Resource.Drawable.notification_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low = global::NDMA.Resource.Drawable.notification_bg_low;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low_normal = global::NDMA.Resource.Drawable.notification_bg_low_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low_pressed = global::NDMA.Resource.Drawable.notification_bg_low_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_normal = global::NDMA.Resource.Drawable.notification_bg_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_normal_pressed = global::NDMA.Resource.Drawable.notification_bg_normal_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_icon_background = global::NDMA.Resource.Drawable.notification_icon_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_bg = global::NDMA.Resource.Drawable.notification_template_icon_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_low_bg = global::NDMA.Resource.Drawable.notification_template_icon_low_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_tile_bg = global::NDMA.Resource.Drawable.notification_tile_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::NDMA.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_dark = global::NDMA.Resource.Drawable.tooltip_frame_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_light = global::NDMA.Resource.Drawable.tooltip_frame_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action0 = global::NDMA.Resource.Id.action0;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.actions = global::NDMA.Resource.Id.actions;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar = global::NDMA.Resource.Id.action_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_activity_content = global::NDMA.Resource.Id.action_bar_activity_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_container = global::NDMA.Resource.Id.action_bar_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_root = global::NDMA.Resource.Id.action_bar_root;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_spinner = global::NDMA.Resource.Id.action_bar_spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_subtitle = global::NDMA.Resource.Id.action_bar_subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_title = global::NDMA.Resource.Id.action_bar_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_container = global::NDMA.Resource.Id.action_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_context_bar = global::NDMA.Resource.Id.action_context_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_divider = global::NDMA.Resource.Id.action_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_image = global::NDMA.Resource.Id.action_image;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_menu_divider = global::NDMA.Resource.Id.action_menu_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_menu_presenter = global::NDMA.Resource.Id.action_menu_presenter;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar = global::NDMA.Resource.Id.action_mode_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar_stub = global::NDMA.Resource.Id.action_mode_bar_stub;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_close_button = global::NDMA.Resource.Id.action_mode_close_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_text = global::NDMA.Resource.Id.action_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.activity_chooser_view_content = global::NDMA.Resource.Id.activity_chooser_view_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.add = global::NDMA.Resource.Id.add;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.alertTitle = global::NDMA.Resource.Id.alertTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.all = global::NDMA.Resource.Id.all;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ALT = global::NDMA.Resource.Id.ALT;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.always = global::NDMA.Resource.Id.always;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.async = global::NDMA.Resource.Id.async;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.auto = global::NDMA.Resource.Id.auto;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.beginning = global::NDMA.Resource.Id.beginning;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.blocking = global::NDMA.Resource.Id.blocking;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.bottom = global::NDMA.Resource.Id.bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.bottomtab_navarea = global::NDMA.Resource.Id.bottomtab_navarea;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.bottomtab_tabbar = global::NDMA.Resource.Id.bottomtab_tabbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.buttonPanel = global::NDMA.Resource.Id.buttonPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.cancel_action = global::NDMA.Resource.Id.cancel_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.center = global::NDMA.Resource.Id.center;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.center_horizontal = global::NDMA.Resource.Id.center_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.center_vertical = global::NDMA.Resource.Id.center_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.checkbox = global::NDMA.Resource.Id.checkbox;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.chronometer = global::NDMA.Resource.Id.chronometer;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.clip_horizontal = global::NDMA.Resource.Id.clip_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.clip_vertical = global::NDMA.Resource.Id.clip_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.collapseActionView = global::NDMA.Resource.Id.collapseActionView;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.container = global::NDMA.Resource.Id.container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.content = global::NDMA.Resource.Id.content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.contentPanel = global::NDMA.Resource.Id.contentPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.coordinator = global::NDMA.Resource.Id.coordinator;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.CTRL = global::NDMA.Resource.Id.CTRL;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.custom = global::NDMA.Resource.Id.custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.customPanel = global::NDMA.Resource.Id.customPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.decor_content_parent = global::NDMA.Resource.Id.decor_content_parent;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.default_activity_button = global::NDMA.Resource.Id.default_activity_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_bottom_sheet = global::NDMA.Resource.Id.design_bottom_sheet;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_action_area = global::NDMA.Resource.Id.design_menu_item_action_area;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_action_area_stub = global::NDMA.Resource.Id.design_menu_item_action_area_stub;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_text = global::NDMA.Resource.Id.design_menu_item_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_navigation_view = global::NDMA.Resource.Id.design_navigation_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.disableHome = global::NDMA.Resource.Id.disableHome;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.edit_query = global::NDMA.Resource.Id.edit_query;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.end = global::NDMA.Resource.Id.end;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.end_padder = global::NDMA.Resource.Id.end_padder;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.enterAlways = global::NDMA.Resource.Id.enterAlways;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.enterAlwaysCollapsed = global::NDMA.Resource.Id.enterAlwaysCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.exitUntilCollapsed = global::NDMA.Resource.Id.exitUntilCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.expanded_menu = global::NDMA.Resource.Id.expanded_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.expand_activities_button = global::NDMA.Resource.Id.expand_activities_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.fill = global::NDMA.Resource.Id.fill;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.filled = global::NDMA.Resource.Id.filled;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_horizontal = global::NDMA.Resource.Id.fill_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_vertical = global::NDMA.Resource.Id.fill_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.@fixed = global::NDMA.Resource.Id.@fixed;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_appbar = global::NDMA.Resource.Id.flyoutcontent_appbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_recycler = global::NDMA.Resource.Id.flyoutcontent_recycler;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.forever = global::NDMA.Resource.Id.forever;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.FUNCTION = global::NDMA.Resource.Id.FUNCTION;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ghost_view = global::NDMA.Resource.Id.ghost_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.group_divider = global::NDMA.Resource.Id.group_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.home = global::NDMA.Resource.Id.home;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.homeAsUp = global::NDMA.Resource.Id.homeAsUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.icon = global::NDMA.Resource.Id.icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.icon_group = global::NDMA.Resource.Id.icon_group;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ifRoom = global::NDMA.Resource.Id.ifRoom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.image = global::NDMA.Resource.Id.image;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.info = global::NDMA.Resource.Id.info;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.italic = global::NDMA.Resource.Id.italic;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.item_touch_helper_previous_elevation = global::NDMA.Resource.Id.item_touch_helper_previous_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.labeled = global::NDMA.Resource.Id.labeled;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.largeLabel = global::NDMA.Resource.Id.largeLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.left = global::NDMA.Resource.Id.left;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.line1 = global::NDMA.Resource.Id.line1;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.line3 = global::NDMA.Resource.Id.line3;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.listMode = global::NDMA.Resource.Id.listMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.list_item = global::NDMA.Resource.Id.list_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_appbar = global::NDMA.Resource.Id.main_appbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_tablayout = global::NDMA.Resource.Id.main_tablayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_toolbar = global::NDMA.Resource.Id.main_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_viewpager = global::NDMA.Resource.Id.main_viewpager;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.masked = global::NDMA.Resource.Id.masked;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.media_actions = global::NDMA.Resource.Id.media_actions;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.message = global::NDMA.Resource.Id.message;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.META = global::NDMA.Resource.Id.META;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.middle = global::NDMA.Resource.Id.middle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.mini = global::NDMA.Resource.Id.mini;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.mtrl_child_content_container = global::NDMA.Resource.Id.mtrl_child_content_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.mtrl_internal_children_alpha_tag = global::NDMA.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.multiply = global::NDMA.Resource.Id.multiply;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.navigation_header_container = global::NDMA.Resource.Id.navigation_header_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.never = global::NDMA.Resource.Id.never;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.none = global::NDMA.Resource.Id.none;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.normal = global::NDMA.Resource.Id.normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_background = global::NDMA.Resource.Id.notification_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column = global::NDMA.Resource.Id.notification_main_column;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column_container = global::NDMA.Resource.Id.notification_main_column_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.outline = global::NDMA.Resource.Id.outline;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.parallax = global::NDMA.Resource.Id.parallax;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.parentPanel = global::NDMA.Resource.Id.parentPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.parent_matrix = global::NDMA.Resource.Id.parent_matrix;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.pin = global::NDMA.Resource.Id.pin;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.progress_circular = global::NDMA.Resource.Id.progress_circular;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.progress_horizontal = global::NDMA.Resource.Id.progress_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.radio = global::NDMA.Resource.Id.radio;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.right = global::NDMA.Resource.Id.right;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.right_icon = global::NDMA.Resource.Id.right_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.right_side = global::NDMA.Resource.Id.right_side;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.save_image_matrix = global::NDMA.Resource.Id.save_image_matrix;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.save_non_transition_alpha = global::NDMA.Resource.Id.save_non_transition_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.save_scale_type = global::NDMA.Resource.Id.save_scale_type;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.screen = global::NDMA.Resource.Id.screen;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scroll = global::NDMA.Resource.Id.scroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollable = global::NDMA.Resource.Id.scrollable;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorDown = global::NDMA.Resource.Id.scrollIndicatorDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorUp = global::NDMA.Resource.Id.scrollIndicatorUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollView = global::NDMA.Resource.Id.scrollView;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_badge = global::NDMA.Resource.Id.search_badge;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_bar = global::NDMA.Resource.Id.search_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_button = global::NDMA.Resource.Id.search_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_close_btn = global::NDMA.Resource.Id.search_close_btn;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_edit_frame = global::NDMA.Resource.Id.search_edit_frame;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_go_btn = global::NDMA.Resource.Id.search_go_btn;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_mag_icon = global::NDMA.Resource.Id.search_mag_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_plate = global::NDMA.Resource.Id.search_plate;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_src_text = global::NDMA.Resource.Id.search_src_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_voice_btn = global::NDMA.Resource.Id.search_voice_btn;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.selected = global::NDMA.Resource.Id.selected;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.select_dialog_listview = global::NDMA.Resource.Id.select_dialog_listview;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_appbar = global::NDMA.Resource.Id.shellcontent_appbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_toolbar = global::NDMA.Resource.Id.shellcontent_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.SHIFT = global::NDMA.Resource.Id.SHIFT;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shortcut = global::NDMA.Resource.Id.shortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.showCustom = global::NDMA.Resource.Id.showCustom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.showHome = global::NDMA.Resource.Id.showHome;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.showTitle = global::NDMA.Resource.Id.showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.smallLabel = global::NDMA.Resource.Id.smallLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snackbar_action = global::NDMA.Resource.Id.snackbar_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snackbar_text = global::NDMA.Resource.Id.snackbar_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snap = global::NDMA.Resource.Id.snap;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snapMargins = global::NDMA.Resource.Id.snapMargins;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.spacer = global::NDMA.Resource.Id.spacer;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.split_action_bar = global::NDMA.Resource.Id.split_action_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.src_atop = global::NDMA.Resource.Id.src_atop;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.src_in = global::NDMA.Resource.Id.src_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.src_over = global::NDMA.Resource.Id.src_over;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.start = global::NDMA.Resource.Id.start;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.status_bar_latest_event_content = global::NDMA.Resource.Id.status_bar_latest_event_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.stretch = global::NDMA.Resource.Id.stretch;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.submenuarrow = global::NDMA.Resource.Id.submenuarrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.submit_area = global::NDMA.Resource.Id.submit_area;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.SYM = global::NDMA.Resource.Id.SYM;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tabMode = global::NDMA.Resource.Id.tabMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_transition_group = global::NDMA.Resource.Id.tag_transition_group;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_event_manager = global::NDMA.Resource.Id.tag_unhandled_key_event_manager;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_listeners = global::NDMA.Resource.Id.tag_unhandled_key_listeners;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text = global::NDMA.Resource.Id.text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text2 = global::NDMA.Resource.Id.text2;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_counter = global::NDMA.Resource.Id.textinput_counter;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_error = global::NDMA.Resource.Id.textinput_error;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_helper_text = global::NDMA.Resource.Id.textinput_helper_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoButtons = global::NDMA.Resource.Id.textSpacerNoButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoTitle = global::NDMA.Resource.Id.textSpacerNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textStart = global::NDMA.Resource.Id.textStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text_input_password_toggle = global::NDMA.Resource.Id.text_input_password_toggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.time = global::NDMA.Resource.Id.time;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.title = global::NDMA.Resource.Id.title;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.titleDividerNoCustom = global::NDMA.Resource.Id.titleDividerNoCustom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.title_template = global::NDMA.Resource.Id.title_template;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.top = global::NDMA.Resource.Id.top;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.topPanel = global::NDMA.Resource.Id.topPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.touch_outside = global::NDMA.Resource.Id.touch_outside;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_current_scene = global::NDMA.Resource.Id.transition_current_scene;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_layout_save = global::NDMA.Resource.Id.transition_layout_save;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_position = global::NDMA.Resource.Id.transition_position;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_scene_layoutid_cache = global::NDMA.Resource.Id.transition_scene_layoutid_cache;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_transform = global::NDMA.Resource.Id.transition_transform;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.uniform = global::NDMA.Resource.Id.uniform;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.unlabeled = global::NDMA.Resource.Id.unlabeled;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.up = global::NDMA.Resource.Id.up;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.useLogo = global::NDMA.Resource.Id.useLogo;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.view_offset_helper = global::NDMA.Resource.Id.view_offset_helper;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.visible = global::NDMA.Resource.Id.visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.withText = global::NDMA.Resource.Id.withText;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.wrap_content = global::NDMA.Resource.Id.wrap_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityDefaultDur = global::NDMA.Resource.Integer.abc_config_activityDefaultDur;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityShortDur = global::NDMA.Resource.Integer.abc_config_activityShortDur;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.app_bar_elevation_anim_duration = global::NDMA.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.bottom_sheet_slide_duration = global::NDMA.Resource.Integer.bottom_sheet_slide_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.cancel_button_image_alpha = global::NDMA.Resource.Integer.cancel_button_image_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.config_tooltipAnimTime = global::NDMA.Resource.Integer.config_tooltipAnimTime;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.design_snackbar_text_max_lines = global::NDMA.Resource.Integer.design_snackbar_text_max_lines;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.design_tab_indicator_anim_duration_ms = global::NDMA.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.hide_password_duration = global::NDMA.Resource.Integer.hide_password_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_btn_anim_delay_ms = global::NDMA.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_btn_anim_duration_ms = global::NDMA.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_chip_anim_duration = global::NDMA.Resource.Integer.mtrl_chip_anim_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::NDMA.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.show_password_duration = global::NDMA.Resource.Integer.show_password_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.status_bar_notification_info_maxnum = global::NDMA.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_fast_out_linear_in = global::NDMA.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_fast_out_slow_in = global::NDMA.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_linear = global::NDMA.Resource.Interpolator.mtrl_linear;
+			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_linear_out_slow_in = global::NDMA.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_title_item = global::NDMA.Resource.Layout.abc_action_bar_title_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_up_container = global::NDMA.Resource.Layout.abc_action_bar_up_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_item_layout = global::NDMA.Resource.Layout.abc_action_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_layout = global::NDMA.Resource.Layout.abc_action_menu_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_mode_bar = global::NDMA.Resource.Layout.abc_action_mode_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_mode_close_item_material = global::NDMA.Resource.Layout.abc_action_mode_close_item_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_activity_chooser_view = global::NDMA.Resource.Layout.abc_activity_chooser_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::NDMA.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::NDMA.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_material = global::NDMA.Resource.Layout.abc_alert_dialog_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_title_material = global::NDMA.Resource.Layout.abc_alert_dialog_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_cascading_menu_item_layout = global::NDMA.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_dialog_title_material = global::NDMA.Resource.Layout.abc_dialog_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_expanded_menu_layout = global::NDMA.Resource.Layout.abc_expanded_menu_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_checkbox = global::NDMA.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_icon = global::NDMA.Resource.Layout.abc_list_menu_item_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_layout = global::NDMA.Resource.Layout.abc_list_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_radio = global::NDMA.Resource.Layout.abc_list_menu_item_radio;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::NDMA.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_popup_menu_item_layout = global::NDMA.Resource.Layout.abc_popup_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_content_include = global::NDMA.Resource.Layout.abc_screen_content_include;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_simple = global::NDMA.Resource.Layout.abc_screen_simple;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::NDMA.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_toolbar = global::NDMA.Resource.Layout.abc_screen_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::NDMA.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_view = global::NDMA.Resource.Layout.abc_search_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_select_dialog_material = global::NDMA.Resource.Layout.abc_select_dialog_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_tooltip = global::NDMA.Resource.Layout.abc_tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.BottomTabLayout = global::NDMA.Resource.Layout.BottomTabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_navigation_item = global::NDMA.Resource.Layout.design_bottom_navigation_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_sheet_dialog = global::NDMA.Resource.Layout.design_bottom_sheet_dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_snackbar = global::NDMA.Resource.Layout.design_layout_snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_snackbar_include = global::NDMA.Resource.Layout.design_layout_snackbar_include;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_tab_icon = global::NDMA.Resource.Layout.design_layout_tab_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_tab_text = global::NDMA.Resource.Layout.design_layout_tab_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_menu_item_action_area = global::NDMA.Resource.Layout.design_menu_item_action_area;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item = global::NDMA.Resource.Layout.design_navigation_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_header = global::NDMA.Resource.Layout.design_navigation_item_header;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_separator = global::NDMA.Resource.Layout.design_navigation_item_separator;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_subheader = global::NDMA.Resource.Layout.design_navigation_item_subheader;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu = global::NDMA.Resource.Layout.design_navigation_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu_item = global::NDMA.Resource.Layout.design_navigation_menu_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_text_input_password_icon = global::NDMA.Resource.Layout.design_text_input_password_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.FlyoutContent = global::NDMA.Resource.Layout.FlyoutContent;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.mtrl_layout_snackbar = global::NDMA.Resource.Layout.mtrl_layout_snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.mtrl_layout_snackbar_include = global::NDMA.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_action = global::NDMA.Resource.Layout.notification_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_action_tombstone = global::NDMA.Resource.Layout.notification_action_tombstone;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_action = global::NDMA.Resource.Layout.notification_media_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_cancel_action = global::NDMA.Resource.Layout.notification_media_cancel_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media = global::NDMA.Resource.Layout.notification_template_big_media;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_custom = global::NDMA.Resource.Layout.notification_template_big_media_custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_narrow = global::NDMA.Resource.Layout.notification_template_big_media_narrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::NDMA.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_custom_big = global::NDMA.Resource.Layout.notification_template_custom_big;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_icon_group = global::NDMA.Resource.Layout.notification_template_icon_group;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_lines_media = global::NDMA.Resource.Layout.notification_template_lines_media;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media = global::NDMA.Resource.Layout.notification_template_media;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media_custom = global::NDMA.Resource.Layout.notification_template_media_custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_chronometer = global::NDMA.Resource.Layout.notification_template_part_chronometer;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_time = global::NDMA.Resource.Layout.notification_template_part_time;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.RootLayout = global::NDMA.Resource.Layout.RootLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_item_material = global::NDMA.Resource.Layout.select_dialog_item_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_multichoice_material = global::NDMA.Resource.Layout.select_dialog_multichoice_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_singlechoice_material = global::NDMA.Resource.Layout.select_dialog_singlechoice_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.ShellContent = global::NDMA.Resource.Layout.ShellContent;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::NDMA.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_home_description = global::NDMA.Resource.String.abc_action_bar_home_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_up_description = global::NDMA.Resource.String.abc_action_bar_up_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_menu_overflow_description = global::NDMA.Resource.String.abc_action_menu_overflow_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_mode_done = global::NDMA.Resource.String.abc_action_mode_done;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activitychooserview_choose_application = global::NDMA.Resource.String.abc_activitychooserview_choose_application;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activity_chooser_view_see_all = global::NDMA.Resource.String.abc_activity_chooser_view_see_all;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_capital_off = global::NDMA.Resource.String.abc_capital_off;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_capital_on = global::NDMA.Resource.String.abc_capital_on;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_body_1_material = global::NDMA.Resource.String.abc_font_family_body_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_body_2_material = global::NDMA.Resource.String.abc_font_family_body_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_button_material = global::NDMA.Resource.String.abc_font_family_button_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_caption_material = global::NDMA.Resource.String.abc_font_family_caption_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_1_material = global::NDMA.Resource.String.abc_font_family_display_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_2_material = global::NDMA.Resource.String.abc_font_family_display_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_3_material = global::NDMA.Resource.String.abc_font_family_display_3_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_4_material = global::NDMA.Resource.String.abc_font_family_display_4_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_headline_material = global::NDMA.Resource.String.abc_font_family_headline_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_menu_material = global::NDMA.Resource.String.abc_font_family_menu_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_subhead_material = global::NDMA.Resource.String.abc_font_family_subhead_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_title_material = global::NDMA.Resource.String.abc_font_family_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_alt_shortcut_label = global::NDMA.Resource.String.abc_menu_alt_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_ctrl_shortcut_label = global::NDMA.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_delete_shortcut_label = global::NDMA.Resource.String.abc_menu_delete_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_enter_shortcut_label = global::NDMA.Resource.String.abc_menu_enter_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_function_shortcut_label = global::NDMA.Resource.String.abc_menu_function_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_meta_shortcut_label = global::NDMA.Resource.String.abc_menu_meta_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_shift_shortcut_label = global::NDMA.Resource.String.abc_menu_shift_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_space_shortcut_label = global::NDMA.Resource.String.abc_menu_space_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_sym_shortcut_label = global::NDMA.Resource.String.abc_menu_sym_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_prepend_shortcut_label = global::NDMA.Resource.String.abc_prepend_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_clear = global::NDMA.Resource.String.abc_searchview_description_clear;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_query = global::NDMA.Resource.String.abc_searchview_description_query;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_search = global::NDMA.Resource.String.abc_searchview_description_search;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_submit = global::NDMA.Resource.String.abc_searchview_description_submit;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_voice = global::NDMA.Resource.String.abc_searchview_description_voice;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_search_hint = global::NDMA.Resource.String.abc_search_hint;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with = global::NDMA.Resource.String.abc_shareactionprovider_share_with;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with_application = global::NDMA.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_toolbar_collapse_description = global::NDMA.Resource.String.abc_toolbar_collapse_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.appbar_scrolling_view_behavior = global::NDMA.Resource.String.appbar_scrolling_view_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.bottom_sheet_behavior = global::NDMA.Resource.String.bottom_sheet_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_content_description = global::NDMA.Resource.String.character_counter_content_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_pattern = global::NDMA.Resource.String.character_counter_pattern;
+			global::Xamarin.Forms.Platform.Android.Resource.String.fab_transformation_scrim_behavior = global::NDMA.Resource.String.fab_transformation_scrim_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.fab_transformation_sheet_behavior = global::NDMA.Resource.String.fab_transformation_sheet_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.hide_bottom_view_on_scroll_behavior = global::NDMA.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.mtrl_chip_close_icon_content_description = global::NDMA.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.password_toggle_content_description = global::NDMA.Resource.String.password_toggle_content_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye = global::NDMA.Resource.String.path_password_eye;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_strike_through = global::NDMA.Resource.String.path_password_eye_mask_strike_through;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_visible = global::NDMA.Resource.String.path_password_eye_mask_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_strike_through = global::NDMA.Resource.String.path_password_strike_through;
+			global::Xamarin.Forms.Platform.Android.Resource.String.search_menu_title = global::NDMA.Resource.String.search_menu_title;
+			global::Xamarin.Forms.Platform.Android.Resource.String.status_bar_notification_info_overflow = global::NDMA.Resource.String.status_bar_notification_info_overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat = global::NDMA.Resource.Style.AlertDialog_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat_Light = global::NDMA.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Dialog = global::NDMA.Resource.Style.Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::NDMA.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Tooltip = global::NDMA.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::NDMA.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat = global::NDMA.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::NDMA.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::NDMA.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::NDMA.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Tooltip = global::NDMA.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_CardView = global::NDMA.Resource.Style.Base_CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::NDMA.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::NDMA.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::NDMA.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::NDMA.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::NDMA.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::NDMA.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat = global::NDMA.Resource.Style.Base_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::NDMA.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::NDMA.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::NDMA.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::NDMA.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::NDMA.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::NDMA.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents = global::NDMA.Resource.Style.Base_Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::NDMA.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::NDMA.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat = global::NDMA.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::NDMA.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::NDMA.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat = global::NDMA.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat = global::NDMA.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat = global::NDMA.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::NDMA.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V28_Theme_AppCompat = global::NDMA.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V28_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::NDMA.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat = global::NDMA.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::NDMA.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::NDMA.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::NDMA.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::NDMA.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::NDMA.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::NDMA.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::NDMA.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::NDMA.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::NDMA.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::NDMA.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::NDMA.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::NDMA.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::NDMA.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::NDMA.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::NDMA.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::NDMA.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::NDMA.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::NDMA.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::NDMA.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::NDMA.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::NDMA.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::NDMA.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::NDMA.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::NDMA.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::NDMA.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::NDMA.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::NDMA.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::NDMA.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_Design_TabLayout = global::NDMA.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_Chip = global::NDMA.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::NDMA.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::NDMA.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView = global::NDMA.Resource.Style.CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::NDMA.Resource.Style.CardView_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::NDMA.Resource.Style.CardView_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.collectionViewStyle = global::NDMA.Resource.Style.collectionViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.NestedScrollBarStyle = global::NDMA.Resource.Style.NestedScrollBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat = global::NDMA.Resource.Style.Platform_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat_Light = global::NDMA.Resource.Style.Platform_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents = global::NDMA.Resource.Style.Platform_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Dialog = global::NDMA.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Light = global::NDMA.Resource.Style.Platform_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::NDMA.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::NDMA.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::NDMA.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::NDMA.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat = global::NDMA.Resource.Style.Platform_V21_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat_Light = global::NDMA.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat = global::NDMA.Resource.Style.Platform_V25_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat_Light = global::NDMA.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::NDMA.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::NDMA.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::NDMA.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::NDMA.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat = global::NDMA.Resource.Style.TextAppearance_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Button = global::NDMA.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::NDMA.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::NDMA.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large = global::NDMA.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::NDMA.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::NDMA.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::NDMA.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::NDMA.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::NDMA.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::NDMA.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small = global::NDMA.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::NDMA.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Tooltip = global::NDMA.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification = global::NDMA.Resource.Style.TextAppearance_Compat_Notification;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Info = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Media = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Time = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Title = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::NDMA.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter = global::NDMA.Resource.Style.TextAppearance_Design_Counter;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::NDMA.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Error = global::NDMA.Resource.Style.TextAppearance_Design_Error;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_HelperText = global::NDMA.Resource.Style.TextAppearance_Design_HelperText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Hint = global::NDMA.Resource.Style.TextAppearance_Design_Hint;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::NDMA.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Tab = global::NDMA.Resource.Style.TextAppearance_Design_Tab;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Button = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Caption = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Chip = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Overline = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Tab = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::NDMA.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::NDMA.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::NDMA.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat = global::NDMA.Resource.Style.ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat = global::NDMA.Resource.Style.Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::NDMA.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight = global::NDMA.Resource.Style.Theme_AppCompat_DayNight;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog = global::NDMA.Resource.Style.Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::NDMA.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::NDMA.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light = global::NDMA.Resource.Style.Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::NDMA.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::NDMA.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::NDMA.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::NDMA.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::NDMA.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::NDMA.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design = global::NDMA.Resource.Style.Theme_Design;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::NDMA.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light = global::NDMA.Resource.Style.Theme_Design_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::NDMA.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::NDMA.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_NoActionBar = global::NDMA.Resource.Style.Theme_Design_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents = global::NDMA.Resource.Style.Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::NDMA.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_CompactMenu = global::NDMA.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog = global::NDMA.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::NDMA.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light = global::NDMA.Resource.Style.Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar = global::NDMA.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton = global::NDMA.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::NDMA.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::NDMA.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionMode = global::NDMA.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::NDMA.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::NDMA.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button = global::NDMA.Resource.Style.Widget_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::NDMA.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::NDMA.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::NDMA.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::NDMA.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::NDMA.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::NDMA.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Small = global::NDMA.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::NDMA.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::NDMA.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::NDMA.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::NDMA.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::NDMA.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_EditText = global::NDMA.Resource.Style.Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ImageButton = global::NDMA.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::NDMA.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::NDMA.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::NDMA.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::NDMA.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::NDMA.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::NDMA.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::NDMA.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::NDMA.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::NDMA.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView = global::NDMA.Resource.Style.Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::NDMA.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::NDMA.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::NDMA.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::NDMA.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::NDMA.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::NDMA.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::NDMA.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar = global::NDMA.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::NDMA.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::NDMA.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SearchView = global::NDMA.Resource.Style.Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar = global::NDMA.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::NDMA.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner = global::NDMA.Resource.Style.Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::NDMA.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::NDMA.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::NDMA.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar = global::NDMA.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::NDMA.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Compat_NotificationActionContainer = global::NDMA.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Compat_NotificationActionText = global::NDMA.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_AppBarLayout = global::NDMA.Resource.Style.Widget_Design_AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomNavigationView = global::NDMA.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::NDMA.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::NDMA.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_FloatingActionButton = global::NDMA.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_NavigationView = global::NDMA.Resource.Style.Widget_Design_NavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::NDMA.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_Snackbar = global::NDMA.Resource.Style.Widget_Design_Snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TabLayout = global::NDMA.Resource.Style.Widget_Design_TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TextInputLayout = global::NDMA.Resource.Style.Widget_Design_TextInputLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button = global::NDMA.Resource.Style.Widget_MaterialComponents_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_CardView = global::NDMA.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_ChipGroup = global::NDMA.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Action = global::NDMA.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::NDMA.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::NDMA.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::NDMA.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::NDMA.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_NavigationView = global::NDMA.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Snackbar = global::NDMA.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::NDMA.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TabLayout = global::NDMA.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::NDMA.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Toolbar = global::NDMA.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Support_CoordinatorLayout = global::NDMA.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar = global::NDMA.Resource.Styleable.ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout = global::NDMA.Resource.Styleable.ActionBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::NDMA.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_background = global::NDMA.Resource.Styleable.ActionBar_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundSplit = global::NDMA.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundStacked = global::NDMA.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::NDMA.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::NDMA.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::NDMA.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetRight = global::NDMA.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetStart = global::NDMA.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::NDMA.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::NDMA.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_displayOptions = global::NDMA.Resource.Styleable.ActionBar_displayOptions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_divider = global::NDMA.Resource.Styleable.ActionBar_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_elevation = global::NDMA.Resource.Styleable.ActionBar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_height = global::NDMA.Resource.Styleable.ActionBar_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::NDMA.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::NDMA.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_homeLayout = global::NDMA.Resource.Styleable.ActionBar_homeLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_icon = global::NDMA.Resource.Styleable.ActionBar_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::NDMA.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_itemPadding = global::NDMA.Resource.Styleable.ActionBar_itemPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_logo = global::NDMA.Resource.Styleable.ActionBar_logo;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_navigationMode = global::NDMA.Resource.Styleable.ActionBar_navigationMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_popupTheme = global::NDMA.Resource.Styleable.ActionBar_popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_progressBarPadding = global::NDMA.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_progressBarStyle = global::NDMA.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitle = global::NDMA.Resource.Styleable.ActionBar_subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::NDMA.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_title = global::NDMA.Resource.Styleable.ActionBar_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_titleTextStyle = global::NDMA.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView = global::NDMA.Resource.Styleable.ActionMenuItemView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::NDMA.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuView = global::NDMA.Resource.Styleable.ActionMenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode = global::NDMA.Resource.Styleable.ActionMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_background = global::NDMA.Resource.Styleable.ActionMode_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_backgroundSplit = global::NDMA.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_closeItemLayout = global::NDMA.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_height = global::NDMA.Resource.Styleable.ActionMode_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::NDMA.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_titleTextStyle = global::NDMA.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView = global::NDMA.Resource.Styleable.ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::NDMA.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::NDMA.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog = global::NDMA.Resource.Styleable.AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_android_layout = global::NDMA.Resource.Styleable.AlertDialog_android_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_buttonIconDimen = global::NDMA.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::NDMA.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listItemLayout = global::NDMA.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listLayout = global::NDMA.Resource.Styleable.AlertDialog_listLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::NDMA.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_showTitle = global::NDMA.Resource.Styleable.AlertDialog_showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::NDMA.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableItem = global::NDMA.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::NDMA.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::NDMA.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout = global::NDMA.Resource.Styleable.AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates = global::NDMA.Resource.Styleable.AppBarLayoutStates;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::NDMA.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::NDMA.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_liftable = global::NDMA.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_lifted = global::NDMA.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_background = global::NDMA.Resource.Styleable.AppBarLayout_android_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::NDMA.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::NDMA.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_elevation = global::NDMA.Resource.Styleable.AppBarLayout_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_expanded = global::NDMA.Resource.Styleable.AppBarLayout_expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout = global::NDMA.Resource.Styleable.AppBarLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::NDMA.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::NDMA.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_liftOnScroll = global::NDMA.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView = global::NDMA.Resource.Styleable.AppCompatImageView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_android_src = global::NDMA.Resource.Styleable.AppCompatImageView_android_src;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::NDMA.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_tint = global::NDMA.Resource.Styleable.AppCompatImageView_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_tintMode = global::NDMA.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar = global::NDMA.Resource.Styleable.AppCompatSeekBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::NDMA.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::NDMA.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::NDMA.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::NDMA.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper = global::NDMA.Resource.Styleable.AppCompatTextHelper;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView = global::NDMA.Resource.Styleable.AppCompatTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::NDMA.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::NDMA.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_fontFamily = global::NDMA.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::NDMA.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_lineHeight = global::NDMA.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::NDMA.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme = global::NDMA.Resource.Styleable.AppCompatTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::NDMA.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::NDMA.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::NDMA.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::NDMA.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::NDMA.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::NDMA.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::NDMA.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::NDMA.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::NDMA.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::NDMA.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::NDMA.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::NDMA.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::NDMA.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::NDMA.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::NDMA.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::NDMA.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorError = global::NDMA.Resource.Styleable.AppCompatTheme_colorError;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::NDMA.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::NDMA.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::NDMA.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::NDMA.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::NDMA.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::NDMA.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::NDMA.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::NDMA.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::NDMA.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::NDMA.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::NDMA.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::NDMA.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::NDMA.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::NDMA.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::NDMA.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::NDMA.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::NDMA.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::NDMA.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::NDMA.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::NDMA.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::NDMA.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::NDMA.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::NDMA.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::NDMA.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::NDMA.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::NDMA.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::NDMA.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::NDMA.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::NDMA.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::NDMA.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::NDMA.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::NDMA.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::NDMA.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::NDMA.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::NDMA.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::NDMA.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::NDMA.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::NDMA.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::NDMA.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::NDMA.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::NDMA.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::NDMA.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::NDMA.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::NDMA.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar = global::NDMA.Resource.Styleable.BottomAppBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_backgroundTint = global::NDMA.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::NDMA.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabCradleMargin = global::NDMA.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::NDMA.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::NDMA.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_hideOnScroll = global::NDMA.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView = global::NDMA.Resource.Styleable.BottomNavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_elevation = global::NDMA.Resource.Styleable.BottomNavigationView_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemBackground = global::NDMA.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::NDMA.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemIconSize = global::NDMA.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemIconTint = global::NDMA.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::NDMA.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::NDMA.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextColor = global::NDMA.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::NDMA.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_menu = global::NDMA.Resource.Styleable.BottomNavigationView_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ButtonBarLayout = global::NDMA.Resource.Styleable.ButtonBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::NDMA.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView = global::NDMA.Resource.Styleable.CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_android_minHeight = global::NDMA.Resource.Styleable.CardView_android_minHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_android_minWidth = global::NDMA.Resource.Styleable.CardView_android_minWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardBackgroundColor = global::NDMA.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardCornerRadius = global::NDMA.Resource.Styleable.CardView_cardCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardElevation = global::NDMA.Resource.Styleable.CardView_cardElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardMaxElevation = global::NDMA.Resource.Styleable.CardView_cardMaxElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::NDMA.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::NDMA.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPadding = global::NDMA.Resource.Styleable.CardView_contentPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingBottom = global::NDMA.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingLeft = global::NDMA.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingRight = global::NDMA.Resource.Styleable.CardView_contentPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingTop = global::NDMA.Resource.Styleable.CardView_contentPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip = global::NDMA.Resource.Styleable.Chip;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup = global::NDMA.Resource.Styleable.ChipGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_checkedChip = global::NDMA.Resource.Styleable.ChipGroup_checkedChip;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacing = global::NDMA.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::NDMA.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingVertical = global::NDMA.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleLine = global::NDMA.Resource.Styleable.ChipGroup_singleLine;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleSelection = global::NDMA.Resource.Styleable.ChipGroup_singleSelection;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_checkable = global::NDMA.Resource.Styleable.Chip_android_checkable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_ellipsize = global::NDMA.Resource.Styleable.Chip_android_ellipsize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_maxWidth = global::NDMA.Resource.Styleable.Chip_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_text = global::NDMA.Resource.Styleable.Chip_android_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_textAppearance = global::NDMA.Resource.Styleable.Chip_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_checkedIcon = global::NDMA.Resource.Styleable.Chip_checkedIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_checkedIconEnabled = global::NDMA.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_checkedIconVisible = global::NDMA.Resource.Styleable.Chip_checkedIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipBackgroundColor = global::NDMA.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipCornerRadius = global::NDMA.Resource.Styleable.Chip_chipCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipEndPadding = global::NDMA.Resource.Styleable.Chip_chipEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIcon = global::NDMA.Resource.Styleable.Chip_chipIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconEnabled = global::NDMA.Resource.Styleable.Chip_chipIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconSize = global::NDMA.Resource.Styleable.Chip_chipIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconTint = global::NDMA.Resource.Styleable.Chip_chipIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconVisible = global::NDMA.Resource.Styleable.Chip_chipIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipMinHeight = global::NDMA.Resource.Styleable.Chip_chipMinHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipStartPadding = global::NDMA.Resource.Styleable.Chip_chipStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipStrokeColor = global::NDMA.Resource.Styleable.Chip_chipStrokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipStrokeWidth = global::NDMA.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIcon = global::NDMA.Resource.Styleable.Chip_closeIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconEnabled = global::NDMA.Resource.Styleable.Chip_closeIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconEndPadding = global::NDMA.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconSize = global::NDMA.Resource.Styleable.Chip_closeIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconStartPadding = global::NDMA.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconTint = global::NDMA.Resource.Styleable.Chip_closeIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconVisible = global::NDMA.Resource.Styleable.Chip_closeIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_hideMotionSpec = global::NDMA.Resource.Styleable.Chip_hideMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_iconEndPadding = global::NDMA.Resource.Styleable.Chip_iconEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_iconStartPadding = global::NDMA.Resource.Styleable.Chip_iconStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_rippleColor = global::NDMA.Resource.Styleable.Chip_rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_showMotionSpec = global::NDMA.Resource.Styleable.Chip_showMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_textEndPadding = global::NDMA.Resource.Styleable.Chip_textEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_textStartPadding = global::NDMA.Resource.Styleable.Chip_textStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout = global::NDMA.Resource.Styleable.CollapsingToolbarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem = global::NDMA.Resource.Styleable.ColorStateListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_alpha = global::NDMA.Resource.Styleable.ColorStateListItem_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::NDMA.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_color = global::NDMA.Resource.Styleable.ColorStateListItem_android_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton = global::NDMA.Resource.Styleable.CompoundButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_android_button = global::NDMA.Resource.Styleable.CompoundButton_android_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTint = global::NDMA.Resource.Styleable.CompoundButton_buttonTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::NDMA.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout = global::NDMA.Resource.Styleable.CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_keylines = global::NDMA.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::NDMA.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme = global::NDMA.Resource.Styleable.DesignTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::NDMA.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::NDMA.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle = global::NDMA.Resource.Styleable.DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::NDMA.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::NDMA.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::NDMA.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_color = global::NDMA.Resource.Styleable.DrawerArrowToggle_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::NDMA.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::NDMA.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::NDMA.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::NDMA.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton = global::NDMA.Resource.Styleable.FloatingActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::NDMA.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::NDMA.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::NDMA.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::NDMA.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::NDMA.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_elevation = global::NDMA.Resource.Styleable.FloatingActionButton_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabCustomSize = global::NDMA.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabSize = global::NDMA.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::NDMA.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::NDMA.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_maxImageSize = global::NDMA.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::NDMA.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::NDMA.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_showMotionSpec = global::NDMA.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::NDMA.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout = global::NDMA.Resource.Styleable.FlowLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout_itemSpacing = global::NDMA.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout_lineSpacing = global::NDMA.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily = global::NDMA.Resource.Styleable.FontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont = global::NDMA.Resource.Styleable.FontFamilyFont;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_font = global::NDMA.Resource.Styleable.FontFamilyFont_android_font;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::NDMA.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::NDMA.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontWeight = global::NDMA.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::NDMA.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_font = global::NDMA.Resource.Styleable.FontFamilyFont_font;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontStyle = global::NDMA.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::NDMA.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::NDMA.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_ttcIndex = global::NDMA.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::NDMA.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::NDMA.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::NDMA.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::NDMA.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::NDMA.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::NDMA.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout = global::NDMA.Resource.Styleable.ForegroundLinearLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::NDMA.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::NDMA.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::NDMA.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor = global::NDMA.Resource.Styleable.GradientColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem = global::NDMA.Resource.Styleable.GradientColorItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_color = global::NDMA.Resource.Styleable.GradientColorItem_android_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_offset = global::NDMA.Resource.Styleable.GradientColorItem_android_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerColor = global::NDMA.Resource.Styleable.GradientColor_android_centerColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerX = global::NDMA.Resource.Styleable.GradientColor_android_centerX;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerY = global::NDMA.Resource.Styleable.GradientColor_android_centerY;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_endColor = global::NDMA.Resource.Styleable.GradientColor_android_endColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_endX = global::NDMA.Resource.Styleable.GradientColor_android_endX;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_endY = global::NDMA.Resource.Styleable.GradientColor_android_endY;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_gradientRadius = global::NDMA.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startColor = global::NDMA.Resource.Styleable.GradientColor_android_startColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startX = global::NDMA.Resource.Styleable.GradientColor_android_startX;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startY = global::NDMA.Resource.Styleable.GradientColor_android_startY;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_tileMode = global::NDMA.Resource.Styleable.GradientColor_android_tileMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_type = global::NDMA.Resource.Styleable.GradientColor_android_type;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat = global::NDMA.Resource.Styleable.LinearLayoutCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_divider = global::NDMA.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::NDMA.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::NDMA.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::NDMA.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow = global::NDMA.Resource.Styleable.ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::NDMA.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::NDMA.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton = global::NDMA.Resource.Styleable.MaterialButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetBottom = global::NDMA.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetLeft = global::NDMA.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetRight = global::NDMA.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetTop = global::NDMA.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_backgroundTint = global::NDMA.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_backgroundTintMode = global::NDMA.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_cornerRadius = global::NDMA.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_icon = global::NDMA.Resource.Styleable.MaterialButton_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconGravity = global::NDMA.Resource.Styleable.MaterialButton_iconGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconPadding = global::NDMA.Resource.Styleable.MaterialButton_iconPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconSize = global::NDMA.Resource.Styleable.MaterialButton_iconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconTint = global::NDMA.Resource.Styleable.MaterialButton_iconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconTintMode = global::NDMA.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_rippleColor = global::NDMA.Resource.Styleable.MaterialButton_rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_strokeColor = global::NDMA.Resource.Styleable.MaterialButton_strokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_strokeWidth = global::NDMA.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialCardView = global::NDMA.Resource.Styleable.MaterialCardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialCardView_strokeColor = global::NDMA.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialCardView_strokeWidth = global::NDMA.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme = global::NDMA.Resource.Styleable.MaterialComponentsTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::NDMA.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::NDMA.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup = global::NDMA.Resource.Styleable.MenuGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::NDMA.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_enabled = global::NDMA.Resource.Styleable.MenuGroup_android_enabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_id = global::NDMA.Resource.Styleable.MenuGroup_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::NDMA.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::NDMA.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_visible = global::NDMA.Resource.Styleable.MenuGroup_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem = global::NDMA.Resource.Styleable.MenuItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionLayout = global::NDMA.Resource.Styleable.MenuItem_actionLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionProviderClass = global::NDMA.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionViewClass = global::NDMA.Resource.Styleable.MenuItem_actionViewClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_alphabeticModifiers = global::NDMA.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::NDMA.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_checkable = global::NDMA.Resource.Styleable.MenuItem_android_checkable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_checked = global::NDMA.Resource.Styleable.MenuItem_android_checked;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_enabled = global::NDMA.Resource.Styleable.MenuItem_android_enabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_icon = global::NDMA.Resource.Styleable.MenuItem_android_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_id = global::NDMA.Resource.Styleable.MenuItem_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_menuCategory = global::NDMA.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::NDMA.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_onClick = global::NDMA.Resource.Styleable.MenuItem_android_onClick;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::NDMA.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_title = global::NDMA.Resource.Styleable.MenuItem_android_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::NDMA.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_visible = global::NDMA.Resource.Styleable.MenuItem_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_contentDescription = global::NDMA.Resource.Styleable.MenuItem_contentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_iconTint = global::NDMA.Resource.Styleable.MenuItem_iconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_iconTintMode = global::NDMA.Resource.Styleable.MenuItem_iconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_numericModifiers = global::NDMA.Resource.Styleable.MenuItem_numericModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_showAsAction = global::NDMA.Resource.Styleable.MenuItem_showAsAction;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_tooltipText = global::NDMA.Resource.Styleable.MenuItem_tooltipText;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView = global::NDMA.Resource.Styleable.MenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_headerBackground = global::NDMA.Resource.Styleable.MenuView_android_headerBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::NDMA.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemBackground = global::NDMA.Resource.Styleable.MenuView_android_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::NDMA.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::NDMA.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_verticalDivider = global::NDMA.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::NDMA.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::NDMA.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_subMenuArrow = global::NDMA.Resource.Styleable.MenuView_subMenuArrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView = global::NDMA.Resource.Styleable.NavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_background = global::NDMA.Resource.Styleable.NavigationView_android_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::NDMA.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_maxWidth = global::NDMA.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_elevation = global::NDMA.Resource.Styleable.NavigationView_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_headerLayout = global::NDMA.Resource.Styleable.NavigationView_headerLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemBackground = global::NDMA.Resource.Styleable.NavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemHorizontalPadding = global::NDMA.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemIconPadding = global::NDMA.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemIconTint = global::NDMA.Resource.Styleable.NavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::NDMA.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextColor = global::NDMA.Resource.Styleable.NavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_menu = global::NDMA.Resource.Styleable.NavigationView_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow = global::NDMA.Resource.Styleable.PopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState = global::NDMA.Resource.Styleable.PopupWindowBackgroundState;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::NDMA.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::NDMA.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::NDMA.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::NDMA.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView = global::NDMA.Resource.Styleable.RecycleListView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::NDMA.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::NDMA.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView = global::NDMA.Resource.Styleable.RecyclerView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::NDMA.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_android_orientation = global::NDMA.Resource.Styleable.RecyclerView_android_orientation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollEnabled = global::NDMA.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::NDMA.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::NDMA.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::NDMA.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::NDMA.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_layoutManager = global::NDMA.Resource.Styleable.RecyclerView_layoutManager;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_reverseLayout = global::NDMA.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_spanCount = global::NDMA.Resource.Styleable.RecyclerView_spanCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::NDMA.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::NDMA.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::NDMA.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::NDMA.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::NDMA.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView = global::NDMA.Resource.Styleable.SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_focusable = global::NDMA.Resource.Styleable.SearchView_android_focusable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_imeOptions = global::NDMA.Resource.Styleable.SearchView_android_imeOptions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_inputType = global::NDMA.Resource.Styleable.SearchView_android_inputType;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_maxWidth = global::NDMA.Resource.Styleable.SearchView_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_closeIcon = global::NDMA.Resource.Styleable.SearchView_closeIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_commitIcon = global::NDMA.Resource.Styleable.SearchView_commitIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_defaultQueryHint = global::NDMA.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_goIcon = global::NDMA.Resource.Styleable.SearchView_goIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::NDMA.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_layout = global::NDMA.Resource.Styleable.SearchView_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_queryBackground = global::NDMA.Resource.Styleable.SearchView_queryBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_queryHint = global::NDMA.Resource.Styleable.SearchView_queryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_searchHintIcon = global::NDMA.Resource.Styleable.SearchView_searchHintIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_searchIcon = global::NDMA.Resource.Styleable.SearchView_searchIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_submitBackground = global::NDMA.Resource.Styleable.SearchView_submitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::NDMA.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_voiceIcon = global::NDMA.Resource.Styleable.SearchView_voiceIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar = global::NDMA.Resource.Styleable.Snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout = global::NDMA.Resource.Styleable.SnackbarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::NDMA.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_elevation = global::NDMA.Resource.Styleable.SnackbarLayout_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::NDMA.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarButtonStyle = global::NDMA.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarStyle = global::NDMA.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner = global::NDMA.Resource.Styleable.Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::NDMA.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_entries = global::NDMA.Resource.Styleable.Spinner_android_entries;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_popupBackground = global::NDMA.Resource.Styleable.Spinner_android_popupBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_prompt = global::NDMA.Resource.Styleable.Spinner_android_prompt;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_popupTheme = global::NDMA.Resource.Styleable.Spinner_popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable = global::NDMA.Resource.Styleable.StateListDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem = global::NDMA.Resource.Styleable.StateListDrawableItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem_android_drawable = global::NDMA.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_constantSize = global::NDMA.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_dither = global::NDMA.Resource.Styleable.StateListDrawable_android_dither;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::NDMA.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::NDMA.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_variablePadding = global::NDMA.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_visible = global::NDMA.Resource.Styleable.StateListDrawable_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat = global::NDMA.Resource.Styleable.SwitchCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOff = global::NDMA.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOn = global::NDMA.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_thumb = global::NDMA.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_showText = global::NDMA.Resource.Styleable.SwitchCompat_showText;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_splitTrack = global::NDMA.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::NDMA.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchPadding = global::NDMA.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::NDMA.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::NDMA.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTint = global::NDMA.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::NDMA.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_track = global::NDMA.Resource.Styleable.SwitchCompat_track;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_trackTint = global::NDMA.Resource.Styleable.SwitchCompat_trackTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::NDMA.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem = global::NDMA.Resource.Styleable.TabItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_icon = global::NDMA.Resource.Styleable.TabItem_android_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_layout = global::NDMA.Resource.Styleable.TabItem_android_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_text = global::NDMA.Resource.Styleable.TabItem_android_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout = global::NDMA.Resource.Styleable.TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabBackground = global::NDMA.Resource.Styleable.TabLayout_tabBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabContentStart = global::NDMA.Resource.Styleable.TabLayout_tabContentStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabGravity = global::NDMA.Resource.Styleable.TabLayout_tabGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIconTint = global::NDMA.Resource.Styleable.TabLayout_tabIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIconTintMode = global::NDMA.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicator = global::NDMA.Resource.Styleable.TabLayout_tabIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorGravity = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabInlineLabel = global::NDMA.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::NDMA.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMinWidth = global::NDMA.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMode = global::NDMA.Resource.Styleable.TabLayout_tabMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPadding = global::NDMA.Resource.Styleable.TabLayout_tabPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::NDMA.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::NDMA.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::NDMA.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::NDMA.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabRippleColor = global::NDMA.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::NDMA.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::NDMA.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextColor = global::NDMA.Resource.Styleable.TabLayout_tabTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabUnboundedRipple = global::NDMA.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance = global::NDMA.Resource.Styleable.TextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_fontFamily = global::NDMA.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::NDMA.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::NDMA.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::NDMA.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::NDMA.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColor = global::NDMA.Resource.Styleable.TextAppearance_android_textColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::NDMA.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColorLink = global::NDMA.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textSize = global::NDMA.Resource.Styleable.TextAppearance_android_textSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textStyle = global::NDMA.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_typeface = global::NDMA.Resource.Styleable.TextAppearance_android_typeface;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_fontFamily = global::NDMA.Resource.Styleable.TextAppearance_fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_textAllCaps = global::NDMA.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout = global::NDMA.Resource.Styleable.TextInputLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_hint = global::NDMA.Resource.Styleable.TextInputLayout_android_hint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::NDMA.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::NDMA.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::NDMA.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::NDMA.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::NDMA.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::NDMA.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::NDMA.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::NDMA.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxStrokeColor = global::NDMA.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::NDMA.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::NDMA.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::NDMA.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::NDMA.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperText = global::NDMA.Resource.Styleable.TextInputLayout_helperText;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperTextEnabled = global::NDMA.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::NDMA.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::NDMA.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement = global::NDMA.Resource.Styleable.ThemeEnforcement;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::NDMA.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::NDMA.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::NDMA.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar = global::NDMA.Resource.Styleable.Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_gravity = global::NDMA.Resource.Styleable.Toolbar_android_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_minHeight = global::NDMA.Resource.Styleable.Toolbar_android_minHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_buttonGravity = global::NDMA.Resource.Styleable.Toolbar_buttonGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::NDMA.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_collapseIcon = global::NDMA.Resource.Styleable.Toolbar_collapseIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::NDMA.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::NDMA.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::NDMA.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetRight = global::NDMA.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetStart = global::NDMA.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::NDMA.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_logo = global::NDMA.Resource.Styleable.Toolbar_logo;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_logoDescription = global::NDMA.Resource.Styleable.Toolbar_logoDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::NDMA.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::NDMA.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_navigationIcon = global::NDMA.Resource.Styleable.Toolbar_navigationIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_popupTheme = global::NDMA.Resource.Styleable.Toolbar_popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitle = global::NDMA.Resource.Styleable.Toolbar_subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::NDMA.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::NDMA.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_title = global::NDMA.Resource.Styleable.Toolbar_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargin = global::NDMA.Resource.Styleable.Toolbar_titleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::NDMA.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::NDMA.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargins = global::NDMA.Resource.Styleable.Toolbar_titleMargins;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginStart = global::NDMA.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginTop = global::NDMA.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::NDMA.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextColor = global::NDMA.Resource.Styleable.Toolbar_titleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View = global::NDMA.Resource.Styleable.View;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper = global::NDMA.Resource.Styleable.ViewBackgroundHelper;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::NDMA.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::NDMA.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::NDMA.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat = global::NDMA.Resource.Styleable.ViewStubCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_id = global::NDMA.Resource.Styleable.ViewStubCompat_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::NDMA.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_layout = global::NDMA.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_focusable = global::NDMA.Resource.Styleable.View_android_focusable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_theme = global::NDMA.Resource.Styleable.View_android_theme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingEnd = global::NDMA.Resource.Styleable.View_paddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingStart = global::NDMA.Resource.Styleable.View_paddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_theme = global::NDMA.Resource.Styleable.View_theme;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_fade_in = global::NDMA.Resource.Animation.abc_fade_in;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_fade_out = global::NDMA.Resource.Animation.abc_fade_out;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_grow_fade_in_from_bottom = global::NDMA.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_popup_enter = global::NDMA.Resource.Animation.abc_popup_enter;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_popup_exit = global::NDMA.Resource.Animation.abc_popup_exit;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_shrink_fade_out_from_bottom = global::NDMA.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_slide_in_bottom = global::NDMA.Resource.Animation.abc_slide_in_bottom;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_slide_in_top = global::NDMA.Resource.Animation.abc_slide_in_top;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_slide_out_bottom = global::NDMA.Resource.Animation.abc_slide_out_bottom;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_slide_out_top = global::NDMA.Resource.Animation.abc_slide_out_top;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_tooltip_enter = global::NDMA.Resource.Animation.abc_tooltip_enter;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_tooltip_exit = global::NDMA.Resource.Animation.abc_tooltip_exit;
+			global::Xamarin.Forms.Platform.Resource.Animation.design_bottom_sheet_slide_in = global::NDMA.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Xamarin.Forms.Platform.Resource.Animation.design_bottom_sheet_slide_out = global::NDMA.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Xamarin.Forms.Platform.Resource.Animation.design_snackbar_in = global::NDMA.Resource.Animation.design_snackbar_in;
+			global::Xamarin.Forms.Platform.Resource.Animation.design_snackbar_out = global::NDMA.Resource.Animation.design_snackbar_out;
+			global::Xamarin.Forms.Platform.Resource.Animation.EnterFromLeft = global::NDMA.Resource.Animation.EnterFromLeft;
+			global::Xamarin.Forms.Platform.Resource.Animation.EnterFromRight = global::NDMA.Resource.Animation.EnterFromRight;
+			global::Xamarin.Forms.Platform.Resource.Animation.ExitToLeft = global::NDMA.Resource.Animation.ExitToLeft;
+			global::Xamarin.Forms.Platform.Resource.Animation.ExitToRight = global::NDMA.Resource.Animation.ExitToRight;
+			global::Xamarin.Forms.Platform.Resource.Animator.design_appbar_state_list_animator = global::NDMA.Resource.Animator.design_appbar_state_list_animator;
+			global::Xamarin.Forms.Platform.Resource.Animator.design_fab_hide_motion_spec = global::NDMA.Resource.Animator.design_fab_hide_motion_spec;
+			global::Xamarin.Forms.Platform.Resource.Animator.design_fab_show_motion_spec = global::NDMA.Resource.Animator.design_fab_show_motion_spec;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_btn_state_list_anim = global::NDMA.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::NDMA.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_chip_state_list_anim = global::NDMA.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_fab_hide_motion_spec = global::NDMA.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_fab_show_motion_spec = global::NDMA.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::NDMA.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::NDMA.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarDivider = global::NDMA.Resource.Attribute.actionBarDivider;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarItemBackground = global::NDMA.Resource.Attribute.actionBarItemBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarPopupTheme = global::NDMA.Resource.Attribute.actionBarPopupTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarSize = global::NDMA.Resource.Attribute.actionBarSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarSplitStyle = global::NDMA.Resource.Attribute.actionBarSplitStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarStyle = global::NDMA.Resource.Attribute.actionBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarTabBarStyle = global::NDMA.Resource.Attribute.actionBarTabBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarTabStyle = global::NDMA.Resource.Attribute.actionBarTabStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarTabTextStyle = global::NDMA.Resource.Attribute.actionBarTabTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarTheme = global::NDMA.Resource.Attribute.actionBarTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarWidgetTheme = global::NDMA.Resource.Attribute.actionBarWidgetTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionButtonStyle = global::NDMA.Resource.Attribute.actionButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionDropDownStyle = global::NDMA.Resource.Attribute.actionDropDownStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionLayout = global::NDMA.Resource.Attribute.actionLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionMenuTextAppearance = global::NDMA.Resource.Attribute.actionMenuTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionMenuTextColor = global::NDMA.Resource.Attribute.actionMenuTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeBackground = global::NDMA.Resource.Attribute.actionModeBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeCloseButtonStyle = global::NDMA.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeCloseDrawable = global::NDMA.Resource.Attribute.actionModeCloseDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeCopyDrawable = global::NDMA.Resource.Attribute.actionModeCopyDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeCutDrawable = global::NDMA.Resource.Attribute.actionModeCutDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeFindDrawable = global::NDMA.Resource.Attribute.actionModeFindDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModePasteDrawable = global::NDMA.Resource.Attribute.actionModePasteDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModePopupWindowStyle = global::NDMA.Resource.Attribute.actionModePopupWindowStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeSelectAllDrawable = global::NDMA.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeShareDrawable = global::NDMA.Resource.Attribute.actionModeShareDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeSplitBackground = global::NDMA.Resource.Attribute.actionModeSplitBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeStyle = global::NDMA.Resource.Attribute.actionModeStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeWebSearchDrawable = global::NDMA.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionOverflowButtonStyle = global::NDMA.Resource.Attribute.actionOverflowButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionOverflowMenuStyle = global::NDMA.Resource.Attribute.actionOverflowMenuStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionProviderClass = global::NDMA.Resource.Attribute.actionProviderClass;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionViewClass = global::NDMA.Resource.Attribute.actionViewClass;
+			global::Xamarin.Forms.Platform.Resource.Attribute.activityChooserViewStyle = global::NDMA.Resource.Attribute.activityChooserViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.alertDialogButtonGroupStyle = global::NDMA.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.alertDialogCenterButtons = global::NDMA.Resource.Attribute.alertDialogCenterButtons;
+			global::Xamarin.Forms.Platform.Resource.Attribute.alertDialogStyle = global::NDMA.Resource.Attribute.alertDialogStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.alertDialogTheme = global::NDMA.Resource.Attribute.alertDialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.allowStacking = global::NDMA.Resource.Attribute.allowStacking;
+			global::Xamarin.Forms.Platform.Resource.Attribute.alpha = global::NDMA.Resource.Attribute.alpha;
+			global::Xamarin.Forms.Platform.Resource.Attribute.alphabeticModifiers = global::NDMA.Resource.Attribute.alphabeticModifiers;
+			global::Xamarin.Forms.Platform.Resource.Attribute.arrowHeadLength = global::NDMA.Resource.Attribute.arrowHeadLength;
+			global::Xamarin.Forms.Platform.Resource.Attribute.arrowShaftLength = global::NDMA.Resource.Attribute.arrowShaftLength;
+			global::Xamarin.Forms.Platform.Resource.Attribute.autoCompleteTextViewStyle = global::NDMA.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.autoSizeMaxTextSize = global::NDMA.Resource.Attribute.autoSizeMaxTextSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.autoSizeMinTextSize = global::NDMA.Resource.Attribute.autoSizeMinTextSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.autoSizePresetSizes = global::NDMA.Resource.Attribute.autoSizePresetSizes;
+			global::Xamarin.Forms.Platform.Resource.Attribute.autoSizeStepGranularity = global::NDMA.Resource.Attribute.autoSizeStepGranularity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.autoSizeTextType = global::NDMA.Resource.Attribute.autoSizeTextType;
+			global::Xamarin.Forms.Platform.Resource.Attribute.background = global::NDMA.Resource.Attribute.background;
+			global::Xamarin.Forms.Platform.Resource.Attribute.backgroundSplit = global::NDMA.Resource.Attribute.backgroundSplit;
+			global::Xamarin.Forms.Platform.Resource.Attribute.backgroundStacked = global::NDMA.Resource.Attribute.backgroundStacked;
+			global::Xamarin.Forms.Platform.Resource.Attribute.backgroundTint = global::NDMA.Resource.Attribute.backgroundTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.backgroundTintMode = global::NDMA.Resource.Attribute.backgroundTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.barLength = global::NDMA.Resource.Attribute.barLength;
+			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_autoHide = global::NDMA.Resource.Attribute.behavior_autoHide;
+			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_fitToContents = global::NDMA.Resource.Attribute.behavior_fitToContents;
+			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_hideable = global::NDMA.Resource.Attribute.behavior_hideable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_overlapTop = global::NDMA.Resource.Attribute.behavior_overlapTop;
+			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_peekHeight = global::NDMA.Resource.Attribute.behavior_peekHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_skipCollapsed = global::NDMA.Resource.Attribute.behavior_skipCollapsed;
+			global::Xamarin.Forms.Platform.Resource.Attribute.borderlessButtonStyle = global::NDMA.Resource.Attribute.borderlessButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.borderWidth = global::NDMA.Resource.Attribute.borderWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.bottomAppBarStyle = global::NDMA.Resource.Attribute.bottomAppBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.bottomNavigationStyle = global::NDMA.Resource.Attribute.bottomNavigationStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.bottomSheetDialogTheme = global::NDMA.Resource.Attribute.bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.bottomSheetStyle = global::NDMA.Resource.Attribute.bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxBackgroundColor = global::NDMA.Resource.Attribute.boxBackgroundColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxBackgroundMode = global::NDMA.Resource.Attribute.boxBackgroundMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxCollapsedPaddingTop = global::NDMA.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxCornerRadiusBottomEnd = global::NDMA.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxCornerRadiusBottomStart = global::NDMA.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxCornerRadiusTopEnd = global::NDMA.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxCornerRadiusTopStart = global::NDMA.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxStrokeColor = global::NDMA.Resource.Attribute.boxStrokeColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxStrokeWidth = global::NDMA.Resource.Attribute.boxStrokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarButtonStyle = global::NDMA.Resource.Attribute.buttonBarButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarNegativeButtonStyle = global::NDMA.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarNeutralButtonStyle = global::NDMA.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarPositiveButtonStyle = global::NDMA.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarStyle = global::NDMA.Resource.Attribute.buttonBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonGravity = global::NDMA.Resource.Attribute.buttonGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonIconDimen = global::NDMA.Resource.Attribute.buttonIconDimen;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonPanelSideLayout = global::NDMA.Resource.Attribute.buttonPanelSideLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonStyle = global::NDMA.Resource.Attribute.buttonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonStyleSmall = global::NDMA.Resource.Attribute.buttonStyleSmall;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonTint = global::NDMA.Resource.Attribute.buttonTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonTintMode = global::NDMA.Resource.Attribute.buttonTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardBackgroundColor = global::NDMA.Resource.Attribute.cardBackgroundColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardCornerRadius = global::NDMA.Resource.Attribute.cardCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardElevation = global::NDMA.Resource.Attribute.cardElevation;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardMaxElevation = global::NDMA.Resource.Attribute.cardMaxElevation;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardPreventCornerOverlap = global::NDMA.Resource.Attribute.cardPreventCornerOverlap;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardUseCompatPadding = global::NDMA.Resource.Attribute.cardUseCompatPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardViewStyle = global::NDMA.Resource.Attribute.cardViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.checkboxStyle = global::NDMA.Resource.Attribute.checkboxStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.checkedChip = global::NDMA.Resource.Attribute.checkedChip;
+			global::Xamarin.Forms.Platform.Resource.Attribute.checkedIcon = global::NDMA.Resource.Attribute.checkedIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.checkedIconEnabled = global::NDMA.Resource.Attribute.checkedIconEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.checkedIconVisible = global::NDMA.Resource.Attribute.checkedIconVisible;
+			global::Xamarin.Forms.Platform.Resource.Attribute.checkedTextViewStyle = global::NDMA.Resource.Attribute.checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipBackgroundColor = global::NDMA.Resource.Attribute.chipBackgroundColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipCornerRadius = global::NDMA.Resource.Attribute.chipCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipEndPadding = global::NDMA.Resource.Attribute.chipEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipGroupStyle = global::NDMA.Resource.Attribute.chipGroupStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipIcon = global::NDMA.Resource.Attribute.chipIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipIconEnabled = global::NDMA.Resource.Attribute.chipIconEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipIconSize = global::NDMA.Resource.Attribute.chipIconSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipIconTint = global::NDMA.Resource.Attribute.chipIconTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipIconVisible = global::NDMA.Resource.Attribute.chipIconVisible;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipMinHeight = global::NDMA.Resource.Attribute.chipMinHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipSpacing = global::NDMA.Resource.Attribute.chipSpacing;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipSpacingHorizontal = global::NDMA.Resource.Attribute.chipSpacingHorizontal;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipSpacingVertical = global::NDMA.Resource.Attribute.chipSpacingVertical;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipStandaloneStyle = global::NDMA.Resource.Attribute.chipStandaloneStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipStartPadding = global::NDMA.Resource.Attribute.chipStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipStrokeColor = global::NDMA.Resource.Attribute.chipStrokeColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipStrokeWidth = global::NDMA.Resource.Attribute.chipStrokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipStyle = global::NDMA.Resource.Attribute.chipStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIcon = global::NDMA.Resource.Attribute.closeIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIconEnabled = global::NDMA.Resource.Attribute.closeIconEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIconEndPadding = global::NDMA.Resource.Attribute.closeIconEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIconSize = global::NDMA.Resource.Attribute.closeIconSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIconStartPadding = global::NDMA.Resource.Attribute.closeIconStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIconTint = global::NDMA.Resource.Attribute.closeIconTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIconVisible = global::NDMA.Resource.Attribute.closeIconVisible;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeItemLayout = global::NDMA.Resource.Attribute.closeItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.collapseContentDescription = global::NDMA.Resource.Attribute.collapseContentDescription;
+			global::Xamarin.Forms.Platform.Resource.Attribute.collapsedTitleGravity = global::NDMA.Resource.Attribute.collapsedTitleGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.collapsedTitleTextAppearance = global::NDMA.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.collapseIcon = global::NDMA.Resource.Attribute.collapseIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.color = global::NDMA.Resource.Attribute.color;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorAccent = global::NDMA.Resource.Attribute.colorAccent;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorBackgroundFloating = global::NDMA.Resource.Attribute.colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorButtonNormal = global::NDMA.Resource.Attribute.colorButtonNormal;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorControlActivated = global::NDMA.Resource.Attribute.colorControlActivated;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorControlHighlight = global::NDMA.Resource.Attribute.colorControlHighlight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorControlNormal = global::NDMA.Resource.Attribute.colorControlNormal;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorError = global::NDMA.Resource.Attribute.colorError;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorPrimary = global::NDMA.Resource.Attribute.colorPrimary;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorPrimaryDark = global::NDMA.Resource.Attribute.colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorSecondary = global::NDMA.Resource.Attribute.colorSecondary;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorSwitchThumbNormal = global::NDMA.Resource.Attribute.colorSwitchThumbNormal;
+			global::Xamarin.Forms.Platform.Resource.Attribute.commitIcon = global::NDMA.Resource.Attribute.commitIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentDescription = global::NDMA.Resource.Attribute.contentDescription;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetEnd = global::NDMA.Resource.Attribute.contentInsetEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetEndWithActions = global::NDMA.Resource.Attribute.contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetLeft = global::NDMA.Resource.Attribute.contentInsetLeft;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetRight = global::NDMA.Resource.Attribute.contentInsetRight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetStart = global::NDMA.Resource.Attribute.contentInsetStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetStartWithNavigation = global::NDMA.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentPadding = global::NDMA.Resource.Attribute.contentPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentPaddingBottom = global::NDMA.Resource.Attribute.contentPaddingBottom;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentPaddingLeft = global::NDMA.Resource.Attribute.contentPaddingLeft;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentPaddingRight = global::NDMA.Resource.Attribute.contentPaddingRight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentPaddingTop = global::NDMA.Resource.Attribute.contentPaddingTop;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentScrim = global::NDMA.Resource.Attribute.contentScrim;
+			global::Xamarin.Forms.Platform.Resource.Attribute.controlBackground = global::NDMA.Resource.Attribute.controlBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.coordinatorLayoutStyle = global::NDMA.Resource.Attribute.coordinatorLayoutStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cornerRadius = global::NDMA.Resource.Attribute.cornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Attribute.counterEnabled = global::NDMA.Resource.Attribute.counterEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.counterMaxLength = global::NDMA.Resource.Attribute.counterMaxLength;
+			global::Xamarin.Forms.Platform.Resource.Attribute.counterOverflowTextAppearance = global::NDMA.Resource.Attribute.counterOverflowTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.counterTextAppearance = global::NDMA.Resource.Attribute.counterTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.customNavigationLayout = global::NDMA.Resource.Attribute.customNavigationLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.defaultQueryHint = global::NDMA.Resource.Attribute.defaultQueryHint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dialogCornerRadius = global::NDMA.Resource.Attribute.dialogCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dialogPreferredPadding = global::NDMA.Resource.Attribute.dialogPreferredPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dialogTheme = global::NDMA.Resource.Attribute.dialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.displayOptions = global::NDMA.Resource.Attribute.displayOptions;
+			global::Xamarin.Forms.Platform.Resource.Attribute.divider = global::NDMA.Resource.Attribute.divider;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dividerHorizontal = global::NDMA.Resource.Attribute.dividerHorizontal;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dividerPadding = global::NDMA.Resource.Attribute.dividerPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dividerVertical = global::NDMA.Resource.Attribute.dividerVertical;
+			global::Xamarin.Forms.Platform.Resource.Attribute.drawableSize = global::NDMA.Resource.Attribute.drawableSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.drawerArrowStyle = global::NDMA.Resource.Attribute.drawerArrowStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dropdownListPreferredItemHeight = global::NDMA.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dropDownListViewStyle = global::NDMA.Resource.Attribute.dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.editTextBackground = global::NDMA.Resource.Attribute.editTextBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.editTextColor = global::NDMA.Resource.Attribute.editTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.editTextStyle = global::NDMA.Resource.Attribute.editTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.elevation = global::NDMA.Resource.Attribute.elevation;
+			global::Xamarin.Forms.Platform.Resource.Attribute.enforceMaterialTheme = global::NDMA.Resource.Attribute.enforceMaterialTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.enforceTextAppearance = global::NDMA.Resource.Attribute.enforceTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.errorEnabled = global::NDMA.Resource.Attribute.errorEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.errorTextAppearance = global::NDMA.Resource.Attribute.errorTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandActivityOverflowButtonDrawable = global::NDMA.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expanded = global::NDMA.Resource.Attribute.expanded;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleGravity = global::NDMA.Resource.Attribute.expandedTitleGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMargin = global::NDMA.Resource.Attribute.expandedTitleMargin;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMarginBottom = global::NDMA.Resource.Attribute.expandedTitleMarginBottom;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMarginEnd = global::NDMA.Resource.Attribute.expandedTitleMarginEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMarginStart = global::NDMA.Resource.Attribute.expandedTitleMarginStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMarginTop = global::NDMA.Resource.Attribute.expandedTitleMarginTop;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleTextAppearance = global::NDMA.Resource.Attribute.expandedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fabAlignmentMode = global::NDMA.Resource.Attribute.fabAlignmentMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fabCradleMargin = global::NDMA.Resource.Attribute.fabCradleMargin;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fabCradleRoundedCornerRadius = global::NDMA.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fabCradleVerticalOffset = global::NDMA.Resource.Attribute.fabCradleVerticalOffset;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fabCustomSize = global::NDMA.Resource.Attribute.fabCustomSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fabSize = global::NDMA.Resource.Attribute.fabSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fastScrollEnabled = global::NDMA.Resource.Attribute.fastScrollEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::NDMA.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::NDMA.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fastScrollVerticalThumbDrawable = global::NDMA.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fastScrollVerticalTrackDrawable = global::NDMA.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.firstBaselineToTopHeight = global::NDMA.Resource.Attribute.firstBaselineToTopHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.floatingActionButtonStyle = global::NDMA.Resource.Attribute.floatingActionButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.font = global::NDMA.Resource.Attribute.font;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontFamily = global::NDMA.Resource.Attribute.fontFamily;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontProviderAuthority = global::NDMA.Resource.Attribute.fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontProviderCerts = global::NDMA.Resource.Attribute.fontProviderCerts;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontProviderFetchStrategy = global::NDMA.Resource.Attribute.fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontProviderFetchTimeout = global::NDMA.Resource.Attribute.fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontProviderPackage = global::NDMA.Resource.Attribute.fontProviderPackage;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontProviderQuery = global::NDMA.Resource.Attribute.fontProviderQuery;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontStyle = global::NDMA.Resource.Attribute.fontStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontVariationSettings = global::NDMA.Resource.Attribute.fontVariationSettings;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontWeight = global::NDMA.Resource.Attribute.fontWeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.foregroundInsidePadding = global::NDMA.Resource.Attribute.foregroundInsidePadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.gapBetweenBars = global::NDMA.Resource.Attribute.gapBetweenBars;
+			global::Xamarin.Forms.Platform.Resource.Attribute.goIcon = global::NDMA.Resource.Attribute.goIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.headerLayout = global::NDMA.Resource.Attribute.headerLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.height = global::NDMA.Resource.Attribute.height;
+			global::Xamarin.Forms.Platform.Resource.Attribute.helperText = global::NDMA.Resource.Attribute.helperText;
+			global::Xamarin.Forms.Platform.Resource.Attribute.helperTextEnabled = global::NDMA.Resource.Attribute.helperTextEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.helperTextTextAppearance = global::NDMA.Resource.Attribute.helperTextTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hideMotionSpec = global::NDMA.Resource.Attribute.hideMotionSpec;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hideOnContentScroll = global::NDMA.Resource.Attribute.hideOnContentScroll;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hideOnScroll = global::NDMA.Resource.Attribute.hideOnScroll;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hintAnimationEnabled = global::NDMA.Resource.Attribute.hintAnimationEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hintEnabled = global::NDMA.Resource.Attribute.hintEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hintTextAppearance = global::NDMA.Resource.Attribute.hintTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.homeAsUpIndicator = global::NDMA.Resource.Attribute.homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Resource.Attribute.homeLayout = global::NDMA.Resource.Attribute.homeLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hoveredFocusedTranslationZ = global::NDMA.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Xamarin.Forms.Platform.Resource.Attribute.icon = global::NDMA.Resource.Attribute.icon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconEndPadding = global::NDMA.Resource.Attribute.iconEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconGravity = global::NDMA.Resource.Attribute.iconGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconifiedByDefault = global::NDMA.Resource.Attribute.iconifiedByDefault;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconPadding = global::NDMA.Resource.Attribute.iconPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconSize = global::NDMA.Resource.Attribute.iconSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconStartPadding = global::NDMA.Resource.Attribute.iconStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconTint = global::NDMA.Resource.Attribute.iconTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconTintMode = global::NDMA.Resource.Attribute.iconTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.imageButtonStyle = global::NDMA.Resource.Attribute.imageButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.indeterminateProgressStyle = global::NDMA.Resource.Attribute.indeterminateProgressStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.initialActivityCount = global::NDMA.Resource.Attribute.initialActivityCount;
+			global::Xamarin.Forms.Platform.Resource.Attribute.insetForeground = global::NDMA.Resource.Attribute.insetForeground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.isLightTheme = global::NDMA.Resource.Attribute.isLightTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemBackground = global::NDMA.Resource.Attribute.itemBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemHorizontalPadding = global::NDMA.Resource.Attribute.itemHorizontalPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemHorizontalTranslationEnabled = global::NDMA.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemIconPadding = global::NDMA.Resource.Attribute.itemIconPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemIconSize = global::NDMA.Resource.Attribute.itemIconSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemIconTint = global::NDMA.Resource.Attribute.itemIconTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemPadding = global::NDMA.Resource.Attribute.itemPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemSpacing = global::NDMA.Resource.Attribute.itemSpacing;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemTextAppearance = global::NDMA.Resource.Attribute.itemTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemTextAppearanceActive = global::NDMA.Resource.Attribute.itemTextAppearanceActive;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemTextAppearanceInactive = global::NDMA.Resource.Attribute.itemTextAppearanceInactive;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemTextColor = global::NDMA.Resource.Attribute.itemTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.keylines = global::NDMA.Resource.Attribute.keylines;
+			global::Xamarin.Forms.Platform.Resource.Attribute.labelVisibilityMode = global::NDMA.Resource.Attribute.labelVisibilityMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.lastBaselineToBottomHeight = global::NDMA.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout = global::NDMA.Resource.Attribute.layout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layoutManager = global::NDMA.Resource.Attribute.layoutManager;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_anchor = global::NDMA.Resource.Attribute.layout_anchor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_anchorGravity = global::NDMA.Resource.Attribute.layout_anchorGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_behavior = global::NDMA.Resource.Attribute.layout_behavior;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_collapseMode = global::NDMA.Resource.Attribute.layout_collapseMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_collapseParallaxMultiplier = global::NDMA.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_dodgeInsetEdges = global::NDMA.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_insetEdge = global::NDMA.Resource.Attribute.layout_insetEdge;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_keyline = global::NDMA.Resource.Attribute.layout_keyline;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_scrollFlags = global::NDMA.Resource.Attribute.layout_scrollFlags;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_scrollInterpolator = global::NDMA.Resource.Attribute.layout_scrollInterpolator;
+			global::Xamarin.Forms.Platform.Resource.Attribute.liftOnScroll = global::NDMA.Resource.Attribute.liftOnScroll;
+			global::Xamarin.Forms.Platform.Resource.Attribute.lineHeight = global::NDMA.Resource.Attribute.lineHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.lineSpacing = global::NDMA.Resource.Attribute.lineSpacing;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listChoiceBackgroundIndicator = global::NDMA.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listDividerAlertDialog = global::NDMA.Resource.Attribute.listDividerAlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listItemLayout = global::NDMA.Resource.Attribute.listItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listLayout = global::NDMA.Resource.Attribute.listLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listMenuViewStyle = global::NDMA.Resource.Attribute.listMenuViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listPopupWindowStyle = global::NDMA.Resource.Attribute.listPopupWindowStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemHeight = global::NDMA.Resource.Attribute.listPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemHeightLarge = global::NDMA.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemHeightSmall = global::NDMA.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemPaddingLeft = global::NDMA.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemPaddingRight = global::NDMA.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.logo = global::NDMA.Resource.Attribute.logo;
+			global::Xamarin.Forms.Platform.Resource.Attribute.logoDescription = global::NDMA.Resource.Attribute.logoDescription;
+			global::Xamarin.Forms.Platform.Resource.Attribute.materialButtonStyle = global::NDMA.Resource.Attribute.materialButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.materialCardViewStyle = global::NDMA.Resource.Attribute.materialCardViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.maxActionInlineWidth = global::NDMA.Resource.Attribute.maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.maxButtonHeight = global::NDMA.Resource.Attribute.maxButtonHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.maxImageSize = global::NDMA.Resource.Attribute.maxImageSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.measureWithLargestChild = global::NDMA.Resource.Attribute.measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Resource.Attribute.menu = global::NDMA.Resource.Attribute.menu;
+			global::Xamarin.Forms.Platform.Resource.Attribute.multiChoiceItemLayout = global::NDMA.Resource.Attribute.multiChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.navigationContentDescription = global::NDMA.Resource.Attribute.navigationContentDescription;
+			global::Xamarin.Forms.Platform.Resource.Attribute.navigationIcon = global::NDMA.Resource.Attribute.navigationIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.navigationMode = global::NDMA.Resource.Attribute.navigationMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.navigationViewStyle = global::NDMA.Resource.Attribute.navigationViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.numericModifiers = global::NDMA.Resource.Attribute.numericModifiers;
+			global::Xamarin.Forms.Platform.Resource.Attribute.overlapAnchor = global::NDMA.Resource.Attribute.overlapAnchor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.paddingBottomNoButtons = global::NDMA.Resource.Attribute.paddingBottomNoButtons;
+			global::Xamarin.Forms.Platform.Resource.Attribute.paddingEnd = global::NDMA.Resource.Attribute.paddingEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.paddingStart = global::NDMA.Resource.Attribute.paddingStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.paddingTopNoTitle = global::NDMA.Resource.Attribute.paddingTopNoTitle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.panelBackground = global::NDMA.Resource.Attribute.panelBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.panelMenuListTheme = global::NDMA.Resource.Attribute.panelMenuListTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.panelMenuListWidth = global::NDMA.Resource.Attribute.panelMenuListWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.passwordToggleContentDescription = global::NDMA.Resource.Attribute.passwordToggleContentDescription;
+			global::Xamarin.Forms.Platform.Resource.Attribute.passwordToggleDrawable = global::NDMA.Resource.Attribute.passwordToggleDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.passwordToggleEnabled = global::NDMA.Resource.Attribute.passwordToggleEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.passwordToggleTint = global::NDMA.Resource.Attribute.passwordToggleTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.passwordToggleTintMode = global::NDMA.Resource.Attribute.passwordToggleTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.popupMenuStyle = global::NDMA.Resource.Attribute.popupMenuStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.popupTheme = global::NDMA.Resource.Attribute.popupTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.popupWindowStyle = global::NDMA.Resource.Attribute.popupWindowStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.preserveIconSpacing = global::NDMA.Resource.Attribute.preserveIconSpacing;
+			global::Xamarin.Forms.Platform.Resource.Attribute.pressedTranslationZ = global::NDMA.Resource.Attribute.pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Resource.Attribute.progressBarPadding = global::NDMA.Resource.Attribute.progressBarPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.progressBarStyle = global::NDMA.Resource.Attribute.progressBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.queryBackground = global::NDMA.Resource.Attribute.queryBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.queryHint = global::NDMA.Resource.Attribute.queryHint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.radioButtonStyle = global::NDMA.Resource.Attribute.radioButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.ratingBarStyle = global::NDMA.Resource.Attribute.ratingBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.ratingBarStyleIndicator = global::NDMA.Resource.Attribute.ratingBarStyleIndicator;
+			global::Xamarin.Forms.Platform.Resource.Attribute.ratingBarStyleSmall = global::NDMA.Resource.Attribute.ratingBarStyleSmall;
+			global::Xamarin.Forms.Platform.Resource.Attribute.reverseLayout = global::NDMA.Resource.Attribute.reverseLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.rippleColor = global::NDMA.Resource.Attribute.rippleColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.scrimAnimationDuration = global::NDMA.Resource.Attribute.scrimAnimationDuration;
+			global::Xamarin.Forms.Platform.Resource.Attribute.scrimBackground = global::NDMA.Resource.Attribute.scrimBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.scrimVisibleHeightTrigger = global::NDMA.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Platform.Resource.Attribute.searchHintIcon = global::NDMA.Resource.Attribute.searchHintIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.searchIcon = global::NDMA.Resource.Attribute.searchIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.searchViewStyle = global::NDMA.Resource.Attribute.searchViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.seekBarStyle = global::NDMA.Resource.Attribute.seekBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.selectableItemBackground = global::NDMA.Resource.Attribute.selectableItemBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.selectableItemBackgroundBorderless = global::NDMA.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Platform.Resource.Attribute.showAsAction = global::NDMA.Resource.Attribute.showAsAction;
+			global::Xamarin.Forms.Platform.Resource.Attribute.showDividers = global::NDMA.Resource.Attribute.showDividers;
+			global::Xamarin.Forms.Platform.Resource.Attribute.showMotionSpec = global::NDMA.Resource.Attribute.showMotionSpec;
+			global::Xamarin.Forms.Platform.Resource.Attribute.showText = global::NDMA.Resource.Attribute.showText;
+			global::Xamarin.Forms.Platform.Resource.Attribute.showTitle = global::NDMA.Resource.Attribute.showTitle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.singleChoiceItemLayout = global::NDMA.Resource.Attribute.singleChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.singleLine = global::NDMA.Resource.Attribute.singleLine;
+			global::Xamarin.Forms.Platform.Resource.Attribute.singleSelection = global::NDMA.Resource.Attribute.singleSelection;
+			global::Xamarin.Forms.Platform.Resource.Attribute.snackbarButtonStyle = global::NDMA.Resource.Attribute.snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.snackbarStyle = global::NDMA.Resource.Attribute.snackbarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.spanCount = global::NDMA.Resource.Attribute.spanCount;
+			global::Xamarin.Forms.Platform.Resource.Attribute.spinBars = global::NDMA.Resource.Attribute.spinBars;
+			global::Xamarin.Forms.Platform.Resource.Attribute.spinnerDropDownItemStyle = global::NDMA.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.spinnerStyle = global::NDMA.Resource.Attribute.spinnerStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.splitTrack = global::NDMA.Resource.Attribute.splitTrack;
+			global::Xamarin.Forms.Platform.Resource.Attribute.srcCompat = global::NDMA.Resource.Attribute.srcCompat;
+			global::Xamarin.Forms.Platform.Resource.Attribute.stackFromEnd = global::NDMA.Resource.Attribute.stackFromEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.state_above_anchor = global::NDMA.Resource.Attribute.state_above_anchor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.state_collapsed = global::NDMA.Resource.Attribute.state_collapsed;
+			global::Xamarin.Forms.Platform.Resource.Attribute.state_collapsible = global::NDMA.Resource.Attribute.state_collapsible;
+			global::Xamarin.Forms.Platform.Resource.Attribute.state_liftable = global::NDMA.Resource.Attribute.state_liftable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.state_lifted = global::NDMA.Resource.Attribute.state_lifted;
+			global::Xamarin.Forms.Platform.Resource.Attribute.statusBarBackground = global::NDMA.Resource.Attribute.statusBarBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.statusBarScrim = global::NDMA.Resource.Attribute.statusBarScrim;
+			global::Xamarin.Forms.Platform.Resource.Attribute.strokeColor = global::NDMA.Resource.Attribute.strokeColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.strokeWidth = global::NDMA.Resource.Attribute.strokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.subMenuArrow = global::NDMA.Resource.Attribute.subMenuArrow;
+			global::Xamarin.Forms.Platform.Resource.Attribute.submitBackground = global::NDMA.Resource.Attribute.submitBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.subtitle = global::NDMA.Resource.Attribute.subtitle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.subtitleTextAppearance = global::NDMA.Resource.Attribute.subtitleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.subtitleTextColor = global::NDMA.Resource.Attribute.subtitleTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.subtitleTextStyle = global::NDMA.Resource.Attribute.subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.suggestionRowLayout = global::NDMA.Resource.Attribute.suggestionRowLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.switchMinWidth = global::NDMA.Resource.Attribute.switchMinWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.switchPadding = global::NDMA.Resource.Attribute.switchPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.switchStyle = global::NDMA.Resource.Attribute.switchStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.switchTextAppearance = global::NDMA.Resource.Attribute.switchTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabBackground = global::NDMA.Resource.Attribute.tabBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabContentStart = global::NDMA.Resource.Attribute.tabContentStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabGravity = global::NDMA.Resource.Attribute.tabGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIconTint = global::NDMA.Resource.Attribute.tabIconTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIconTintMode = global::NDMA.Resource.Attribute.tabIconTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicator = global::NDMA.Resource.Attribute.tabIndicator;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicatorAnimationDuration = global::NDMA.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicatorColor = global::NDMA.Resource.Attribute.tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicatorFullWidth = global::NDMA.Resource.Attribute.tabIndicatorFullWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicatorGravity = global::NDMA.Resource.Attribute.tabIndicatorGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicatorHeight = global::NDMA.Resource.Attribute.tabIndicatorHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabInlineLabel = global::NDMA.Resource.Attribute.tabInlineLabel;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabMaxWidth = global::NDMA.Resource.Attribute.tabMaxWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabMinWidth = global::NDMA.Resource.Attribute.tabMinWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabMode = global::NDMA.Resource.Attribute.tabMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabPadding = global::NDMA.Resource.Attribute.tabPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabPaddingBottom = global::NDMA.Resource.Attribute.tabPaddingBottom;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabPaddingEnd = global::NDMA.Resource.Attribute.tabPaddingEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabPaddingStart = global::NDMA.Resource.Attribute.tabPaddingStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabPaddingTop = global::NDMA.Resource.Attribute.tabPaddingTop;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabRippleColor = global::NDMA.Resource.Attribute.tabRippleColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabSelectedTextColor = global::NDMA.Resource.Attribute.tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabStyle = global::NDMA.Resource.Attribute.tabStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabTextAppearance = global::NDMA.Resource.Attribute.tabTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabTextColor = global::NDMA.Resource.Attribute.tabTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabUnboundedRipple = global::NDMA.Resource.Attribute.tabUnboundedRipple;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAllCaps = global::NDMA.Resource.Attribute.textAllCaps;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceBody1 = global::NDMA.Resource.Attribute.textAppearanceBody1;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceBody2 = global::NDMA.Resource.Attribute.textAppearanceBody2;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceButton = global::NDMA.Resource.Attribute.textAppearanceButton;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceCaption = global::NDMA.Resource.Attribute.textAppearanceCaption;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceHeadline1 = global::NDMA.Resource.Attribute.textAppearanceHeadline1;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceHeadline2 = global::NDMA.Resource.Attribute.textAppearanceHeadline2;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceHeadline3 = global::NDMA.Resource.Attribute.textAppearanceHeadline3;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceHeadline4 = global::NDMA.Resource.Attribute.textAppearanceHeadline4;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceHeadline5 = global::NDMA.Resource.Attribute.textAppearanceHeadline5;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceHeadline6 = global::NDMA.Resource.Attribute.textAppearanceHeadline6;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceLargePopupMenu = global::NDMA.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceListItem = global::NDMA.Resource.Attribute.textAppearanceListItem;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceListItemSecondary = global::NDMA.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceListItemSmall = global::NDMA.Resource.Attribute.textAppearanceListItemSmall;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceOverline = global::NDMA.Resource.Attribute.textAppearanceOverline;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearancePopupMenuHeader = global::NDMA.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSearchResultSubtitle = global::NDMA.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSearchResultTitle = global::NDMA.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSmallPopupMenu = global::NDMA.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSubtitle1 = global::NDMA.Resource.Attribute.textAppearanceSubtitle1;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSubtitle2 = global::NDMA.Resource.Attribute.textAppearanceSubtitle2;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textColorAlertDialogListItem = global::NDMA.Resource.Attribute.textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textColorSearchUrl = global::NDMA.Resource.Attribute.textColorSearchUrl;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textEndPadding = global::NDMA.Resource.Attribute.textEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textInputStyle = global::NDMA.Resource.Attribute.textInputStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textStartPadding = global::NDMA.Resource.Attribute.textStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.theme = global::NDMA.Resource.Attribute.theme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.thickness = global::NDMA.Resource.Attribute.thickness;
+			global::Xamarin.Forms.Platform.Resource.Attribute.thumbTextPadding = global::NDMA.Resource.Attribute.thumbTextPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.thumbTint = global::NDMA.Resource.Attribute.thumbTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.thumbTintMode = global::NDMA.Resource.Attribute.thumbTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tickMark = global::NDMA.Resource.Attribute.tickMark;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tickMarkTint = global::NDMA.Resource.Attribute.tickMarkTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tickMarkTintMode = global::NDMA.Resource.Attribute.tickMarkTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tint = global::NDMA.Resource.Attribute.tint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tintMode = global::NDMA.Resource.Attribute.tintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.title = global::NDMA.Resource.Attribute.title;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleEnabled = global::NDMA.Resource.Attribute.titleEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleMargin = global::NDMA.Resource.Attribute.titleMargin;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleMarginBottom = global::NDMA.Resource.Attribute.titleMarginBottom;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleMarginEnd = global::NDMA.Resource.Attribute.titleMarginEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleMargins = global::NDMA.Resource.Attribute.titleMargins;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleMarginStart = global::NDMA.Resource.Attribute.titleMarginStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleMarginTop = global::NDMA.Resource.Attribute.titleMarginTop;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleTextAppearance = global::NDMA.Resource.Attribute.titleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleTextColor = global::NDMA.Resource.Attribute.titleTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleTextStyle = global::NDMA.Resource.Attribute.titleTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.toolbarId = global::NDMA.Resource.Attribute.toolbarId;
+			global::Xamarin.Forms.Platform.Resource.Attribute.toolbarNavigationButtonStyle = global::NDMA.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.toolbarStyle = global::NDMA.Resource.Attribute.toolbarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tooltipForegroundColor = global::NDMA.Resource.Attribute.tooltipForegroundColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tooltipFrameBackground = global::NDMA.Resource.Attribute.tooltipFrameBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tooltipText = global::NDMA.Resource.Attribute.tooltipText;
+			global::Xamarin.Forms.Platform.Resource.Attribute.track = global::NDMA.Resource.Attribute.track;
+			global::Xamarin.Forms.Platform.Resource.Attribute.trackTint = global::NDMA.Resource.Attribute.trackTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.trackTintMode = global::NDMA.Resource.Attribute.trackTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.ttcIndex = global::NDMA.Resource.Attribute.ttcIndex;
+			global::Xamarin.Forms.Platform.Resource.Attribute.useCompatPadding = global::NDMA.Resource.Attribute.useCompatPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.viewInflaterClass = global::NDMA.Resource.Attribute.viewInflaterClass;
+			global::Xamarin.Forms.Platform.Resource.Attribute.voiceIcon = global::NDMA.Resource.Attribute.voiceIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowActionBar = global::NDMA.Resource.Attribute.windowActionBar;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowActionBarOverlay = global::NDMA.Resource.Attribute.windowActionBarOverlay;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowActionModeOverlay = global::NDMA.Resource.Attribute.windowActionModeOverlay;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowFixedHeightMajor = global::NDMA.Resource.Attribute.windowFixedHeightMajor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowFixedHeightMinor = global::NDMA.Resource.Attribute.windowFixedHeightMinor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowFixedWidthMajor = global::NDMA.Resource.Attribute.windowFixedWidthMajor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowFixedWidthMinor = global::NDMA.Resource.Attribute.windowFixedWidthMinor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowMinWidthMajor = global::NDMA.Resource.Attribute.windowMinWidthMajor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowMinWidthMinor = global::NDMA.Resource.Attribute.windowMinWidthMinor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowNoTitle = global::NDMA.Resource.Attribute.windowNoTitle;
+			global::Xamarin.Forms.Platform.Resource.Boolean.abc_action_bar_embed_tabs = global::NDMA.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Xamarin.Forms.Platform.Resource.Boolean.abc_allow_stacked_button_bar = global::NDMA.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Xamarin.Forms.Platform.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::NDMA.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Xamarin.Forms.Platform.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::NDMA.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_background_cache_hint_selector_material_dark = global::NDMA.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_background_cache_hint_selector_material_light = global::NDMA.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_btn_colored_borderless_text_material = global::NDMA.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_btn_colored_text_material = global::NDMA.Resource.Color.abc_btn_colored_text_material;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_color_highlight_material = global::NDMA.Resource.Color.abc_color_highlight_material;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_hint_foreground_material_dark = global::NDMA.Resource.Color.abc_hint_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_hint_foreground_material_light = global::NDMA.Resource.Color.abc_hint_foreground_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_input_method_navigation_guard = global::NDMA.Resource.Color.abc_input_method_navigation_guard;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_primary_text_disable_only_material_dark = global::NDMA.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_primary_text_disable_only_material_light = global::NDMA.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_primary_text_material_dark = global::NDMA.Resource.Color.abc_primary_text_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_primary_text_material_light = global::NDMA.Resource.Color.abc_primary_text_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_search_url_text = global::NDMA.Resource.Color.abc_search_url_text;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_search_url_text_normal = global::NDMA.Resource.Color.abc_search_url_text_normal;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_search_url_text_pressed = global::NDMA.Resource.Color.abc_search_url_text_pressed;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_search_url_text_selected = global::NDMA.Resource.Color.abc_search_url_text_selected;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_secondary_text_material_dark = global::NDMA.Resource.Color.abc_secondary_text_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_secondary_text_material_light = global::NDMA.Resource.Color.abc_secondary_text_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_tint_btn_checkable = global::NDMA.Resource.Color.abc_tint_btn_checkable;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_tint_default = global::NDMA.Resource.Color.abc_tint_default;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_tint_edittext = global::NDMA.Resource.Color.abc_tint_edittext;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_tint_seek_thumb = global::NDMA.Resource.Color.abc_tint_seek_thumb;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_tint_spinner = global::NDMA.Resource.Color.abc_tint_spinner;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_tint_switch_track = global::NDMA.Resource.Color.abc_tint_switch_track;
+			global::Xamarin.Forms.Platform.Resource.Color.accent_material_dark = global::NDMA.Resource.Color.accent_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.accent_material_light = global::NDMA.Resource.Color.accent_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.background_floating_material_dark = global::NDMA.Resource.Color.background_floating_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.background_floating_material_light = global::NDMA.Resource.Color.background_floating_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.background_material_dark = global::NDMA.Resource.Color.background_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.background_material_light = global::NDMA.Resource.Color.background_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_disabled_material_dark = global::NDMA.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_disabled_material_light = global::NDMA.Resource.Color.bright_foreground_disabled_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_inverse_material_dark = global::NDMA.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_inverse_material_light = global::NDMA.Resource.Color.bright_foreground_inverse_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_material_dark = global::NDMA.Resource.Color.bright_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_material_light = global::NDMA.Resource.Color.bright_foreground_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.button_material_dark = global::NDMA.Resource.Color.button_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.button_material_light = global::NDMA.Resource.Color.button_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.cardview_dark_background = global::NDMA.Resource.Color.cardview_dark_background;
+			global::Xamarin.Forms.Platform.Resource.Color.cardview_light_background = global::NDMA.Resource.Color.cardview_light_background;
+			global::Xamarin.Forms.Platform.Resource.Color.cardview_shadow_end_color = global::NDMA.Resource.Color.cardview_shadow_end_color;
+			global::Xamarin.Forms.Platform.Resource.Color.cardview_shadow_start_color = global::NDMA.Resource.Color.cardview_shadow_start_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_bottom_navigation_shadow_color = global::NDMA.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_default_color_primary = global::NDMA.Resource.Color.design_default_color_primary;
+			global::Xamarin.Forms.Platform.Resource.Color.design_default_color_primary_dark = global::NDMA.Resource.Color.design_default_color_primary_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.design_error = global::NDMA.Resource.Color.design_error;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_shadow_end_color = global::NDMA.Resource.Color.design_fab_shadow_end_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_shadow_mid_color = global::NDMA.Resource.Color.design_fab_shadow_mid_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_shadow_start_color = global::NDMA.Resource.Color.design_fab_shadow_start_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_stroke_end_inner_color = global::NDMA.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_stroke_end_outer_color = global::NDMA.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_stroke_top_inner_color = global::NDMA.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_stroke_top_outer_color = global::NDMA.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_snackbar_background_color = global::NDMA.Resource.Color.design_snackbar_background_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_tint_password_toggle = global::NDMA.Resource.Color.design_tint_password_toggle;
+			global::Xamarin.Forms.Platform.Resource.Color.dim_foreground_disabled_material_dark = global::NDMA.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.dim_foreground_disabled_material_light = global::NDMA.Resource.Color.dim_foreground_disabled_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.dim_foreground_material_dark = global::NDMA.Resource.Color.dim_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.dim_foreground_material_light = global::NDMA.Resource.Color.dim_foreground_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.error_color_material_dark = global::NDMA.Resource.Color.error_color_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.error_color_material_light = global::NDMA.Resource.Color.error_color_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.foreground_material_dark = global::NDMA.Resource.Color.foreground_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.foreground_material_light = global::NDMA.Resource.Color.foreground_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.highlighted_text_material_dark = global::NDMA.Resource.Color.highlighted_text_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.highlighted_text_material_light = global::NDMA.Resource.Color.highlighted_text_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.material_blue_grey_800 = global::NDMA.Resource.Color.material_blue_grey_800;
+			global::Xamarin.Forms.Platform.Resource.Color.material_blue_grey_900 = global::NDMA.Resource.Color.material_blue_grey_900;
+			global::Xamarin.Forms.Platform.Resource.Color.material_blue_grey_950 = global::NDMA.Resource.Color.material_blue_grey_950;
+			global::Xamarin.Forms.Platform.Resource.Color.material_deep_teal_200 = global::NDMA.Resource.Color.material_deep_teal_200;
+			global::Xamarin.Forms.Platform.Resource.Color.material_deep_teal_500 = global::NDMA.Resource.Color.material_deep_teal_500;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_100 = global::NDMA.Resource.Color.material_grey_100;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_300 = global::NDMA.Resource.Color.material_grey_300;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_50 = global::NDMA.Resource.Color.material_grey_50;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_600 = global::NDMA.Resource.Color.material_grey_600;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_800 = global::NDMA.Resource.Color.material_grey_800;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_850 = global::NDMA.Resource.Color.material_grey_850;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_900 = global::NDMA.Resource.Color.material_grey_900;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::NDMA.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_bottom_nav_item_tint = global::NDMA.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_bg_color_disabled = global::NDMA.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_bg_color_selector = global::NDMA.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_ripple_color = global::NDMA.Resource.Color.mtrl_btn_ripple_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_stroke_color_selector = global::NDMA.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_text_btn_ripple_color = global::NDMA.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_text_color_disabled = global::NDMA.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_text_color_selector = global::NDMA.Resource.Color.mtrl_btn_text_color_selector;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_transparent_bg_color = global::NDMA.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_chip_background_color = global::NDMA.Resource.Color.mtrl_chip_background_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_chip_close_icon_tint = global::NDMA.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_chip_ripple_color = global::NDMA.Resource.Color.mtrl_chip_ripple_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_chip_text_color = global::NDMA.Resource.Color.mtrl_chip_text_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_fab_ripple_color = global::NDMA.Resource.Color.mtrl_fab_ripple_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_scrim_color = global::NDMA.Resource.Color.mtrl_scrim_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_tabs_colored_ripple_color = global::NDMA.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_tabs_icon_color_selector = global::NDMA.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::NDMA.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::NDMA.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_tabs_ripple_color = global::NDMA.Resource.Color.mtrl_tabs_ripple_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_textinput_default_box_stroke_color = global::NDMA.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_textinput_disabled_color = global::NDMA.Resource.Color.mtrl_textinput_disabled_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::NDMA.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::NDMA.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_text_btn_text_color_selector = global::NDMA.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Xamarin.Forms.Platform.Resource.Color.notification_action_color_filter = global::NDMA.Resource.Color.notification_action_color_filter;
+			global::Xamarin.Forms.Platform.Resource.Color.notification_icon_bg_color = global::NDMA.Resource.Color.notification_icon_bg_color;
+			global::Xamarin.Forms.Platform.Resource.Color.notification_material_background_media_default_color = global::NDMA.Resource.Color.notification_material_background_media_default_color;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_dark_material_dark = global::NDMA.Resource.Color.primary_dark_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_dark_material_light = global::NDMA.Resource.Color.primary_dark_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_material_dark = global::NDMA.Resource.Color.primary_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_material_light = global::NDMA.Resource.Color.primary_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_text_default_material_dark = global::NDMA.Resource.Color.primary_text_default_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_text_default_material_light = global::NDMA.Resource.Color.primary_text_default_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_text_disabled_material_dark = global::NDMA.Resource.Color.primary_text_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_text_disabled_material_light = global::NDMA.Resource.Color.primary_text_disabled_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.ripple_material_dark = global::NDMA.Resource.Color.ripple_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.ripple_material_light = global::NDMA.Resource.Color.ripple_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_default_material_dark = global::NDMA.Resource.Color.secondary_text_default_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_default_material_light = global::NDMA.Resource.Color.secondary_text_default_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_disabled_material_dark = global::NDMA.Resource.Color.secondary_text_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_disabled_material_light = global::NDMA.Resource.Color.secondary_text_disabled_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_disabled_material_dark = global::NDMA.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_disabled_material_light = global::NDMA.Resource.Color.switch_thumb_disabled_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_material_dark = global::NDMA.Resource.Color.switch_thumb_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_material_light = global::NDMA.Resource.Color.switch_thumb_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_normal_material_dark = global::NDMA.Resource.Color.switch_thumb_normal_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_normal_material_light = global::NDMA.Resource.Color.switch_thumb_normal_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.tooltip_background_dark = global::NDMA.Resource.Color.tooltip_background_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.tooltip_background_light = global::NDMA.Resource.Color.tooltip_background_light;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_content_inset_material = global::NDMA.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::NDMA.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_default_height_material = global::NDMA.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_default_padding_end_material = global::NDMA.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_default_padding_start_material = global::NDMA.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_elevation_material = global::NDMA.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::NDMA.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::NDMA.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::NDMA.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_stacked_max_height = global::NDMA.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::NDMA.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::NDMA.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::NDMA.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_button_min_height_material = global::NDMA.Resource.Dimension.abc_action_button_min_height_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_button_min_width_material = global::NDMA.Resource.Dimension.abc_action_button_min_width_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_button_min_width_overflow_material = global::NDMA.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_alert_dialog_button_bar_height = global::NDMA.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_alert_dialog_button_dimen = global::NDMA.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_button_inset_horizontal_material = global::NDMA.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_button_inset_vertical_material = global::NDMA.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_button_padding_horizontal_material = global::NDMA.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_button_padding_vertical_material = global::NDMA.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::NDMA.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_config_prefDialogWidth = global::NDMA.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_control_corner_material = global::NDMA.Resource.Dimension.abc_control_corner_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_control_inset_material = global::NDMA.Resource.Dimension.abc_control_inset_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_control_padding_material = global::NDMA.Resource.Dimension.abc_control_padding_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_corner_radius_material = global::NDMA.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_fixed_height_major = global::NDMA.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_fixed_height_minor = global::NDMA.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_fixed_width_major = global::NDMA.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_fixed_width_minor = global::NDMA.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::NDMA.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::NDMA.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_min_width_major = global::NDMA.Resource.Dimension.abc_dialog_min_width_major;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_min_width_minor = global::NDMA.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_padding_material = global::NDMA.Resource.Dimension.abc_dialog_padding_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_padding_top_material = global::NDMA.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_title_divider_material = global::NDMA.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_disabled_alpha_material_dark = global::NDMA.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_disabled_alpha_material_light = global::NDMA.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dropdownitem_icon_width = global::NDMA.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dropdownitem_text_padding_left = global::NDMA.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dropdownitem_text_padding_right = global::NDMA.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_edit_text_inset_bottom_material = global::NDMA.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::NDMA.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_edit_text_inset_top_material = global::NDMA.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_floating_window_z = global::NDMA.Resource.Dimension.abc_floating_window_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_list_item_padding_horizontal_material = global::NDMA.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_panel_menu_list_width = global::NDMA.Resource.Dimension.abc_panel_menu_list_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_progress_bar_height_material = global::NDMA.Resource.Dimension.abc_progress_bar_height_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_search_view_preferred_height = global::NDMA.Resource.Dimension.abc_search_view_preferred_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_search_view_preferred_width = global::NDMA.Resource.Dimension.abc_search_view_preferred_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_seekbar_track_background_height_material = global::NDMA.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_seekbar_track_progress_height_material = global::NDMA.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_select_dialog_padding_start_material = global::NDMA.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_switch_padding = global::NDMA.Resource.Dimension.abc_switch_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_body_1_material = global::NDMA.Resource.Dimension.abc_text_size_body_1_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_body_2_material = global::NDMA.Resource.Dimension.abc_text_size_body_2_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_button_material = global::NDMA.Resource.Dimension.abc_text_size_button_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_caption_material = global::NDMA.Resource.Dimension.abc_text_size_caption_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_display_1_material = global::NDMA.Resource.Dimension.abc_text_size_display_1_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_display_2_material = global::NDMA.Resource.Dimension.abc_text_size_display_2_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_display_3_material = global::NDMA.Resource.Dimension.abc_text_size_display_3_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_display_4_material = global::NDMA.Resource.Dimension.abc_text_size_display_4_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_headline_material = global::NDMA.Resource.Dimension.abc_text_size_headline_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_large_material = global::NDMA.Resource.Dimension.abc_text_size_large_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_medium_material = global::NDMA.Resource.Dimension.abc_text_size_medium_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_menu_header_material = global::NDMA.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_menu_material = global::NDMA.Resource.Dimension.abc_text_size_menu_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_small_material = global::NDMA.Resource.Dimension.abc_text_size_small_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_subhead_material = global::NDMA.Resource.Dimension.abc_text_size_subhead_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::NDMA.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_title_material = global::NDMA.Resource.Dimension.abc_text_size_title_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_title_material_toolbar = global::NDMA.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Xamarin.Forms.Platform.Resource.Dimension.cardview_compat_inset_shadow = global::NDMA.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Xamarin.Forms.Platform.Resource.Dimension.cardview_default_elevation = global::NDMA.Resource.Dimension.cardview_default_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.cardview_default_radius = global::NDMA.Resource.Dimension.cardview_default_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_button_inset_horizontal_material = global::NDMA.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_button_inset_vertical_material = global::NDMA.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_button_padding_horizontal_material = global::NDMA.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_button_padding_vertical_material = global::NDMA.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_control_corner_material = global::NDMA.Resource.Dimension.compat_control_corner_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_notification_large_icon_max_height = global::NDMA.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_notification_large_icon_max_width = global::NDMA.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_appbar_elevation = global::NDMA.Resource.Dimension.design_appbar_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::NDMA.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::NDMA.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_active_text_size = global::NDMA.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_elevation = global::NDMA.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_height = global::NDMA.Resource.Dimension.design_bottom_navigation_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_icon_size = global::NDMA.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_item_max_width = global::NDMA.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_item_min_width = global::NDMA.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_margin = global::NDMA.Resource.Dimension.design_bottom_navigation_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_shadow_height = global::NDMA.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_text_size = global::NDMA.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_sheet_modal_elevation = global::NDMA.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_sheet_peek_height_min = global::NDMA.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_border_width = global::NDMA.Resource.Dimension.design_fab_border_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_elevation = global::NDMA.Resource.Dimension.design_fab_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_image_size = global::NDMA.Resource.Dimension.design_fab_image_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_size_mini = global::NDMA.Resource.Dimension.design_fab_size_mini;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_size_normal = global::NDMA.Resource.Dimension.design_fab_size_normal;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_translation_z_hovered_focused = global::NDMA.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_translation_z_pressed = global::NDMA.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_elevation = global::NDMA.Resource.Dimension.design_navigation_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_icon_padding = global::NDMA.Resource.Dimension.design_navigation_icon_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_icon_size = global::NDMA.Resource.Dimension.design_navigation_icon_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_item_horizontal_padding = global::NDMA.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_item_icon_padding = global::NDMA.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_max_width = global::NDMA.Resource.Dimension.design_navigation_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_padding_bottom = global::NDMA.Resource.Dimension.design_navigation_padding_bottom;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_separator_vertical_padding = global::NDMA.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_action_inline_max_width = global::NDMA.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_background_corner_radius = global::NDMA.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_elevation = global::NDMA.Resource.Dimension.design_snackbar_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::NDMA.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_max_width = global::NDMA.Resource.Dimension.design_snackbar_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_min_width = global::NDMA.Resource.Dimension.design_snackbar_min_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_padding_horizontal = global::NDMA.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_padding_vertical = global::NDMA.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::NDMA.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_text_size = global::NDMA.Resource.Dimension.design_snackbar_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_tab_max_width = global::NDMA.Resource.Dimension.design_tab_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_tab_scrollable_min_width = global::NDMA.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_tab_text_size = global::NDMA.Resource.Dimension.design_tab_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_tab_text_size_2line = global::NDMA.Resource.Dimension.design_tab_text_size_2line;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_textinput_caption_translate_y = global::NDMA.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Xamarin.Forms.Platform.Resource.Dimension.disabled_alpha_material_dark = global::NDMA.Resource.Dimension.disabled_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Dimension.disabled_alpha_material_light = global::NDMA.Resource.Dimension.disabled_alpha_material_light;
+			global::Xamarin.Forms.Platform.Resource.Dimension.fastscroll_default_thickness = global::NDMA.Resource.Dimension.fastscroll_default_thickness;
+			global::Xamarin.Forms.Platform.Resource.Dimension.fastscroll_margin = global::NDMA.Resource.Dimension.fastscroll_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.fastscroll_minimum_range = global::NDMA.Resource.Dimension.fastscroll_minimum_range;
+			global::Xamarin.Forms.Platform.Resource.Dimension.highlight_alpha_material_colored = global::NDMA.Resource.Dimension.highlight_alpha_material_colored;
+			global::Xamarin.Forms.Platform.Resource.Dimension.highlight_alpha_material_dark = global::NDMA.Resource.Dimension.highlight_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Dimension.highlight_alpha_material_light = global::NDMA.Resource.Dimension.highlight_alpha_material_light;
+			global::Xamarin.Forms.Platform.Resource.Dimension.hint_alpha_material_dark = global::NDMA.Resource.Dimension.hint_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Dimension.hint_alpha_material_light = global::NDMA.Resource.Dimension.hint_alpha_material_light;
+			global::Xamarin.Forms.Platform.Resource.Dimension.hint_pressed_alpha_material_dark = global::NDMA.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Dimension.hint_pressed_alpha_material_light = global::NDMA.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Xamarin.Forms.Platform.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::NDMA.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Xamarin.Forms.Platform.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::NDMA.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Xamarin.Forms.Platform.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::NDMA.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::NDMA.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::NDMA.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::NDMA.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::NDMA.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_bottomappbar_height = global::NDMA.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_corner_radius = global::NDMA.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::NDMA.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_disabled_elevation = global::NDMA.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_disabled_z = global::NDMA.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_elevation = global::NDMA.Resource.Dimension.mtrl_btn_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_focused_z = global::NDMA.Resource.Dimension.mtrl_btn_focused_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_hovered_z = global::NDMA.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::NDMA.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_icon_padding = global::NDMA.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_inset = global::NDMA.Resource.Dimension.mtrl_btn_inset;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_letter_spacing = global::NDMA.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_padding_bottom = global::NDMA.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_padding_left = global::NDMA.Resource.Dimension.mtrl_btn_padding_left;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_padding_right = global::NDMA.Resource.Dimension.mtrl_btn_padding_right;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_padding_top = global::NDMA.Resource.Dimension.mtrl_btn_padding_top;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_pressed_z = global::NDMA.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_stroke_size = global::NDMA.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::NDMA.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::NDMA.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::NDMA.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_text_size = global::NDMA.Resource.Dimension.mtrl_btn_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_z = global::NDMA.Resource.Dimension.mtrl_btn_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_card_elevation = global::NDMA.Resource.Dimension.mtrl_card_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_card_spacing = global::NDMA.Resource.Dimension.mtrl_card_spacing;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_chip_pressed_translation_z = global::NDMA.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_chip_text_size = global::NDMA.Resource.Dimension.mtrl_chip_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_fab_elevation = global::NDMA.Resource.Dimension.mtrl_fab_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::NDMA.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_fab_translation_z_pressed = global::NDMA.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_navigation_elevation = global::NDMA.Resource.Dimension.mtrl_navigation_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::NDMA.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_navigation_item_icon_padding = global::NDMA.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::NDMA.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_snackbar_margin = global::NDMA.Resource.Dimension.mtrl_snackbar_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::NDMA.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::NDMA.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::NDMA.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::NDMA.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_padding_end = global::NDMA.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::NDMA.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::NDMA.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::NDMA.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_toolbar_default_height = global::NDMA.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_action_icon_size = global::NDMA.Resource.Dimension.notification_action_icon_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_action_text_size = global::NDMA.Resource.Dimension.notification_action_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_big_circle_margin = global::NDMA.Resource.Dimension.notification_big_circle_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_content_margin_start = global::NDMA.Resource.Dimension.notification_content_margin_start;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_large_icon_height = global::NDMA.Resource.Dimension.notification_large_icon_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_large_icon_width = global::NDMA.Resource.Dimension.notification_large_icon_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_main_column_padding_top = global::NDMA.Resource.Dimension.notification_main_column_padding_top;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_media_narrow_margin = global::NDMA.Resource.Dimension.notification_media_narrow_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_right_icon_size = global::NDMA.Resource.Dimension.notification_right_icon_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_right_side_padding_top = global::NDMA.Resource.Dimension.notification_right_side_padding_top;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_small_icon_background_padding = global::NDMA.Resource.Dimension.notification_small_icon_background_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_small_icon_size_as_large = global::NDMA.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_subtext_size = global::NDMA.Resource.Dimension.notification_subtext_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_top_pad = global::NDMA.Resource.Dimension.notification_top_pad;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_top_pad_large_text = global::NDMA.Resource.Dimension.notification_top_pad_large_text;
+			global::Xamarin.Forms.Platform.Resource.Dimension.subtitle_corner_radius = global::NDMA.Resource.Dimension.subtitle_corner_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.subtitle_outline_width = global::NDMA.Resource.Dimension.subtitle_outline_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.subtitle_shadow_offset = global::NDMA.Resource.Dimension.subtitle_shadow_offset;
+			global::Xamarin.Forms.Platform.Resource.Dimension.subtitle_shadow_radius = global::NDMA.Resource.Dimension.subtitle_shadow_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_corner_radius = global::NDMA.Resource.Dimension.tooltip_corner_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_horizontal_padding = global::NDMA.Resource.Dimension.tooltip_horizontal_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_margin = global::NDMA.Resource.Dimension.tooltip_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::NDMA.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_precise_anchor_threshold = global::NDMA.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_vertical_padding = global::NDMA.Resource.Dimension.tooltip_vertical_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_y_offset_non_touch = global::NDMA.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_y_offset_touch = global::NDMA.Resource.Dimension.tooltip_y_offset_touch;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_action_bar_item_background_material = global::NDMA.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_borderless_material = global::NDMA.Resource.Drawable.abc_btn_borderless_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_check_material = global::NDMA.Resource.Drawable.abc_btn_check_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::NDMA.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::NDMA.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_colored_material = global::NDMA.Resource.Drawable.abc_btn_colored_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_default_mtrl_shape = global::NDMA.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_radio_material = global::NDMA.Resource.Drawable.abc_btn_radio_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::NDMA.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::NDMA.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::NDMA.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::NDMA.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_cab_background_internal_bg = global::NDMA.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_cab_background_top_material = global::NDMA.Resource.Drawable.abc_cab_background_top_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::NDMA.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_control_background_material = global::NDMA.Resource.Drawable.abc_control_background_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_dialog_material_background = global::NDMA.Resource.Drawable.abc_dialog_material_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_edit_text_material = global::NDMA.Resource.Drawable.abc_edit_text_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_ab_back_material = global::NDMA.Resource.Drawable.abc_ic_ab_back_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::NDMA.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_clear_material = global::NDMA.Resource.Drawable.abc_ic_clear_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_go_search_api_material = global::NDMA.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_overflow_material = global::NDMA.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_search_api_material = global::NDMA.Resource.Drawable.abc_ic_search_api_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_star_black_16dp = global::NDMA.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_star_black_36dp = global::NDMA.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_star_black_48dp = global::NDMA.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_star_half_black_16dp = global::NDMA.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_star_half_black_36dp = global::NDMA.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_star_half_black_48dp = global::NDMA.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_voice_search_api_material = global::NDMA.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_item_background_holo_dark = global::NDMA.Resource.Drawable.abc_item_background_holo_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_item_background_holo_light = global::NDMA.Resource.Drawable.abc_item_background_holo_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_divider_material = global::NDMA.Resource.Drawable.abc_list_divider_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_divider_mtrl_alpha = global::NDMA.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_focused_holo = global::NDMA.Resource.Drawable.abc_list_focused_holo;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_longpressed_holo = global::NDMA.Resource.Drawable.abc_list_longpressed_holo;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_pressed_holo_dark = global::NDMA.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_pressed_holo_light = global::NDMA.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::NDMA.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::NDMA.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::NDMA.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_disabled_holo_light = global::NDMA.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_holo_dark = global::NDMA.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_holo_light = global::NDMA.Resource.Drawable.abc_list_selector_holo_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::NDMA.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_popup_background_mtrl_mult = global::NDMA.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ratingbar_indicator_material = global::NDMA.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ratingbar_material = global::NDMA.Resource.Drawable.abc_ratingbar_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ratingbar_small_material = global::NDMA.Resource.Drawable.abc_ratingbar_small_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::NDMA.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::NDMA.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::NDMA.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::NDMA.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::NDMA.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_seekbar_thumb_material = global::NDMA.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_seekbar_tick_mark_material = global::NDMA.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_seekbar_track_material = global::NDMA.Resource.Drawable.abc_seekbar_track_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::NDMA.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_spinner_textfield_background_material = global::NDMA.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_switch_thumb_material = global::NDMA.Resource.Drawable.abc_switch_thumb_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_switch_track_mtrl_alpha = global::NDMA.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_tab_indicator_material = global::NDMA.Resource.Drawable.abc_tab_indicator_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::NDMA.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::NDMA.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::NDMA.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::NDMA.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::NDMA.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_search_material = global::NDMA.Resource.Drawable.abc_textfield_search_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_cursor_material = global::NDMA.Resource.Drawable.abc_text_cursor_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::NDMA.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::NDMA.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::NDMA.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::NDMA.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::NDMA.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::NDMA.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_vector_test = global::NDMA.Resource.Drawable.abc_vector_test;
+			global::Xamarin.Forms.Platform.Resource.Drawable.avd_hide_password = global::NDMA.Resource.Drawable.avd_hide_password;
+			global::Xamarin.Forms.Platform.Resource.Drawable.avd_show_password = global::NDMA.Resource.Drawable.avd_show_password;
+			global::Xamarin.Forms.Platform.Resource.Drawable.design_bottom_navigation_item_background = global::NDMA.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.design_fab_background = global::NDMA.Resource.Drawable.design_fab_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.design_ic_visibility = global::NDMA.Resource.Drawable.design_ic_visibility;
+			global::Xamarin.Forms.Platform.Resource.Drawable.design_ic_visibility_off = global::NDMA.Resource.Drawable.design_ic_visibility_off;
+			global::Xamarin.Forms.Platform.Resource.Drawable.design_password_eye = global::NDMA.Resource.Drawable.design_password_eye;
+			global::Xamarin.Forms.Platform.Resource.Drawable.design_snackbar_background = global::NDMA.Resource.Drawable.design_snackbar_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.ic_mtrl_chip_checked_black = global::NDMA.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Xamarin.Forms.Platform.Resource.Drawable.ic_mtrl_chip_checked_circle = global::NDMA.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Xamarin.Forms.Platform.Resource.Drawable.ic_mtrl_chip_close_circle = global::NDMA.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Xamarin.Forms.Platform.Resource.Drawable.mtrl_snackbar_background = global::NDMA.Resource.Drawable.mtrl_snackbar_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.mtrl_tabs_default_indicator = global::NDMA.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Xamarin.Forms.Platform.Resource.Drawable.navigation_empty_icon = global::NDMA.Resource.Drawable.navigation_empty_icon;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_action_background = global::NDMA.Resource.Drawable.notification_action_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_bg = global::NDMA.Resource.Drawable.notification_bg;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_bg_low = global::NDMA.Resource.Drawable.notification_bg_low;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_bg_low_normal = global::NDMA.Resource.Drawable.notification_bg_low_normal;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_bg_low_pressed = global::NDMA.Resource.Drawable.notification_bg_low_pressed;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_bg_normal = global::NDMA.Resource.Drawable.notification_bg_normal;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_bg_normal_pressed = global::NDMA.Resource.Drawable.notification_bg_normal_pressed;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_icon_background = global::NDMA.Resource.Drawable.notification_icon_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_template_icon_bg = global::NDMA.Resource.Drawable.notification_template_icon_bg;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_template_icon_low_bg = global::NDMA.Resource.Drawable.notification_template_icon_low_bg;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_tile_bg = global::NDMA.Resource.Drawable.notification_tile_bg;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notify_panel_notification_icon_bg = global::NDMA.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Xamarin.Forms.Platform.Resource.Drawable.tooltip_frame_dark = global::NDMA.Resource.Drawable.tooltip_frame_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.tooltip_frame_light = global::NDMA.Resource.Drawable.tooltip_frame_light;
+			global::Xamarin.Forms.Platform.Resource.Id.action0 = global::NDMA.Resource.Id.action0;
+			global::Xamarin.Forms.Platform.Resource.Id.actions = global::NDMA.Resource.Id.actions;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar = global::NDMA.Resource.Id.action_bar;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar_activity_content = global::NDMA.Resource.Id.action_bar_activity_content;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar_container = global::NDMA.Resource.Id.action_bar_container;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar_root = global::NDMA.Resource.Id.action_bar_root;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar_spinner = global::NDMA.Resource.Id.action_bar_spinner;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar_subtitle = global::NDMA.Resource.Id.action_bar_subtitle;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar_title = global::NDMA.Resource.Id.action_bar_title;
+			global::Xamarin.Forms.Platform.Resource.Id.action_container = global::NDMA.Resource.Id.action_container;
+			global::Xamarin.Forms.Platform.Resource.Id.action_context_bar = global::NDMA.Resource.Id.action_context_bar;
+			global::Xamarin.Forms.Platform.Resource.Id.action_divider = global::NDMA.Resource.Id.action_divider;
+			global::Xamarin.Forms.Platform.Resource.Id.action_image = global::NDMA.Resource.Id.action_image;
+			global::Xamarin.Forms.Platform.Resource.Id.action_menu_divider = global::NDMA.Resource.Id.action_menu_divider;
+			global::Xamarin.Forms.Platform.Resource.Id.action_menu_presenter = global::NDMA.Resource.Id.action_menu_presenter;
+			global::Xamarin.Forms.Platform.Resource.Id.action_mode_bar = global::NDMA.Resource.Id.action_mode_bar;
+			global::Xamarin.Forms.Platform.Resource.Id.action_mode_bar_stub = global::NDMA.Resource.Id.action_mode_bar_stub;
+			global::Xamarin.Forms.Platform.Resource.Id.action_mode_close_button = global::NDMA.Resource.Id.action_mode_close_button;
+			global::Xamarin.Forms.Platform.Resource.Id.action_text = global::NDMA.Resource.Id.action_text;
+			global::Xamarin.Forms.Platform.Resource.Id.activity_chooser_view_content = global::NDMA.Resource.Id.activity_chooser_view_content;
+			global::Xamarin.Forms.Platform.Resource.Id.add = global::NDMA.Resource.Id.add;
+			global::Xamarin.Forms.Platform.Resource.Id.alertTitle = global::NDMA.Resource.Id.alertTitle;
+			global::Xamarin.Forms.Platform.Resource.Id.all = global::NDMA.Resource.Id.all;
+			global::Xamarin.Forms.Platform.Resource.Id.ALT = global::NDMA.Resource.Id.ALT;
+			global::Xamarin.Forms.Platform.Resource.Id.always = global::NDMA.Resource.Id.always;
+			global::Xamarin.Forms.Platform.Resource.Id.async = global::NDMA.Resource.Id.async;
+			global::Xamarin.Forms.Platform.Resource.Id.auto = global::NDMA.Resource.Id.auto;
+			global::Xamarin.Forms.Platform.Resource.Id.beginning = global::NDMA.Resource.Id.beginning;
+			global::Xamarin.Forms.Platform.Resource.Id.blocking = global::NDMA.Resource.Id.blocking;
+			global::Xamarin.Forms.Platform.Resource.Id.bottom = global::NDMA.Resource.Id.bottom;
+			global::Xamarin.Forms.Platform.Resource.Id.bottomtab_navarea = global::NDMA.Resource.Id.bottomtab_navarea;
+			global::Xamarin.Forms.Platform.Resource.Id.bottomtab_tabbar = global::NDMA.Resource.Id.bottomtab_tabbar;
+			global::Xamarin.Forms.Platform.Resource.Id.buttonPanel = global::NDMA.Resource.Id.buttonPanel;
+			global::Xamarin.Forms.Platform.Resource.Id.cancel_action = global::NDMA.Resource.Id.cancel_action;
+			global::Xamarin.Forms.Platform.Resource.Id.center = global::NDMA.Resource.Id.center;
+			global::Xamarin.Forms.Platform.Resource.Id.center_horizontal = global::NDMA.Resource.Id.center_horizontal;
+			global::Xamarin.Forms.Platform.Resource.Id.center_vertical = global::NDMA.Resource.Id.center_vertical;
+			global::Xamarin.Forms.Platform.Resource.Id.checkbox = global::NDMA.Resource.Id.checkbox;
+			global::Xamarin.Forms.Platform.Resource.Id.chronometer = global::NDMA.Resource.Id.chronometer;
+			global::Xamarin.Forms.Platform.Resource.Id.clip_horizontal = global::NDMA.Resource.Id.clip_horizontal;
+			global::Xamarin.Forms.Platform.Resource.Id.clip_vertical = global::NDMA.Resource.Id.clip_vertical;
+			global::Xamarin.Forms.Platform.Resource.Id.collapseActionView = global::NDMA.Resource.Id.collapseActionView;
+			global::Xamarin.Forms.Platform.Resource.Id.container = global::NDMA.Resource.Id.container;
+			global::Xamarin.Forms.Platform.Resource.Id.content = global::NDMA.Resource.Id.content;
+			global::Xamarin.Forms.Platform.Resource.Id.contentPanel = global::NDMA.Resource.Id.contentPanel;
+			global::Xamarin.Forms.Platform.Resource.Id.coordinator = global::NDMA.Resource.Id.coordinator;
+			global::Xamarin.Forms.Platform.Resource.Id.CTRL = global::NDMA.Resource.Id.CTRL;
+			global::Xamarin.Forms.Platform.Resource.Id.custom = global::NDMA.Resource.Id.custom;
+			global::Xamarin.Forms.Platform.Resource.Id.customPanel = global::NDMA.Resource.Id.customPanel;
+			global::Xamarin.Forms.Platform.Resource.Id.decor_content_parent = global::NDMA.Resource.Id.decor_content_parent;
+			global::Xamarin.Forms.Platform.Resource.Id.default_activity_button = global::NDMA.Resource.Id.default_activity_button;
+			global::Xamarin.Forms.Platform.Resource.Id.design_bottom_sheet = global::NDMA.Resource.Id.design_bottom_sheet;
+			global::Xamarin.Forms.Platform.Resource.Id.design_menu_item_action_area = global::NDMA.Resource.Id.design_menu_item_action_area;
+			global::Xamarin.Forms.Platform.Resource.Id.design_menu_item_action_area_stub = global::NDMA.Resource.Id.design_menu_item_action_area_stub;
+			global::Xamarin.Forms.Platform.Resource.Id.design_menu_item_text = global::NDMA.Resource.Id.design_menu_item_text;
+			global::Xamarin.Forms.Platform.Resource.Id.design_navigation_view = global::NDMA.Resource.Id.design_navigation_view;
+			global::Xamarin.Forms.Platform.Resource.Id.disableHome = global::NDMA.Resource.Id.disableHome;
+			global::Xamarin.Forms.Platform.Resource.Id.edit_query = global::NDMA.Resource.Id.edit_query;
+			global::Xamarin.Forms.Platform.Resource.Id.end = global::NDMA.Resource.Id.end;
+			global::Xamarin.Forms.Platform.Resource.Id.end_padder = global::NDMA.Resource.Id.end_padder;
+			global::Xamarin.Forms.Platform.Resource.Id.enterAlways = global::NDMA.Resource.Id.enterAlways;
+			global::Xamarin.Forms.Platform.Resource.Id.enterAlwaysCollapsed = global::NDMA.Resource.Id.enterAlwaysCollapsed;
+			global::Xamarin.Forms.Platform.Resource.Id.exitUntilCollapsed = global::NDMA.Resource.Id.exitUntilCollapsed;
+			global::Xamarin.Forms.Platform.Resource.Id.expanded_menu = global::NDMA.Resource.Id.expanded_menu;
+			global::Xamarin.Forms.Platform.Resource.Id.expand_activities_button = global::NDMA.Resource.Id.expand_activities_button;
+			global::Xamarin.Forms.Platform.Resource.Id.fill = global::NDMA.Resource.Id.fill;
+			global::Xamarin.Forms.Platform.Resource.Id.filled = global::NDMA.Resource.Id.filled;
+			global::Xamarin.Forms.Platform.Resource.Id.fill_horizontal = global::NDMA.Resource.Id.fill_horizontal;
+			global::Xamarin.Forms.Platform.Resource.Id.fill_vertical = global::NDMA.Resource.Id.fill_vertical;
+			global::Xamarin.Forms.Platform.Resource.Id.@fixed = global::NDMA.Resource.Id.@fixed;
+			global::Xamarin.Forms.Platform.Resource.Id.flyoutcontent_appbar = global::NDMA.Resource.Id.flyoutcontent_appbar;
+			global::Xamarin.Forms.Platform.Resource.Id.flyoutcontent_recycler = global::NDMA.Resource.Id.flyoutcontent_recycler;
+			global::Xamarin.Forms.Platform.Resource.Id.forever = global::NDMA.Resource.Id.forever;
+			global::Xamarin.Forms.Platform.Resource.Id.FUNCTION = global::NDMA.Resource.Id.FUNCTION;
+			global::Xamarin.Forms.Platform.Resource.Id.ghost_view = global::NDMA.Resource.Id.ghost_view;
+			global::Xamarin.Forms.Platform.Resource.Id.group_divider = global::NDMA.Resource.Id.group_divider;
+			global::Xamarin.Forms.Platform.Resource.Id.home = global::NDMA.Resource.Id.home;
+			global::Xamarin.Forms.Platform.Resource.Id.homeAsUp = global::NDMA.Resource.Id.homeAsUp;
+			global::Xamarin.Forms.Platform.Resource.Id.icon = global::NDMA.Resource.Id.icon;
+			global::Xamarin.Forms.Platform.Resource.Id.icon_group = global::NDMA.Resource.Id.icon_group;
+			global::Xamarin.Forms.Platform.Resource.Id.ifRoom = global::NDMA.Resource.Id.ifRoom;
+			global::Xamarin.Forms.Platform.Resource.Id.image = global::NDMA.Resource.Id.image;
+			global::Xamarin.Forms.Platform.Resource.Id.info = global::NDMA.Resource.Id.info;
+			global::Xamarin.Forms.Platform.Resource.Id.italic = global::NDMA.Resource.Id.italic;
+			global::Xamarin.Forms.Platform.Resource.Id.item_touch_helper_previous_elevation = global::NDMA.Resource.Id.item_touch_helper_previous_elevation;
+			global::Xamarin.Forms.Platform.Resource.Id.labeled = global::NDMA.Resource.Id.labeled;
+			global::Xamarin.Forms.Platform.Resource.Id.largeLabel = global::NDMA.Resource.Id.largeLabel;
+			global::Xamarin.Forms.Platform.Resource.Id.left = global::NDMA.Resource.Id.left;
+			global::Xamarin.Forms.Platform.Resource.Id.line1 = global::NDMA.Resource.Id.line1;
+			global::Xamarin.Forms.Platform.Resource.Id.line3 = global::NDMA.Resource.Id.line3;
+			global::Xamarin.Forms.Platform.Resource.Id.listMode = global::NDMA.Resource.Id.listMode;
+			global::Xamarin.Forms.Platform.Resource.Id.list_item = global::NDMA.Resource.Id.list_item;
+			global::Xamarin.Forms.Platform.Resource.Id.main_appbar = global::NDMA.Resource.Id.main_appbar;
+			global::Xamarin.Forms.Platform.Resource.Id.main_tablayout = global::NDMA.Resource.Id.main_tablayout;
+			global::Xamarin.Forms.Platform.Resource.Id.main_toolbar = global::NDMA.Resource.Id.main_toolbar;
+			global::Xamarin.Forms.Platform.Resource.Id.main_viewpager = global::NDMA.Resource.Id.main_viewpager;
+			global::Xamarin.Forms.Platform.Resource.Id.masked = global::NDMA.Resource.Id.masked;
+			global::Xamarin.Forms.Platform.Resource.Id.media_actions = global::NDMA.Resource.Id.media_actions;
+			global::Xamarin.Forms.Platform.Resource.Id.message = global::NDMA.Resource.Id.message;
+			global::Xamarin.Forms.Platform.Resource.Id.META = global::NDMA.Resource.Id.META;
+			global::Xamarin.Forms.Platform.Resource.Id.middle = global::NDMA.Resource.Id.middle;
+			global::Xamarin.Forms.Platform.Resource.Id.mini = global::NDMA.Resource.Id.mini;
+			global::Xamarin.Forms.Platform.Resource.Id.mtrl_child_content_container = global::NDMA.Resource.Id.mtrl_child_content_container;
+			global::Xamarin.Forms.Platform.Resource.Id.mtrl_internal_children_alpha_tag = global::NDMA.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Xamarin.Forms.Platform.Resource.Id.multiply = global::NDMA.Resource.Id.multiply;
+			global::Xamarin.Forms.Platform.Resource.Id.navigation_header_container = global::NDMA.Resource.Id.navigation_header_container;
+			global::Xamarin.Forms.Platform.Resource.Id.never = global::NDMA.Resource.Id.never;
+			global::Xamarin.Forms.Platform.Resource.Id.none = global::NDMA.Resource.Id.none;
+			global::Xamarin.Forms.Platform.Resource.Id.normal = global::NDMA.Resource.Id.normal;
+			global::Xamarin.Forms.Platform.Resource.Id.notification_background = global::NDMA.Resource.Id.notification_background;
+			global::Xamarin.Forms.Platform.Resource.Id.notification_main_column = global::NDMA.Resource.Id.notification_main_column;
+			global::Xamarin.Forms.Platform.Resource.Id.notification_main_column_container = global::NDMA.Resource.Id.notification_main_column_container;
+			global::Xamarin.Forms.Platform.Resource.Id.outline = global::NDMA.Resource.Id.outline;
+			global::Xamarin.Forms.Platform.Resource.Id.parallax = global::NDMA.Resource.Id.parallax;
+			global::Xamarin.Forms.Platform.Resource.Id.parentPanel = global::NDMA.Resource.Id.parentPanel;
+			global::Xamarin.Forms.Platform.Resource.Id.parent_matrix = global::NDMA.Resource.Id.parent_matrix;
+			global::Xamarin.Forms.Platform.Resource.Id.pin = global::NDMA.Resource.Id.pin;
+			global::Xamarin.Forms.Platform.Resource.Id.progress_circular = global::NDMA.Resource.Id.progress_circular;
+			global::Xamarin.Forms.Platform.Resource.Id.progress_horizontal = global::NDMA.Resource.Id.progress_horizontal;
+			global::Xamarin.Forms.Platform.Resource.Id.radio = global::NDMA.Resource.Id.radio;
+			global::Xamarin.Forms.Platform.Resource.Id.right = global::NDMA.Resource.Id.right;
+			global::Xamarin.Forms.Platform.Resource.Id.right_icon = global::NDMA.Resource.Id.right_icon;
+			global::Xamarin.Forms.Platform.Resource.Id.right_side = global::NDMA.Resource.Id.right_side;
+			global::Xamarin.Forms.Platform.Resource.Id.save_image_matrix = global::NDMA.Resource.Id.save_image_matrix;
+			global::Xamarin.Forms.Platform.Resource.Id.save_non_transition_alpha = global::NDMA.Resource.Id.save_non_transition_alpha;
+			global::Xamarin.Forms.Platform.Resource.Id.save_scale_type = global::NDMA.Resource.Id.save_scale_type;
+			global::Xamarin.Forms.Platform.Resource.Id.screen = global::NDMA.Resource.Id.screen;
+			global::Xamarin.Forms.Platform.Resource.Id.scroll = global::NDMA.Resource.Id.scroll;
+			global::Xamarin.Forms.Platform.Resource.Id.scrollable = global::NDMA.Resource.Id.scrollable;
+			global::Xamarin.Forms.Platform.Resource.Id.scrollIndicatorDown = global::NDMA.Resource.Id.scrollIndicatorDown;
+			global::Xamarin.Forms.Platform.Resource.Id.scrollIndicatorUp = global::NDMA.Resource.Id.scrollIndicatorUp;
+			global::Xamarin.Forms.Platform.Resource.Id.scrollView = global::NDMA.Resource.Id.scrollView;
+			global::Xamarin.Forms.Platform.Resource.Id.search_badge = global::NDMA.Resource.Id.search_badge;
+			global::Xamarin.Forms.Platform.Resource.Id.search_bar = global::NDMA.Resource.Id.search_bar;
+			global::Xamarin.Forms.Platform.Resource.Id.search_button = global::NDMA.Resource.Id.search_button;
+			global::Xamarin.Forms.Platform.Resource.Id.search_close_btn = global::NDMA.Resource.Id.search_close_btn;
+			global::Xamarin.Forms.Platform.Resource.Id.search_edit_frame = global::NDMA.Resource.Id.search_edit_frame;
+			global::Xamarin.Forms.Platform.Resource.Id.search_go_btn = global::NDMA.Resource.Id.search_go_btn;
+			global::Xamarin.Forms.Platform.Resource.Id.search_mag_icon = global::NDMA.Resource.Id.search_mag_icon;
+			global::Xamarin.Forms.Platform.Resource.Id.search_plate = global::NDMA.Resource.Id.search_plate;
+			global::Xamarin.Forms.Platform.Resource.Id.search_src_text = global::NDMA.Resource.Id.search_src_text;
+			global::Xamarin.Forms.Platform.Resource.Id.search_voice_btn = global::NDMA.Resource.Id.search_voice_btn;
+			global::Xamarin.Forms.Platform.Resource.Id.selected = global::NDMA.Resource.Id.selected;
+			global::Xamarin.Forms.Platform.Resource.Id.select_dialog_listview = global::NDMA.Resource.Id.select_dialog_listview;
+			global::Xamarin.Forms.Platform.Resource.Id.shellcontent_appbar = global::NDMA.Resource.Id.shellcontent_appbar;
+			global::Xamarin.Forms.Platform.Resource.Id.shellcontent_toolbar = global::NDMA.Resource.Id.shellcontent_toolbar;
+			global::Xamarin.Forms.Platform.Resource.Id.SHIFT = global::NDMA.Resource.Id.SHIFT;
+			global::Xamarin.Forms.Platform.Resource.Id.shortcut = global::NDMA.Resource.Id.shortcut;
+			global::Xamarin.Forms.Platform.Resource.Id.showCustom = global::NDMA.Resource.Id.showCustom;
+			global::Xamarin.Forms.Platform.Resource.Id.showHome = global::NDMA.Resource.Id.showHome;
+			global::Xamarin.Forms.Platform.Resource.Id.showTitle = global::NDMA.Resource.Id.showTitle;
+			global::Xamarin.Forms.Platform.Resource.Id.smallLabel = global::NDMA.Resource.Id.smallLabel;
+			global::Xamarin.Forms.Platform.Resource.Id.snackbar_action = global::NDMA.Resource.Id.snackbar_action;
+			global::Xamarin.Forms.Platform.Resource.Id.snackbar_text = global::NDMA.Resource.Id.snackbar_text;
+			global::Xamarin.Forms.Platform.Resource.Id.snap = global::NDMA.Resource.Id.snap;
+			global::Xamarin.Forms.Platform.Resource.Id.snapMargins = global::NDMA.Resource.Id.snapMargins;
+			global::Xamarin.Forms.Platform.Resource.Id.spacer = global::NDMA.Resource.Id.spacer;
+			global::Xamarin.Forms.Platform.Resource.Id.split_action_bar = global::NDMA.Resource.Id.split_action_bar;
+			global::Xamarin.Forms.Platform.Resource.Id.src_atop = global::NDMA.Resource.Id.src_atop;
+			global::Xamarin.Forms.Platform.Resource.Id.src_in = global::NDMA.Resource.Id.src_in;
+			global::Xamarin.Forms.Platform.Resource.Id.src_over = global::NDMA.Resource.Id.src_over;
+			global::Xamarin.Forms.Platform.Resource.Id.start = global::NDMA.Resource.Id.start;
+			global::Xamarin.Forms.Platform.Resource.Id.status_bar_latest_event_content = global::NDMA.Resource.Id.status_bar_latest_event_content;
+			global::Xamarin.Forms.Platform.Resource.Id.stretch = global::NDMA.Resource.Id.stretch;
+			global::Xamarin.Forms.Platform.Resource.Id.submenuarrow = global::NDMA.Resource.Id.submenuarrow;
+			global::Xamarin.Forms.Platform.Resource.Id.submit_area = global::NDMA.Resource.Id.submit_area;
+			global::Xamarin.Forms.Platform.Resource.Id.SYM = global::NDMA.Resource.Id.SYM;
+			global::Xamarin.Forms.Platform.Resource.Id.tabMode = global::NDMA.Resource.Id.tabMode;
+			global::Xamarin.Forms.Platform.Resource.Id.tag_transition_group = global::NDMA.Resource.Id.tag_transition_group;
+			global::Xamarin.Forms.Platform.Resource.Id.tag_unhandled_key_event_manager = global::NDMA.Resource.Id.tag_unhandled_key_event_manager;
+			global::Xamarin.Forms.Platform.Resource.Id.tag_unhandled_key_listeners = global::NDMA.Resource.Id.tag_unhandled_key_listeners;
+			global::Xamarin.Forms.Platform.Resource.Id.text = global::NDMA.Resource.Id.text;
+			global::Xamarin.Forms.Platform.Resource.Id.text2 = global::NDMA.Resource.Id.text2;
+			global::Xamarin.Forms.Platform.Resource.Id.textinput_counter = global::NDMA.Resource.Id.textinput_counter;
+			global::Xamarin.Forms.Platform.Resource.Id.textinput_error = global::NDMA.Resource.Id.textinput_error;
+			global::Xamarin.Forms.Platform.Resource.Id.textinput_helper_text = global::NDMA.Resource.Id.textinput_helper_text;
+			global::Xamarin.Forms.Platform.Resource.Id.textSpacerNoButtons = global::NDMA.Resource.Id.textSpacerNoButtons;
+			global::Xamarin.Forms.Platform.Resource.Id.textSpacerNoTitle = global::NDMA.Resource.Id.textSpacerNoTitle;
+			global::Xamarin.Forms.Platform.Resource.Id.textStart = global::NDMA.Resource.Id.textStart;
+			global::Xamarin.Forms.Platform.Resource.Id.text_input_password_toggle = global::NDMA.Resource.Id.text_input_password_toggle;
+			global::Xamarin.Forms.Platform.Resource.Id.time = global::NDMA.Resource.Id.time;
+			global::Xamarin.Forms.Platform.Resource.Id.title = global::NDMA.Resource.Id.title;
+			global::Xamarin.Forms.Platform.Resource.Id.titleDividerNoCustom = global::NDMA.Resource.Id.titleDividerNoCustom;
+			global::Xamarin.Forms.Platform.Resource.Id.title_template = global::NDMA.Resource.Id.title_template;
+			global::Xamarin.Forms.Platform.Resource.Id.top = global::NDMA.Resource.Id.top;
+			global::Xamarin.Forms.Platform.Resource.Id.topPanel = global::NDMA.Resource.Id.topPanel;
+			global::Xamarin.Forms.Platform.Resource.Id.touch_outside = global::NDMA.Resource.Id.touch_outside;
+			global::Xamarin.Forms.Platform.Resource.Id.transition_current_scene = global::NDMA.Resource.Id.transition_current_scene;
+			global::Xamarin.Forms.Platform.Resource.Id.transition_layout_save = global::NDMA.Resource.Id.transition_layout_save;
+			global::Xamarin.Forms.Platform.Resource.Id.transition_position = global::NDMA.Resource.Id.transition_position;
+			global::Xamarin.Forms.Platform.Resource.Id.transition_scene_layoutid_cache = global::NDMA.Resource.Id.transition_scene_layoutid_cache;
+			global::Xamarin.Forms.Platform.Resource.Id.transition_transform = global::NDMA.Resource.Id.transition_transform;
+			global::Xamarin.Forms.Platform.Resource.Id.uniform = global::NDMA.Resource.Id.uniform;
+			global::Xamarin.Forms.Platform.Resource.Id.unlabeled = global::NDMA.Resource.Id.unlabeled;
+			global::Xamarin.Forms.Platform.Resource.Id.up = global::NDMA.Resource.Id.up;
+			global::Xamarin.Forms.Platform.Resource.Id.useLogo = global::NDMA.Resource.Id.useLogo;
+			global::Xamarin.Forms.Platform.Resource.Id.view_offset_helper = global::NDMA.Resource.Id.view_offset_helper;
+			global::Xamarin.Forms.Platform.Resource.Id.visible = global::NDMA.Resource.Id.visible;
+			global::Xamarin.Forms.Platform.Resource.Id.withText = global::NDMA.Resource.Id.withText;
+			global::Xamarin.Forms.Platform.Resource.Id.wrap_content = global::NDMA.Resource.Id.wrap_content;
+			global::Xamarin.Forms.Platform.Resource.Integer.abc_config_activityDefaultDur = global::NDMA.Resource.Integer.abc_config_activityDefaultDur;
+			global::Xamarin.Forms.Platform.Resource.Integer.abc_config_activityShortDur = global::NDMA.Resource.Integer.abc_config_activityShortDur;
+			global::Xamarin.Forms.Platform.Resource.Integer.app_bar_elevation_anim_duration = global::NDMA.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Xamarin.Forms.Platform.Resource.Integer.bottom_sheet_slide_duration = global::NDMA.Resource.Integer.bottom_sheet_slide_duration;
+			global::Xamarin.Forms.Platform.Resource.Integer.cancel_button_image_alpha = global::NDMA.Resource.Integer.cancel_button_image_alpha;
+			global::Xamarin.Forms.Platform.Resource.Integer.config_tooltipAnimTime = global::NDMA.Resource.Integer.config_tooltipAnimTime;
+			global::Xamarin.Forms.Platform.Resource.Integer.design_snackbar_text_max_lines = global::NDMA.Resource.Integer.design_snackbar_text_max_lines;
+			global::Xamarin.Forms.Platform.Resource.Integer.design_tab_indicator_anim_duration_ms = global::NDMA.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Resource.Integer.hide_password_duration = global::NDMA.Resource.Integer.hide_password_duration;
+			global::Xamarin.Forms.Platform.Resource.Integer.mtrl_btn_anim_delay_ms = global::NDMA.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Xamarin.Forms.Platform.Resource.Integer.mtrl_btn_anim_duration_ms = global::NDMA.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Resource.Integer.mtrl_chip_anim_duration = global::NDMA.Resource.Integer.mtrl_chip_anim_duration;
+			global::Xamarin.Forms.Platform.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::NDMA.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Resource.Integer.show_password_duration = global::NDMA.Resource.Integer.show_password_duration;
+			global::Xamarin.Forms.Platform.Resource.Integer.status_bar_notification_info_maxnum = global::NDMA.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Xamarin.Forms.Platform.Resource.Interpolator.mtrl_fast_out_linear_in = global::NDMA.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Xamarin.Forms.Platform.Resource.Interpolator.mtrl_fast_out_slow_in = global::NDMA.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Xamarin.Forms.Platform.Resource.Interpolator.mtrl_linear = global::NDMA.Resource.Interpolator.mtrl_linear;
+			global::Xamarin.Forms.Platform.Resource.Interpolator.mtrl_linear_out_slow_in = global::NDMA.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_bar_title_item = global::NDMA.Resource.Layout.abc_action_bar_title_item;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_bar_up_container = global::NDMA.Resource.Layout.abc_action_bar_up_container;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_menu_item_layout = global::NDMA.Resource.Layout.abc_action_menu_item_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_menu_layout = global::NDMA.Resource.Layout.abc_action_menu_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_mode_bar = global::NDMA.Resource.Layout.abc_action_mode_bar;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_mode_close_item_material = global::NDMA.Resource.Layout.abc_action_mode_close_item_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_activity_chooser_view = global::NDMA.Resource.Layout.abc_activity_chooser_view;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_activity_chooser_view_list_item = global::NDMA.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_alert_dialog_button_bar_material = global::NDMA.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_alert_dialog_material = global::NDMA.Resource.Layout.abc_alert_dialog_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_alert_dialog_title_material = global::NDMA.Resource.Layout.abc_alert_dialog_title_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_cascading_menu_item_layout = global::NDMA.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_dialog_title_material = global::NDMA.Resource.Layout.abc_dialog_title_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_expanded_menu_layout = global::NDMA.Resource.Layout.abc_expanded_menu_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_list_menu_item_checkbox = global::NDMA.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_list_menu_item_icon = global::NDMA.Resource.Layout.abc_list_menu_item_icon;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_list_menu_item_layout = global::NDMA.Resource.Layout.abc_list_menu_item_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_list_menu_item_radio = global::NDMA.Resource.Layout.abc_list_menu_item_radio;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_popup_menu_header_item_layout = global::NDMA.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_popup_menu_item_layout = global::NDMA.Resource.Layout.abc_popup_menu_item_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_screen_content_include = global::NDMA.Resource.Layout.abc_screen_content_include;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_screen_simple = global::NDMA.Resource.Layout.abc_screen_simple;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_screen_simple_overlay_action_mode = global::NDMA.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_screen_toolbar = global::NDMA.Resource.Layout.abc_screen_toolbar;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_search_dropdown_item_icons_2line = global::NDMA.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_search_view = global::NDMA.Resource.Layout.abc_search_view;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_select_dialog_material = global::NDMA.Resource.Layout.abc_select_dialog_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_tooltip = global::NDMA.Resource.Layout.abc_tooltip;
+			global::Xamarin.Forms.Platform.Resource.Layout.BottomTabLayout = global::NDMA.Resource.Layout.BottomTabLayout;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_bottom_navigation_item = global::NDMA.Resource.Layout.design_bottom_navigation_item;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_bottom_sheet_dialog = global::NDMA.Resource.Layout.design_bottom_sheet_dialog;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_layout_snackbar = global::NDMA.Resource.Layout.design_layout_snackbar;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_layout_snackbar_include = global::NDMA.Resource.Layout.design_layout_snackbar_include;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_layout_tab_icon = global::NDMA.Resource.Layout.design_layout_tab_icon;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_layout_tab_text = global::NDMA.Resource.Layout.design_layout_tab_text;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_menu_item_action_area = global::NDMA.Resource.Layout.design_menu_item_action_area;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_item = global::NDMA.Resource.Layout.design_navigation_item;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_item_header = global::NDMA.Resource.Layout.design_navigation_item_header;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_item_separator = global::NDMA.Resource.Layout.design_navigation_item_separator;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_item_subheader = global::NDMA.Resource.Layout.design_navigation_item_subheader;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_menu = global::NDMA.Resource.Layout.design_navigation_menu;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_menu_item = global::NDMA.Resource.Layout.design_navigation_menu_item;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_text_input_password_icon = global::NDMA.Resource.Layout.design_text_input_password_icon;
+			global::Xamarin.Forms.Platform.Resource.Layout.FlyoutContent = global::NDMA.Resource.Layout.FlyoutContent;
+			global::Xamarin.Forms.Platform.Resource.Layout.mtrl_layout_snackbar = global::NDMA.Resource.Layout.mtrl_layout_snackbar;
+			global::Xamarin.Forms.Platform.Resource.Layout.mtrl_layout_snackbar_include = global::NDMA.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_action = global::NDMA.Resource.Layout.notification_action;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_action_tombstone = global::NDMA.Resource.Layout.notification_action_tombstone;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_media_action = global::NDMA.Resource.Layout.notification_media_action;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_media_cancel_action = global::NDMA.Resource.Layout.notification_media_cancel_action;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_big_media = global::NDMA.Resource.Layout.notification_template_big_media;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_big_media_custom = global::NDMA.Resource.Layout.notification_template_big_media_custom;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_big_media_narrow = global::NDMA.Resource.Layout.notification_template_big_media_narrow;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_big_media_narrow_custom = global::NDMA.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_custom_big = global::NDMA.Resource.Layout.notification_template_custom_big;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_icon_group = global::NDMA.Resource.Layout.notification_template_icon_group;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_lines_media = global::NDMA.Resource.Layout.notification_template_lines_media;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_media = global::NDMA.Resource.Layout.notification_template_media;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_media_custom = global::NDMA.Resource.Layout.notification_template_media_custom;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_part_chronometer = global::NDMA.Resource.Layout.notification_template_part_chronometer;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_part_time = global::NDMA.Resource.Layout.notification_template_part_time;
+			global::Xamarin.Forms.Platform.Resource.Layout.RootLayout = global::NDMA.Resource.Layout.RootLayout;
+			global::Xamarin.Forms.Platform.Resource.Layout.select_dialog_item_material = global::NDMA.Resource.Layout.select_dialog_item_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.select_dialog_multichoice_material = global::NDMA.Resource.Layout.select_dialog_multichoice_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.select_dialog_singlechoice_material = global::NDMA.Resource.Layout.select_dialog_singlechoice_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.ShellContent = global::NDMA.Resource.Layout.ShellContent;
+			global::Xamarin.Forms.Platform.Resource.Layout.support_simple_spinner_dropdown_item = global::NDMA.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Xamarin.Forms.Platform.Resource.String.abc_action_bar_home_description = global::NDMA.Resource.String.abc_action_bar_home_description;
+			global::Xamarin.Forms.Platform.Resource.String.abc_action_bar_up_description = global::NDMA.Resource.String.abc_action_bar_up_description;
+			global::Xamarin.Forms.Platform.Resource.String.abc_action_menu_overflow_description = global::NDMA.Resource.String.abc_action_menu_overflow_description;
+			global::Xamarin.Forms.Platform.Resource.String.abc_action_mode_done = global::NDMA.Resource.String.abc_action_mode_done;
+			global::Xamarin.Forms.Platform.Resource.String.abc_activitychooserview_choose_application = global::NDMA.Resource.String.abc_activitychooserview_choose_application;
+			global::Xamarin.Forms.Platform.Resource.String.abc_activity_chooser_view_see_all = global::NDMA.Resource.String.abc_activity_chooser_view_see_all;
+			global::Xamarin.Forms.Platform.Resource.String.abc_capital_off = global::NDMA.Resource.String.abc_capital_off;
+			global::Xamarin.Forms.Platform.Resource.String.abc_capital_on = global::NDMA.Resource.String.abc_capital_on;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_body_1_material = global::NDMA.Resource.String.abc_font_family_body_1_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_body_2_material = global::NDMA.Resource.String.abc_font_family_body_2_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_button_material = global::NDMA.Resource.String.abc_font_family_button_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_caption_material = global::NDMA.Resource.String.abc_font_family_caption_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_display_1_material = global::NDMA.Resource.String.abc_font_family_display_1_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_display_2_material = global::NDMA.Resource.String.abc_font_family_display_2_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_display_3_material = global::NDMA.Resource.String.abc_font_family_display_3_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_display_4_material = global::NDMA.Resource.String.abc_font_family_display_4_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_headline_material = global::NDMA.Resource.String.abc_font_family_headline_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_menu_material = global::NDMA.Resource.String.abc_font_family_menu_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_subhead_material = global::NDMA.Resource.String.abc_font_family_subhead_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_title_material = global::NDMA.Resource.String.abc_font_family_title_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_alt_shortcut_label = global::NDMA.Resource.String.abc_menu_alt_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_ctrl_shortcut_label = global::NDMA.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_delete_shortcut_label = global::NDMA.Resource.String.abc_menu_delete_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_enter_shortcut_label = global::NDMA.Resource.String.abc_menu_enter_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_function_shortcut_label = global::NDMA.Resource.String.abc_menu_function_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_meta_shortcut_label = global::NDMA.Resource.String.abc_menu_meta_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_shift_shortcut_label = global::NDMA.Resource.String.abc_menu_shift_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_space_shortcut_label = global::NDMA.Resource.String.abc_menu_space_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_sym_shortcut_label = global::NDMA.Resource.String.abc_menu_sym_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_prepend_shortcut_label = global::NDMA.Resource.String.abc_prepend_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_clear = global::NDMA.Resource.String.abc_searchview_description_clear;
+			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_query = global::NDMA.Resource.String.abc_searchview_description_query;
+			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_search = global::NDMA.Resource.String.abc_searchview_description_search;
+			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_submit = global::NDMA.Resource.String.abc_searchview_description_submit;
+			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_voice = global::NDMA.Resource.String.abc_searchview_description_voice;
+			global::Xamarin.Forms.Platform.Resource.String.abc_search_hint = global::NDMA.Resource.String.abc_search_hint;
+			global::Xamarin.Forms.Platform.Resource.String.abc_shareactionprovider_share_with = global::NDMA.Resource.String.abc_shareactionprovider_share_with;
+			global::Xamarin.Forms.Platform.Resource.String.abc_shareactionprovider_share_with_application = global::NDMA.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Xamarin.Forms.Platform.Resource.String.abc_toolbar_collapse_description = global::NDMA.Resource.String.abc_toolbar_collapse_description;
+			global::Xamarin.Forms.Platform.Resource.String.appbar_scrolling_view_behavior = global::NDMA.Resource.String.appbar_scrolling_view_behavior;
+			global::Xamarin.Forms.Platform.Resource.String.bottom_sheet_behavior = global::NDMA.Resource.String.bottom_sheet_behavior;
+			global::Xamarin.Forms.Platform.Resource.String.character_counter_content_description = global::NDMA.Resource.String.character_counter_content_description;
+			global::Xamarin.Forms.Platform.Resource.String.character_counter_pattern = global::NDMA.Resource.String.character_counter_pattern;
+			global::Xamarin.Forms.Platform.Resource.String.fab_transformation_scrim_behavior = global::NDMA.Resource.String.fab_transformation_scrim_behavior;
+			global::Xamarin.Forms.Platform.Resource.String.fab_transformation_sheet_behavior = global::NDMA.Resource.String.fab_transformation_sheet_behavior;
+			global::Xamarin.Forms.Platform.Resource.String.hide_bottom_view_on_scroll_behavior = global::NDMA.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Xamarin.Forms.Platform.Resource.String.mtrl_chip_close_icon_content_description = global::NDMA.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Xamarin.Forms.Platform.Resource.String.password_toggle_content_description = global::NDMA.Resource.String.password_toggle_content_description;
+			global::Xamarin.Forms.Platform.Resource.String.path_password_eye = global::NDMA.Resource.String.path_password_eye;
+			global::Xamarin.Forms.Platform.Resource.String.path_password_eye_mask_strike_through = global::NDMA.Resource.String.path_password_eye_mask_strike_through;
+			global::Xamarin.Forms.Platform.Resource.String.path_password_eye_mask_visible = global::NDMA.Resource.String.path_password_eye_mask_visible;
+			global::Xamarin.Forms.Platform.Resource.String.path_password_strike_through = global::NDMA.Resource.String.path_password_strike_through;
+			global::Xamarin.Forms.Platform.Resource.String.search_menu_title = global::NDMA.Resource.String.search_menu_title;
+			global::Xamarin.Forms.Platform.Resource.String.status_bar_notification_info_overflow = global::NDMA.Resource.String.status_bar_notification_info_overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.AlertDialog_AppCompat = global::NDMA.Resource.Style.AlertDialog_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.AlertDialog_AppCompat_Light = global::NDMA.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Animation_AppCompat_Dialog = global::NDMA.Resource.Style.Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Animation_AppCompat_DropDownUp = global::NDMA.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Platform.Resource.Style.Animation_AppCompat_Tooltip = global::NDMA.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Resource.Style.Animation_Design_BottomSheetDialog = global::NDMA.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_AlertDialog_AppCompat = global::NDMA.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_AlertDialog_AppCompat_Light = global::NDMA.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Animation_AppCompat_Dialog = global::NDMA.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::NDMA.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Animation_AppCompat_Tooltip = global::NDMA.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_CardView = global::NDMA.Resource.Style.Base_CardView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::NDMA.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_DialogWindowTitle_AppCompat = global::NDMA.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Button = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Large = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Small = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Title = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::NDMA.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::NDMA.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::NDMA.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::NDMA.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat = global::NDMA.Resource.Style.Base_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::NDMA.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Dialog = global::NDMA.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::NDMA.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::NDMA.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::NDMA.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::NDMA.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents = global::NDMA.Resource.Style.Base_Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::NDMA.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::NDMA.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_Theme_AppCompat = global::NDMA.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::NDMA.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::NDMA.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V22_Theme_AppCompat = global::NDMA.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V22_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V23_Theme_AppCompat = global::NDMA.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V23_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V26_Theme_AppCompat = global::NDMA.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V26_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::NDMA.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V28_Theme_AppCompat = global::NDMA.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V28_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::NDMA.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Theme_AppCompat = global::NDMA.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::NDMA.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::NDMA.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::NDMA.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::NDMA.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::NDMA.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionButton = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionMode = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::NDMA.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::NDMA.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_Small = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::NDMA.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::NDMA.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::NDMA.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::NDMA.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::NDMA.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::NDMA.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_EditText = global::NDMA.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ImageButton = global::NDMA.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListView = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::NDMA.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::NDMA.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::NDMA.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::NDMA.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_RatingBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::NDMA.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::NDMA.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_SearchView = global::NDMA.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_SeekBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::NDMA.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Spinner = global::NDMA.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::NDMA.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::NDMA.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Toolbar = global::NDMA.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::NDMA.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_Design_TabLayout = global::NDMA.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_MaterialComponents_Chip = global::NDMA.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::NDMA.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::NDMA.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.CardView = global::NDMA.Resource.Style.CardView;
+			global::Xamarin.Forms.Platform.Resource.Style.CardView_Dark = global::NDMA.Resource.Style.CardView_Dark;
+			global::Xamarin.Forms.Platform.Resource.Style.CardView_Light = global::NDMA.Resource.Style.CardView_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.collectionViewStyle = global::NDMA.Resource.Style.collectionViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Style.NestedScrollBarStyle = global::NDMA.Resource.Style.NestedScrollBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_AppCompat = global::NDMA.Resource.Style.Platform_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_AppCompat_Light = global::NDMA.Resource.Style.Platform_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_MaterialComponents = global::NDMA.Resource.Style.Platform_MaterialComponents;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_MaterialComponents_Dialog = global::NDMA.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_MaterialComponents_Light = global::NDMA.Resource.Style.Platform_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::NDMA.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_ThemeOverlay_AppCompat = global::NDMA.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::NDMA.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::NDMA.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_V21_AppCompat = global::NDMA.Resource.Style.Platform_V21_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_V21_AppCompat_Light = global::NDMA.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_V25_AppCompat = global::NDMA.Resource.Style.Platform_V25_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_V25_AppCompat_Light = global::NDMA.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_Widget_AppCompat_Spinner = global::NDMA.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::NDMA.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::NDMA.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::NDMA.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat = global::NDMA.Resource.Style.TextAppearance_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Body1 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Body2 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Button = global::NDMA.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Caption = global::NDMA.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Display1 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Display2 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Display3 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Display4 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Headline = global::NDMA.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Large = global::NDMA.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::NDMA.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::NDMA.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::NDMA.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Medium = global::NDMA.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Menu = global::NDMA.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::NDMA.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Small = global::NDMA.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Subhead = global::NDMA.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Tooltip = global::NDMA.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification = global::NDMA.Resource.Style.TextAppearance_Compat_Notification;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Info = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Media = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Time = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Title = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::NDMA.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Counter = global::NDMA.Resource.Style.TextAppearance_Design_Counter;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Counter_Overflow = global::NDMA.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Error = global::NDMA.Resource.Style.TextAppearance_Design_Error;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_HelperText = global::NDMA.Resource.Style.TextAppearance_Design_HelperText;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Hint = global::NDMA.Resource.Style.TextAppearance_Design_Hint;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Snackbar_Message = global::NDMA.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Tab = global::NDMA.Resource.Style.TextAppearance_Design_Tab;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Button = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Caption = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Chip = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Overline = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Tab = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::NDMA.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::NDMA.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::NDMA.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat = global::NDMA.Resource.Style.ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Dark = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Light = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat = global::NDMA.Resource.Style.Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_CompactMenu = global::NDMA.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight = global::NDMA.Resource.Style.Theme_AppCompat_DayNight;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Dialog = global::NDMA.Resource.Style.Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::NDMA.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Dialog_Alert = global::NDMA.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light = global::NDMA.Resource.Style.Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::NDMA.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_Dialog = global::NDMA.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::NDMA.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::NDMA.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::NDMA.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_NoActionBar = global::NDMA.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_Design = global::NDMA.Resource.Style.Theme_Design;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_Design_BottomSheetDialog = global::NDMA.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_Design_Light = global::NDMA.Resource.Style.Theme_Design_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::NDMA.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_Design_Light_NoActionBar = global::NDMA.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_Design_NoActionBar = global::NDMA.Resource.Style.Theme_Design_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents = global::NDMA.Resource.Style.Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::NDMA.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_CompactMenu = global::NDMA.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Dialog = global::NDMA.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::NDMA.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light = global::NDMA.Resource.Style.Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_NoActionBar = global::NDMA.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionButton = global::NDMA.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::NDMA.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::NDMA.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionMode = global::NDMA.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActivityChooserView = global::NDMA.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::NDMA.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button = global::NDMA.Resource.Style.Widget_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ButtonBar = global::NDMA.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::NDMA.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_Borderless = global::NDMA.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::NDMA.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::NDMA.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_Colored = global::NDMA.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_Small = global::NDMA.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::NDMA.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::NDMA.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::NDMA.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::NDMA.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::NDMA.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_EditText = global::NDMA.Resource.Style.Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ImageButton = global::NDMA.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionButton = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::NDMA.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::NDMA.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::NDMA.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::NDMA.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::NDMA.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::NDMA.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_SearchView = global::NDMA.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListMenuView = global::NDMA.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListPopupWindow = global::NDMA.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListView = global::NDMA.Resource.Style.Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListView_DropDown = global::NDMA.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListView_Menu = global::NDMA.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_PopupMenu = global::NDMA.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::NDMA.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_PopupWindow = global::NDMA.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ProgressBar = global::NDMA.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::NDMA.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_RatingBar = global::NDMA.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::NDMA.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_RatingBar_Small = global::NDMA.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_SearchView = global::NDMA.Resource.Style.Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_SeekBar = global::NDMA.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::NDMA.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Spinner = global::NDMA.Resource.Style.Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::NDMA.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::NDMA.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::NDMA.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Toolbar = global::NDMA.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::NDMA.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Compat_NotificationActionContainer = global::NDMA.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Compat_NotificationActionText = global::NDMA.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_AppBarLayout = global::NDMA.Resource.Style.Widget_Design_AppBarLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_BottomNavigationView = global::NDMA.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_BottomSheet_Modal = global::NDMA.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_CollapsingToolbar = global::NDMA.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_FloatingActionButton = global::NDMA.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_NavigationView = global::NDMA.Resource.Style.Widget_Design_NavigationView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::NDMA.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_Snackbar = global::NDMA.Resource.Style.Widget_Design_Snackbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_TabLayout = global::NDMA.Resource.Style.Widget_Design_TabLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_TextInputLayout = global::NDMA.Resource.Style.Widget_Design_TextInputLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button = global::NDMA.Resource.Style.Widget_MaterialComponents_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_CardView = global::NDMA.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_ChipGroup = global::NDMA.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Chip_Action = global::NDMA.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::NDMA.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::NDMA.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::NDMA.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::NDMA.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_NavigationView = global::NDMA.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Snackbar = global::NDMA.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::NDMA.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TabLayout = global::NDMA.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::NDMA.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Toolbar = global::NDMA.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Support_CoordinatorLayout = global::NDMA.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar = global::NDMA.Resource.Styleable.ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBarLayout = global::NDMA.Resource.Styleable.ActionBarLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::NDMA.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_background = global::NDMA.Resource.Styleable.ActionBar_background;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_backgroundSplit = global::NDMA.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_backgroundStacked = global::NDMA.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetEnd = global::NDMA.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::NDMA.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetLeft = global::NDMA.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetRight = global::NDMA.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetStart = global::NDMA.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::NDMA.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_customNavigationLayout = global::NDMA.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_displayOptions = global::NDMA.Resource.Styleable.ActionBar_displayOptions;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_divider = global::NDMA.Resource.Styleable.ActionBar_divider;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_elevation = global::NDMA.Resource.Styleable.ActionBar_elevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_height = global::NDMA.Resource.Styleable.ActionBar_height;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_hideOnContentScroll = global::NDMA.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_homeAsUpIndicator = global::NDMA.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_homeLayout = global::NDMA.Resource.Styleable.ActionBar_homeLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_icon = global::NDMA.Resource.Styleable.ActionBar_icon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::NDMA.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_itemPadding = global::NDMA.Resource.Styleable.ActionBar_itemPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_logo = global::NDMA.Resource.Styleable.ActionBar_logo;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_navigationMode = global::NDMA.Resource.Styleable.ActionBar_navigationMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_popupTheme = global::NDMA.Resource.Styleable.ActionBar_popupTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_progressBarPadding = global::NDMA.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_progressBarStyle = global::NDMA.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_subtitle = global::NDMA.Resource.Styleable.ActionBar_subtitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_subtitleTextStyle = global::NDMA.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_title = global::NDMA.Resource.Styleable.ActionBar_title;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_titleTextStyle = global::NDMA.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMenuItemView = global::NDMA.Resource.Styleable.ActionMenuItemView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMenuItemView_android_minWidth = global::NDMA.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMenuView = global::NDMA.Resource.Styleable.ActionMenuView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode = global::NDMA.Resource.Styleable.ActionMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_background = global::NDMA.Resource.Styleable.ActionMode_background;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_backgroundSplit = global::NDMA.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_closeItemLayout = global::NDMA.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_height = global::NDMA.Resource.Styleable.ActionMode_height;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_subtitleTextStyle = global::NDMA.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_titleTextStyle = global::NDMA.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActivityChooserView = global::NDMA.Resource.Styleable.ActivityChooserView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::NDMA.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActivityChooserView_initialActivityCount = global::NDMA.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog = global::NDMA.Resource.Styleable.AlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_android_layout = global::NDMA.Resource.Styleable.AlertDialog_android_layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_buttonIconDimen = global::NDMA.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::NDMA.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_listItemLayout = global::NDMA.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_listLayout = global::NDMA.Resource.Styleable.AlertDialog_listLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::NDMA.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_showTitle = global::NDMA.Resource.Styleable.AlertDialog_showTitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::NDMA.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableItem = global::NDMA.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::NDMA.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::NDMA.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableTransition = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout = global::NDMA.Resource.Styleable.AppBarLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayoutStates = global::NDMA.Resource.Styleable.AppBarLayoutStates;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::NDMA.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::NDMA.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayoutStates_state_liftable = global::NDMA.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayoutStates_state_lifted = global::NDMA.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_android_background = global::NDMA.Resource.Styleable.AppBarLayout_android_background;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::NDMA.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::NDMA.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_elevation = global::NDMA.Resource.Styleable.AppBarLayout_elevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_expanded = global::NDMA.Resource.Styleable.AppBarLayout_expanded;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_Layout = global::NDMA.Resource.Styleable.AppBarLayout_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::NDMA.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::NDMA.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_liftOnScroll = global::NDMA.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatImageView = global::NDMA.Resource.Styleable.AppCompatImageView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatImageView_android_src = global::NDMA.Resource.Styleable.AppCompatImageView_android_src;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatImageView_srcCompat = global::NDMA.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatImageView_tint = global::NDMA.Resource.Styleable.AppCompatImageView_tint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatImageView_tintMode = global::NDMA.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatSeekBar = global::NDMA.Resource.Styleable.AppCompatSeekBar;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatSeekBar_android_thumb = global::NDMA.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatSeekBar_tickMark = global::NDMA.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::NDMA.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::NDMA.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper = global::NDMA.Resource.Styleable.AppCompatTextHelper;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView = global::NDMA.Resource.Styleable.AppCompatTextView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_android_textAppearance = global::NDMA.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::NDMA.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_fontFamily = global::NDMA.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::NDMA.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_lineHeight = global::NDMA.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_textAllCaps = global::NDMA.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme = global::NDMA.Resource.Styleable.AppCompatTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarDivider = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarSize = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarTheme = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::NDMA.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::NDMA.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeBackground = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::NDMA.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::NDMA.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::NDMA.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::NDMA.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::NDMA.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::NDMA.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::NDMA.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_checkboxStyle = global::NDMA.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorAccent = global::NDMA.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::NDMA.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::NDMA.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorControlActivated = global::NDMA.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::NDMA.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorControlNormal = global::NDMA.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorError = global::NDMA.Resource.Styleable.AppCompatTheme_colorError;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorPrimary = global::NDMA.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::NDMA.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::NDMA.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_controlBackground = global::NDMA.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::NDMA.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::NDMA.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dialogTheme = global::NDMA.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::NDMA.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dividerVertical = global::NDMA.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::NDMA.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_editTextBackground = global::NDMA.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_editTextColor = global::NDMA.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_editTextStyle = global::NDMA.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::NDMA.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::NDMA.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::NDMA.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::NDMA.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_panelBackground = global::NDMA.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::NDMA.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::NDMA.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::NDMA.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::NDMA.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::NDMA.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::NDMA.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_searchViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_seekBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::NDMA.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::NDMA.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::NDMA.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_spinnerStyle = global::NDMA.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_switchStyle = global::NDMA.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::NDMA.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::NDMA.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_toolbarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::NDMA.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::NDMA.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::NDMA.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowActionBar = global::NDMA.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::NDMA.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::NDMA.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::NDMA.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::NDMA.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::NDMA.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::NDMA.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::NDMA.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::NDMA.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowNoTitle = global::NDMA.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar = global::NDMA.Resource.Styleable.BottomAppBar;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar_backgroundTint = global::NDMA.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::NDMA.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar_fabCradleMargin = global::NDMA.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::NDMA.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::NDMA.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar_hideOnScroll = global::NDMA.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView = global::NDMA.Resource.Styleable.BottomNavigationView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_elevation = global::NDMA.Resource.Styleable.BottomNavigationView_elevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemBackground = global::NDMA.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::NDMA.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemIconSize = global::NDMA.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemIconTint = global::NDMA.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::NDMA.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::NDMA.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemTextColor = global::NDMA.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::NDMA.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_menu = global::NDMA.Resource.Styleable.BottomNavigationView_menu;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomSheetBehavior_Layout = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ButtonBarLayout = global::NDMA.Resource.Styleable.ButtonBarLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ButtonBarLayout_allowStacking = global::NDMA.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView = global::NDMA.Resource.Styleable.CardView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_android_minHeight = global::NDMA.Resource.Styleable.CardView_android_minHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_android_minWidth = global::NDMA.Resource.Styleable.CardView_android_minWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardBackgroundColor = global::NDMA.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardCornerRadius = global::NDMA.Resource.Styleable.CardView_cardCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardElevation = global::NDMA.Resource.Styleable.CardView_cardElevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardMaxElevation = global::NDMA.Resource.Styleable.CardView_cardMaxElevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardPreventCornerOverlap = global::NDMA.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardUseCompatPadding = global::NDMA.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPadding = global::NDMA.Resource.Styleable.CardView_contentPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPaddingBottom = global::NDMA.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPaddingLeft = global::NDMA.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPaddingRight = global::NDMA.Resource.Styleable.CardView_contentPaddingRight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPaddingTop = global::NDMA.Resource.Styleable.CardView_contentPaddingTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip = global::NDMA.Resource.Styleable.Chip;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup = global::NDMA.Resource.Styleable.ChipGroup;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup_checkedChip = global::NDMA.Resource.Styleable.ChipGroup_checkedChip;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup_chipSpacing = global::NDMA.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::NDMA.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup_chipSpacingVertical = global::NDMA.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup_singleLine = global::NDMA.Resource.Styleable.ChipGroup_singleLine;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup_singleSelection = global::NDMA.Resource.Styleable.ChipGroup_singleSelection;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_android_checkable = global::NDMA.Resource.Styleable.Chip_android_checkable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_android_ellipsize = global::NDMA.Resource.Styleable.Chip_android_ellipsize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_android_maxWidth = global::NDMA.Resource.Styleable.Chip_android_maxWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_android_text = global::NDMA.Resource.Styleable.Chip_android_text;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_android_textAppearance = global::NDMA.Resource.Styleable.Chip_android_textAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_checkedIcon = global::NDMA.Resource.Styleable.Chip_checkedIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_checkedIconEnabled = global::NDMA.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_checkedIconVisible = global::NDMA.Resource.Styleable.Chip_checkedIconVisible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipBackgroundColor = global::NDMA.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipCornerRadius = global::NDMA.Resource.Styleable.Chip_chipCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipEndPadding = global::NDMA.Resource.Styleable.Chip_chipEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipIcon = global::NDMA.Resource.Styleable.Chip_chipIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipIconEnabled = global::NDMA.Resource.Styleable.Chip_chipIconEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipIconSize = global::NDMA.Resource.Styleable.Chip_chipIconSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipIconTint = global::NDMA.Resource.Styleable.Chip_chipIconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipIconVisible = global::NDMA.Resource.Styleable.Chip_chipIconVisible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipMinHeight = global::NDMA.Resource.Styleable.Chip_chipMinHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipStartPadding = global::NDMA.Resource.Styleable.Chip_chipStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipStrokeColor = global::NDMA.Resource.Styleable.Chip_chipStrokeColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipStrokeWidth = global::NDMA.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIcon = global::NDMA.Resource.Styleable.Chip_closeIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIconEnabled = global::NDMA.Resource.Styleable.Chip_closeIconEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIconEndPadding = global::NDMA.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIconSize = global::NDMA.Resource.Styleable.Chip_closeIconSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIconStartPadding = global::NDMA.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIconTint = global::NDMA.Resource.Styleable.Chip_closeIconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIconVisible = global::NDMA.Resource.Styleable.Chip_closeIconVisible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_hideMotionSpec = global::NDMA.Resource.Styleable.Chip_hideMotionSpec;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_iconEndPadding = global::NDMA.Resource.Styleable.Chip_iconEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_iconStartPadding = global::NDMA.Resource.Styleable.Chip_iconStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_rippleColor = global::NDMA.Resource.Styleable.Chip_rippleColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_showMotionSpec = global::NDMA.Resource.Styleable.Chip_showMotionSpec;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_textEndPadding = global::NDMA.Resource.Styleable.Chip_textEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_textStartPadding = global::NDMA.Resource.Styleable.Chip_textStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout = global::NDMA.Resource.Styleable.CollapsingToolbarLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_Layout = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_title = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ColorStateListItem = global::NDMA.Resource.Styleable.ColorStateListItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ColorStateListItem_alpha = global::NDMA.Resource.Styleable.ColorStateListItem_alpha;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ColorStateListItem_android_alpha = global::NDMA.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ColorStateListItem_android_color = global::NDMA.Resource.Styleable.ColorStateListItem_android_color;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CompoundButton = global::NDMA.Resource.Styleable.CompoundButton;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CompoundButton_android_button = global::NDMA.Resource.Styleable.CompoundButton_android_button;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CompoundButton_buttonTint = global::NDMA.Resource.Styleable.CompoundButton_buttonTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CompoundButton_buttonTintMode = global::NDMA.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout = global::NDMA.Resource.Styleable.CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_keylines = global::NDMA.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::NDMA.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DesignTheme = global::NDMA.Resource.Styleable.DesignTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::NDMA.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DesignTheme_bottomSheetStyle = global::NDMA.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle = global::NDMA.Resource.Styleable.DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::NDMA.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::NDMA.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_barLength = global::NDMA.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_color = global::NDMA.Resource.Styleable.DrawerArrowToggle_color;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_drawableSize = global::NDMA.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::NDMA.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_spinBars = global::NDMA.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_thickness = global::NDMA.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton = global::NDMA.Resource.Styleable.FloatingActionButton;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_backgroundTint = global::NDMA.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::NDMA.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::NDMA.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::NDMA.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_borderWidth = global::NDMA.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_elevation = global::NDMA.Resource.Styleable.FloatingActionButton_elevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_fabCustomSize = global::NDMA.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_fabSize = global::NDMA.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::NDMA.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::NDMA.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_maxImageSize = global::NDMA.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::NDMA.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_rippleColor = global::NDMA.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_showMotionSpec = global::NDMA.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_useCompatPadding = global::NDMA.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FlowLayout = global::NDMA.Resource.Styleable.FlowLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FlowLayout_itemSpacing = global::NDMA.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FlowLayout_lineSpacing = global::NDMA.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily = global::NDMA.Resource.Styleable.FontFamily;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont = global::NDMA.Resource.Styleable.FontFamilyFont;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_android_font = global::NDMA.Resource.Styleable.FontFamilyFont_android_font;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_android_fontStyle = global::NDMA.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::NDMA.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_android_fontWeight = global::NDMA.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::NDMA.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_font = global::NDMA.Resource.Styleable.FontFamilyFont_font;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_fontStyle = global::NDMA.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::NDMA.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_fontWeight = global::NDMA.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_ttcIndex = global::NDMA.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily_fontProviderAuthority = global::NDMA.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily_fontProviderCerts = global::NDMA.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::NDMA.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::NDMA.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily_fontProviderPackage = global::NDMA.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily_fontProviderQuery = global::NDMA.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ForegroundLinearLayout = global::NDMA.Resource.Styleable.ForegroundLinearLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::NDMA.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::NDMA.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::NDMA.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor = global::NDMA.Resource.Styleable.GradientColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColorItem = global::NDMA.Resource.Styleable.GradientColorItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColorItem_android_color = global::NDMA.Resource.Styleable.GradientColorItem_android_color;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColorItem_android_offset = global::NDMA.Resource.Styleable.GradientColorItem_android_offset;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_centerColor = global::NDMA.Resource.Styleable.GradientColor_android_centerColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_centerX = global::NDMA.Resource.Styleable.GradientColor_android_centerX;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_centerY = global::NDMA.Resource.Styleable.GradientColor_android_centerY;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_endColor = global::NDMA.Resource.Styleable.GradientColor_android_endColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_endX = global::NDMA.Resource.Styleable.GradientColor_android_endX;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_endY = global::NDMA.Resource.Styleable.GradientColor_android_endY;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_gradientRadius = global::NDMA.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_startColor = global::NDMA.Resource.Styleable.GradientColor_android_startColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_startX = global::NDMA.Resource.Styleable.GradientColor_android_startX;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_startY = global::NDMA.Resource.Styleable.GradientColor_android_startY;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_tileMode = global::NDMA.Resource.Styleable.GradientColor_android_tileMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_type = global::NDMA.Resource.Styleable.GradientColor_android_type;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat = global::NDMA.Resource.Styleable.LinearLayoutCompat;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_gravity = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_orientation = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_divider = global::NDMA.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::NDMA.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::NDMA.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_showDividers = global::NDMA.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ListPopupWindow = global::NDMA.Resource.Styleable.ListPopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::NDMA.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::NDMA.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton = global::NDMA.Resource.Styleable.MaterialButton;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_android_insetBottom = global::NDMA.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_android_insetLeft = global::NDMA.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_android_insetRight = global::NDMA.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_android_insetTop = global::NDMA.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_backgroundTint = global::NDMA.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_backgroundTintMode = global::NDMA.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_cornerRadius = global::NDMA.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_icon = global::NDMA.Resource.Styleable.MaterialButton_icon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_iconGravity = global::NDMA.Resource.Styleable.MaterialButton_iconGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_iconPadding = global::NDMA.Resource.Styleable.MaterialButton_iconPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_iconSize = global::NDMA.Resource.Styleable.MaterialButton_iconSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_iconTint = global::NDMA.Resource.Styleable.MaterialButton_iconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_iconTintMode = global::NDMA.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_rippleColor = global::NDMA.Resource.Styleable.MaterialButton_rippleColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_strokeColor = global::NDMA.Resource.Styleable.MaterialButton_strokeColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_strokeWidth = global::NDMA.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialCardView = global::NDMA.Resource.Styleable.MaterialCardView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialCardView_strokeColor = global::NDMA.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialCardView_strokeWidth = global::NDMA.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme = global::NDMA.Resource.Styleable.MaterialComponentsTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::NDMA.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::NDMA.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup = global::NDMA.Resource.Styleable.MenuGroup;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_checkableBehavior = global::NDMA.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_enabled = global::NDMA.Resource.Styleable.MenuGroup_android_enabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_id = global::NDMA.Resource.Styleable.MenuGroup_android_id;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_menuCategory = global::NDMA.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_orderInCategory = global::NDMA.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_visible = global::NDMA.Resource.Styleable.MenuGroup_android_visible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem = global::NDMA.Resource.Styleable.MenuItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_actionLayout = global::NDMA.Resource.Styleable.MenuItem_actionLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_actionProviderClass = global::NDMA.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_actionViewClass = global::NDMA.Resource.Styleable.MenuItem_actionViewClass;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_alphabeticModifiers = global::NDMA.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::NDMA.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_checkable = global::NDMA.Resource.Styleable.MenuItem_android_checkable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_checked = global::NDMA.Resource.Styleable.MenuItem_android_checked;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_enabled = global::NDMA.Resource.Styleable.MenuItem_android_enabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_icon = global::NDMA.Resource.Styleable.MenuItem_android_icon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_id = global::NDMA.Resource.Styleable.MenuItem_android_id;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_menuCategory = global::NDMA.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_numericShortcut = global::NDMA.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_onClick = global::NDMA.Resource.Styleable.MenuItem_android_onClick;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_orderInCategory = global::NDMA.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_title = global::NDMA.Resource.Styleable.MenuItem_android_title;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_titleCondensed = global::NDMA.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_visible = global::NDMA.Resource.Styleable.MenuItem_android_visible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_contentDescription = global::NDMA.Resource.Styleable.MenuItem_contentDescription;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_iconTint = global::NDMA.Resource.Styleable.MenuItem_iconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_iconTintMode = global::NDMA.Resource.Styleable.MenuItem_iconTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_numericModifiers = global::NDMA.Resource.Styleable.MenuItem_numericModifiers;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_showAsAction = global::NDMA.Resource.Styleable.MenuItem_showAsAction;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_tooltipText = global::NDMA.Resource.Styleable.MenuItem_tooltipText;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView = global::NDMA.Resource.Styleable.MenuView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_headerBackground = global::NDMA.Resource.Styleable.MenuView_android_headerBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_horizontalDivider = global::NDMA.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_itemBackground = global::NDMA.Resource.Styleable.MenuView_android_itemBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::NDMA.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_itemTextAppearance = global::NDMA.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_verticalDivider = global::NDMA.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_windowAnimationStyle = global::NDMA.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_preserveIconSpacing = global::NDMA.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_subMenuArrow = global::NDMA.Resource.Styleable.MenuView_subMenuArrow;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView = global::NDMA.Resource.Styleable.NavigationView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_android_background = global::NDMA.Resource.Styleable.NavigationView_android_background;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::NDMA.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_android_maxWidth = global::NDMA.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_elevation = global::NDMA.Resource.Styleable.NavigationView_elevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_headerLayout = global::NDMA.Resource.Styleable.NavigationView_headerLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemBackground = global::NDMA.Resource.Styleable.NavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemHorizontalPadding = global::NDMA.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemIconPadding = global::NDMA.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemIconTint = global::NDMA.Resource.Styleable.NavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemTextAppearance = global::NDMA.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemTextColor = global::NDMA.Resource.Styleable.NavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_menu = global::NDMA.Resource.Styleable.NavigationView_menu;
+			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindow = global::NDMA.Resource.Styleable.PopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindowBackgroundState = global::NDMA.Resource.Styleable.PopupWindowBackgroundState;
+			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::NDMA.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::NDMA.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindow_android_popupBackground = global::NDMA.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindow_overlapAnchor = global::NDMA.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecycleListView = global::NDMA.Resource.Styleable.RecycleListView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::NDMA.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::NDMA.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView = global::NDMA.Resource.Styleable.RecyclerView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_android_descendantFocusability = global::NDMA.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_android_orientation = global::NDMA.Resource.Styleable.RecyclerView_android_orientation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_fastScrollEnabled = global::NDMA.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::NDMA.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::NDMA.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::NDMA.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::NDMA.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_layoutManager = global::NDMA.Resource.Styleable.RecyclerView_layoutManager;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_reverseLayout = global::NDMA.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_spanCount = global::NDMA.Resource.Styleable.RecyclerView_spanCount;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_stackFromEnd = global::NDMA.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ScrimInsetsFrameLayout = global::NDMA.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::NDMA.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ScrollingViewBehavior_Layout = global::NDMA.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::NDMA.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView = global::NDMA.Resource.Styleable.SearchView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_android_focusable = global::NDMA.Resource.Styleable.SearchView_android_focusable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_android_imeOptions = global::NDMA.Resource.Styleable.SearchView_android_imeOptions;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_android_inputType = global::NDMA.Resource.Styleable.SearchView_android_inputType;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_android_maxWidth = global::NDMA.Resource.Styleable.SearchView_android_maxWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_closeIcon = global::NDMA.Resource.Styleable.SearchView_closeIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_commitIcon = global::NDMA.Resource.Styleable.SearchView_commitIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_defaultQueryHint = global::NDMA.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_goIcon = global::NDMA.Resource.Styleable.SearchView_goIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_iconifiedByDefault = global::NDMA.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_layout = global::NDMA.Resource.Styleable.SearchView_layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_queryBackground = global::NDMA.Resource.Styleable.SearchView_queryBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_queryHint = global::NDMA.Resource.Styleable.SearchView_queryHint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_searchHintIcon = global::NDMA.Resource.Styleable.SearchView_searchHintIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_searchIcon = global::NDMA.Resource.Styleable.SearchView_searchIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_submitBackground = global::NDMA.Resource.Styleable.SearchView_submitBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_suggestionRowLayout = global::NDMA.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_voiceIcon = global::NDMA.Resource.Styleable.SearchView_voiceIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Snackbar = global::NDMA.Resource.Styleable.Snackbar;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SnackbarLayout = global::NDMA.Resource.Styleable.SnackbarLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SnackbarLayout_android_maxWidth = global::NDMA.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SnackbarLayout_elevation = global::NDMA.Resource.Styleable.SnackbarLayout_elevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::NDMA.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Snackbar_snackbarButtonStyle = global::NDMA.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Snackbar_snackbarStyle = global::NDMA.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner = global::NDMA.Resource.Styleable.Spinner;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_android_dropDownWidth = global::NDMA.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_android_entries = global::NDMA.Resource.Styleable.Spinner_android_entries;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_android_popupBackground = global::NDMA.Resource.Styleable.Spinner_android_popupBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_android_prompt = global::NDMA.Resource.Styleable.Spinner_android_prompt;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_popupTheme = global::NDMA.Resource.Styleable.Spinner_popupTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable = global::NDMA.Resource.Styleable.StateListDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawableItem = global::NDMA.Resource.Styleable.StateListDrawableItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawableItem_android_drawable = global::NDMA.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable_android_constantSize = global::NDMA.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable_android_dither = global::NDMA.Resource.Styleable.StateListDrawable_android_dither;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::NDMA.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::NDMA.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable_android_variablePadding = global::NDMA.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable_android_visible = global::NDMA.Resource.Styleable.StateListDrawable_android_visible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat = global::NDMA.Resource.Styleable.SwitchCompat;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_android_textOff = global::NDMA.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_android_textOn = global::NDMA.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_android_thumb = global::NDMA.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_showText = global::NDMA.Resource.Styleable.SwitchCompat_showText;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_splitTrack = global::NDMA.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_switchMinWidth = global::NDMA.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_switchPadding = global::NDMA.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_switchTextAppearance = global::NDMA.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_thumbTextPadding = global::NDMA.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_thumbTint = global::NDMA.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_thumbTintMode = global::NDMA.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_track = global::NDMA.Resource.Styleable.SwitchCompat_track;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_trackTint = global::NDMA.Resource.Styleable.SwitchCompat_trackTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_trackTintMode = global::NDMA.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabItem = global::NDMA.Resource.Styleable.TabItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabItem_android_icon = global::NDMA.Resource.Styleable.TabItem_android_icon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabItem_android_layout = global::NDMA.Resource.Styleable.TabItem_android_layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabItem_android_text = global::NDMA.Resource.Styleable.TabItem_android_text;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout = global::NDMA.Resource.Styleable.TabLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabBackground = global::NDMA.Resource.Styleable.TabLayout_tabBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabContentStart = global::NDMA.Resource.Styleable.TabLayout_tabContentStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabGravity = global::NDMA.Resource.Styleable.TabLayout_tabGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIconTint = global::NDMA.Resource.Styleable.TabLayout_tabIconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIconTintMode = global::NDMA.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicator = global::NDMA.Resource.Styleable.TabLayout_tabIndicator;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicatorColor = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicatorGravity = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicatorHeight = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabInlineLabel = global::NDMA.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabMaxWidth = global::NDMA.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabMinWidth = global::NDMA.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabMode = global::NDMA.Resource.Styleable.TabLayout_tabMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPadding = global::NDMA.Resource.Styleable.TabLayout_tabPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPaddingBottom = global::NDMA.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPaddingEnd = global::NDMA.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPaddingStart = global::NDMA.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPaddingTop = global::NDMA.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabRippleColor = global::NDMA.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabSelectedTextColor = global::NDMA.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabTextAppearance = global::NDMA.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabTextColor = global::NDMA.Resource.Styleable.TabLayout_tabTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabUnboundedRipple = global::NDMA.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance = global::NDMA.Resource.Styleable.TextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_fontFamily = global::NDMA.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_shadowColor = global::NDMA.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_shadowDx = global::NDMA.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_shadowDy = global::NDMA.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_shadowRadius = global::NDMA.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textColor = global::NDMA.Resource.Styleable.TextAppearance_android_textColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textColorHint = global::NDMA.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textColorLink = global::NDMA.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textSize = global::NDMA.Resource.Styleable.TextAppearance_android_textSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textStyle = global::NDMA.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_typeface = global::NDMA.Resource.Styleable.TextAppearance_android_typeface;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_fontFamily = global::NDMA.Resource.Styleable.TextAppearance_fontFamily;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_textAllCaps = global::NDMA.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout = global::NDMA.Resource.Styleable.TextInputLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_android_hint = global::NDMA.Resource.Styleable.TextInputLayout_android_hint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_android_textColorHint = global::NDMA.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::NDMA.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::NDMA.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::NDMA.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::NDMA.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::NDMA.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::NDMA.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::NDMA.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxStrokeColor = global::NDMA.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::NDMA.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_counterEnabled = global::NDMA.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_counterMaxLength = global::NDMA.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_counterTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_errorEnabled = global::NDMA.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_errorTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_helperText = global::NDMA.Resource.Styleable.TextInputLayout_helperText;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_helperTextEnabled = global::NDMA.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::NDMA.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_hintEnabled = global::NDMA.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_hintTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_passwordToggleTint = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ThemeEnforcement = global::NDMA.Resource.Styleable.ThemeEnforcement;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::NDMA.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::NDMA.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::NDMA.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar = global::NDMA.Resource.Styleable.Toolbar;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_android_gravity = global::NDMA.Resource.Styleable.Toolbar_android_gravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_android_minHeight = global::NDMA.Resource.Styleable.Toolbar_android_minHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_buttonGravity = global::NDMA.Resource.Styleable.Toolbar_buttonGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_collapseContentDescription = global::NDMA.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_collapseIcon = global::NDMA.Resource.Styleable.Toolbar_collapseIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetEnd = global::NDMA.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::NDMA.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetLeft = global::NDMA.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetRight = global::NDMA.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetStart = global::NDMA.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::NDMA.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_logo = global::NDMA.Resource.Styleable.Toolbar_logo;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_logoDescription = global::NDMA.Resource.Styleable.Toolbar_logoDescription;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_maxButtonHeight = global::NDMA.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_navigationContentDescription = global::NDMA.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_navigationIcon = global::NDMA.Resource.Styleable.Toolbar_navigationIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_popupTheme = global::NDMA.Resource.Styleable.Toolbar_popupTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_subtitle = global::NDMA.Resource.Styleable.Toolbar_subtitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_subtitleTextAppearance = global::NDMA.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_subtitleTextColor = global::NDMA.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_title = global::NDMA.Resource.Styleable.Toolbar_title;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMargin = global::NDMA.Resource.Styleable.Toolbar_titleMargin;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMarginBottom = global::NDMA.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMarginEnd = global::NDMA.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMargins = global::NDMA.Resource.Styleable.Toolbar_titleMargins;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMarginStart = global::NDMA.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMarginTop = global::NDMA.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleTextAppearance = global::NDMA.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleTextColor = global::NDMA.Resource.Styleable.Toolbar_titleTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.View = global::NDMA.Resource.Styleable.View;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewBackgroundHelper = global::NDMA.Resource.Styleable.ViewBackgroundHelper;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewBackgroundHelper_android_background = global::NDMA.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::NDMA.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::NDMA.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewStubCompat = global::NDMA.Resource.Styleable.ViewStubCompat;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewStubCompat_android_id = global::NDMA.Resource.Styleable.ViewStubCompat_android_id;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewStubCompat_android_inflatedId = global::NDMA.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewStubCompat_android_layout = global::NDMA.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.View_android_focusable = global::NDMA.Resource.Styleable.View_android_focusable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.View_android_theme = global::NDMA.Resource.Styleable.View_android_theme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.View_paddingEnd = global::NDMA.Resource.Styleable.View_paddingEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.View_paddingStart = global::NDMA.Resource.Styleable.View_paddingStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.View_theme = global::NDMA.Resource.Styleable.View_theme;
 		}
 		
 		public partial class Animation
@@ -260,6 +5386,18 @@ namespace NDMA
 			
 			// aapt resource value: 0x7F01000F
 			public const int design_snackbar_out = 2130771983;
+			
+			// aapt resource value: 0x7F010010
+			public const int EnterFromLeft = 2130771984;
+			
+			// aapt resource value: 0x7F010011
+			public const int EnterFromRight = 2130771985;
+			
+			// aapt resource value: 0x7F010012
+			public const int ExitToLeft = 2130771986;
+			
+			// aapt resource value: 0x7F010013
+			public const int ExitToRight = 2130771987;
 			
 			static Animation()
 			{
@@ -2154,70 +7292,73 @@ namespace NDMA
 			public const int notification_icon_bg_color = 2131099763;
 			
 			// aapt resource value: 0x7F060074
-			public const int primary_dark_material_dark = 2131099764;
+			public const int notification_material_background_media_default_color = 2131099764;
 			
 			// aapt resource value: 0x7F060075
-			public const int primary_dark_material_light = 2131099765;
+			public const int primary_dark_material_dark = 2131099765;
 			
 			// aapt resource value: 0x7F060076
-			public const int primary_material_dark = 2131099766;
+			public const int primary_dark_material_light = 2131099766;
 			
 			// aapt resource value: 0x7F060077
-			public const int primary_material_light = 2131099767;
+			public const int primary_material_dark = 2131099767;
 			
 			// aapt resource value: 0x7F060078
-			public const int primary_text_default_material_dark = 2131099768;
+			public const int primary_material_light = 2131099768;
 			
 			// aapt resource value: 0x7F060079
-			public const int primary_text_default_material_light = 2131099769;
+			public const int primary_text_default_material_dark = 2131099769;
 			
 			// aapt resource value: 0x7F06007A
-			public const int primary_text_disabled_material_dark = 2131099770;
+			public const int primary_text_default_material_light = 2131099770;
 			
 			// aapt resource value: 0x7F06007B
-			public const int primary_text_disabled_material_light = 2131099771;
+			public const int primary_text_disabled_material_dark = 2131099771;
 			
 			// aapt resource value: 0x7F06007C
-			public const int ripple_material_dark = 2131099772;
+			public const int primary_text_disabled_material_light = 2131099772;
 			
 			// aapt resource value: 0x7F06007D
-			public const int ripple_material_light = 2131099773;
+			public const int ripple_material_dark = 2131099773;
 			
 			// aapt resource value: 0x7F06007E
-			public const int secondary_text_default_material_dark = 2131099774;
+			public const int ripple_material_light = 2131099774;
 			
 			// aapt resource value: 0x7F06007F
-			public const int secondary_text_default_material_light = 2131099775;
+			public const int secondary_text_default_material_dark = 2131099775;
 			
 			// aapt resource value: 0x7F060080
-			public const int secondary_text_disabled_material_dark = 2131099776;
+			public const int secondary_text_default_material_light = 2131099776;
 			
 			// aapt resource value: 0x7F060081
-			public const int secondary_text_disabled_material_light = 2131099777;
+			public const int secondary_text_disabled_material_dark = 2131099777;
 			
 			// aapt resource value: 0x7F060082
-			public const int switch_thumb_disabled_material_dark = 2131099778;
+			public const int secondary_text_disabled_material_light = 2131099778;
 			
 			// aapt resource value: 0x7F060083
-			public const int switch_thumb_disabled_material_light = 2131099779;
+			public const int switch_thumb_disabled_material_dark = 2131099779;
 			
 			// aapt resource value: 0x7F060084
-			public const int switch_thumb_material_dark = 2131099780;
+			public const int switch_thumb_disabled_material_light = 2131099780;
 			
 			// aapt resource value: 0x7F060085
-			public const int switch_thumb_material_light = 2131099781;
+			public const int switch_thumb_material_dark = 2131099781;
 			
 			// aapt resource value: 0x7F060086
-			public const int switch_thumb_normal_material_dark = 2131099782;
+			public const int switch_thumb_material_light = 2131099782;
 			
 			// aapt resource value: 0x7F060087
-			public const int switch_thumb_normal_material_light = 2131099783;
+			public const int switch_thumb_normal_material_dark = 2131099783;
 			
 			// aapt resource value: 0x7F060088
-			public const int tooltip_background_dark = 2131099784;
+			public const int switch_thumb_normal_material_light = 2131099784;
 			
 			// aapt resource value: 0x7F060089
-			public const int tooltip_background_light = 2131099785;
+			public const int tooltip_background_dark = 2131099785;
+			
+			// aapt resource value: 0x7F06008A
+			public const int tooltip_background_light = 2131099786;
 			
 			static Color()
 			{
@@ -2860,28 +8001,40 @@ namespace NDMA
 			public const int notification_top_pad_large_text = 2131165392;
 			
 			// aapt resource value: 0x7F0700D1
-			public const int tooltip_corner_radius = 2131165393;
+			public const int subtitle_corner_radius = 2131165393;
 			
 			// aapt resource value: 0x7F0700D2
-			public const int tooltip_horizontal_padding = 2131165394;
+			public const int subtitle_outline_width = 2131165394;
 			
 			// aapt resource value: 0x7F0700D3
-			public const int tooltip_margin = 2131165395;
+			public const int subtitle_shadow_offset = 2131165395;
 			
 			// aapt resource value: 0x7F0700D4
-			public const int tooltip_precise_anchor_extra_offset = 2131165396;
+			public const int subtitle_shadow_radius = 2131165396;
 			
 			// aapt resource value: 0x7F0700D5
-			public const int tooltip_precise_anchor_threshold = 2131165397;
+			public const int tooltip_corner_radius = 2131165397;
 			
 			// aapt resource value: 0x7F0700D6
-			public const int tooltip_vertical_padding = 2131165398;
+			public const int tooltip_horizontal_padding = 2131165398;
 			
 			// aapt resource value: 0x7F0700D7
-			public const int tooltip_y_offset_non_touch = 2131165399;
+			public const int tooltip_margin = 2131165399;
 			
 			// aapt resource value: 0x7F0700D8
-			public const int tooltip_y_offset_touch = 2131165400;
+			public const int tooltip_precise_anchor_extra_offset = 2131165400;
+			
+			// aapt resource value: 0x7F0700D9
+			public const int tooltip_precise_anchor_threshold = 2131165401;
+			
+			// aapt resource value: 0x7F0700DA
+			public const int tooltip_vertical_padding = 2131165402;
+			
+			// aapt resource value: 0x7F0700DB
+			public const int tooltip_y_offset_non_touch = 2131165403;
+			
+			// aapt resource value: 0x7F0700DC
+			public const int tooltip_y_offset_touch = 2131165404;
 			
 			static Dimension()
 			{
@@ -3251,65 +8404,68 @@ namespace NDMA
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7F09005B
-			public const int actions = 2131296347;
-			
 			// aapt resource value: 0x7F09004A
-			public const int action_bar = 2131296330;
-			
-			// aapt resource value: 0x7F09004B
-			public const int action_bar_activity_content = 2131296331;
-			
-			// aapt resource value: 0x7F09004C
-			public const int action_bar_container = 2131296332;
-			
-			// aapt resource value: 0x7F09004D
-			public const int action_bar_root = 2131296333;
-			
-			// aapt resource value: 0x7F09004E
-			public const int action_bar_spinner = 2131296334;
-			
-			// aapt resource value: 0x7F09004F
-			public const int action_bar_subtitle = 2131296335;
-			
-			// aapt resource value: 0x7F090050
-			public const int action_bar_title = 2131296336;
-			
-			// aapt resource value: 0x7F090051
-			public const int action_container = 2131296337;
-			
-			// aapt resource value: 0x7F090052
-			public const int action_context_bar = 2131296338;
-			
-			// aapt resource value: 0x7F090053
-			public const int action_divider = 2131296339;
-			
-			// aapt resource value: 0x7F090054
-			public const int action_image = 2131296340;
-			
-			// aapt resource value: 0x7F090055
-			public const int action_menu_divider = 2131296341;
-			
-			// aapt resource value: 0x7F090056
-			public const int action_menu_presenter = 2131296342;
-			
-			// aapt resource value: 0x7F090057
-			public const int action_mode_bar = 2131296343;
-			
-			// aapt resource value: 0x7F090058
-			public const int action_mode_bar_stub = 2131296344;
-			
-			// aapt resource value: 0x7F090059
-			public const int action_mode_close_button = 2131296345;
-			
-			// aapt resource value: 0x7F09005A
-			public const int action_text = 2131296346;
+			public const int action0 = 2131296330;
 			
 			// aapt resource value: 0x7F09005C
-			public const int activity_chooser_view_content = 2131296348;
+			public const int actions = 2131296348;
+			
+			// aapt resource value: 0x7F09004B
+			public const int action_bar = 2131296331;
+			
+			// aapt resource value: 0x7F09004C
+			public const int action_bar_activity_content = 2131296332;
+			
+			// aapt resource value: 0x7F09004D
+			public const int action_bar_container = 2131296333;
+			
+			// aapt resource value: 0x7F09004E
+			public const int action_bar_root = 2131296334;
+			
+			// aapt resource value: 0x7F09004F
+			public const int action_bar_spinner = 2131296335;
+			
+			// aapt resource value: 0x7F090050
+			public const int action_bar_subtitle = 2131296336;
+			
+			// aapt resource value: 0x7F090051
+			public const int action_bar_title = 2131296337;
+			
+			// aapt resource value: 0x7F090052
+			public const int action_container = 2131296338;
+			
+			// aapt resource value: 0x7F090053
+			public const int action_context_bar = 2131296339;
+			
+			// aapt resource value: 0x7F090054
+			public const int action_divider = 2131296340;
+			
+			// aapt resource value: 0x7F090055
+			public const int action_image = 2131296341;
+			
+			// aapt resource value: 0x7F090056
+			public const int action_menu_divider = 2131296342;
+			
+			// aapt resource value: 0x7F090057
+			public const int action_menu_presenter = 2131296343;
+			
+			// aapt resource value: 0x7F090058
+			public const int action_mode_bar = 2131296344;
+			
+			// aapt resource value: 0x7F090059
+			public const int action_mode_bar_stub = 2131296345;
+			
+			// aapt resource value: 0x7F09005A
+			public const int action_mode_close_button = 2131296346;
+			
+			// aapt resource value: 0x7F09005B
+			public const int action_text = 2131296347;
 			
 			// aapt resource value: 0x7F09005D
-			public const int add = 2131296349;
+			public const int activity_chooser_view_content = 2131296349;
+			
+			// aapt resource value: 0x7F09005E
+			public const int add = 2131296350;
 			
 			// aapt resource value: 0x7F090001
 			public const int AdviseBtn = 2131296257;
@@ -3332,59 +8488,65 @@ namespace NDMA
 			// aapt resource value: 0x7F090007
 			public const int AgeCategory = 2131296263;
 			
-			// aapt resource value: 0x7F09005E
-			public const int alertTitle = 2131296350;
-			
 			// aapt resource value: 0x7F09005F
-			public const int all = 2131296351;
+			public const int alertTitle = 2131296351;
+			
+			// aapt resource value: 0x7F090060
+			public const int all = 2131296352;
 			
 			// aapt resource value: 0x7F090000
 			public const int ALT = 2131296256;
 			
-			// aapt resource value: 0x7F090060
-			public const int always = 2131296352;
-			
 			// aapt resource value: 0x7F090061
-			public const int async = 2131296353;
+			public const int always = 2131296353;
 			
 			// aapt resource value: 0x7F090062
-			public const int auto = 2131296354;
+			public const int async = 2131296354;
 			
 			// aapt resource value: 0x7F090063
-			public const int beginning = 2131296355;
+			public const int auto = 2131296355;
 			
 			// aapt resource value: 0x7F090064
-			public const int blocking = 2131296356;
+			public const int beginning = 2131296356;
 			
 			// aapt resource value: 0x7F090065
-			public const int bottom = 2131296357;
+			public const int blocking = 2131296357;
+			
+			// aapt resource value: 0x7F090066
+			public const int bottom = 2131296358;
+			
+			// aapt resource value: 0x7F090067
+			public const int bottomtab_navarea = 2131296359;
+			
+			// aapt resource value: 0x7F090068
+			public const int bottomtab_tabbar = 2131296360;
 			
 			// aapt resource value: 0x7F090008
 			public const int BreakfastCb = 2131296264;
 			
-			// aapt resource value: 0x7F090066
-			public const int browser_actions_header_text = 2131296358;
-			
 			// aapt resource value: 0x7F090069
-			public const int browser_actions_menu_items = 2131296361;
+			public const int browser_actions_header_text = 2131296361;
 			
-			// aapt resource value: 0x7F090067
-			public const int browser_actions_menu_item_icon = 2131296359;
-			
-			// aapt resource value: 0x7F090068
-			public const int browser_actions_menu_item_text = 2131296360;
+			// aapt resource value: 0x7F09006C
+			public const int browser_actions_menu_items = 2131296364;
 			
 			// aapt resource value: 0x7F09006A
-			public const int browser_actions_menu_view = 2131296362;
+			public const int browser_actions_menu_item_icon = 2131296362;
+			
+			// aapt resource value: 0x7F09006B
+			public const int browser_actions_menu_item_text = 2131296363;
+			
+			// aapt resource value: 0x7F09006D
+			public const int browser_actions_menu_view = 2131296365;
 			
 			// aapt resource value: 0x7F090009
 			public const int BrunchCb = 2131296265;
 			
-			// aapt resource value: 0x7F09006B
-			public const int btnSearch = 2131296363;
+			// aapt resource value: 0x7F09006E
+			public const int btnSearch = 2131296366;
 			
-			// aapt resource value: 0x7F09006C
-			public const int buttonPanel = 2131296364;
+			// aapt resource value: 0x7F09006F
+			public const int buttonPanel = 2131296367;
 			
 			// aapt resource value: 0x7F09000B
 			public const int Cancel = 2131296267;
@@ -3398,86 +8560,89 @@ namespace NDMA
 			// aapt resource value: 0x7F09000E
 			public const int CancelSchBtn = 2131296270;
 			
-			// aapt resource value: 0x7F09006D
-			public const int center = 2131296365;
-			
-			// aapt resource value: 0x7F09006E
-			public const int center_horizontal = 2131296366;
-			
-			// aapt resource value: 0x7F09006F
-			public const int center_vertical = 2131296367;
-			
 			// aapt resource value: 0x7F090070
-			public const int checkbox = 2131296368;
+			public const int cancel_action = 2131296368;
+			
+			// aapt resource value: 0x7F090071
+			public const int center = 2131296369;
+			
+			// aapt resource value: 0x7F090072
+			public const int center_horizontal = 2131296370;
+			
+			// aapt resource value: 0x7F090073
+			public const int center_vertical = 2131296371;
+			
+			// aapt resource value: 0x7F090074
+			public const int checkbox = 2131296372;
 			
 			// aapt resource value: 0x7F09000F
 			public const int CheckQuicklyBtn = 2131296271;
 			
-			// aapt resource value: 0x7F090071
-			public const int chronometer = 2131296369;
+			// aapt resource value: 0x7F090075
+			public const int chronometer = 2131296373;
 			
-			// aapt resource value: 0x7F090072
-			public const int clip_horizontal = 2131296370;
+			// aapt resource value: 0x7F090076
+			public const int clip_horizontal = 2131296374;
 			
-			// aapt resource value: 0x7F090073
-			public const int clip_vertical = 2131296371;
+			// aapt resource value: 0x7F090077
+			public const int clip_vertical = 2131296375;
 			
-			// aapt resource value: 0x7F090074
-			public const int collapseActionView = 2131296372;
+			// aapt resource value: 0x7F090078
+			public const int collapseActionView = 2131296376;
 			
 			// aapt resource value: 0x7F090010
 			public const int ConfirmPassword = 2131296272;
 			
-			// aapt resource value: 0x7F090075
-			public const int container = 2131296373;
+			// aapt resource value: 0x7F090079
+			public const int container = 2131296377;
 			
-			// aapt resource value: 0x7F090076
-			public const int content = 2131296374;
+			// aapt resource value: 0x7F09007A
+			public const int content = 2131296378;
 			
-			// aapt resource value: 0x7F090077
-			public const int contentPanel = 2131296375;
+			// aapt resource value: 0x7F09007B
+			public const int contentPanel = 2131296379;
 			
-			// aapt resource value: 0x7F090078
-			public const int coordinator = 2131296376;
+			// aapt resource value: 0x7F09007C
+			public const int coordinator = 2131296380;
 			
 			// aapt resource value: 0x7F09000A
 			public const int CTRL = 2131296266;
 			
-			// aapt resource value: 0x7F090079
-			public const int custom = 2131296377;
+			// aapt resource value: 0x7F09007D
+			public const int custom = 2131296381;
 			
-			// aapt resource value: 0x7F09007A
-			public const int customPanel = 2131296378;
+			// aapt resource value: 0x7F09007E
+			public const int customPanel = 2131296382;
 			
 			// aapt resource value: 0x7F090011
 			public const int DailyStatusImage = 2131296273;
 			
-			// aapt resource value: 0x7F09007B
-			public const int decor_content_parent = 2131296379;
-			
-			// aapt resource value: 0x7F09007C
-			public const int default_activity_button = 2131296380;
-			
-			// aapt resource value: 0x7F09007D
-			public const int design_bottom_sheet = 2131296381;
-			
-			// aapt resource value: 0x7F09007E
-			public const int design_menu_item_action_area = 2131296382;
-			
 			// aapt resource value: 0x7F09007F
-			public const int design_menu_item_action_area_stub = 2131296383;
+			public const int decor_content_parent = 2131296383;
 			
 			// aapt resource value: 0x7F090080
-			public const int design_menu_item_text = 2131296384;
+			public const int default_activity_button = 2131296384;
 			
 			// aapt resource value: 0x7F090081
-			public const int design_navigation_view = 2131296385;
+			public const int design_bottom_sheet = 2131296385;
+			
+			// aapt resource value: 0x7F090082
+			public const int design_menu_item_action_area = 2131296386;
+			
+			// aapt resource value: 0x7F090083
+			public const int design_menu_item_action_area_stub = 2131296387;
+			
+			// aapt resource value: 0x7F090084
+			public const int design_menu_item_text = 2131296388;
+			
+			// aapt resource value: 0x7F090085
+			public const int design_navigation_view = 2131296389;
 			
 			// aapt resource value: 0x7F090012
 			public const int DinnerCb = 2131296274;
 			
-			// aapt resource value: 0x7F090082
-			public const int disableHome = 2131296386;
+			// aapt resource value: 0x7F090086
+			public const int disableHome = 2131296390;
 			
 			// aapt resource value: 0x7F090013
 			public const int Discard = 2131296275;
@@ -3485,47 +8650,56 @@ namespace NDMA
 			// aapt resource value: 0x7F090014
 			public const int DunchCb = 2131296276;
 			
-			// aapt resource value: 0x7F090083
-			public const int edit_query = 2131296387;
+			// aapt resource value: 0x7F090087
+			public const int edit_query = 2131296391;
 			
 			// aapt resource value: 0x7F090015
 			public const int Email = 2131296277;
 			
-			// aapt resource value: 0x7F090084
-			public const int end = 2131296388;
-			
-			// aapt resource value: 0x7F090085
-			public const int enterAlways = 2131296389;
-			
-			// aapt resource value: 0x7F090086
-			public const int enterAlwaysCollapsed = 2131296390;
-			
-			// aapt resource value: 0x7F090087
-			public const int exitUntilCollapsed = 2131296391;
+			// aapt resource value: 0x7F090088
+			public const int end = 2131296392;
 			
 			// aapt resource value: 0x7F090089
-			public const int expanded_menu = 2131296393;
-			
-			// aapt resource value: 0x7F090088
-			public const int expand_activities_button = 2131296392;
+			public const int end_padder = 2131296393;
 			
 			// aapt resource value: 0x7F09008A
-			public const int fill = 2131296394;
-			
-			// aapt resource value: 0x7F09008D
-			public const int filled = 2131296397;
+			public const int enterAlways = 2131296394;
 			
 			// aapt resource value: 0x7F09008B
-			public const int fill_horizontal = 2131296395;
+			public const int enterAlwaysCollapsed = 2131296395;
 			
 			// aapt resource value: 0x7F09008C
-			public const int fill_vertical = 2131296396;
+			public const int exitUntilCollapsed = 2131296396;
+			
+			// aapt resource value: 0x7F09008E
+			public const int expanded_menu = 2131296398;
+			
+			// aapt resource value: 0x7F09008D
+			public const int expand_activities_button = 2131296397;
+			
+			// aapt resource value: 0x7F09008F
+			public const int fill = 2131296399;
+			
+			// aapt resource value: 0x7F090092
+			public const int filled = 2131296402;
+			
+			// aapt resource value: 0x7F090090
+			public const int fill_horizontal = 2131296400;
+			
+			// aapt resource value: 0x7F090091
+			public const int fill_vertical = 2131296401;
 			
 			// aapt resource value: 0x7F090017
 			public const int FinishAssessingInfoBtn = 2131296279;
 			
-			// aapt resource value: 0x7F09008E
-			public const int @fixed = 2131296398;
+			// aapt resource value: 0x7F090093
+			public const int @fixed = 2131296403;
+			
+			// aapt resource value: 0x7F090094
+			public const int flyoutcontent_appbar = 2131296404;
+			
+			// aapt resource value: 0x7F090095
+			public const int flyoutcontent_recycler = 2131296405;
 			
 			// aapt resource value: 0x7F090018
 			public const int FoodLayoutItemNameId = 2131296280;
@@ -3545,41 +8719,41 @@ namespace NDMA
 			// aapt resource value: 0x7F09001D
 			public const int FoodSpecListViewItemName = 2131296285;
 			
-			// aapt resource value: 0x7F09008F
-			public const int forever = 2131296399;
+			// aapt resource value: 0x7F090096
+			public const int forever = 2131296406;
 			
 			// aapt resource value: 0x7F090016
 			public const int FUNCTION = 2131296278;
 			
-			// aapt resource value: 0x7F090090
-			public const int ghost_view = 2131296400;
+			// aapt resource value: 0x7F090097
+			public const int ghost_view = 2131296407;
 			
-			// aapt resource value: 0x7F090091
-			public const int group_divider = 2131296401;
+			// aapt resource value: 0x7F090098
+			public const int group_divider = 2131296408;
 			
 			// aapt resource value: 0x7F09001E
 			public const int HeaderMainAdvise = 2131296286;
 			
-			// aapt resource value: 0x7F090092
-			public const int home = 2131296402;
+			// aapt resource value: 0x7F090099
+			public const int home = 2131296409;
 			
-			// aapt resource value: 0x7F090093
-			public const int homeAsUp = 2131296403;
+			// aapt resource value: 0x7F09009A
+			public const int homeAsUp = 2131296410;
 			
-			// aapt resource value: 0x7F090094
-			public const int icon = 2131296404;
+			// aapt resource value: 0x7F09009B
+			public const int icon = 2131296411;
 			
-			// aapt resource value: 0x7F090095
-			public const int icon_group = 2131296405;
+			// aapt resource value: 0x7F09009C
+			public const int icon_group = 2131296412;
 			
-			// aapt resource value: 0x7F090096
-			public const int ifRoom = 2131296406;
+			// aapt resource value: 0x7F09009D
+			public const int ifRoom = 2131296413;
 			
-			// aapt resource value: 0x7F090097
-			public const int image = 2131296407;
+			// aapt resource value: 0x7F09009E
+			public const int image = 2131296414;
 			
-			// aapt resource value: 0x7F090098
-			public const int info = 2131296408;
+			// aapt resource value: 0x7F09009F
+			public const int info = 2131296415;
 			
 			// aapt resource value: 0x7F09001F
 			public const int InputBreakFastName = 2131296287;
@@ -3590,32 +8764,32 @@ namespace NDMA
 			// aapt resource value: 0x7F090021
 			public const int InputLunchName = 2131296289;
 			
-			// aapt resource value: 0x7F090099
-			public const int italic = 2131296409;
-			
-			// aapt resource value: 0x7F09009A
-			public const int item_touch_helper_previous_elevation = 2131296410;
-			
-			// aapt resource value: 0x7F09009B
-			public const int labeled = 2131296411;
-			
-			// aapt resource value: 0x7F09009C
-			public const int largeLabel = 2131296412;
-			
-			// aapt resource value: 0x7F09009D
-			public const int left = 2131296413;
-			
-			// aapt resource value: 0x7F09009E
-			public const int line1 = 2131296414;
-			
-			// aapt resource value: 0x7F09009F
-			public const int line3 = 2131296415;
-			
 			// aapt resource value: 0x7F0900A0
-			public const int listMode = 2131296416;
+			public const int italic = 2131296416;
 			
 			// aapt resource value: 0x7F0900A1
-			public const int list_item = 2131296417;
+			public const int item_touch_helper_previous_elevation = 2131296417;
+			
+			// aapt resource value: 0x7F0900A2
+			public const int labeled = 2131296418;
+			
+			// aapt resource value: 0x7F0900A3
+			public const int largeLabel = 2131296419;
+			
+			// aapt resource value: 0x7F0900A4
+			public const int left = 2131296420;
+			
+			// aapt resource value: 0x7F0900A5
+			public const int line1 = 2131296421;
+			
+			// aapt resource value: 0x7F0900A6
+			public const int line3 = 2131296422;
+			
+			// aapt resource value: 0x7F0900A7
+			public const int listMode = 2131296423;
+			
+			// aapt resource value: 0x7F0900A8
+			public const int list_item = 2131296424;
 			
 			// aapt resource value: 0x7F090022
 			public const int Log = 2131296290;
@@ -3632,53 +8806,68 @@ namespace NDMA
 			// aapt resource value: 0x7F090026
 			public const int LunchCb = 2131296294;
 			
-			// aapt resource value: 0x7F0900A2
-			public const int masked = 2131296418;
+			// aapt resource value: 0x7F0900A9
+			public const int main_appbar = 2131296425;
 			
-			// aapt resource value: 0x7F0900A3
-			public const int message = 2131296419;
+			// aapt resource value: 0x7F0900AA
+			public const int main_tablayout = 2131296426;
+			
+			// aapt resource value: 0x7F0900AB
+			public const int main_toolbar = 2131296427;
+			
+			// aapt resource value: 0x7F0900AC
+			public const int main_viewpager = 2131296428;
+			
+			// aapt resource value: 0x7F0900AD
+			public const int masked = 2131296429;
+			
+			// aapt resource value: 0x7F0900AE
+			public const int media_actions = 2131296430;
+			
+			// aapt resource value: 0x7F0900AF
+			public const int message = 2131296431;
 			
 			// aapt resource value: 0x7F090027
 			public const int META = 2131296295;
 			
-			// aapt resource value: 0x7F0900A4
-			public const int middle = 2131296420;
+			// aapt resource value: 0x7F0900B0
+			public const int middle = 2131296432;
 			
-			// aapt resource value: 0x7F0900A5
-			public const int mini = 2131296421;
+			// aapt resource value: 0x7F0900B1
+			public const int mini = 2131296433;
 			
-			// aapt resource value: 0x7F0900A6
-			public const int mtrl_child_content_container = 2131296422;
+			// aapt resource value: 0x7F0900B2
+			public const int mtrl_child_content_container = 2131296434;
 			
-			// aapt resource value: 0x7F0900A7
-			public const int mtrl_internal_children_alpha_tag = 2131296423;
+			// aapt resource value: 0x7F0900B3
+			public const int mtrl_internal_children_alpha_tag = 2131296435;
 			
-			// aapt resource value: 0x7F0900A8
-			public const int multiply = 2131296424;
+			// aapt resource value: 0x7F0900B4
+			public const int multiply = 2131296436;
 			
 			// aapt resource value: 0x7F090028
 			public const int Name = 2131296296;
 			
-			// aapt resource value: 0x7F0900A9
-			public const int navigation_header_container = 2131296425;
+			// aapt resource value: 0x7F0900B5
+			public const int navigation_header_container = 2131296437;
 			
-			// aapt resource value: 0x7F0900AA
-			public const int never = 2131296426;
+			// aapt resource value: 0x7F0900B6
+			public const int never = 2131296438;
 			
-			// aapt resource value: 0x7F0900AB
-			public const int none = 2131296427;
+			// aapt resource value: 0x7F0900B7
+			public const int none = 2131296439;
 			
-			// aapt resource value: 0x7F0900AC
-			public const int normal = 2131296428;
+			// aapt resource value: 0x7F0900B8
+			public const int normal = 2131296440;
 			
-			// aapt resource value: 0x7F0900AD
-			public const int notification_background = 2131296429;
+			// aapt resource value: 0x7F0900B9
+			public const int notification_background = 2131296441;
 			
-			// aapt resource value: 0x7F0900AE
-			public const int notification_main_column = 2131296430;
+			// aapt resource value: 0x7F0900BA
+			public const int notification_main_column = 2131296442;
 			
-			// aapt resource value: 0x7F0900AF
-			public const int notification_main_column_container = 2131296431;
+			// aapt resource value: 0x7F0900BB
+			public const int notification_main_column_container = 2131296443;
 			
 			// aapt resource value: 0x7F090029
 			public const int NutFoodList = 2131296297;
@@ -3689,20 +8878,20 @@ namespace NDMA
 			// aapt resource value: 0x7F09002B
 			public const int NutUsername = 2131296299;
 			
-			// aapt resource value: 0x7F0900B0
-			public const int outline = 2131296432;
+			// aapt resource value: 0x7F0900BC
+			public const int outline = 2131296444;
 			
 			// aapt resource value: 0x7F09002C
 			public const int OverdoneBtn = 2131296300;
 			
-			// aapt resource value: 0x7F0900B1
-			public const int parallax = 2131296433;
+			// aapt resource value: 0x7F0900BD
+			public const int parallax = 2131296445;
 			
-			// aapt resource value: 0x7F0900B2
-			public const int parentPanel = 2131296434;
+			// aapt resource value: 0x7F0900BE
+			public const int parentPanel = 2131296446;
 			
-			// aapt resource value: 0x7F0900B3
-			public const int parent_matrix = 2131296435;
+			// aapt resource value: 0x7F0900BF
+			public const int parent_matrix = 2131296447;
 			
 			// aapt resource value: 0x7F09002D
 			public const int Password = 2131296301;
@@ -3710,17 +8899,17 @@ namespace NDMA
 			// aapt resource value: 0x7F09002E
 			public const int PeriodlyStatusImage = 2131296302;
 			
-			// aapt resource value: 0x7F0900B4
-			public const int pin = 2131296436;
+			// aapt resource value: 0x7F0900C0
+			public const int pin = 2131296448;
 			
-			// aapt resource value: 0x7F0900B5
-			public const int progress_circular = 2131296437;
+			// aapt resource value: 0x7F0900C1
+			public const int progress_circular = 2131296449;
 			
-			// aapt resource value: 0x7F0900B6
-			public const int progress_horizontal = 2131296438;
+			// aapt resource value: 0x7F0900C2
+			public const int progress_horizontal = 2131296450;
 			
-			// aapt resource value: 0x7F0900B7
-			public const int radio = 2131296439;
+			// aapt resource value: 0x7F0900C3
+			public const int radio = 2131296451;
 			
 			// aapt resource value: 0x7F09002F
 			public const int Register = 2131296303;
@@ -3734,41 +8923,41 @@ namespace NDMA
 			// aapt resource value: 0x7F090032
 			public const int ReturnToSearch = 2131296306;
 			
-			// aapt resource value: 0x7F0900B8
-			public const int right = 2131296440;
+			// aapt resource value: 0x7F0900C4
+			public const int right = 2131296452;
 			
-			// aapt resource value: 0x7F0900B9
-			public const int right_icon = 2131296441;
+			// aapt resource value: 0x7F0900C5
+			public const int right_icon = 2131296453;
 			
-			// aapt resource value: 0x7F0900BA
-			public const int right_side = 2131296442;
+			// aapt resource value: 0x7F0900C6
+			public const int right_side = 2131296454;
 			
-			// aapt resource value: 0x7F0900BB
-			public const int save_image_matrix = 2131296443;
+			// aapt resource value: 0x7F0900C7
+			public const int save_image_matrix = 2131296455;
 			
-			// aapt resource value: 0x7F0900BC
-			public const int save_non_transition_alpha = 2131296444;
+			// aapt resource value: 0x7F0900C8
+			public const int save_non_transition_alpha = 2131296456;
 			
-			// aapt resource value: 0x7F0900BD
-			public const int save_scale_type = 2131296445;
+			// aapt resource value: 0x7F0900C9
+			public const int save_scale_type = 2131296457;
 			
-			// aapt resource value: 0x7F0900BE
-			public const int screen = 2131296446;
+			// aapt resource value: 0x7F0900CA
+			public const int screen = 2131296458;
 			
-			// aapt resource value: 0x7F0900BF
-			public const int scroll = 2131296447;
+			// aapt resource value: 0x7F0900CB
+			public const int scroll = 2131296459;
 			
-			// aapt resource value: 0x7F0900C3
-			public const int scrollable = 2131296451;
+			// aapt resource value: 0x7F0900CF
+			public const int scrollable = 2131296463;
 			
-			// aapt resource value: 0x7F0900C0
-			public const int scrollIndicatorDown = 2131296448;
+			// aapt resource value: 0x7F0900CC
+			public const int scrollIndicatorDown = 2131296460;
 			
-			// aapt resource value: 0x7F0900C1
-			public const int scrollIndicatorUp = 2131296449;
+			// aapt resource value: 0x7F0900CD
+			public const int scrollIndicatorUp = 2131296461;
 			
-			// aapt resource value: 0x7F0900C2
-			public const int scrollView = 2131296450;
+			// aapt resource value: 0x7F0900CE
+			public const int scrollView = 2131296462;
 			
 			// aapt resource value: 0x7F090035
 			public const int Search = 2131296309;
@@ -3776,59 +8965,65 @@ namespace NDMA
 			// aapt resource value: 0x7F090036
 			public const int SearchFoodList = 2131296310;
 			
-			// aapt resource value: 0x7F0900C4
-			public const int search_badge = 2131296452;
+			// aapt resource value: 0x7F0900D0
+			public const int search_badge = 2131296464;
 			
-			// aapt resource value: 0x7F0900C5
-			public const int search_bar = 2131296453;
+			// aapt resource value: 0x7F0900D1
+			public const int search_bar = 2131296465;
 			
-			// aapt resource value: 0x7F0900C6
-			public const int search_button = 2131296454;
+			// aapt resource value: 0x7F0900D2
+			public const int search_button = 2131296466;
 			
-			// aapt resource value: 0x7F0900C7
-			public const int search_close_btn = 2131296455;
+			// aapt resource value: 0x7F0900D3
+			public const int search_close_btn = 2131296467;
 			
-			// aapt resource value: 0x7F0900C8
-			public const int search_edit_frame = 2131296456;
+			// aapt resource value: 0x7F0900D4
+			public const int search_edit_frame = 2131296468;
 			
-			// aapt resource value: 0x7F0900C9
-			public const int search_go_btn = 2131296457;
+			// aapt resource value: 0x7F0900D5
+			public const int search_go_btn = 2131296469;
 			
-			// aapt resource value: 0x7F0900CA
-			public const int search_mag_icon = 2131296458;
+			// aapt resource value: 0x7F0900D6
+			public const int search_mag_icon = 2131296470;
 			
-			// aapt resource value: 0x7F0900CB
-			public const int search_plate = 2131296459;
+			// aapt resource value: 0x7F0900D7
+			public const int search_plate = 2131296471;
 			
-			// aapt resource value: 0x7F0900CC
-			public const int search_src_text = 2131296460;
+			// aapt resource value: 0x7F0900D8
+			public const int search_src_text = 2131296472;
 			
-			// aapt resource value: 0x7F0900CD
-			public const int search_voice_btn = 2131296461;
+			// aapt resource value: 0x7F0900D9
+			public const int search_voice_btn = 2131296473;
 			
-			// aapt resource value: 0x7F0900CF
-			public const int selected = 2131296463;
+			// aapt resource value: 0x7F0900DB
+			public const int selected = 2131296475;
 			
-			// aapt resource value: 0x7F0900CE
-			public const int select_dialog_listview = 2131296462;
+			// aapt resource value: 0x7F0900DA
+			public const int select_dialog_listview = 2131296474;
 			
 			// aapt resource value: 0x7F090037
 			public const int SexCategory = 2131296311;
 			
+			// aapt resource value: 0x7F0900DC
+			public const int shellcontent_appbar = 2131296476;
+			
+			// aapt resource value: 0x7F0900DD
+			public const int shellcontent_toolbar = 2131296477;
+			
 			// aapt resource value: 0x7F090033
 			public const int SHIFT = 2131296307;
 			
-			// aapt resource value: 0x7F0900D0
-			public const int shortcut = 2131296464;
+			// aapt resource value: 0x7F0900DE
+			public const int shortcut = 2131296478;
 			
-			// aapt resource value: 0x7F0900D1
-			public const int showCustom = 2131296465;
+			// aapt resource value: 0x7F0900DF
+			public const int showCustom = 2131296479;
 			
-			// aapt resource value: 0x7F0900D2
-			public const int showHome = 2131296466;
+			// aapt resource value: 0x7F0900E0
+			public const int showHome = 2131296480;
 			
-			// aapt resource value: 0x7F0900D3
-			public const int showTitle = 2131296467;
+			// aapt resource value: 0x7F0900E1
+			public const int showTitle = 2131296481;
 			
 			// aapt resource value: 0x7F090038
 			public const int SimpleListViewAddButton = 2131296312;
@@ -3839,44 +9034,47 @@ namespace NDMA
 			// aapt resource value: 0x7F09003A
 			public const int SimpleListViewTextViewType = 2131296314;
 			
-			// aapt resource value: 0x7F0900D4
-			public const int smallLabel = 2131296468;
+			// aapt resource value: 0x7F0900E2
+			public const int smallLabel = 2131296482;
 			
-			// aapt resource value: 0x7F0900D5
-			public const int snackbar_action = 2131296469;
+			// aapt resource value: 0x7F0900E3
+			public const int snackbar_action = 2131296483;
 			
-			// aapt resource value: 0x7F0900D6
-			public const int snackbar_text = 2131296470;
+			// aapt resource value: 0x7F0900E4
+			public const int snackbar_text = 2131296484;
 			
-			// aapt resource value: 0x7F0900D7
-			public const int snap = 2131296471;
+			// aapt resource value: 0x7F0900E5
+			public const int snap = 2131296485;
 			
-			// aapt resource value: 0x7F0900D8
-			public const int snapMargins = 2131296472;
+			// aapt resource value: 0x7F0900E6
+			public const int snapMargins = 2131296486;
 			
-			// aapt resource value: 0x7F0900D9
-			public const int spacer = 2131296473;
+			// aapt resource value: 0x7F0900E7
+			public const int spacer = 2131296487;
 			
-			// aapt resource value: 0x7F0900DA
-			public const int split_action_bar = 2131296474;
+			// aapt resource value: 0x7F0900E8
+			public const int split_action_bar = 2131296488;
 			
-			// aapt resource value: 0x7F0900DB
-			public const int src_atop = 2131296475;
+			// aapt resource value: 0x7F0900E9
+			public const int src_atop = 2131296489;
 			
-			// aapt resource value: 0x7F0900DC
-			public const int src_in = 2131296476;
+			// aapt resource value: 0x7F0900EA
+			public const int src_in = 2131296490;
 			
-			// aapt resource value: 0x7F0900DD
-			public const int src_over = 2131296477;
+			// aapt resource value: 0x7F0900EB
+			public const int src_over = 2131296491;
 			
-			// aapt resource value: 0x7F0900DE
-			public const int start = 2131296478;
+			// aapt resource value: 0x7F0900EC
+			public const int start = 2131296492;
 			
-			// aapt resource value: 0x7F0900DF
-			public const int stretch = 2131296479;
+			// aapt resource value: 0x7F0900ED
+			public const int status_bar_latest_event_content = 2131296493;
 			
-			// aapt resource value: 0x7F0900E0
-			public const int submenuarrow = 2131296480;
+			// aapt resource value: 0x7F0900EE
+			public const int stretch = 2131296494;
+			
+			// aapt resource value: 0x7F0900EF
+			public const int submenuarrow = 2131296495;
 			
 			// aapt resource value: 0x7F09003B
 			public const int Submit = 2131296315;
@@ -3887,8 +9085,8 @@ namespace NDMA
 			// aapt resource value: 0x7F09003D
 			public const int SubmitSchBtn = 2131296317;
 			
-			// aapt resource value: 0x7F0900E1
-			public const int submit_area = 2131296481;
+			// aapt resource value: 0x7F0900F0
+			public const int submit_area = 2131296496;
 			
 			// aapt resource value: 0x7F09003E
 			public const int SupperCb = 2131296318;
@@ -3896,17 +9094,17 @@ namespace NDMA
 			// aapt resource value: 0x7F090034
 			public const int SYM = 2131296308;
 			
-			// aapt resource value: 0x7F0900E2
-			public const int tabMode = 2131296482;
+			// aapt resource value: 0x7F0900F1
+			public const int tabMode = 2131296497;
 			
-			// aapt resource value: 0x7F0900E3
-			public const int tag_transition_group = 2131296483;
+			// aapt resource value: 0x7F0900F2
+			public const int tag_transition_group = 2131296498;
 			
-			// aapt resource value: 0x7F0900E4
-			public const int tag_unhandled_key_event_manager = 2131296484;
+			// aapt resource value: 0x7F0900F3
+			public const int tag_unhandled_key_event_manager = 2131296499;
 			
-			// aapt resource value: 0x7F0900E5
-			public const int tag_unhandled_key_listeners = 2131296485;
+			// aapt resource value: 0x7F0900F4
+			public const int tag_unhandled_key_listeners = 2131296500;
 			
 			// aapt resource value: 0x7F09003F
 			public const int TestAddBreakfastBtn = 2131296319;
@@ -3923,68 +9121,68 @@ namespace NDMA
 			// aapt resource value: 0x7F090043
 			public const int TestTextView = 2131296323;
 			
-			// aapt resource value: 0x7F0900E6
-			public const int text = 2131296486;
-			
-			// aapt resource value: 0x7F0900E7
-			public const int text2 = 2131296487;
-			
-			// aapt resource value: 0x7F0900EC
-			public const int textinput_counter = 2131296492;
-			
-			// aapt resource value: 0x7F0900ED
-			public const int textinput_error = 2131296493;
-			
-			// aapt resource value: 0x7F0900EE
-			public const int textinput_helper_text = 2131296494;
-			
-			// aapt resource value: 0x7F0900E8
-			public const int textSpacerNoButtons = 2131296488;
-			
-			// aapt resource value: 0x7F0900E9
-			public const int textSpacerNoTitle = 2131296489;
-			
-			// aapt resource value: 0x7F0900EA
-			public const int textStart = 2131296490;
-			
-			// aapt resource value: 0x7F0900EB
-			public const int text_input_password_toggle = 2131296491;
-			
-			// aapt resource value: 0x7F0900EF
-			public const int time = 2131296495;
-			
-			// aapt resource value: 0x7F0900F0
-			public const int title = 2131296496;
-			
-			// aapt resource value: 0x7F0900F1
-			public const int titleDividerNoCustom = 2131296497;
-			
-			// aapt resource value: 0x7F0900F2
-			public const int title_template = 2131296498;
-			
-			// aapt resource value: 0x7F0900F3
-			public const int top = 2131296499;
-			
-			// aapt resource value: 0x7F0900F4
-			public const int topPanel = 2131296500;
-			
 			// aapt resource value: 0x7F0900F5
-			public const int touch_outside = 2131296501;
+			public const int text = 2131296501;
 			
 			// aapt resource value: 0x7F0900F6
-			public const int transition_current_scene = 2131296502;
+			public const int text2 = 2131296502;
+			
+			// aapt resource value: 0x7F0900FB
+			public const int textinput_counter = 2131296507;
+			
+			// aapt resource value: 0x7F0900FC
+			public const int textinput_error = 2131296508;
+			
+			// aapt resource value: 0x7F0900FD
+			public const int textinput_helper_text = 2131296509;
 			
 			// aapt resource value: 0x7F0900F7
-			public const int transition_layout_save = 2131296503;
+			public const int textSpacerNoButtons = 2131296503;
 			
 			// aapt resource value: 0x7F0900F8
-			public const int transition_position = 2131296504;
+			public const int textSpacerNoTitle = 2131296504;
 			
 			// aapt resource value: 0x7F0900F9
-			public const int transition_scene_layoutid_cache = 2131296505;
+			public const int textStart = 2131296505;
 			
 			// aapt resource value: 0x7F0900FA
-			public const int transition_transform = 2131296506;
+			public const int text_input_password_toggle = 2131296506;
+			
+			// aapt resource value: 0x7F0900FE
+			public const int time = 2131296510;
+			
+			// aapt resource value: 0x7F0900FF
+			public const int title = 2131296511;
+			
+			// aapt resource value: 0x7F090100
+			public const int titleDividerNoCustom = 2131296512;
+			
+			// aapt resource value: 0x7F090101
+			public const int title_template = 2131296513;
+			
+			// aapt resource value: 0x7F090102
+			public const int top = 2131296514;
+			
+			// aapt resource value: 0x7F090103
+			public const int topPanel = 2131296515;
+			
+			// aapt resource value: 0x7F090104
+			public const int touch_outside = 2131296516;
+			
+			// aapt resource value: 0x7F090105
+			public const int transition_current_scene = 2131296517;
+			
+			// aapt resource value: 0x7F090106
+			public const int transition_layout_save = 2131296518;
+			
+			// aapt resource value: 0x7F090107
+			public const int transition_position = 2131296519;
+			
+			// aapt resource value: 0x7F090108
+			public const int transition_scene_layoutid_cache = 2131296520;
+			
+			// aapt resource value: 0x7F090109
+			public const int transition_transform = 2131296521;
 			
 			// aapt resource value: 0x7F090044
 			public const int TypeOfFoodSpinner = 2131296324;
@@ -3992,17 +9190,17 @@ namespace NDMA
 			// aapt resource value: 0x7F090045
 			public const int UnderdoneBtn = 2131296325;
 			
-			// aapt resource value: 0x7F0900FB
-			public const int uniform = 2131296507;
+			// aapt resource value: 0x7F09010A
+			public const int uniform = 2131296522;
 			
-			// aapt resource value: 0x7F0900FC
-			public const int unlabeled = 2131296508;
+			// aapt resource value: 0x7F09010B
+			public const int unlabeled = 2131296523;
 			
-			// aapt resource value: 0x7F0900FD
-			public const int up = 2131296509;
+			// aapt resource value: 0x7F09010C
+			public const int up = 2131296524;
 			
-			// aapt resource value: 0x7F0900FE
-			public const int useLogo = 2131296510;
+			// aapt resource value: 0x7F09010D
+			public const int useLogo = 2131296525;
 			
 			// aapt resource value: 0x7F090046
 			public const int UserFoodList = 2131296326;
@@ -4013,20 +9211,20 @@ namespace NDMA
 			// aapt resource value: 0x7F090048
 			public const int ViewAccount = 2131296328;
 			
-			// aapt resource value: 0x7F0900FF
-			public const int view_offset_helper = 2131296511;
+			// aapt resource value: 0x7F09010E
+			public const int view_offset_helper = 2131296526;
 			
-			// aapt resource value: 0x7F090100
-			public const int visible = 2131296512;
+			// aapt resource value: 0x7F09010F
+			public const int visible = 2131296527;
 			
 			// aapt resource value: 0x7F090049
 			public const int WeeklyStatusImage = 2131296329;
 			
-			// aapt resource value: 0x7F090101
-			public const int withText = 2131296513;
+			// aapt resource value: 0x7F090110
+			public const int withText = 2131296528;
 			
-			// aapt resource value: 0x7F090102
-			public const int wrap_content = 2131296514;
+			// aapt resource value: 0x7F090111
+			public const int wrap_content = 2131296529;
 			
 			static Id()
 			{
@@ -4221,142 +9419,181 @@ namespace NDMA
 			public const int AdvisorMain = 2131492895;
 			
 			// aapt resource value: 0x7F0C0020
-			public const int browser_actions_context_menu_page = 2131492896;
+			public const int BottomTabLayout = 2131492896;
 			
 			// aapt resource value: 0x7F0C0021
-			public const int browser_actions_context_menu_row = 2131492897;
+			public const int browser_actions_context_menu_page = 2131492897;
 			
 			// aapt resource value: 0x7F0C0022
-			public const int CheckDailyInputForWeeklySample = 2131492898;
+			public const int browser_actions_context_menu_row = 2131492898;
 			
 			// aapt resource value: 0x7F0C0023
-			public const int CustomSimpleListLayout = 2131492899;
+			public const int CheckDailyInputForWeeklySample = 2131492899;
 			
 			// aapt resource value: 0x7F0C0024
-			public const int design_bottom_navigation_item = 2131492900;
+			public const int CustomSimpleListLayout = 2131492900;
 			
 			// aapt resource value: 0x7F0C0025
-			public const int design_bottom_sheet_dialog = 2131492901;
+			public const int design_bottom_navigation_item = 2131492901;
 			
 			// aapt resource value: 0x7F0C0026
-			public const int design_layout_snackbar = 2131492902;
+			public const int design_bottom_sheet_dialog = 2131492902;
 			
 			// aapt resource value: 0x7F0C0027
-			public const int design_layout_snackbar_include = 2131492903;
+			public const int design_layout_snackbar = 2131492903;
 			
 			// aapt resource value: 0x7F0C0028
-			public const int design_layout_tab_icon = 2131492904;
+			public const int design_layout_snackbar_include = 2131492904;
 			
 			// aapt resource value: 0x7F0C0029
-			public const int design_layout_tab_text = 2131492905;
+			public const int design_layout_tab_icon = 2131492905;
 			
 			// aapt resource value: 0x7F0C002A
-			public const int design_menu_item_action_area = 2131492906;
+			public const int design_layout_tab_text = 2131492906;
 			
 			// aapt resource value: 0x7F0C002B
-			public const int design_navigation_item = 2131492907;
+			public const int design_menu_item_action_area = 2131492907;
 			
 			// aapt resource value: 0x7F0C002C
-			public const int design_navigation_item_header = 2131492908;
+			public const int design_navigation_item = 2131492908;
 			
 			// aapt resource value: 0x7F0C002D
-			public const int design_navigation_item_separator = 2131492909;
+			public const int design_navigation_item_header = 2131492909;
 			
 			// aapt resource value: 0x7F0C002E
-			public const int design_navigation_item_subheader = 2131492910;
+			public const int design_navigation_item_separator = 2131492910;
 			
 			// aapt resource value: 0x7F0C002F
-			public const int design_navigation_menu = 2131492911;
+			public const int design_navigation_item_subheader = 2131492911;
 			
 			// aapt resource value: 0x7F0C0030
-			public const int design_navigation_menu_item = 2131492912;
+			public const int design_navigation_menu = 2131492912;
 			
 			// aapt resource value: 0x7F0C0031
-			public const int design_text_input_password_icon = 2131492913;
+			public const int design_navigation_menu_item = 2131492913;
 			
 			// aapt resource value: 0x7F0C0032
-			public const int DisplaySearchedAPIListLayout = 2131492914;
+			public const int design_text_input_password_icon = 2131492914;
 			
 			// aapt resource value: 0x7F0C0033
-			public const int FoodDailySchedule = 2131492915;
+			public const int DisplaySearchedAPIListLayout = 2131492915;
 			
 			// aapt resource value: 0x7F0C0034
-			public const int FoodLayoutSpecification = 2131492916;
+			public const int FlyoutContent = 2131492916;
 			
 			// aapt resource value: 0x7F0C0035
-			public const int FoodLayoutSpecListViewContents = 2131492917;
+			public const int FoodDailySchedule = 2131492917;
 			
 			// aapt resource value: 0x7F0C0036
-			public const int FoodLoggedList = 2131492918;
+			public const int FoodLayoutSpecification = 2131492918;
 			
 			// aapt resource value: 0x7F0C0037
-			public const int FoodSpecListView = 2131492919;
+			public const int FoodLayoutSpecListViewContents = 2131492919;
 			
 			// aapt resource value: 0x7F0C0038
-			public const int GraphLayout = 2131492920;
+			public const int FoodLoggedList = 2131492920;
 			
 			// aapt resource value: 0x7F0C0039
-			public const int Home = 2131492921;
+			public const int FoodSpecListView = 2131492921;
 			
 			// aapt resource value: 0x7F0C003A
-			public const int LogDiet = 2131492922;
+			public const int GraphLayout = 2131492922;
 			
 			// aapt resource value: 0x7F0C003B
-			public const int login = 2131492923;
+			public const int Home = 2131492923;
 			
 			// aapt resource value: 0x7F0C003C
-			public const int mtrl_layout_snackbar = 2131492924;
+			public const int LogDiet = 2131492924;
 			
 			// aapt resource value: 0x7F0C003D
-			public const int mtrl_layout_snackbar_include = 2131492925;
+			public const int login = 2131492925;
 			
 			// aapt resource value: 0x7F0C003E
-			public const int notification_action = 2131492926;
+			public const int mtrl_layout_snackbar = 2131492926;
 			
 			// aapt resource value: 0x7F0C003F
-			public const int notification_action_tombstone = 2131492927;
+			public const int mtrl_layout_snackbar_include = 2131492927;
 			
 			// aapt resource value: 0x7F0C0040
-			public const int notification_template_custom_big = 2131492928;
+			public const int notification_action = 2131492928;
 			
 			// aapt resource value: 0x7F0C0041
-			public const int notification_template_icon_group = 2131492929;
+			public const int notification_action_tombstone = 2131492929;
 			
 			// aapt resource value: 0x7F0C0042
-			public const int notification_template_part_chronometer = 2131492930;
+			public const int notification_media_action = 2131492930;
 			
 			// aapt resource value: 0x7F0C0043
-			public const int notification_template_part_time = 2131492931;
+			public const int notification_media_cancel_action = 2131492931;
 			
 			// aapt resource value: 0x7F0C0044
-			public const int Register = 2131492932;
+			public const int notification_template_big_media = 2131492932;
 			
 			// aapt resource value: 0x7F0C0045
-			public const int SearchForFood = 2131492933;
+			public const int notification_template_big_media_custom = 2131492933;
 			
 			// aapt resource value: 0x7F0C0046
-			public const int SearchForFoodListView = 2131492934;
+			public const int notification_template_big_media_narrow = 2131492934;
 			
 			// aapt resource value: 0x7F0C0047
-			public const int SearchIngredient = 2131492935;
+			public const int notification_template_big_media_narrow_custom = 2131492935;
 			
 			// aapt resource value: 0x7F0C0048
-			public const int select_dialog_item_material = 2131492936;
+			public const int notification_template_custom_big = 2131492936;
 			
 			// aapt resource value: 0x7F0C0049
-			public const int select_dialog_multichoice_material = 2131492937;
+			public const int notification_template_icon_group = 2131492937;
 			
 			// aapt resource value: 0x7F0C004A
-			public const int select_dialog_singlechoice_material = 2131492938;
+			public const int notification_template_lines_media = 2131492938;
 			
 			// aapt resource value: 0x7F0C004B
-			public const int support_simple_spinner_dropdown_item = 2131492939;
+			public const int notification_template_media = 2131492939;
 			
 			// aapt resource value: 0x7F0C004C
-			public const int TestFoodResults = 2131492940;
+			public const int notification_template_media_custom = 2131492940;
 			
 			// aapt resource value: 0x7F0C004D
-			public const int UserAdviseMainLayout = 2131492941;
+			public const int notification_template_part_chronometer = 2131492941;
+			
+			// aapt resource value: 0x7F0C004E
+			public const int notification_template_part_time = 2131492942;
+			
+			// aapt resource value: 0x7F0C004F
+			public const int Register = 2131492943;
+			
+			// aapt resource value: 0x7F0C0050
+			public const int RootLayout = 2131492944;
+			
+			// aapt resource value: 0x7F0C0051
+			public const int SearchForFood = 2131492945;
+			
+			// aapt resource value: 0x7F0C0052
+			public const int SearchForFoodListView = 2131492946;
+			
+			// aapt resource value: 0x7F0C0053
+			public const int SearchIngredient = 2131492947;
+			
+			// aapt resource value: 0x7F0C0054
+			public const int select_dialog_item_material = 2131492948;
+			
+			// aapt resource value: 0x7F0C0055
+			public const int select_dialog_multichoice_material = 2131492949;
+			
+			// aapt resource value: 0x7F0C0056
+			public const int select_dialog_singlechoice_material = 2131492950;
+			
+			// aapt resource value: 0x7F0C0057
+			public const int ShellContent = 2131492951;
+			
+			// aapt resource value: 0x7F0C0058
+			public const int support_simple_spinner_dropdown_item = 2131492952;
+			
+			// aapt resource value: 0x7F0C0059
+			public const int TestFoodResults = 2131492953;
+			
+			// aapt resource value: 0x7F0C005A
+			public const int UserAdviseMainLayout = 2131492954;
 			
 			static Layout()
 			{
@@ -5171,899 +10408,920 @@ namespace NDMA
 			// aapt resource value: 0x7F0F00C6
 			public const int CheckBoxStyle = 2131689670;
 			
+			// aapt resource value: 0x7F0F01F7
+			public const int collectionViewStyle = 2131689975;
+			
 			// aapt resource value: 0x7F0F00C7
-			public const int Platform_AppCompat = 2131689671;
+			public const int NestedScrollBarStyle = 2131689671;
 			
 			// aapt resource value: 0x7F0F00C8
-			public const int Platform_AppCompat_Light = 2131689672;
+			public const int Platform_AppCompat = 2131689672;
 			
 			// aapt resource value: 0x7F0F00C9
-			public const int Platform_MaterialComponents = 2131689673;
+			public const int Platform_AppCompat_Light = 2131689673;
 			
 			// aapt resource value: 0x7F0F00CA
-			public const int Platform_MaterialComponents_Dialog = 2131689674;
+			public const int Platform_MaterialComponents = 2131689674;
 			
 			// aapt resource value: 0x7F0F00CB
-			public const int Platform_MaterialComponents_Light = 2131689675;
+			public const int Platform_MaterialComponents_Dialog = 2131689675;
 			
 			// aapt resource value: 0x7F0F00CC
-			public const int Platform_MaterialComponents_Light_Dialog = 2131689676;
+			public const int Platform_MaterialComponents_Light = 2131689676;
 			
 			// aapt resource value: 0x7F0F00CD
-			public const int Platform_ThemeOverlay_AppCompat = 2131689677;
+			public const int Platform_MaterialComponents_Light_Dialog = 2131689677;
 			
 			// aapt resource value: 0x7F0F00CE
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131689678;
+			public const int Platform_ThemeOverlay_AppCompat = 2131689678;
 			
 			// aapt resource value: 0x7F0F00CF
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2131689679;
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131689679;
 			
 			// aapt resource value: 0x7F0F00D0
-			public const int Platform_V21_AppCompat = 2131689680;
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2131689680;
 			
 			// aapt resource value: 0x7F0F00D1
-			public const int Platform_V21_AppCompat_Light = 2131689681;
+			public const int Platform_V21_AppCompat = 2131689681;
 			
 			// aapt resource value: 0x7F0F00D2
-			public const int Platform_V25_AppCompat = 2131689682;
+			public const int Platform_V21_AppCompat_Light = 2131689682;
 			
 			// aapt resource value: 0x7F0F00D3
-			public const int Platform_V25_AppCompat_Light = 2131689683;
+			public const int Platform_V25_AppCompat = 2131689683;
 			
 			// aapt resource value: 0x7F0F00D4
-			public const int Platform_Widget_AppCompat_Spinner = 2131689684;
+			public const int Platform_V25_AppCompat_Light = 2131689684;
 			
 			// aapt resource value: 0x7F0F00D5
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131689685;
+			public const int Platform_Widget_AppCompat_Spinner = 2131689685;
 			
 			// aapt resource value: 0x7F0F00D6
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131689686;
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131689686;
 			
 			// aapt resource value: 0x7F0F00D7
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131689687;
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131689687;
 			
 			// aapt resource value: 0x7F0F00D8
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131689688;
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131689688;
 			
 			// aapt resource value: 0x7F0F00D9
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131689689;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131689689;
 			
 			// aapt resource value: 0x7F0F00DA
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131689690;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131689690;
 			
 			// aapt resource value: 0x7F0F00DB
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131689691;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131689691;
 			
 			// aapt resource value: 0x7F0F00DC
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131689692;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131689692;
 			
 			// aapt resource value: 0x7F0F00DD
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131689693;
-			
-			// aapt resource value: 0x7F0F00E3
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689699;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131689693;
 			
 			// aapt resource value: 0x7F0F00DE
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689694;
-			
-			// aapt resource value: 0x7F0F00DF
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689695;
-			
-			// aapt resource value: 0x7F0F00E0
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689696;
-			
-			// aapt resource value: 0x7F0F00E1
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689697;
-			
-			// aapt resource value: 0x7F0F00E2
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689698;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131689694;
 			
 			// aapt resource value: 0x7F0F00E4
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131689700;
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689700;
+			
+			// aapt resource value: 0x7F0F00DF
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689695;
+			
+			// aapt resource value: 0x7F0F00E0
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689696;
+			
+			// aapt resource value: 0x7F0F00E1
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689697;
+			
+			// aapt resource value: 0x7F0F00E2
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689698;
+			
+			// aapt resource value: 0x7F0F00E3
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689699;
 			
 			// aapt resource value: 0x7F0F00E5
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131689701;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131689701;
 			
 			// aapt resource value: 0x7F0F00E6
-			public const int TextAppearance_AppCompat = 2131689702;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131689702;
 			
 			// aapt resource value: 0x7F0F00E7
-			public const int TextAppearance_AppCompat_Body1 = 2131689703;
+			public const int TextAppearance_AppCompat = 2131689703;
 			
 			// aapt resource value: 0x7F0F00E8
-			public const int TextAppearance_AppCompat_Body2 = 2131689704;
+			public const int TextAppearance_AppCompat_Body1 = 2131689704;
 			
 			// aapt resource value: 0x7F0F00E9
-			public const int TextAppearance_AppCompat_Button = 2131689705;
+			public const int TextAppearance_AppCompat_Body2 = 2131689705;
 			
 			// aapt resource value: 0x7F0F00EA
-			public const int TextAppearance_AppCompat_Caption = 2131689706;
+			public const int TextAppearance_AppCompat_Button = 2131689706;
 			
 			// aapt resource value: 0x7F0F00EB
-			public const int TextAppearance_AppCompat_Display1 = 2131689707;
+			public const int TextAppearance_AppCompat_Caption = 2131689707;
 			
 			// aapt resource value: 0x7F0F00EC
-			public const int TextAppearance_AppCompat_Display2 = 2131689708;
+			public const int TextAppearance_AppCompat_Display1 = 2131689708;
 			
 			// aapt resource value: 0x7F0F00ED
-			public const int TextAppearance_AppCompat_Display3 = 2131689709;
+			public const int TextAppearance_AppCompat_Display2 = 2131689709;
 			
 			// aapt resource value: 0x7F0F00EE
-			public const int TextAppearance_AppCompat_Display4 = 2131689710;
+			public const int TextAppearance_AppCompat_Display3 = 2131689710;
 			
 			// aapt resource value: 0x7F0F00EF
-			public const int TextAppearance_AppCompat_Headline = 2131689711;
+			public const int TextAppearance_AppCompat_Display4 = 2131689711;
 			
 			// aapt resource value: 0x7F0F00F0
-			public const int TextAppearance_AppCompat_Inverse = 2131689712;
+			public const int TextAppearance_AppCompat_Headline = 2131689712;
 			
 			// aapt resource value: 0x7F0F00F1
-			public const int TextAppearance_AppCompat_Large = 2131689713;
+			public const int TextAppearance_AppCompat_Inverse = 2131689713;
 			
 			// aapt resource value: 0x7F0F00F2
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131689714;
+			public const int TextAppearance_AppCompat_Large = 2131689714;
 			
 			// aapt resource value: 0x7F0F00F3
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131689715;
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131689715;
 			
 			// aapt resource value: 0x7F0F00F4
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131689716;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131689716;
 			
 			// aapt resource value: 0x7F0F00F5
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689717;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131689717;
 			
 			// aapt resource value: 0x7F0F00F6
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689718;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689718;
 			
 			// aapt resource value: 0x7F0F00F7
-			public const int TextAppearance_AppCompat_Medium = 2131689719;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689719;
 			
 			// aapt resource value: 0x7F0F00F8
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131689720;
+			public const int TextAppearance_AppCompat_Medium = 2131689720;
 			
 			// aapt resource value: 0x7F0F00F9
-			public const int TextAppearance_AppCompat_Menu = 2131689721;
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131689721;
 			
 			// aapt resource value: 0x7F0F00FA
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131689722;
+			public const int TextAppearance_AppCompat_Menu = 2131689722;
 			
 			// aapt resource value: 0x7F0F00FB
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131689723;
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131689723;
 			
 			// aapt resource value: 0x7F0F00FC
-			public const int TextAppearance_AppCompat_Small = 2131689724;
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131689724;
 			
 			// aapt resource value: 0x7F0F00FD
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131689725;
+			public const int TextAppearance_AppCompat_Small = 2131689725;
 			
 			// aapt resource value: 0x7F0F00FE
-			public const int TextAppearance_AppCompat_Subhead = 2131689726;
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131689726;
 			
 			// aapt resource value: 0x7F0F00FF
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131689727;
+			public const int TextAppearance_AppCompat_Subhead = 2131689727;
 			
 			// aapt resource value: 0x7F0F0100
-			public const int TextAppearance_AppCompat_Title = 2131689728;
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131689728;
 			
 			// aapt resource value: 0x7F0F0101
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131689729;
+			public const int TextAppearance_AppCompat_Title = 2131689729;
 			
 			// aapt resource value: 0x7F0F0102
-			public const int TextAppearance_AppCompat_Tooltip = 2131689730;
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131689730;
 			
 			// aapt resource value: 0x7F0F0103
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689731;
+			public const int TextAppearance_AppCompat_Tooltip = 2131689731;
 			
 			// aapt resource value: 0x7F0F0104
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689732;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689732;
 			
 			// aapt resource value: 0x7F0F0105
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689733;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689733;
 			
 			// aapt resource value: 0x7F0F0106
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689734;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689734;
 			
 			// aapt resource value: 0x7F0F0107
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689735;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689735;
 			
 			// aapt resource value: 0x7F0F0108
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689736;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689736;
 			
 			// aapt resource value: 0x7F0F0109
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131689737;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689737;
 			
 			// aapt resource value: 0x7F0F010A
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689738;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131689738;
 			
 			// aapt resource value: 0x7F0F010B
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131689739;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689739;
 			
 			// aapt resource value: 0x7F0F010C
-			public const int TextAppearance_AppCompat_Widget_Button = 2131689740;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131689740;
 			
 			// aapt resource value: 0x7F0F010D
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689741;
+			public const int TextAppearance_AppCompat_Widget_Button = 2131689741;
 			
 			// aapt resource value: 0x7F0F010E
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131689742;
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689742;
 			
 			// aapt resource value: 0x7F0F010F
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131689743;
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131689743;
 			
 			// aapt resource value: 0x7F0F0110
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131689744;
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131689744;
 			
 			// aapt resource value: 0x7F0F0111
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689745;
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131689745;
 			
 			// aapt resource value: 0x7F0F0112
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689746;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689746;
 			
 			// aapt resource value: 0x7F0F0113
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689747;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689747;
 			
 			// aapt resource value: 0x7F0F0114
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131689748;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689748;
 			
 			// aapt resource value: 0x7F0F0115
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689749;
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131689749;
 			
 			// aapt resource value: 0x7F0F0116
-			public const int TextAppearance_Compat_Notification = 2131689750;
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689750;
 			
 			// aapt resource value: 0x7F0F0117
-			public const int TextAppearance_Compat_Notification_Info = 2131689751;
+			public const int TextAppearance_Compat_Notification = 2131689751;
 			
 			// aapt resource value: 0x7F0F0118
-			public const int TextAppearance_Compat_Notification_Line2 = 2131689752;
+			public const int TextAppearance_Compat_Notification_Info = 2131689752;
 			
 			// aapt resource value: 0x7F0F0119
-			public const int TextAppearance_Compat_Notification_Time = 2131689753;
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131689753;
 			
 			// aapt resource value: 0x7F0F011A
-			public const int TextAppearance_Compat_Notification_Title = 2131689754;
+			public const int TextAppearance_Compat_Notification_Line2 = 2131689754;
 			
 			// aapt resource value: 0x7F0F011B
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689755;
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131689755;
 			
 			// aapt resource value: 0x7F0F011C
-			public const int TextAppearance_Design_Counter = 2131689756;
+			public const int TextAppearance_Compat_Notification_Media = 2131689756;
 			
 			// aapt resource value: 0x7F0F011D
-			public const int TextAppearance_Design_Counter_Overflow = 2131689757;
+			public const int TextAppearance_Compat_Notification_Time = 2131689757;
 			
 			// aapt resource value: 0x7F0F011E
-			public const int TextAppearance_Design_Error = 2131689758;
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131689758;
 			
 			// aapt resource value: 0x7F0F011F
-			public const int TextAppearance_Design_HelperText = 2131689759;
+			public const int TextAppearance_Compat_Notification_Title = 2131689759;
 			
 			// aapt resource value: 0x7F0F0120
-			public const int TextAppearance_Design_Hint = 2131689760;
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131689760;
 			
 			// aapt resource value: 0x7F0F0121
-			public const int TextAppearance_Design_Snackbar_Message = 2131689761;
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689761;
 			
 			// aapt resource value: 0x7F0F0122
-			public const int TextAppearance_Design_Tab = 2131689762;
+			public const int TextAppearance_Design_Counter = 2131689762;
 			
 			// aapt resource value: 0x7F0F0123
-			public const int TextAppearance_MaterialComponents_Body1 = 2131689763;
+			public const int TextAppearance_Design_Counter_Overflow = 2131689763;
 			
 			// aapt resource value: 0x7F0F0124
-			public const int TextAppearance_MaterialComponents_Body2 = 2131689764;
+			public const int TextAppearance_Design_Error = 2131689764;
 			
 			// aapt resource value: 0x7F0F0125
-			public const int TextAppearance_MaterialComponents_Button = 2131689765;
+			public const int TextAppearance_Design_HelperText = 2131689765;
 			
 			// aapt resource value: 0x7F0F0126
-			public const int TextAppearance_MaterialComponents_Caption = 2131689766;
+			public const int TextAppearance_Design_Hint = 2131689766;
 			
 			// aapt resource value: 0x7F0F0127
-			public const int TextAppearance_MaterialComponents_Chip = 2131689767;
+			public const int TextAppearance_Design_Snackbar_Message = 2131689767;
 			
 			// aapt resource value: 0x7F0F0128
-			public const int TextAppearance_MaterialComponents_Headline1 = 2131689768;
+			public const int TextAppearance_Design_Tab = 2131689768;
 			
 			// aapt resource value: 0x7F0F0129
-			public const int TextAppearance_MaterialComponents_Headline2 = 2131689769;
+			public const int TextAppearance_MaterialComponents_Body1 = 2131689769;
 			
 			// aapt resource value: 0x7F0F012A
-			public const int TextAppearance_MaterialComponents_Headline3 = 2131689770;
+			public const int TextAppearance_MaterialComponents_Body2 = 2131689770;
 			
 			// aapt resource value: 0x7F0F012B
-			public const int TextAppearance_MaterialComponents_Headline4 = 2131689771;
+			public const int TextAppearance_MaterialComponents_Button = 2131689771;
 			
 			// aapt resource value: 0x7F0F012C
-			public const int TextAppearance_MaterialComponents_Headline5 = 2131689772;
+			public const int TextAppearance_MaterialComponents_Caption = 2131689772;
 			
 			// aapt resource value: 0x7F0F012D
-			public const int TextAppearance_MaterialComponents_Headline6 = 2131689773;
+			public const int TextAppearance_MaterialComponents_Chip = 2131689773;
 			
 			// aapt resource value: 0x7F0F012E
-			public const int TextAppearance_MaterialComponents_Overline = 2131689774;
+			public const int TextAppearance_MaterialComponents_Headline1 = 2131689774;
 			
 			// aapt resource value: 0x7F0F012F
-			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689775;
+			public const int TextAppearance_MaterialComponents_Headline2 = 2131689775;
 			
 			// aapt resource value: 0x7F0F0130
-			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689776;
+			public const int TextAppearance_MaterialComponents_Headline3 = 2131689776;
 			
 			// aapt resource value: 0x7F0F0131
-			public const int TextAppearance_MaterialComponents_Tab = 2131689777;
+			public const int TextAppearance_MaterialComponents_Headline4 = 2131689777;
 			
 			// aapt resource value: 0x7F0F0132
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689778;
+			public const int TextAppearance_MaterialComponents_Headline5 = 2131689778;
 			
 			// aapt resource value: 0x7F0F0133
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689779;
+			public const int TextAppearance_MaterialComponents_Headline6 = 2131689779;
 			
 			// aapt resource value: 0x7F0F0134
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689780;
-			
-			// aapt resource value: 0x7F0F0165
-			public const int ThemeOverlay_AppCompat = 2131689829;
-			
-			// aapt resource value: 0x7F0F0166
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131689830;
-			
-			// aapt resource value: 0x7F0F0167
-			public const int ThemeOverlay_AppCompat_Dark = 2131689831;
-			
-			// aapt resource value: 0x7F0F0168
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689832;
-			
-			// aapt resource value: 0x7F0F0169
-			public const int ThemeOverlay_AppCompat_Dialog = 2131689833;
-			
-			// aapt resource value: 0x7F0F016A
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689834;
-			
-			// aapt resource value: 0x7F0F016B
-			public const int ThemeOverlay_AppCompat_Light = 2131689835;
-			
-			// aapt resource value: 0x7F0F016C
-			public const int ThemeOverlay_MaterialComponents = 2131689836;
-			
-			// aapt resource value: 0x7F0F016D
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689837;
-			
-			// aapt resource value: 0x7F0F016E
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131689838;
-			
-			// aapt resource value: 0x7F0F016F
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689839;
-			
-			// aapt resource value: 0x7F0F0170
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689840;
-			
-			// aapt resource value: 0x7F0F0171
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689841;
-			
-			// aapt resource value: 0x7F0F0172
-			public const int ThemeOverlay_MaterialComponents_Light = 2131689842;
-			
-			// aapt resource value: 0x7F0F0173
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689843;
-			
-			// aapt resource value: 0x7F0F0174
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689844;
-			
-			// aapt resource value: 0x7F0F0175
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689845;
-			
-			// aapt resource value: 0x7F0F0176
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689846;
-			
-			// aapt resource value: 0x7F0F0177
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689847;
+			public const int TextAppearance_MaterialComponents_Overline = 2131689780;
 			
 			// aapt resource value: 0x7F0F0135
-			public const int Theme_AppCompat = 2131689781;
+			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689781;
 			
 			// aapt resource value: 0x7F0F0136
-			public const int Theme_AppCompat_CompactMenu = 2131689782;
+			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689782;
 			
 			// aapt resource value: 0x7F0F0137
-			public const int Theme_AppCompat_DayNight = 2131689783;
+			public const int TextAppearance_MaterialComponents_Tab = 2131689783;
 			
 			// aapt resource value: 0x7F0F0138
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689784;
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689784;
 			
 			// aapt resource value: 0x7F0F0139
-			public const int Theme_AppCompat_DayNight_Dialog = 2131689785;
-			
-			// aapt resource value: 0x7F0F013C
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689788;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689785;
 			
 			// aapt resource value: 0x7F0F013A
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689786;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689786;
 			
-			// aapt resource value: 0x7F0F013B
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689787;
+			// aapt resource value: 0x7F0F016B
+			public const int ThemeOverlay_AppCompat = 2131689835;
 			
-			// aapt resource value: 0x7F0F013D
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689789;
+			// aapt resource value: 0x7F0F016C
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131689836;
 			
-			// aapt resource value: 0x7F0F013E
-			public const int Theme_AppCompat_Dialog = 2131689790;
+			// aapt resource value: 0x7F0F016D
+			public const int ThemeOverlay_AppCompat_Dark = 2131689837;
 			
-			// aapt resource value: 0x7F0F0141
-			public const int Theme_AppCompat_DialogWhenLarge = 2131689793;
+			// aapt resource value: 0x7F0F016E
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689838;
 			
-			// aapt resource value: 0x7F0F013F
-			public const int Theme_AppCompat_Dialog_Alert = 2131689791;
+			// aapt resource value: 0x7F0F016F
+			public const int ThemeOverlay_AppCompat_Dialog = 2131689839;
 			
-			// aapt resource value: 0x7F0F0140
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131689792;
+			// aapt resource value: 0x7F0F0170
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689840;
 			
-			// aapt resource value: 0x7F0F0142
-			public const int Theme_AppCompat_Light = 2131689794;
+			// aapt resource value: 0x7F0F0171
+			public const int ThemeOverlay_AppCompat_Light = 2131689841;
 			
-			// aapt resource value: 0x7F0F0143
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131689795;
+			// aapt resource value: 0x7F0F0172
+			public const int ThemeOverlay_MaterialComponents = 2131689842;
 			
-			// aapt resource value: 0x7F0F0144
-			public const int Theme_AppCompat_Light_Dialog = 2131689796;
+			// aapt resource value: 0x7F0F0173
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689843;
 			
-			// aapt resource value: 0x7F0F0147
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689799;
+			// aapt resource value: 0x7F0F0174
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131689844;
 			
-			// aapt resource value: 0x7F0F0145
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689797;
+			// aapt resource value: 0x7F0F0175
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689845;
 			
-			// aapt resource value: 0x7F0F0146
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689798;
+			// aapt resource value: 0x7F0F0176
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689846;
 			
-			// aapt resource value: 0x7F0F0148
-			public const int Theme_AppCompat_Light_NoActionBar = 2131689800;
-			
-			// aapt resource value: 0x7F0F0149
-			public const int Theme_AppCompat_NoActionBar = 2131689801;
-			
-			// aapt resource value: 0x7F0F014A
-			public const int Theme_Design = 2131689802;
-			
-			// aapt resource value: 0x7F0F014B
-			public const int Theme_Design_BottomSheetDialog = 2131689803;
-			
-			// aapt resource value: 0x7F0F014C
-			public const int Theme_Design_Light = 2131689804;
-			
-			// aapt resource value: 0x7F0F014D
-			public const int Theme_Design_Light_BottomSheetDialog = 2131689805;
-			
-			// aapt resource value: 0x7F0F014E
-			public const int Theme_Design_Light_NoActionBar = 2131689806;
-			
-			// aapt resource value: 0x7F0F014F
-			public const int Theme_Design_NoActionBar = 2131689807;
-			
-			// aapt resource value: 0x7F0F0150
-			public const int Theme_MaterialComponents = 2131689808;
-			
-			// aapt resource value: 0x7F0F0151
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689809;
-			
-			// aapt resource value: 0x7F0F0152
-			public const int Theme_MaterialComponents_Bridge = 2131689810;
-			
-			// aapt resource value: 0x7F0F0153
-			public const int Theme_MaterialComponents_CompactMenu = 2131689811;
-			
-			// aapt resource value: 0x7F0F0154
-			public const int Theme_MaterialComponents_Dialog = 2131689812;
-			
-			// aapt resource value: 0x7F0F0157
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689815;
-			
-			// aapt resource value: 0x7F0F0155
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131689813;
-			
-			// aapt resource value: 0x7F0F0156
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689814;
-			
-			// aapt resource value: 0x7F0F0158
-			public const int Theme_MaterialComponents_Light = 2131689816;
-			
-			// aapt resource value: 0x7F0F0159
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689817;
-			
-			// aapt resource value: 0x7F0F015A
-			public const int Theme_MaterialComponents_Light_Bridge = 2131689818;
-			
-			// aapt resource value: 0x7F0F015B
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689819;
-			
-			// aapt resource value: 0x7F0F015C
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689820;
-			
-			// aapt resource value: 0x7F0F015D
-			public const int Theme_MaterialComponents_Light_Dialog = 2131689821;
-			
-			// aapt resource value: 0x7F0F0160
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689824;
-			
-			// aapt resource value: 0x7F0F015E
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689822;
-			
-			// aapt resource value: 0x7F0F015F
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689823;
-			
-			// aapt resource value: 0x7F0F0161
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689825;
-			
-			// aapt resource value: 0x7F0F0162
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689826;
-			
-			// aapt resource value: 0x7F0F0163
-			public const int Theme_MaterialComponents_NoActionBar = 2131689827;
-			
-			// aapt resource value: 0x7F0F0164
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689828;
+			// aapt resource value: 0x7F0F0177
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689847;
 			
 			// aapt resource value: 0x7F0F0178
-			public const int Widget_AppCompat_ActionBar = 2131689848;
+			public const int ThemeOverlay_MaterialComponents_Light = 2131689848;
 			
 			// aapt resource value: 0x7F0F0179
-			public const int Widget_AppCompat_ActionBar_Solid = 2131689849;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689849;
 			
 			// aapt resource value: 0x7F0F017A
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131689850;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689850;
 			
 			// aapt resource value: 0x7F0F017B
-			public const int Widget_AppCompat_ActionBar_TabText = 2131689851;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689851;
 			
 			// aapt resource value: 0x7F0F017C
-			public const int Widget_AppCompat_ActionBar_TabView = 2131689852;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689852;
 			
 			// aapt resource value: 0x7F0F017D
-			public const int Widget_AppCompat_ActionButton = 2131689853;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689853;
+			
+			// aapt resource value: 0x7F0F013B
+			public const int Theme_AppCompat = 2131689787;
+			
+			// aapt resource value: 0x7F0F013C
+			public const int Theme_AppCompat_CompactMenu = 2131689788;
+			
+			// aapt resource value: 0x7F0F013D
+			public const int Theme_AppCompat_DayNight = 2131689789;
+			
+			// aapt resource value: 0x7F0F013E
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689790;
+			
+			// aapt resource value: 0x7F0F013F
+			public const int Theme_AppCompat_DayNight_Dialog = 2131689791;
+			
+			// aapt resource value: 0x7F0F0142
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689794;
+			
+			// aapt resource value: 0x7F0F0140
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689792;
+			
+			// aapt resource value: 0x7F0F0141
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689793;
+			
+			// aapt resource value: 0x7F0F0143
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689795;
+			
+			// aapt resource value: 0x7F0F0144
+			public const int Theme_AppCompat_Dialog = 2131689796;
+			
+			// aapt resource value: 0x7F0F0147
+			public const int Theme_AppCompat_DialogWhenLarge = 2131689799;
+			
+			// aapt resource value: 0x7F0F0145
+			public const int Theme_AppCompat_Dialog_Alert = 2131689797;
+			
+			// aapt resource value: 0x7F0F0146
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131689798;
+			
+			// aapt resource value: 0x7F0F0148
+			public const int Theme_AppCompat_Light = 2131689800;
+			
+			// aapt resource value: 0x7F0F0149
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131689801;
+			
+			// aapt resource value: 0x7F0F014A
+			public const int Theme_AppCompat_Light_Dialog = 2131689802;
+			
+			// aapt resource value: 0x7F0F014D
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689805;
+			
+			// aapt resource value: 0x7F0F014B
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689803;
+			
+			// aapt resource value: 0x7F0F014C
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689804;
+			
+			// aapt resource value: 0x7F0F014E
+			public const int Theme_AppCompat_Light_NoActionBar = 2131689806;
+			
+			// aapt resource value: 0x7F0F014F
+			public const int Theme_AppCompat_NoActionBar = 2131689807;
+			
+			// aapt resource value: 0x7F0F0150
+			public const int Theme_Design = 2131689808;
+			
+			// aapt resource value: 0x7F0F0151
+			public const int Theme_Design_BottomSheetDialog = 2131689809;
+			
+			// aapt resource value: 0x7F0F0152
+			public const int Theme_Design_Light = 2131689810;
+			
+			// aapt resource value: 0x7F0F0153
+			public const int Theme_Design_Light_BottomSheetDialog = 2131689811;
+			
+			// aapt resource value: 0x7F0F0154
+			public const int Theme_Design_Light_NoActionBar = 2131689812;
+			
+			// aapt resource value: 0x7F0F0155
+			public const int Theme_Design_NoActionBar = 2131689813;
+			
+			// aapt resource value: 0x7F0F0156
+			public const int Theme_MaterialComponents = 2131689814;
+			
+			// aapt resource value: 0x7F0F0157
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689815;
+			
+			// aapt resource value: 0x7F0F0158
+			public const int Theme_MaterialComponents_Bridge = 2131689816;
+			
+			// aapt resource value: 0x7F0F0159
+			public const int Theme_MaterialComponents_CompactMenu = 2131689817;
+			
+			// aapt resource value: 0x7F0F015A
+			public const int Theme_MaterialComponents_Dialog = 2131689818;
+			
+			// aapt resource value: 0x7F0F015D
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689821;
+			
+			// aapt resource value: 0x7F0F015B
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131689819;
+			
+			// aapt resource value: 0x7F0F015C
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689820;
+			
+			// aapt resource value: 0x7F0F015E
+			public const int Theme_MaterialComponents_Light = 2131689822;
+			
+			// aapt resource value: 0x7F0F015F
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689823;
+			
+			// aapt resource value: 0x7F0F0160
+			public const int Theme_MaterialComponents_Light_Bridge = 2131689824;
+			
+			// aapt resource value: 0x7F0F0161
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689825;
+			
+			// aapt resource value: 0x7F0F0162
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689826;
+			
+			// aapt resource value: 0x7F0F0163
+			public const int Theme_MaterialComponents_Light_Dialog = 2131689827;
+			
+			// aapt resource value: 0x7F0F0166
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689830;
+			
+			// aapt resource value: 0x7F0F0164
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689828;
+			
+			// aapt resource value: 0x7F0F0165
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689829;
+			
+			// aapt resource value: 0x7F0F0167
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689831;
+			
+			// aapt resource value: 0x7F0F0168
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689832;
+			
+			// aapt resource value: 0x7F0F0169
+			public const int Theme_MaterialComponents_NoActionBar = 2131689833;
+			
+			// aapt resource value: 0x7F0F016A
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689834;
 			
 			// aapt resource value: 0x7F0F017E
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131689854;
+			public const int Widget_AppCompat_ActionBar = 2131689854;
 			
 			// aapt resource value: 0x7F0F017F
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131689855;
+			public const int Widget_AppCompat_ActionBar_Solid = 2131689855;
 			
 			// aapt resource value: 0x7F0F0180
-			public const int Widget_AppCompat_ActionMode = 2131689856;
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131689856;
 			
 			// aapt resource value: 0x7F0F0181
-			public const int Widget_AppCompat_ActivityChooserView = 2131689857;
+			public const int Widget_AppCompat_ActionBar_TabText = 2131689857;
 			
 			// aapt resource value: 0x7F0F0182
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131689858;
+			public const int Widget_AppCompat_ActionBar_TabView = 2131689858;
 			
 			// aapt resource value: 0x7F0F0183
-			public const int Widget_AppCompat_Button = 2131689859;
-			
-			// aapt resource value: 0x7F0F0189
-			public const int Widget_AppCompat_ButtonBar = 2131689865;
-			
-			// aapt resource value: 0x7F0F018A
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131689866;
+			public const int Widget_AppCompat_ActionButton = 2131689859;
 			
 			// aapt resource value: 0x7F0F0184
-			public const int Widget_AppCompat_Button_Borderless = 2131689860;
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131689860;
 			
 			// aapt resource value: 0x7F0F0185
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131689861;
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131689861;
 			
 			// aapt resource value: 0x7F0F0186
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689862;
+			public const int Widget_AppCompat_ActionMode = 2131689862;
 			
 			// aapt resource value: 0x7F0F0187
-			public const int Widget_AppCompat_Button_Colored = 2131689863;
+			public const int Widget_AppCompat_ActivityChooserView = 2131689863;
 			
 			// aapt resource value: 0x7F0F0188
-			public const int Widget_AppCompat_Button_Small = 2131689864;
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131689864;
 			
-			// aapt resource value: 0x7F0F018B
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131689867;
-			
-			// aapt resource value: 0x7F0F018C
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131689868;
-			
-			// aapt resource value: 0x7F0F018D
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131689869;
-			
-			// aapt resource value: 0x7F0F018E
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131689870;
+			// aapt resource value: 0x7F0F0189
+			public const int Widget_AppCompat_Button = 2131689865;
 			
 			// aapt resource value: 0x7F0F018F
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131689871;
+			public const int Widget_AppCompat_ButtonBar = 2131689871;
 			
 			// aapt resource value: 0x7F0F0190
-			public const int Widget_AppCompat_EditText = 2131689872;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131689872;
+			
+			// aapt resource value: 0x7F0F018A
+			public const int Widget_AppCompat_Button_Borderless = 2131689866;
+			
+			// aapt resource value: 0x7F0F018B
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131689867;
+			
+			// aapt resource value: 0x7F0F018C
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689868;
+			
+			// aapt resource value: 0x7F0F018D
+			public const int Widget_AppCompat_Button_Colored = 2131689869;
+			
+			// aapt resource value: 0x7F0F018E
+			public const int Widget_AppCompat_Button_Small = 2131689870;
 			
 			// aapt resource value: 0x7F0F0191
-			public const int Widget_AppCompat_ImageButton = 2131689873;
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131689873;
 			
 			// aapt resource value: 0x7F0F0192
-			public const int Widget_AppCompat_Light_ActionBar = 2131689874;
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131689874;
 			
 			// aapt resource value: 0x7F0F0193
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131689875;
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131689875;
 			
 			// aapt resource value: 0x7F0F0194
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131689876;
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131689876;
 			
 			// aapt resource value: 0x7F0F0195
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131689877;
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131689877;
 			
 			// aapt resource value: 0x7F0F0196
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131689878;
+			public const int Widget_AppCompat_EditText = 2131689878;
 			
 			// aapt resource value: 0x7F0F0197
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131689879;
+			public const int Widget_AppCompat_ImageButton = 2131689879;
 			
 			// aapt resource value: 0x7F0F0198
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689880;
+			public const int Widget_AppCompat_Light_ActionBar = 2131689880;
 			
 			// aapt resource value: 0x7F0F0199
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131689881;
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131689881;
 			
 			// aapt resource value: 0x7F0F019A
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131689882;
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131689882;
 			
 			// aapt resource value: 0x7F0F019B
-			public const int Widget_AppCompat_Light_ActionButton = 2131689883;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131689883;
 			
 			// aapt resource value: 0x7F0F019C
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131689884;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131689884;
 			
 			// aapt resource value: 0x7F0F019D
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131689885;
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131689885;
 			
 			// aapt resource value: 0x7F0F019E
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131689886;
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689886;
 			
 			// aapt resource value: 0x7F0F019F
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131689887;
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131689887;
 			
 			// aapt resource value: 0x7F0F01A0
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131689888;
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131689888;
 			
 			// aapt resource value: 0x7F0F01A1
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131689889;
+			public const int Widget_AppCompat_Light_ActionButton = 2131689889;
 			
 			// aapt resource value: 0x7F0F01A2
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131689890;
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131689890;
 			
 			// aapt resource value: 0x7F0F01A3
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131689891;
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131689891;
 			
 			// aapt resource value: 0x7F0F01A4
-			public const int Widget_AppCompat_Light_PopupMenu = 2131689892;
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131689892;
 			
 			// aapt resource value: 0x7F0F01A5
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131689893;
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131689893;
 			
 			// aapt resource value: 0x7F0F01A6
-			public const int Widget_AppCompat_Light_SearchView = 2131689894;
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131689894;
 			
 			// aapt resource value: 0x7F0F01A7
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131689895;
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131689895;
 			
 			// aapt resource value: 0x7F0F01A8
-			public const int Widget_AppCompat_ListMenuView = 2131689896;
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131689896;
 			
 			// aapt resource value: 0x7F0F01A9
-			public const int Widget_AppCompat_ListPopupWindow = 2131689897;
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131689897;
 			
 			// aapt resource value: 0x7F0F01AA
-			public const int Widget_AppCompat_ListView = 2131689898;
+			public const int Widget_AppCompat_Light_PopupMenu = 2131689898;
 			
 			// aapt resource value: 0x7F0F01AB
-			public const int Widget_AppCompat_ListView_DropDown = 2131689899;
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131689899;
 			
 			// aapt resource value: 0x7F0F01AC
-			public const int Widget_AppCompat_ListView_Menu = 2131689900;
+			public const int Widget_AppCompat_Light_SearchView = 2131689900;
 			
 			// aapt resource value: 0x7F0F01AD
-			public const int Widget_AppCompat_PopupMenu = 2131689901;
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131689901;
 			
 			// aapt resource value: 0x7F0F01AE
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131689902;
+			public const int Widget_AppCompat_ListMenuView = 2131689902;
 			
 			// aapt resource value: 0x7F0F01AF
-			public const int Widget_AppCompat_PopupWindow = 2131689903;
+			public const int Widget_AppCompat_ListPopupWindow = 2131689903;
 			
 			// aapt resource value: 0x7F0F01B0
-			public const int Widget_AppCompat_ProgressBar = 2131689904;
+			public const int Widget_AppCompat_ListView = 2131689904;
 			
 			// aapt resource value: 0x7F0F01B1
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131689905;
+			public const int Widget_AppCompat_ListView_DropDown = 2131689905;
 			
 			// aapt resource value: 0x7F0F01B2
-			public const int Widget_AppCompat_RatingBar = 2131689906;
+			public const int Widget_AppCompat_ListView_Menu = 2131689906;
 			
 			// aapt resource value: 0x7F0F01B3
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131689907;
+			public const int Widget_AppCompat_PopupMenu = 2131689907;
 			
 			// aapt resource value: 0x7F0F01B4
-			public const int Widget_AppCompat_RatingBar_Small = 2131689908;
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131689908;
 			
 			// aapt resource value: 0x7F0F01B5
-			public const int Widget_AppCompat_SearchView = 2131689909;
+			public const int Widget_AppCompat_PopupWindow = 2131689909;
 			
 			// aapt resource value: 0x7F0F01B6
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131689910;
+			public const int Widget_AppCompat_ProgressBar = 2131689910;
 			
 			// aapt resource value: 0x7F0F01B7
-			public const int Widget_AppCompat_SeekBar = 2131689911;
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131689911;
 			
 			// aapt resource value: 0x7F0F01B8
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131689912;
+			public const int Widget_AppCompat_RatingBar = 2131689912;
 			
 			// aapt resource value: 0x7F0F01B9
-			public const int Widget_AppCompat_Spinner = 2131689913;
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131689913;
 			
 			// aapt resource value: 0x7F0F01BA
-			public const int Widget_AppCompat_Spinner_DropDown = 2131689914;
+			public const int Widget_AppCompat_RatingBar_Small = 2131689914;
 			
 			// aapt resource value: 0x7F0F01BB
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131689915;
+			public const int Widget_AppCompat_SearchView = 2131689915;
 			
 			// aapt resource value: 0x7F0F01BC
-			public const int Widget_AppCompat_Spinner_Underlined = 2131689916;
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131689916;
 			
 			// aapt resource value: 0x7F0F01BD
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131689917;
+			public const int Widget_AppCompat_SeekBar = 2131689917;
 			
 			// aapt resource value: 0x7F0F01BE
-			public const int Widget_AppCompat_Toolbar = 2131689918;
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131689918;
 			
 			// aapt resource value: 0x7F0F01BF
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131689919;
+			public const int Widget_AppCompat_Spinner = 2131689919;
 			
 			// aapt resource value: 0x7F0F01C0
-			public const int Widget_Compat_NotificationActionContainer = 2131689920;
+			public const int Widget_AppCompat_Spinner_DropDown = 2131689920;
 			
 			// aapt resource value: 0x7F0F01C1
-			public const int Widget_Compat_NotificationActionText = 2131689921;
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131689921;
 			
 			// aapt resource value: 0x7F0F01C2
-			public const int Widget_Design_AppBarLayout = 2131689922;
+			public const int Widget_AppCompat_Spinner_Underlined = 2131689922;
 			
 			// aapt resource value: 0x7F0F01C3
-			public const int Widget_Design_BottomNavigationView = 2131689923;
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131689923;
 			
 			// aapt resource value: 0x7F0F01C4
-			public const int Widget_Design_BottomSheet_Modal = 2131689924;
+			public const int Widget_AppCompat_Toolbar = 2131689924;
 			
 			// aapt resource value: 0x7F0F01C5
-			public const int Widget_Design_CollapsingToolbar = 2131689925;
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131689925;
 			
 			// aapt resource value: 0x7F0F01C6
-			public const int Widget_Design_FloatingActionButton = 2131689926;
+			public const int Widget_Compat_NotificationActionContainer = 2131689926;
 			
 			// aapt resource value: 0x7F0F01C7
-			public const int Widget_Design_NavigationView = 2131689927;
+			public const int Widget_Compat_NotificationActionText = 2131689927;
 			
 			// aapt resource value: 0x7F0F01C8
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131689928;
+			public const int Widget_Design_AppBarLayout = 2131689928;
 			
 			// aapt resource value: 0x7F0F01C9
-			public const int Widget_Design_Snackbar = 2131689929;
+			public const int Widget_Design_BottomNavigationView = 2131689929;
 			
 			// aapt resource value: 0x7F0F01CA
-			public const int Widget_Design_TabLayout = 2131689930;
+			public const int Widget_Design_BottomSheet_Modal = 2131689930;
 			
 			// aapt resource value: 0x7F0F01CB
-			public const int Widget_Design_TextInputLayout = 2131689931;
+			public const int Widget_Design_CollapsingToolbar = 2131689931;
 			
 			// aapt resource value: 0x7F0F01CC
-			public const int Widget_MaterialComponents_BottomAppBar = 2131689932;
+			public const int Widget_Design_FloatingActionButton = 2131689932;
 			
 			// aapt resource value: 0x7F0F01CD
-			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131689933;
+			public const int Widget_Design_NavigationView = 2131689933;
 			
 			// aapt resource value: 0x7F0F01CE
-			public const int Widget_MaterialComponents_BottomNavigationView = 2131689934;
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131689934;
 			
 			// aapt resource value: 0x7F0F01CF
-			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131689935;
+			public const int Widget_Design_Snackbar = 2131689935;
 			
 			// aapt resource value: 0x7F0F01D0
-			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131689936;
+			public const int Widget_Design_TabLayout = 2131689936;
 			
 			// aapt resource value: 0x7F0F01D1
-			public const int Widget_MaterialComponents_Button = 2131689937;
+			public const int Widget_Design_TextInputLayout = 2131689937;
 			
 			// aapt resource value: 0x7F0F01D2
-			public const int Widget_MaterialComponents_Button_Icon = 2131689938;
+			public const int Widget_MaterialComponents_BottomAppBar = 2131689938;
 			
 			// aapt resource value: 0x7F0F01D3
-			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131689939;
+			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131689939;
 			
 			// aapt resource value: 0x7F0F01D4
-			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131689940;
+			public const int Widget_MaterialComponents_BottomNavigationView = 2131689940;
 			
 			// aapt resource value: 0x7F0F01D5
-			public const int Widget_MaterialComponents_Button_TextButton = 2131689941;
+			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131689941;
 			
 			// aapt resource value: 0x7F0F01D6
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131689942;
+			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131689942;
 			
 			// aapt resource value: 0x7F0F01D7
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131689943;
+			public const int Widget_MaterialComponents_Button = 2131689943;
 			
 			// aapt resource value: 0x7F0F01D8
-			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131689944;
+			public const int Widget_MaterialComponents_Button_Icon = 2131689944;
 			
 			// aapt resource value: 0x7F0F01D9
-			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131689945;
+			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131689945;
 			
 			// aapt resource value: 0x7F0F01DA
-			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131689946;
+			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131689946;
 			
 			// aapt resource value: 0x7F0F01DB
-			public const int Widget_MaterialComponents_CardView = 2131689947;
-			
-			// aapt resource value: 0x7F0F01E0
-			public const int Widget_MaterialComponents_ChipGroup = 2131689952;
+			public const int Widget_MaterialComponents_Button_TextButton = 2131689947;
 			
 			// aapt resource value: 0x7F0F01DC
-			public const int Widget_MaterialComponents_Chip_Action = 2131689948;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131689948;
 			
 			// aapt resource value: 0x7F0F01DD
-			public const int Widget_MaterialComponents_Chip_Choice = 2131689949;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131689949;
 			
 			// aapt resource value: 0x7F0F01DE
-			public const int Widget_MaterialComponents_Chip_Entry = 2131689950;
+			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131689950;
 			
 			// aapt resource value: 0x7F0F01DF
-			public const int Widget_MaterialComponents_Chip_Filter = 2131689951;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131689951;
+			
+			// aapt resource value: 0x7F0F01E0
+			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131689952;
 			
 			// aapt resource value: 0x7F0F01E1
-			public const int Widget_MaterialComponents_FloatingActionButton = 2131689953;
-			
-			// aapt resource value: 0x7F0F01E2
-			public const int Widget_MaterialComponents_NavigationView = 2131689954;
-			
-			// aapt resource value: 0x7F0F01E3
-			public const int Widget_MaterialComponents_Snackbar = 2131689955;
-			
-			// aapt resource value: 0x7F0F01E4
-			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131689956;
-			
-			// aapt resource value: 0x7F0F01E5
-			public const int Widget_MaterialComponents_TabLayout = 2131689957;
+			public const int Widget_MaterialComponents_CardView = 2131689953;
 			
 			// aapt resource value: 0x7F0F01E6
-			public const int Widget_MaterialComponents_TabLayout_Colored = 2131689958;
+			public const int Widget_MaterialComponents_ChipGroup = 2131689958;
+			
+			// aapt resource value: 0x7F0F01E2
+			public const int Widget_MaterialComponents_Chip_Action = 2131689954;
+			
+			// aapt resource value: 0x7F0F01E3
+			public const int Widget_MaterialComponents_Chip_Choice = 2131689955;
+			
+			// aapt resource value: 0x7F0F01E4
+			public const int Widget_MaterialComponents_Chip_Entry = 2131689956;
+			
+			// aapt resource value: 0x7F0F01E5
+			public const int Widget_MaterialComponents_Chip_Filter = 2131689957;
 			
 			// aapt resource value: 0x7F0F01E7
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131689959;
+			public const int Widget_MaterialComponents_FloatingActionButton = 2131689959;
 			
 			// aapt resource value: 0x7F0F01E8
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689960;
+			public const int Widget_MaterialComponents_NavigationView = 2131689960;
 			
 			// aapt resource value: 0x7F0F01E9
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131689961;
+			public const int Widget_MaterialComponents_Snackbar = 2131689961;
 			
 			// aapt resource value: 0x7F0F01EA
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689962;
+			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131689962;
 			
 			// aapt resource value: 0x7F0F01EB
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131689963;
+			public const int Widget_MaterialComponents_TabLayout = 2131689963;
 			
 			// aapt resource value: 0x7F0F01EC
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131689964;
+			public const int Widget_MaterialComponents_TabLayout_Colored = 2131689964;
 			
 			// aapt resource value: 0x7F0F01ED
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131689965;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131689965;
 			
 			// aapt resource value: 0x7F0F01EE
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131689966;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689966;
 			
 			// aapt resource value: 0x7F0F01EF
-			public const int Widget_MaterialComponents_Toolbar = 2131689967;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131689967;
 			
 			// aapt resource value: 0x7F0F01F0
-			public const int Widget_Support_CoordinatorLayout = 2131689968;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689968;
+			
+			// aapt resource value: 0x7F0F01F1
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131689969;
+			
+			// aapt resource value: 0x7F0F01F2
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131689970;
+			
+			// aapt resource value: 0x7F0F01F3
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131689971;
+			
+			// aapt resource value: 0x7F0F01F4
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131689972;
+			
+			// aapt resource value: 0x7F0F01F5
+			public const int Widget_MaterialComponents_Toolbar = 2131689973;
+			
+			// aapt resource value: 0x7F0F01F6
+			public const int Widget_Support_CoordinatorLayout = 2131689974;
 			
 			static Style()
 			{

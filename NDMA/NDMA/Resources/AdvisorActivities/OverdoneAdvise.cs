@@ -45,9 +45,9 @@ namespace NDMA.Resources.AdvisorActivities
                  "Sample"
            };
 
-            ListView list = FindViewById<ListView>(Resource.Id.AdviseFoodListView);
-            AdvisorAdapter arrayAdapter2 = new AdvisorAdapter(this, Sm, Sm2);
-            list.Adapter = arrayAdapter2;
+            //ListView list = FindViewById<ListView>(Resource.Id.AdviseFoodListView);
+            //AdvisorAdapter arrayAdapter2 = new AdvisorAdapter(this, Sm, Sm2);
+            //list.Adapter = arrayAdapter2;
 
             Button button = FindViewById<Button>(Resource.Id.AdviseReturnBtn);
             button.Click += delegate { Finish(); };

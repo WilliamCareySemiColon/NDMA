@@ -17,13 +17,11 @@ namespace NDMA.Resources.NutritionalAdvisors
 {
     public static class NutrionalAdvisor
     {
-        //test method to connect the advisor page to the actual advisor
-        public static String GetCaloriesAdvise(List<DBFood> dBFoodCollection, Activity context)
+        public static double GetCalorieCount(List<DBFood> dBFoodCollection)
         {
             double cal = 0;
-            string message;
 
-            foreach(DBFood food in dBFoodCollection )
+            foreach (DBFood food in dBFoodCollection)
             {
                 var nutritionCollection = food.Recipe.TotalNutrients;
 
@@ -33,14 +31,59 @@ namespace NDMA.Resources.NutritionalAdvisors
 
             }
 
-            if (cal > TestSampleData.Calories) {
-                return StaticDataModel.Obesity.GetDescription();
+            return cal;
+        }
+
+        public static String [] GetCalorieAdvise(double cal)
+        {
+            String[] message;
+            if (cal > TestSampleData.Calories)
+            {
+                var modelspec = StaticDataModel.Obesity;
+
+                message = new string[]
+                {
+                    modelspec.GetName(),
+                    modelspec.GetDescription(),
+                modelspec.GetImage().ToString()
+                };
+
+                return message;
             }
-            else if (cal < TestSampleData.MinCalories) {
-                return StaticDataModel.Underweight.GetDescription();
-            } else {
-                return "Amount of calories comsuned within acceptable paramters";
+            else if (cal < TestSampleData.MinCalories)
+            {
+                var modelspec = StaticDataModel.Underweight;
+
+                message = new string[]
+                {
+                    modelspec.GetName(),
+                    modelspec.GetDescription(),
+                    modelspec.GetImage().ToString()
+                };
+
+                return message;
             }
+            else
+            {
+                return new string[] { "Amount of calories comsuned within acceptable paramters" };
+            }
+        }
+        //test method to connect the advisor page to the actual advisor
+        public static String [] GetCaloriesAdvise(List<DBFood> dBFoodCollection, Activity context)
+        {
+            double cal = GetCalorieCount(dBFoodCollection);
+
+            var message = GetCalorieAdvise(cal);
+
+            return message;
+            //if (cal > TestSampleData.Calories) {
+            //    return StaticDataModel.Obesity.GetDescription();
+            //}
+            //else if (cal < TestSampleData.MinCalories) {
+            //    return StaticDataModel.Underweight.GetDescription();
+            //} else {
+            //    return "Amount of calories comsuned within acceptable paramters";
+            //}
         }
 
         //actually methods for the three main pages
@@ -186,5 +229,6 @@ namespace NDMA.Resources.NutritionalAdvisors
         {
 
         }
+
     }
 }

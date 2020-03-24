@@ -46,15 +46,15 @@ namespace NDMA.Resources.AdvisorActivities
                  "Sample"
            };
 
-            ListView list = FindViewById<ListView>(Resource.Id.AdviseFoodListView);
-            AdvisorAdapter arrayAdapter2 = new AdvisorAdapter(this, Sm, Sm2);
-            list.Adapter = arrayAdapter2;
+            //ListView list = FindViewById<ListView>(Resource.Id.AdviseFoodListView);
+            //AdvisorAdapter arrayAdapter2 = new AdvisorAdapter(this, Sm, Sm2);
+            //list.Adapter = arrayAdapter2;
 
-            if(FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0)
-            {
-                TextView adviseText = FindViewById<TextView>(Resource.Id.AdviseParagraph);
-                adviseText.Text = NutrionalAdvisor.GetCaloriesAdvise(FoodStorageItems.StaticFoodCollection.StoredFood, this);
-            }
+            //if(FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0)
+            //{
+            //    TextView adviseText = FindViewById<TextView>(Resource.Id.AdviseParagraph);
+            //    adviseText.Text = NutrionalAdvisor.GetCaloriesAdvise(FoodStorageItems.StaticFoodCollection.StoredFood, this);
+            //}
 
             Button button = FindViewById<Button>(Resource.Id.AdviseReturnBtn);
             button.Click += delegate { Finish(); };

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 
@@ -10,6 +11,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using NDMA.Resources.Adapter;
+using NDMA.TestStaticData;
 
 namespace NDMA.Resources.AdvisorActivities
 {
@@ -26,6 +28,17 @@ namespace NDMA.Resources.AdvisorActivities
             TextView header = FindViewById<TextView>(Resource.Id.HeaderMainAdvise);
 
             header.Text = "Underdone advise contents";
+
+            var caloriesItems = NutritionalAdvisors.NutrionalAdvisor.GetCaloriesAdvise(FoodStorageItems.StaticFoodCollection.StoredFood, this);
+
+            if (caloriesItems.Length == 3)
+            {
+                //var image = Convert.FromBase64String(caloriesItems[2]);
+                //var imageBitmap = Android.Graphics.BitmapFactory.DecodeByteArray(image, 0, image.Length);
+
+                var image = String.Equals(caloriesItems[0], "Obesity") ? StaticDataModel.Obesity.GetImage() : StaticDataModel.Underweight.GetImage();
+
+            };
 
             string[] Sm = new string[]
             {
@@ -52,5 +65,13 @@ namespace NDMA.Resources.AdvisorActivities
             Button button = FindViewById<Button>(Resource.Id.AdviseReturnBtn);
             button.Click += delegate { Finish(); };
         }
+
+        public Bitmap convert(String base64Str) throws IllegalArgumentException
+        {
+             byte[] decodedBytes = Base64.decode(
+                 base64Str.substring(base64Str.indexOf(",") + 1),
+                 Base64.DEFAULT);
+        return BitmapFactory.decodeByteArray(decodedBytes, 0, decodedBytes.length);
     }
+}
 }
