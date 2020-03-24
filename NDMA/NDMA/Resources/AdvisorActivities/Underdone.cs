@@ -25,9 +25,9 @@ namespace NDMA.Resources.AdvisorActivities
             // Create your application here
             SetContentView(Resource.Layout.UserAdviseMainLayout);
 
-            TextView header = FindViewById<TextView>(Resource.Id.HeaderMainAdvise);
+            //TextView header = FindViewById<TextView>(Resource.Id.HeaderMainAdvise);
 
-            header.Text = "Underdone advise contents";
+            //header.Text = "Underdone advise contents";
 
             var caloriesItems = NutritionalAdvisors.NutrionalAdvisor.GetCaloriesAdvise(FoodStorageItems.StaticFoodCollection.StoredFood, this);
 
@@ -58,20 +58,12 @@ namespace NDMA.Resources.AdvisorActivities
                  "Sample"
            };
 
-            ListView list = FindViewById<ListView>(Resource.Id.AdviseFoodListView);
-            AdvisorAdapter arrayAdapter2 = new AdvisorAdapter(this, Sm, Sm2);
-            list.Adapter = arrayAdapter2;
+            //ListView list = FindViewById<ListView>(Resource.Id.AdviseFoodListView);
+            //AdvisorAdapter arrayAdapter2 = new AdvisorAdapter(this, Sm, Sm2);
+            //list.Adapter = arrayAdapter2;
 
-            Button button = FindViewById<Button>(Resource.Id.AdviseReturnBtn);
-            button.Click += delegate { Finish(); };
+            //Button button = FindViewById<Button>(Resource.Id.AdviseReturnBtn);
+            //button.Click += delegate { Finish(); };
         }
-
-        public Bitmap convert(String base64Str) throws IllegalArgumentException
-        {
-             byte[] decodedBytes = Base64.decode(
-                 base64Str.substring(base64Str.indexOf(",") + 1),
-                 Base64.DEFAULT);
-        return BitmapFactory.decodeByteArray(decodedBytes, 0, decodedBytes.length);
     }
-}
 }

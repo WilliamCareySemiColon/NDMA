@@ -25,30 +25,27 @@ namespace NDMA.Resources.AdvisorActivities
 
             //Setting the handlers on the buttons
             Button advise = FindViewById<Button>(Resource.Id.AdviseBtn);
-            Button overdone = FindViewById<Button>(Resource.Id.OverdoneBtn);
-            Button underdone = FindViewById<Button>(Resource.Id.UnderdoneBtn);
+            //Button overdone = FindViewById<Button>(Resource.Id.OverdoneBtn);
+            //Button underdone = FindViewById<Button>(Resource.Id.UnderdoneBtn);
             Button checkQuicklyBtn = FindViewById<Button>(Resource.Id.CheckQuicklyBtn);
             Button cancel = FindViewById<Button>(Resource.Id.CancelAdvise);
 
             advise.Click += delegate { ButtonClicked("Advise"); };
-            overdone.Click += delegate { ButtonClicked("overdone"); };
-            underdone.Click += delegate { ButtonClicked("underdone"); };
+            //overdone.Click += delegate { ButtonClicked("overdone"); };
+            //underdone.Click += delegate { ButtonClicked("underdone"); };
             checkQuicklyBtn.Click += delegate { ButtonClicked("checkQuickly"); };
             cancel.Click += delegate { ButtonClicked("cancel"); };
             //setting the handlers on the images  WeeklyStatusImage
             ImageView dailyStatusImage = FindViewById<ImageView>(Resource.Id.DailyStatusImage);
-            ImageView weeklyStatusImage = FindViewById<ImageView>(Resource.Id.WeeklyStatusImage);
+            //ImageView weeklyStatusImage = FindViewById<ImageView>(Resource.Id.WeeklyStatusImage);
 
             dailyStatusImage.Click += delegate { ImageClicked("Daily"); };
-            weeklyStatusImage.Click += delegate { ImageClicked("Weekly"); };
+            //weeklyStatusImage.Click += delegate { ImageClicked("Weekly"); };
            
         }
 
         private void ImageClicked(String id)
         {
-            //Toast.MakeText(Application.Context, "You have pressed the image with tthe id of " + id,
-            //    ToastLength.Short).Show();
-
             if(String.Equals(id,"Daily"))
             {
                 Intent intent = new Intent(this, typeof(DailyStatusGraph));

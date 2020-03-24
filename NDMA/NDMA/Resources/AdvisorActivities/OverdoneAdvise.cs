@@ -23,9 +23,9 @@ namespace NDMA.Resources.AdvisorActivities
             // Create your application here
             SetContentView(Resource.Layout.UserAdviseMainLayout);
 
-            TextView header = FindViewById<TextView>(Resource.Id.HeaderMainAdvise);
+            //TextView header = FindViewById<TextView>(Resource.Id.HeaderMainAdvise);
 
-            header.Text = "Overdone advise contents";
+            //header.Text = "Overdone advise contents";
 
             string[] Sm = new string[]
             {
@@ -49,8 +49,8 @@ namespace NDMA.Resources.AdvisorActivities
             //AdvisorAdapter arrayAdapter2 = new AdvisorAdapter(this, Sm, Sm2);
             //list.Adapter = arrayAdapter2;
 
-            Button button = FindViewById<Button>(Resource.Id.AdviseReturnBtn);
-            button.Click += delegate { Finish(); };
+            //Button button = FindViewById<Button>(Resource.Id.AdviseReturnBtn);
+            //button.Click += delegate { Finish(); };
         }
     }
 }
