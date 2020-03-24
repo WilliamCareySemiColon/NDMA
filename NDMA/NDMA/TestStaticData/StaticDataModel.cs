@@ -19,21 +19,26 @@ namespace NDMA.TestStaticData
         //setting the nutrional disease
         public static NutritionslDifficulty Obesity =new NutritionslDifficulty("Obesity", 
             "Obesity is when a person is carrying too much body fat for their height and sex. " +
-            "A person is considered obese if they have a body mass index (BMI) of 30 or greater. Today's way of life is less physically" +
-            " active than it used to be. People travel on buses and cars, rather than walking, and many people work in offices, where they are " +
-            "sitting still for most of the day. This means that the calories they eat are not getting burnt off as energy. Instead, the " +
-            "extra calories are stored as fat. Over time, eating excess calories leads to weight gain.Without lifestyle changes to " +
-            "increase the amount of physical activity done on a daily basis, or reduce the amount of calories consumed, people can become obese.",
+            "A person is considered obese if they have a body mass index (BMI) of 30 or greater. " +
+            "The best thing to do would be to cut down on the high carb, high fat contents by switching to fruits",
+            //"Today's way of life is less physically" +
+            //" active than it used to be. People travel on buses and cars, rather than walking, and many people work in offices, where they are " +
+            //"sitting still for most of the day. This means that the calories they eat are not getting burnt off as energy. Instead, the " +
+            //"extra calories are stored as fat. Over time, eating excess calories leads to weight gain.Without lifestyle changes to " +
+            //"increase the amount of physical activity done on a daily basis, or reduce the amount of calories consumed, people can become obese.",
             GetImageBitmapFromUrl("https://i2-prod.mirror.co.uk/incoming/article2036874.ece/ALTERNATES/s1200b/fat-overweight.jpg"));
 
         public static NutritionslDifficulty Underweight = new NutritionslDifficulty("Underweight",
            "For example, do veiny arms mean you're underweight? Some people who are very thin complain about veiny arms. " +
             "But bodybuilders have veiny arms, as well. So veiny arms, alone, aren't necessarily an indicator that you are too thin." +
             "Other people complain about joints that look too large.If you are underweight and carry very little muscle mass, your bones " +
-            "and your joints may appear more prominent.But again, having large bones or a more noticeable joint doesn't mean that you are " +
-            "definitely underweight. Other symptoms of being underweight may include problems due to malnutrition: Fragile bones " +
-            "Irregular menstrual periods or problems getting pregnant Hair loss Weak immune system Dizziness or fatigue from anemia " +
-            "Poor growth and development, especially in children who are underweight",
+            "and your joints may appear more prominent. The best thing to do is to increase the grains and fruit comsumption to" +
+            " increase the daily reccoemnded amount of calories per day",
+           //+
+           // "But again, having large bones or a more noticeable joint doesn't mean that you are " +
+           // "definitely underweight. Other symptoms of being underweight may include problems due to malnutrition: Fragile bones " +
+           // "Irregular menstrual periods or problems getting pregnant Hair loss Weak immune system Dizziness or fatigue from anemia " +
+           // "Poor growth and development, especially in children who are underweight",
            GetImageBitmapFromUrl("https://www.naturalremedies.org/images/underweight-1.jpg"));
 
         public static Diet Vegetarian = new Diet("Vegetarian",

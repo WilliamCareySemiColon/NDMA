@@ -17,6 +17,7 @@ namespace NDMA.Resources.NutritionalAdvisors
 {
     public static class NutrionalAdvisor
     {
+        private static double calAmount = 0;
         public static double GetCalorieCount(List<DBFood> dBFoodCollection)
         {
             double cal = 0;
@@ -27,11 +28,22 @@ namespace NDMA.Resources.NutritionalAdvisors
 
                 var caloriesChecking = nutritionCollection.ENERC_KCAL;
 
-                cal = caloriesChecking.quantity;
-
+                cal += caloriesChecking.quantity;
             }
 
+            calAmount = cal;
+
             return cal;
+        }
+
+        public static double GetStaticCalories()
+        {
+            return calAmount;
+        }
+
+        public static float GetRecommendedAmount()
+        {
+            return TestSampleData.Calories;
         }
 
         public static String [] GetCalorieAdvise(double cal)
