@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 
@@ -9,7 +10,11 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using Com.Syncfusion.Charts;
 using NDMA.Resources.NutritionalAdvisors;
+using SciChart.Charting.Visuals;
+using SciChart.Charting.Visuals.Axes;
+using SciChart.Data.Model;
 
 namespace NDMA.Resources.AdvisorActivities
 {
@@ -19,6 +24,9 @@ namespace NDMA.Resources.AdvisorActivities
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
+
+            //Register Syncfusion license
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MjI4MzE1QDMxMzcyZTM0MmUzMEhtcEU5a1lNRDBkSW9qWnM2OTIxSklSUnI2UW9PaEJPZ01aU2UyVFdYdjg9");
 
             // Create your application here
             SetContentView(Resource.Layout.AdvisorMain);
@@ -41,7 +49,76 @@ namespace NDMA.Resources.AdvisorActivities
 
             dailyStatusImage.Click += delegate { ImageClicked("Daily"); };
             //weeklyStatusImage.Click += delegate { ImageClicked("Weekly"); };
-           
+
+            //Newer items
+            ////////////////////////////////////////////////////////////////////////////////////
+            //// set license key before using SciChart
+            //SciChartSurface.SetRuntimeLicenseKey("");
+
+            //// Get our chart from the layout resource,
+            //var chart = FindViewById<SciChartSurface>(Resource.Id.Chart);
+
+            //// Create a numeric X axis
+            //var xAxis = new NumericAxis(this) { AxisTitle = "Number of Samples (per Series)" };
+
+            //// Create a numeric Y axis
+            //var yAxis = new NumericAxis(this)
+            //{
+            //    AxisTitle = "Value",
+            //    VisibleRange = new DoubleRange(-1, 1)
+            //};
+
+            //// Add xAxis to the XAxes collection of the chart
+            //chart.XAxes.Add(xAxis);
+
+            //// Add yAxis to the YAxes collection of the chart
+            //chart.YAxes.Add(yAxis);
+            //////////////////////////////////////////////////////////////////////////////////////////////////
+            SfChart chart = FindViewById<SfChart>(Resource.Id.SfChart);
+                //new SfChart(this);
+
+            //Initializing Primary Axis
+            //CategoryAxis primaryAxis = new CategoryAxis();
+
+            //chart.PrimaryAxis = primaryAxis;
+
+            ////Initializing Secondary Axis
+            //NumericalAxis secondaryAxis = new NumericalAxis();
+
+            //chart.SecondaryAxis = secondaryAxis;
+
+            // Initializing primary axis
+            CategoryAxis primaryAxis = new CategoryAxis();
+
+            primaryAxis.Title.Text = "Name";
+
+            chart.PrimaryAxis = primaryAxis;
+
+            //Initializing secondary Axis
+            NumericalAxis secondaryAxis = new NumericalAxis();
+
+            secondaryAxis.Title.Text = "Height (in cm)";
+
+            chart.SecondaryAxis = secondaryAxis;
+
+            ObservableCollection<ChartData> Data = new ObservableCollection<ChartData>()
+            {
+                new ChartData { Name = "David", Height = 180 },
+                new ChartData { Name = "Michael", Height = 170 },
+                new ChartData { Name = "Steve", Height = 160 },
+                new ChartData { Name = "Joel", Height = 182 }
+            };
+
+            //Initializing column series
+            ColumnSeries series = new ColumnSeries();
+
+            series.ItemsSource = Data;
+
+            series.XBindingPath = "Name";
+
+            series.YBindingPath = "Height";
+
+            chart.Series.Add(series);
         }
 
         private void ImageClicked(String id)

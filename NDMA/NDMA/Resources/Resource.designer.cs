@@ -26,6 +26,3125 @@ namespace NDMA
 		
 		public static void UpdateIdValues()
 		{
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar1 = global::NDMA.Resource.Drawable.Avatar1;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar10 = global::NDMA.Resource.Drawable.Avatar10;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar11 = global::NDMA.Resource.Drawable.Avatar11;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar12 = global::NDMA.Resource.Drawable.Avatar12;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar13 = global::NDMA.Resource.Drawable.Avatar13;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar14 = global::NDMA.Resource.Drawable.Avatar14;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar15 = global::NDMA.Resource.Drawable.Avatar15;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar16 = global::NDMA.Resource.Drawable.Avatar16;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar17 = global::NDMA.Resource.Drawable.Avatar17;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar18 = global::NDMA.Resource.Drawable.Avatar18;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar19 = global::NDMA.Resource.Drawable.Avatar19;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar2 = global::NDMA.Resource.Drawable.Avatar2;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar20 = global::NDMA.Resource.Drawable.Avatar20;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar21 = global::NDMA.Resource.Drawable.Avatar21;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar22 = global::NDMA.Resource.Drawable.Avatar22;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar23 = global::NDMA.Resource.Drawable.Avatar23;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar24 = global::NDMA.Resource.Drawable.Avatar24;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar25 = global::NDMA.Resource.Drawable.Avatar25;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar26 = global::NDMA.Resource.Drawable.Avatar26;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar27 = global::NDMA.Resource.Drawable.Avatar27;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar28 = global::NDMA.Resource.Drawable.Avatar28;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar29 = global::NDMA.Resource.Drawable.Avatar29;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar3 = global::NDMA.Resource.Drawable.Avatar3;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar30 = global::NDMA.Resource.Drawable.Avatar30;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar4 = global::NDMA.Resource.Drawable.Avatar4;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar5 = global::NDMA.Resource.Drawable.Avatar5;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar6 = global::NDMA.Resource.Drawable.Avatar6;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar7 = global::NDMA.Resource.Drawable.Avatar7;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar8 = global::NDMA.Resource.Drawable.Avatar8;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar9 = global::NDMA.Resource.Drawable.Avatar9;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.input_layout_drop_down_icon = global::NDMA.Resource.Drawable.input_layout_drop_down_icon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglecollapseicon = global::NDMA.Resource.Drawable.inputlayout_togglecollapseicon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglevisibleicon = global::NDMA.Resource.Drawable.inputlayout_togglevisibleicon;
+			global::Syncfusion.Data.Resource.String.library_name = global::NDMA.Resource.String.library_name;
+			global::Com.Syncfusion.Charts.Resource.Animation.SfChart_Fade_In = global::NDMA.Resource.Animation.SfChart_Fade_In;
+			global::Com.Syncfusion.Charts.Resource.Animation.SfChart_Fade_Out = global::NDMA.Resource.Animation.SfChart_Fade_Out;
+			global::Com.Syncfusion.Charts.Resource.Animation.SfChart_Scale_In = global::NDMA.Resource.Animation.SfChart_Scale_In;
+			global::Com.Syncfusion.Charts.Resource.Animation.SfChart_Scale_Out = global::NDMA.Resource.Animation.SfChart_Scale_Out;
+			global::Com.Syncfusion.Charts.Resource.Attribute.colorPalette = global::NDMA.Resource.Attribute.colorPalette;
+			global::Com.Syncfusion.Charts.Resource.Attribute.deferredUpdateDelay = global::NDMA.Resource.Attribute.deferredUpdateDelay;
+			global::Com.Syncfusion.Charts.Resource.Attribute.deferredUpdateEnabled = global::NDMA.Resource.Attribute.deferredUpdateEnabled;
+			global::Com.Syncfusion.Charts.Resource.Attribute.enableTooltip = global::NDMA.Resource.Attribute.enableTooltip;
+			global::Com.Syncfusion.Charts.Resource.Attribute.enableTrackball = global::NDMA.Resource.Attribute.enableTrackball;
+			global::Com.Syncfusion.Charts.Resource.Attribute.enableZooming = global::NDMA.Resource.Attribute.enableZooming;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftThumbBackground = global::NDMA.Resource.Attribute.leftThumbBackground;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftThumbHeight = global::NDMA.Resource.Attribute.leftThumbHeight;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftThumbLineColor = global::NDMA.Resource.Attribute.leftThumbLineColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftThumbLineWidth = global::NDMA.Resource.Attribute.leftThumbLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftThumbStroke = global::NDMA.Resource.Attribute.leftThumbStroke;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftThumbStrokeWidth = global::NDMA.Resource.Attribute.leftThumbStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftThumbWidth = global::NDMA.Resource.Attribute.leftThumbWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftTooltipBackgroundColor = global::NDMA.Resource.Attribute.leftTooltipBackgroundColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftTooltipMargin = global::NDMA.Resource.Attribute.leftTooltipMargin;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftTooltipStrokeColor = global::NDMA.Resource.Attribute.leftTooltipStrokeColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftTooltipStrokeWidth = global::NDMA.Resource.Attribute.leftTooltipStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftTooltipTextColor = global::NDMA.Resource.Attribute.leftTooltipTextColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.leftTooltipTextSize = global::NDMA.Resource.Attribute.leftTooltipTextSize;
+			global::Com.Syncfusion.Charts.Resource.Attribute.legendDockPosition = global::NDMA.Resource.Attribute.legendDockPosition;
+			global::Com.Syncfusion.Charts.Resource.Attribute.legendIconHeight = global::NDMA.Resource.Attribute.legendIconHeight;
+			global::Com.Syncfusion.Charts.Resource.Attribute.legendIconWidth = global::NDMA.Resource.Attribute.legendIconWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.legendItemMarginBottom = global::NDMA.Resource.Attribute.legendItemMarginBottom;
+			global::Com.Syncfusion.Charts.Resource.Attribute.legendItemMarginLeft = global::NDMA.Resource.Attribute.legendItemMarginLeft;
+			global::Com.Syncfusion.Charts.Resource.Attribute.legendItemMarginRight = global::NDMA.Resource.Attribute.legendItemMarginRight;
+			global::Com.Syncfusion.Charts.Resource.Attribute.legendItemMarginTop = global::NDMA.Resource.Attribute.legendItemMarginTop;
+			global::Com.Syncfusion.Charts.Resource.Attribute.legendOrientation = global::NDMA.Resource.Attribute.legendOrientation;
+			global::Com.Syncfusion.Charts.Resource.Attribute.legendTitleText = global::NDMA.Resource.Attribute.legendTitleText;
+			global::Com.Syncfusion.Charts.Resource.Attribute.legendVisibility = global::NDMA.Resource.Attribute.legendVisibility;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleGridLineColor = global::NDMA.Resource.Attribute.majorScaleGridLineColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleGridLineWidth = global::NDMA.Resource.Attribute.majorScaleGridLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleLabelAlignment = global::NDMA.Resource.Attribute.majorScaleLabelAlignment;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleLabelBackground = global::NDMA.Resource.Attribute.majorScaleLabelBackground;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleLabelFormat = global::NDMA.Resource.Attribute.majorScaleLabelFormat;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleLabelMargin = global::NDMA.Resource.Attribute.majorScaleLabelMargin;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleLabelStroke = global::NDMA.Resource.Attribute.majorScaleLabelStroke;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleLabelStrokeWidth = global::NDMA.Resource.Attribute.majorScaleLabelStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleLabelTextColor = global::NDMA.Resource.Attribute.majorScaleLabelTextColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleLabelTextSize = global::NDMA.Resource.Attribute.majorScaleLabelTextSize;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScalePosition = global::NDMA.Resource.Attribute.majorScalePosition;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleSelectedLabelBackground = global::NDMA.Resource.Attribute.majorScaleSelectedLabelBackground;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleSelectedLabelMargin = global::NDMA.Resource.Attribute.majorScaleSelectedLabelMargin;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleSelectedLabelStroke = global::NDMA.Resource.Attribute.majorScaleSelectedLabelStroke;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleSelectedLabelStrokeWidth = global::NDMA.Resource.Attribute.majorScaleSelectedLabelStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleSelectedLabelTextColor = global::NDMA.Resource.Attribute.majorScaleSelectedLabelTextColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleSelectedLabelTextSize = global::NDMA.Resource.Attribute.majorScaleSelectedLabelTextSize;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleTickColor = global::NDMA.Resource.Attribute.majorScaleTickColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleTickWidth = global::NDMA.Resource.Attribute.majorScaleTickWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.majorScaleVisibility = global::NDMA.Resource.Attribute.majorScaleVisibility;
+			global::Com.Syncfusion.Charts.Resource.Attribute.maximumValue = global::NDMA.Resource.Attribute.maximumValue;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minimumValue = global::NDMA.Resource.Attribute.minimumValue;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleGridLineColor = global::NDMA.Resource.Attribute.minorScaleGridLineColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleGridLineWidth = global::NDMA.Resource.Attribute.minorScaleGridLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleLabelAlignment = global::NDMA.Resource.Attribute.minorScaleLabelAlignment;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleLabelBackground = global::NDMA.Resource.Attribute.minorScaleLabelBackground;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleLabelFormat = global::NDMA.Resource.Attribute.minorScaleLabelFormat;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleLabelMargin = global::NDMA.Resource.Attribute.minorScaleLabelMargin;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleLabelStroke = global::NDMA.Resource.Attribute.minorScaleLabelStroke;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleLabelStrokeWidth = global::NDMA.Resource.Attribute.minorScaleLabelStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleLabelTextColor = global::NDMA.Resource.Attribute.minorScaleLabelTextColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleLabelTextSize = global::NDMA.Resource.Attribute.minorScaleLabelTextSize;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScalePosition = global::NDMA.Resource.Attribute.minorScalePosition;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleSelectedLabelBackground = global::NDMA.Resource.Attribute.minorScaleSelectedLabelBackground;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleSelectedLabelMargin = global::NDMA.Resource.Attribute.minorScaleSelectedLabelMargin;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleSelectedLabelStroke = global::NDMA.Resource.Attribute.minorScaleSelectedLabelStroke;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleSelectedLabelStrokeWidth = global::NDMA.Resource.Attribute.minorScaleSelectedLabelStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleSelectedLabelTextColor = global::NDMA.Resource.Attribute.minorScaleSelectedLabelTextColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleSelectedLabelTextSize = global::NDMA.Resource.Attribute.minorScaleSelectedLabelTextSize;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleTickColor = global::NDMA.Resource.Attribute.minorScaleTickColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleTickWidth = global::NDMA.Resource.Attribute.minorScaleTickWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.minorScaleVisibility = global::NDMA.Resource.Attribute.minorScaleVisibility;
+			global::Com.Syncfusion.Charts.Resource.Attribute.overlayColor = global::NDMA.Resource.Attribute.overlayColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightThumbBackground = global::NDMA.Resource.Attribute.rightThumbBackground;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightThumbHeight = global::NDMA.Resource.Attribute.rightThumbHeight;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightThumbLineColor = global::NDMA.Resource.Attribute.rightThumbLineColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightThumbLineWidth = global::NDMA.Resource.Attribute.rightThumbLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightThumbStroke = global::NDMA.Resource.Attribute.rightThumbStroke;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightThumbStrokeWidth = global::NDMA.Resource.Attribute.rightThumbStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightThumbWidth = global::NDMA.Resource.Attribute.rightThumbWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightTooltipBackground = global::NDMA.Resource.Attribute.rightTooltipBackground;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightTooltipMargin = global::NDMA.Resource.Attribute.rightTooltipMargin;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightTooltipStroke = global::NDMA.Resource.Attribute.rightTooltipStroke;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightTooltipStrokeWidth = global::NDMA.Resource.Attribute.rightTooltipStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightTooltipTextColor = global::NDMA.Resource.Attribute.rightTooltipTextColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.rightTooltipTextSize = global::NDMA.Resource.Attribute.rightTooltipTextSize;
+			global::Com.Syncfusion.Charts.Resource.Attribute.showMajorGridLines = global::NDMA.Resource.Attribute.showMajorGridLines;
+			global::Com.Syncfusion.Charts.Resource.Attribute.showMinorGridLines = global::NDMA.Resource.Attribute.showMinorGridLines;
+			global::Com.Syncfusion.Charts.Resource.Attribute.titleBackgroundColor = global::NDMA.Resource.Attribute.titleBackgroundColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.titleColor = global::NDMA.Resource.Attribute.titleColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.titlePaddingBottom = global::NDMA.Resource.Attribute.titlePaddingBottom;
+			global::Com.Syncfusion.Charts.Resource.Attribute.titlePaddingLeft = global::NDMA.Resource.Attribute.titlePaddingLeft;
+			global::Com.Syncfusion.Charts.Resource.Attribute.titlePaddingRight = global::NDMA.Resource.Attribute.titlePaddingRight;
+			global::Com.Syncfusion.Charts.Resource.Attribute.titlePaddingTop = global::NDMA.Resource.Attribute.titlePaddingTop;
+			global::Com.Syncfusion.Charts.Resource.Attribute.titleSize = global::NDMA.Resource.Attribute.titleSize;
+			global::Com.Syncfusion.Charts.Resource.Attribute.titleText = global::NDMA.Resource.Attribute.titleText;
+			global::Com.Syncfusion.Charts.Resource.Attribute.tooltipDisplayMode = global::NDMA.Resource.Attribute.tooltipDisplayMode;
+			global::Com.Syncfusion.Charts.Resource.Attribute.tooltipFormat = global::NDMA.Resource.Attribute.tooltipFormat;
+			global::Com.Syncfusion.Charts.Resource.Attribute.viewRangeEnd = global::NDMA.Resource.Attribute.viewRangeEnd;
+			global::Com.Syncfusion.Charts.Resource.Attribute.viewRangeStart = global::NDMA.Resource.Attribute.viewRangeStart;
+			global::Com.Syncfusion.Charts.Resource.Attribute.xAxis = global::NDMA.Resource.Attribute.xAxis;
+			global::Com.Syncfusion.Charts.Resource.Attribute.xAxisLineColor = global::NDMA.Resource.Attribute.xAxisLineColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.xAxisLineWidth = global::NDMA.Resource.Attribute.xAxisLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.xAxisMajorGridLineColor = global::NDMA.Resource.Attribute.xAxisMajorGridLineColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.xAxisMajorGridLineWidth = global::NDMA.Resource.Attribute.xAxisMajorGridLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.xAxisTitleBackgroundColor = global::NDMA.Resource.Attribute.xAxisTitleBackgroundColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.xAxisTitleSize = global::NDMA.Resource.Attribute.xAxisTitleSize;
+			global::Com.Syncfusion.Charts.Resource.Attribute.xAxisTitleText = global::NDMA.Resource.Attribute.xAxisTitleText;
+			global::Com.Syncfusion.Charts.Resource.Attribute.xAxisTitleTextColor = global::NDMA.Resource.Attribute.xAxisTitleTextColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.yAxis = global::NDMA.Resource.Attribute.yAxis;
+			global::Com.Syncfusion.Charts.Resource.Attribute.yAxisLineColor = global::NDMA.Resource.Attribute.yAxisLineColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.yAxisLineWidth = global::NDMA.Resource.Attribute.yAxisLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.yAxisMajorGridLineColor = global::NDMA.Resource.Attribute.yAxisMajorGridLineColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.yAxisMajorGridLineWidth = global::NDMA.Resource.Attribute.yAxisMajorGridLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Attribute.yAxisTitleBackgroundColor = global::NDMA.Resource.Attribute.yAxisTitleBackgroundColor;
+			global::Com.Syncfusion.Charts.Resource.Attribute.yAxisTitleSize = global::NDMA.Resource.Attribute.yAxisTitleSize;
+			global::Com.Syncfusion.Charts.Resource.Attribute.yAxisTitleText = global::NDMA.Resource.Attribute.yAxisTitleText;
+			global::Com.Syncfusion.Charts.Resource.Attribute.yAxisTitleTextColor = global::NDMA.Resource.Attribute.yAxisTitleTextColor;
+			global::Com.Syncfusion.Charts.Resource.Id.always = global::NDMA.Resource.Id.always;
+			global::Com.Syncfusion.Charts.Resource.Id.annotationLayout = global::NDMA.Resource.Id.annotationLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.auto = global::NDMA.Resource.Id.auto;
+			global::Com.Syncfusion.Charts.Resource.Id.axisLayout = global::NDMA.Resource.Id.axisLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.bottom = global::NDMA.Resource.Id.bottom;
+			global::Com.Syncfusion.Charts.Resource.Id.bottom_labels = global::NDMA.Resource.Id.bottom_labels;
+			global::Com.Syncfusion.Charts.Resource.Id.category = global::NDMA.Resource.Id.category;
+			global::Com.Syncfusion.Charts.Resource.Id.center = global::NDMA.Resource.Id.center;
+			global::Com.Syncfusion.Charts.Resource.Id.chartBehaviorLayout = global::NDMA.Resource.Id.chartBehaviorLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.chartLegendScrollView = global::NDMA.Resource.Id.chartLegendScrollView;
+			global::Com.Syncfusion.Charts.Resource.Id.content = global::NDMA.Resource.Id.content;
+			global::Com.Syncfusion.Charts.Resource.Id.custom = global::NDMA.Resource.Id.custom;
+			global::Com.Syncfusion.Charts.Resource.Id.dataMarkerLayout = global::NDMA.Resource.Id.dataMarkerLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.dateTime = global::NDMA.Resource.Id.dateTime;
+			global::Com.Syncfusion.Charts.Resource.Id.dateTimeCategory = global::NDMA.Resource.Id.dateTimeCategory;
+			global::Com.Syncfusion.Charts.Resource.Id.floating = global::NDMA.Resource.Id.floating;
+			global::Com.Syncfusion.Charts.Resource.Id.gone = global::NDMA.Resource.Id.gone;
+			global::Com.Syncfusion.Charts.Resource.Id.gridLineLayout = global::NDMA.Resource.Id.gridLineLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.gridLinesLayout = global::NDMA.Resource.Id.gridLinesLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.horizontal = global::NDMA.Resource.Id.horizontal;
+			global::Com.Syncfusion.Charts.Resource.Id.iconView = global::NDMA.Resource.Id.iconView;
+			global::Com.Syncfusion.Charts.Resource.Id.inside = global::NDMA.Resource.Id.inside;
+			global::Com.Syncfusion.Charts.Resource.Id.label = global::NDMA.Resource.Id.label;
+			global::Com.Syncfusion.Charts.Resource.Id.left = global::NDMA.Resource.Id.left;
+			global::Com.Syncfusion.Charts.Resource.Id.legendHeader = global::NDMA.Resource.Id.legendHeader;
+			global::Com.Syncfusion.Charts.Resource.Id.legendItemsLayout = global::NDMA.Resource.Id.legendItemsLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.legendLayout = global::NDMA.Resource.Id.legendLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.legendScrollView = global::NDMA.Resource.Id.legendScrollView;
+			global::Com.Syncfusion.Charts.Resource.Id.legendViewGroup = global::NDMA.Resource.Id.legendViewGroup;
+			global::Com.Syncfusion.Charts.Resource.Id.logarithmic = global::NDMA.Resource.Id.logarithmic;
+			global::Com.Syncfusion.Charts.Resource.Id.metro = global::NDMA.Resource.Id.metro;
+			global::Com.Syncfusion.Charts.Resource.Id.natural = global::NDMA.Resource.Id.natural;
+			global::Com.Syncfusion.Charts.Resource.Id.none = global::NDMA.Resource.Id.none;
+			global::Com.Syncfusion.Charts.Resource.Id.numerical = global::NDMA.Resource.Id.numerical;
+			global::Com.Syncfusion.Charts.Resource.Id.onDemand = global::NDMA.Resource.Id.onDemand;
+			global::Com.Syncfusion.Charts.Resource.Id.outside = global::NDMA.Resource.Id.outside;
+			global::Com.Syncfusion.Charts.Resource.Id.pineapple = global::NDMA.Resource.Id.pineapple;
+			global::Com.Syncfusion.Charts.Resource.Id.right = global::NDMA.Resource.Id.right;
+			global::Com.Syncfusion.Charts.Resource.Id.rootLayout = global::NDMA.Resource.Id.rootLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.seriesLayout = global::NDMA.Resource.Id.seriesLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.stripLinesLayout = global::NDMA.Resource.Id.stripLinesLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.technicalIndicatorLayout = global::NDMA.Resource.Id.technicalIndicatorLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.thumbLayout = global::NDMA.Resource.Id.thumbLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.titleLayout = global::NDMA.Resource.Id.titleLayout;
+			global::Com.Syncfusion.Charts.Resource.Id.tomatoSpectrum = global::NDMA.Resource.Id.tomatoSpectrum;
+			global::Com.Syncfusion.Charts.Resource.Id.top = global::NDMA.Resource.Id.top;
+			global::Com.Syncfusion.Charts.Resource.Id.top_labels = global::NDMA.Resource.Id.top_labels;
+			global::Com.Syncfusion.Charts.Resource.Id.vertical = global::NDMA.Resource.Id.vertical;
+			global::Com.Syncfusion.Charts.Resource.Id.visible = global::NDMA.Resource.Id.visible;
+			global::Com.Syncfusion.Charts.Resource.Layout.chart_layout = global::NDMA.Resource.Layout.chart_layout;
+			global::Com.Syncfusion.Charts.Resource.Layout.chart_legend = global::NDMA.Resource.Layout.chart_legend;
+			global::Com.Syncfusion.Charts.Resource.Layout.chart_legend_item = global::NDMA.Resource.Layout.chart_legend_item;
+			global::Com.Syncfusion.Charts.Resource.Layout.range_navigator_layout = global::NDMA.Resource.Layout.range_navigator_layout;
+			global::Com.Syncfusion.Charts.Resource.String.q = global::NDMA.Resource.String.q;
+			global::Com.Syncfusion.Charts.Resource.String.quarter = global::NDMA.Resource.String.quarter;
+			global::Com.Syncfusion.Charts.Resource.String.sfchart_close_label = global::NDMA.Resource.String.sfchart_close_label;
+			global::Com.Syncfusion.Charts.Resource.String.sfchart_decrease_label = global::NDMA.Resource.String.sfchart_decrease_label;
+			global::Com.Syncfusion.Charts.Resource.String.sfchart_high_label = global::NDMA.Resource.String.sfchart_high_label;
+			global::Com.Syncfusion.Charts.Resource.String.sfchart_increase_label = global::NDMA.Resource.String.sfchart_increase_label;
+			global::Com.Syncfusion.Charts.Resource.String.sfchart_low_label = global::NDMA.Resource.String.sfchart_low_label;
+			global::Com.Syncfusion.Charts.Resource.String.sfchart_open_label = global::NDMA.Resource.String.sfchart_open_label;
+			global::Com.Syncfusion.Charts.Resource.String.sfchart_others_label = global::NDMA.Resource.String.sfchart_others_label;
+			global::Com.Syncfusion.Charts.Resource.String.sfchart_total_label = global::NDMA.Resource.String.sfchart_total_label;
+			global::Com.Syncfusion.Charts.Resource.String.w = global::NDMA.Resource.String.w;
+			global::Com.Syncfusion.Charts.Resource.String.week = global::NDMA.Resource.String.week;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart = global::NDMA.Resource.Styleable.SfChart;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_colorPalette = global::NDMA.Resource.Styleable.SfChart_colorPalette;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_enableTrackball = global::NDMA.Resource.Styleable.SfChart_enableTrackball;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_enableZooming = global::NDMA.Resource.Styleable.SfChart_enableZooming;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_legendDockPosition = global::NDMA.Resource.Styleable.SfChart_legendDockPosition;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_legendIconHeight = global::NDMA.Resource.Styleable.SfChart_legendIconHeight;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_legendIconWidth = global::NDMA.Resource.Styleable.SfChart_legendIconWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_legendItemMarginBottom = global::NDMA.Resource.Styleable.SfChart_legendItemMarginBottom;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_legendItemMarginLeft = global::NDMA.Resource.Styleable.SfChart_legendItemMarginLeft;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_legendItemMarginRight = global::NDMA.Resource.Styleable.SfChart_legendItemMarginRight;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_legendItemMarginTop = global::NDMA.Resource.Styleable.SfChart_legendItemMarginTop;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_legendOrientation = global::NDMA.Resource.Styleable.SfChart_legendOrientation;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_legendTitleText = global::NDMA.Resource.Styleable.SfChart_legendTitleText;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_legendVisibility = global::NDMA.Resource.Styleable.SfChart_legendVisibility;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_titleBackgroundColor = global::NDMA.Resource.Styleable.SfChart_titleBackgroundColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_titleColor = global::NDMA.Resource.Styleable.SfChart_titleColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_titlePaddingBottom = global::NDMA.Resource.Styleable.SfChart_titlePaddingBottom;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_titlePaddingLeft = global::NDMA.Resource.Styleable.SfChart_titlePaddingLeft;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_titlePaddingRight = global::NDMA.Resource.Styleable.SfChart_titlePaddingRight;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_titlePaddingTop = global::NDMA.Resource.Styleable.SfChart_titlePaddingTop;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_titleSize = global::NDMA.Resource.Styleable.SfChart_titleSize;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_titleText = global::NDMA.Resource.Styleable.SfChart_titleText;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_xAxis = global::NDMA.Resource.Styleable.SfChart_xAxis;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_xAxisLineColor = global::NDMA.Resource.Styleable.SfChart_xAxisLineColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_xAxisLineWidth = global::NDMA.Resource.Styleable.SfChart_xAxisLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_xAxisMajorGridLineColor = global::NDMA.Resource.Styleable.SfChart_xAxisMajorGridLineColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_xAxisMajorGridLineWidth = global::NDMA.Resource.Styleable.SfChart_xAxisMajorGridLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_xAxisTitleBackgroundColor = global::NDMA.Resource.Styleable.SfChart_xAxisTitleBackgroundColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_xAxisTitleSize = global::NDMA.Resource.Styleable.SfChart_xAxisTitleSize;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_xAxisTitleText = global::NDMA.Resource.Styleable.SfChart_xAxisTitleText;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_xAxisTitleTextColor = global::NDMA.Resource.Styleable.SfChart_xAxisTitleTextColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_yAxis = global::NDMA.Resource.Styleable.SfChart_yAxis;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_yAxisLineColor = global::NDMA.Resource.Styleable.SfChart_yAxisLineColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_yAxisLineWidth = global::NDMA.Resource.Styleable.SfChart_yAxisLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_yAxisMajorGridLineColor = global::NDMA.Resource.Styleable.SfChart_yAxisMajorGridLineColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_yAxisMajorGridLineWidth = global::NDMA.Resource.Styleable.SfChart_yAxisMajorGridLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_yAxisTitleBackgroundColor = global::NDMA.Resource.Styleable.SfChart_yAxisTitleBackgroundColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_yAxisTitleSize = global::NDMA.Resource.Styleable.SfChart_yAxisTitleSize;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_yAxisTitleText = global::NDMA.Resource.Styleable.SfChart_yAxisTitleText;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfChart_yAxisTitleTextColor = global::NDMA.Resource.Styleable.SfChart_yAxisTitleTextColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_deferredUpdateDelay = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_deferredUpdateDelay;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_deferredUpdateEnabled = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_deferredUpdateEnabled;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_enableTooltip = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_enableTooltip;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbBackground = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbBackground;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbHeight = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbHeight;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbLineColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbLineColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbLineWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbStroke = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbStroke;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbStrokeWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftThumbWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftTooltipBackgroundColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftTooltipBackgroundColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftTooltipMargin = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftTooltipMargin;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftTooltipStrokeColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftTooltipStrokeColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftTooltipStrokeWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftTooltipStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftTooltipTextColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftTooltipTextColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_leftTooltipTextSize = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_leftTooltipTextSize;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleGridLineColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleGridLineColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleGridLineWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleGridLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelAlignment = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelAlignment;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelBackground = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelBackground;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelFormat = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelFormat;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelMargin = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelMargin;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelStroke = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelStroke;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelStrokeWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelTextColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelTextColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelTextSize = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleLabelTextSize;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScalePosition = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScalePosition;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleSelectedLabelBackground = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleSelectedLabelBackground;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleSelectedLabelMargin = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleSelectedLabelMargin;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleSelectedLabelStroke = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleSelectedLabelStroke;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleSelectedLabelStrokeWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleSelectedLabelStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleSelectedLabelTextColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleSelectedLabelTextColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleSelectedLabelTextSize = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleSelectedLabelTextSize;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleTickColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleTickColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleTickWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleTickWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleVisibility = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_majorScaleVisibility;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_maximumValue = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_maximumValue;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minimumValue = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minimumValue;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleGridLineColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleGridLineColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleGridLineWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleGridLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelAlignment = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelAlignment;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelBackground = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelBackground;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelFormat = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelFormat;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelMargin = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelMargin;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelStroke = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelStroke;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelStrokeWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelTextColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelTextColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelTextSize = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleLabelTextSize;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScalePosition = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScalePosition;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleSelectedLabelBackground = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleSelectedLabelBackground;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleSelectedLabelMargin = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleSelectedLabelMargin;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleSelectedLabelStroke = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleSelectedLabelStroke;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleSelectedLabelStrokeWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleSelectedLabelStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleSelectedLabelTextColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleSelectedLabelTextColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleSelectedLabelTextSize = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleSelectedLabelTextSize;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleTickColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleTickColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleTickWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleTickWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleVisibility = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_minorScaleVisibility;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_overlayColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_overlayColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbBackground = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbBackground;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbHeight = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbHeight;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbLineColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbLineColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbLineWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbLineWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbStroke = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbStroke;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbStrokeWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightThumbWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightTooltipBackground = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightTooltipBackground;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightTooltipMargin = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightTooltipMargin;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightTooltipStroke = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightTooltipStroke;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightTooltipStrokeWidth = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightTooltipStrokeWidth;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightTooltipTextColor = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightTooltipTextColor;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_rightTooltipTextSize = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_rightTooltipTextSize;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_showMajorGridLines = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_showMajorGridLines;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_showMinorGridLines = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_showMinorGridLines;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_tooltipDisplayMode = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_tooltipDisplayMode;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_tooltipFormat = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_tooltipFormat;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_viewRangeEnd = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_viewRangeEnd;
+			global::Com.Syncfusion.Charts.Resource.Styleable.SfDateTimeRangeNavigator_viewRangeStart = global::NDMA.Resource.Styleable.SfDateTimeRangeNavigator_viewRangeStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.abc_fade_in = global::NDMA.Resource.Animation.abc_fade_in;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.abc_fade_out = global::NDMA.Resource.Animation.abc_fade_out;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.abc_grow_fade_in_from_bottom = global::NDMA.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.abc_popup_enter = global::NDMA.Resource.Animation.abc_popup_enter;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.abc_popup_exit = global::NDMA.Resource.Animation.abc_popup_exit;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.abc_shrink_fade_out_from_bottom = global::NDMA.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.abc_slide_in_bottom = global::NDMA.Resource.Animation.abc_slide_in_bottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.abc_slide_in_top = global::NDMA.Resource.Animation.abc_slide_in_top;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.abc_slide_out_bottom = global::NDMA.Resource.Animation.abc_slide_out_bottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.abc_slide_out_top = global::NDMA.Resource.Animation.abc_slide_out_top;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.abc_tooltip_enter = global::NDMA.Resource.Animation.abc_tooltip_enter;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.abc_tooltip_exit = global::NDMA.Resource.Animation.abc_tooltip_exit;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.design_bottom_sheet_slide_in = global::NDMA.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.design_bottom_sheet_slide_out = global::NDMA.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.design_snackbar_in = global::NDMA.Resource.Animation.design_snackbar_in;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.design_snackbar_out = global::NDMA.Resource.Animation.design_snackbar_out;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.EnterFromLeft = global::NDMA.Resource.Animation.EnterFromLeft;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.EnterFromRight = global::NDMA.Resource.Animation.EnterFromRight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.ExitToLeft = global::NDMA.Resource.Animation.ExitToLeft;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animation.ExitToRight = global::NDMA.Resource.Animation.ExitToRight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animator.design_appbar_state_list_animator = global::NDMA.Resource.Animator.design_appbar_state_list_animator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animator.design_fab_hide_motion_spec = global::NDMA.Resource.Animator.design_fab_hide_motion_spec;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animator.design_fab_show_motion_spec = global::NDMA.Resource.Animator.design_fab_show_motion_spec;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animator.mtrl_btn_state_list_anim = global::NDMA.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::NDMA.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animator.mtrl_chip_state_list_anim = global::NDMA.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animator.mtrl_fab_hide_motion_spec = global::NDMA.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animator.mtrl_fab_show_motion_spec = global::NDMA.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::NDMA.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::NDMA.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionBarDivider = global::NDMA.Resource.Attribute.actionBarDivider;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionBarItemBackground = global::NDMA.Resource.Attribute.actionBarItemBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionBarPopupTheme = global::NDMA.Resource.Attribute.actionBarPopupTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionBarSize = global::NDMA.Resource.Attribute.actionBarSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionBarSplitStyle = global::NDMA.Resource.Attribute.actionBarSplitStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionBarStyle = global::NDMA.Resource.Attribute.actionBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionBarTabBarStyle = global::NDMA.Resource.Attribute.actionBarTabBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionBarTabStyle = global::NDMA.Resource.Attribute.actionBarTabStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionBarTabTextStyle = global::NDMA.Resource.Attribute.actionBarTabTextStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionBarTheme = global::NDMA.Resource.Attribute.actionBarTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionBarWidgetTheme = global::NDMA.Resource.Attribute.actionBarWidgetTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionButtonStyle = global::NDMA.Resource.Attribute.actionButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionDropDownStyle = global::NDMA.Resource.Attribute.actionDropDownStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionLayout = global::NDMA.Resource.Attribute.actionLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionMenuTextAppearance = global::NDMA.Resource.Attribute.actionMenuTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionMenuTextColor = global::NDMA.Resource.Attribute.actionMenuTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModeBackground = global::NDMA.Resource.Attribute.actionModeBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModeCloseButtonStyle = global::NDMA.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModeCloseDrawable = global::NDMA.Resource.Attribute.actionModeCloseDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModeCopyDrawable = global::NDMA.Resource.Attribute.actionModeCopyDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModeCutDrawable = global::NDMA.Resource.Attribute.actionModeCutDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModeFindDrawable = global::NDMA.Resource.Attribute.actionModeFindDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModePasteDrawable = global::NDMA.Resource.Attribute.actionModePasteDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModePopupWindowStyle = global::NDMA.Resource.Attribute.actionModePopupWindowStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModeSelectAllDrawable = global::NDMA.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModeShareDrawable = global::NDMA.Resource.Attribute.actionModeShareDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModeSplitBackground = global::NDMA.Resource.Attribute.actionModeSplitBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModeStyle = global::NDMA.Resource.Attribute.actionModeStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionModeWebSearchDrawable = global::NDMA.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionOverflowButtonStyle = global::NDMA.Resource.Attribute.actionOverflowButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionOverflowMenuStyle = global::NDMA.Resource.Attribute.actionOverflowMenuStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionProviderClass = global::NDMA.Resource.Attribute.actionProviderClass;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.actionViewClass = global::NDMA.Resource.Attribute.actionViewClass;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.activityChooserViewStyle = global::NDMA.Resource.Attribute.activityChooserViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.alertDialogButtonGroupStyle = global::NDMA.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.alertDialogCenterButtons = global::NDMA.Resource.Attribute.alertDialogCenterButtons;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.alertDialogStyle = global::NDMA.Resource.Attribute.alertDialogStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.alertDialogTheme = global::NDMA.Resource.Attribute.alertDialogTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.allowStacking = global::NDMA.Resource.Attribute.allowStacking;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.alpha = global::NDMA.Resource.Attribute.alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.alphabeticModifiers = global::NDMA.Resource.Attribute.alphabeticModifiers;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.arrowHeadLength = global::NDMA.Resource.Attribute.arrowHeadLength;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.arrowShaftLength = global::NDMA.Resource.Attribute.arrowShaftLength;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.autoCompleteTextViewStyle = global::NDMA.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.autoSizeMaxTextSize = global::NDMA.Resource.Attribute.autoSizeMaxTextSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.autoSizeMinTextSize = global::NDMA.Resource.Attribute.autoSizeMinTextSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.autoSizePresetSizes = global::NDMA.Resource.Attribute.autoSizePresetSizes;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.autoSizeStepGranularity = global::NDMA.Resource.Attribute.autoSizeStepGranularity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.autoSizeTextType = global::NDMA.Resource.Attribute.autoSizeTextType;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.background = global::NDMA.Resource.Attribute.background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.backgroundSplit = global::NDMA.Resource.Attribute.backgroundSplit;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.backgroundStacked = global::NDMA.Resource.Attribute.backgroundStacked;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.backgroundTint = global::NDMA.Resource.Attribute.backgroundTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.backgroundTintMode = global::NDMA.Resource.Attribute.backgroundTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.barLength = global::NDMA.Resource.Attribute.barLength;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.behavior_autoHide = global::NDMA.Resource.Attribute.behavior_autoHide;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.behavior_fitToContents = global::NDMA.Resource.Attribute.behavior_fitToContents;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.behavior_hideable = global::NDMA.Resource.Attribute.behavior_hideable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.behavior_overlapTop = global::NDMA.Resource.Attribute.behavior_overlapTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.behavior_peekHeight = global::NDMA.Resource.Attribute.behavior_peekHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.behavior_skipCollapsed = global::NDMA.Resource.Attribute.behavior_skipCollapsed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.borderWidth = global::NDMA.Resource.Attribute.borderWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.borderlessButtonStyle = global::NDMA.Resource.Attribute.borderlessButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.bottomAppBarStyle = global::NDMA.Resource.Attribute.bottomAppBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.bottomNavigationStyle = global::NDMA.Resource.Attribute.bottomNavigationStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.bottomSheetDialogTheme = global::NDMA.Resource.Attribute.bottomSheetDialogTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.bottomSheetStyle = global::NDMA.Resource.Attribute.bottomSheetStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.boxBackgroundColor = global::NDMA.Resource.Attribute.boxBackgroundColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.boxBackgroundMode = global::NDMA.Resource.Attribute.boxBackgroundMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.boxCollapsedPaddingTop = global::NDMA.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.boxCornerRadiusBottomEnd = global::NDMA.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.boxCornerRadiusBottomStart = global::NDMA.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.boxCornerRadiusTopEnd = global::NDMA.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.boxCornerRadiusTopStart = global::NDMA.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.boxStrokeColor = global::NDMA.Resource.Attribute.boxStrokeColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.boxStrokeWidth = global::NDMA.Resource.Attribute.boxStrokeWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.buttonBarButtonStyle = global::NDMA.Resource.Attribute.buttonBarButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.buttonBarNegativeButtonStyle = global::NDMA.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.buttonBarNeutralButtonStyle = global::NDMA.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.buttonBarPositiveButtonStyle = global::NDMA.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.buttonBarStyle = global::NDMA.Resource.Attribute.buttonBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.buttonGravity = global::NDMA.Resource.Attribute.buttonGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.buttonIconDimen = global::NDMA.Resource.Attribute.buttonIconDimen;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.buttonPanelSideLayout = global::NDMA.Resource.Attribute.buttonPanelSideLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.buttonStyle = global::NDMA.Resource.Attribute.buttonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.buttonStyleSmall = global::NDMA.Resource.Attribute.buttonStyleSmall;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.buttonTint = global::NDMA.Resource.Attribute.buttonTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.buttonTintMode = global::NDMA.Resource.Attribute.buttonTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.cardBackgroundColor = global::NDMA.Resource.Attribute.cardBackgroundColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.cardCornerRadius = global::NDMA.Resource.Attribute.cardCornerRadius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.cardElevation = global::NDMA.Resource.Attribute.cardElevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.cardMaxElevation = global::NDMA.Resource.Attribute.cardMaxElevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.cardPreventCornerOverlap = global::NDMA.Resource.Attribute.cardPreventCornerOverlap;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.cardUseCompatPadding = global::NDMA.Resource.Attribute.cardUseCompatPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.cardViewStyle = global::NDMA.Resource.Attribute.cardViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.checkboxStyle = global::NDMA.Resource.Attribute.checkboxStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.checkedChip = global::NDMA.Resource.Attribute.checkedChip;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.checkedIcon = global::NDMA.Resource.Attribute.checkedIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.checkedIconEnabled = global::NDMA.Resource.Attribute.checkedIconEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.checkedIconVisible = global::NDMA.Resource.Attribute.checkedIconVisible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.checkedTextViewStyle = global::NDMA.Resource.Attribute.checkedTextViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipBackgroundColor = global::NDMA.Resource.Attribute.chipBackgroundColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipCornerRadius = global::NDMA.Resource.Attribute.chipCornerRadius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipEndPadding = global::NDMA.Resource.Attribute.chipEndPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipGroupStyle = global::NDMA.Resource.Attribute.chipGroupStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipIcon = global::NDMA.Resource.Attribute.chipIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipIconEnabled = global::NDMA.Resource.Attribute.chipIconEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipIconSize = global::NDMA.Resource.Attribute.chipIconSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipIconTint = global::NDMA.Resource.Attribute.chipIconTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipIconVisible = global::NDMA.Resource.Attribute.chipIconVisible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipMinHeight = global::NDMA.Resource.Attribute.chipMinHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipSpacing = global::NDMA.Resource.Attribute.chipSpacing;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipSpacingHorizontal = global::NDMA.Resource.Attribute.chipSpacingHorizontal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipSpacingVertical = global::NDMA.Resource.Attribute.chipSpacingVertical;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipStandaloneStyle = global::NDMA.Resource.Attribute.chipStandaloneStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipStartPadding = global::NDMA.Resource.Attribute.chipStartPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipStrokeColor = global::NDMA.Resource.Attribute.chipStrokeColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipStrokeWidth = global::NDMA.Resource.Attribute.chipStrokeWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.chipStyle = global::NDMA.Resource.Attribute.chipStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.closeIcon = global::NDMA.Resource.Attribute.closeIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.closeIconEnabled = global::NDMA.Resource.Attribute.closeIconEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.closeIconEndPadding = global::NDMA.Resource.Attribute.closeIconEndPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.closeIconSize = global::NDMA.Resource.Attribute.closeIconSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.closeIconStartPadding = global::NDMA.Resource.Attribute.closeIconStartPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.closeIconTint = global::NDMA.Resource.Attribute.closeIconTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.closeIconVisible = global::NDMA.Resource.Attribute.closeIconVisible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.closeItemLayout = global::NDMA.Resource.Attribute.closeItemLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.collapseContentDescription = global::NDMA.Resource.Attribute.collapseContentDescription;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.collapseIcon = global::NDMA.Resource.Attribute.collapseIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.collapsedTitleGravity = global::NDMA.Resource.Attribute.collapsedTitleGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.collapsedTitleTextAppearance = global::NDMA.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.color = global::NDMA.Resource.Attribute.color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.colorAccent = global::NDMA.Resource.Attribute.colorAccent;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.colorBackgroundFloating = global::NDMA.Resource.Attribute.colorBackgroundFloating;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.colorButtonNormal = global::NDMA.Resource.Attribute.colorButtonNormal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.colorControlActivated = global::NDMA.Resource.Attribute.colorControlActivated;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.colorControlHighlight = global::NDMA.Resource.Attribute.colorControlHighlight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.colorControlNormal = global::NDMA.Resource.Attribute.colorControlNormal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.colorError = global::NDMA.Resource.Attribute.colorError;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.colorPrimary = global::NDMA.Resource.Attribute.colorPrimary;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.colorPrimaryDark = global::NDMA.Resource.Attribute.colorPrimaryDark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.colorSecondary = global::NDMA.Resource.Attribute.colorSecondary;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.colorSwitchThumbNormal = global::NDMA.Resource.Attribute.colorSwitchThumbNormal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.commitIcon = global::NDMA.Resource.Attribute.commitIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentDescription = global::NDMA.Resource.Attribute.contentDescription;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentInsetEnd = global::NDMA.Resource.Attribute.contentInsetEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentInsetEndWithActions = global::NDMA.Resource.Attribute.contentInsetEndWithActions;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentInsetLeft = global::NDMA.Resource.Attribute.contentInsetLeft;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentInsetRight = global::NDMA.Resource.Attribute.contentInsetRight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentInsetStart = global::NDMA.Resource.Attribute.contentInsetStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentInsetStartWithNavigation = global::NDMA.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentPadding = global::NDMA.Resource.Attribute.contentPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentPaddingBottom = global::NDMA.Resource.Attribute.contentPaddingBottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentPaddingLeft = global::NDMA.Resource.Attribute.contentPaddingLeft;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentPaddingRight = global::NDMA.Resource.Attribute.contentPaddingRight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentPaddingTop = global::NDMA.Resource.Attribute.contentPaddingTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.contentScrim = global::NDMA.Resource.Attribute.contentScrim;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.controlBackground = global::NDMA.Resource.Attribute.controlBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.coordinatorLayoutStyle = global::NDMA.Resource.Attribute.coordinatorLayoutStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.cornerRadius = global::NDMA.Resource.Attribute.cornerRadius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.counterEnabled = global::NDMA.Resource.Attribute.counterEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.counterMaxLength = global::NDMA.Resource.Attribute.counterMaxLength;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.counterOverflowTextAppearance = global::NDMA.Resource.Attribute.counterOverflowTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.counterTextAppearance = global::NDMA.Resource.Attribute.counterTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.customNavigationLayout = global::NDMA.Resource.Attribute.customNavigationLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.defaultQueryHint = global::NDMA.Resource.Attribute.defaultQueryHint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.dialogCornerRadius = global::NDMA.Resource.Attribute.dialogCornerRadius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.dialogPreferredPadding = global::NDMA.Resource.Attribute.dialogPreferredPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.dialogTheme = global::NDMA.Resource.Attribute.dialogTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.displayOptions = global::NDMA.Resource.Attribute.displayOptions;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.divider = global::NDMA.Resource.Attribute.divider;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.dividerHorizontal = global::NDMA.Resource.Attribute.dividerHorizontal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.dividerPadding = global::NDMA.Resource.Attribute.dividerPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.dividerVertical = global::NDMA.Resource.Attribute.dividerVertical;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.drawableSize = global::NDMA.Resource.Attribute.drawableSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.drawerArrowStyle = global::NDMA.Resource.Attribute.drawerArrowStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.dropDownListViewStyle = global::NDMA.Resource.Attribute.dropDownListViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.dropdownListPreferredItemHeight = global::NDMA.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.editTextBackground = global::NDMA.Resource.Attribute.editTextBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.editTextColor = global::NDMA.Resource.Attribute.editTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.editTextStyle = global::NDMA.Resource.Attribute.editTextStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.elevation = global::NDMA.Resource.Attribute.elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.enforceMaterialTheme = global::NDMA.Resource.Attribute.enforceMaterialTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.enforceTextAppearance = global::NDMA.Resource.Attribute.enforceTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.errorEnabled = global::NDMA.Resource.Attribute.errorEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.errorTextAppearance = global::NDMA.Resource.Attribute.errorTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.expandActivityOverflowButtonDrawable = global::NDMA.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.expanded = global::NDMA.Resource.Attribute.expanded;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.expandedTitleGravity = global::NDMA.Resource.Attribute.expandedTitleGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.expandedTitleMargin = global::NDMA.Resource.Attribute.expandedTitleMargin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.expandedTitleMarginBottom = global::NDMA.Resource.Attribute.expandedTitleMarginBottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.expandedTitleMarginEnd = global::NDMA.Resource.Attribute.expandedTitleMarginEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.expandedTitleMarginStart = global::NDMA.Resource.Attribute.expandedTitleMarginStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.expandedTitleMarginTop = global::NDMA.Resource.Attribute.expandedTitleMarginTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.expandedTitleTextAppearance = global::NDMA.Resource.Attribute.expandedTitleTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fabAlignmentMode = global::NDMA.Resource.Attribute.fabAlignmentMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fabCradleMargin = global::NDMA.Resource.Attribute.fabCradleMargin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fabCradleRoundedCornerRadius = global::NDMA.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fabCradleVerticalOffset = global::NDMA.Resource.Attribute.fabCradleVerticalOffset;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fabCustomSize = global::NDMA.Resource.Attribute.fabCustomSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fabSize = global::NDMA.Resource.Attribute.fabSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fastScrollEnabled = global::NDMA.Resource.Attribute.fastScrollEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::NDMA.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::NDMA.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fastScrollVerticalThumbDrawable = global::NDMA.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fastScrollVerticalTrackDrawable = global::NDMA.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.firstBaselineToTopHeight = global::NDMA.Resource.Attribute.firstBaselineToTopHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.floatingActionButtonStyle = global::NDMA.Resource.Attribute.floatingActionButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.font = global::NDMA.Resource.Attribute.font;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fontFamily = global::NDMA.Resource.Attribute.fontFamily;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fontProviderAuthority = global::NDMA.Resource.Attribute.fontProviderAuthority;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fontProviderCerts = global::NDMA.Resource.Attribute.fontProviderCerts;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fontProviderFetchStrategy = global::NDMA.Resource.Attribute.fontProviderFetchStrategy;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fontProviderFetchTimeout = global::NDMA.Resource.Attribute.fontProviderFetchTimeout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fontProviderPackage = global::NDMA.Resource.Attribute.fontProviderPackage;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fontProviderQuery = global::NDMA.Resource.Attribute.fontProviderQuery;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fontStyle = global::NDMA.Resource.Attribute.fontStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fontVariationSettings = global::NDMA.Resource.Attribute.fontVariationSettings;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.fontWeight = global::NDMA.Resource.Attribute.fontWeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.foregroundInsidePadding = global::NDMA.Resource.Attribute.foregroundInsidePadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.gapBetweenBars = global::NDMA.Resource.Attribute.gapBetweenBars;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.goIcon = global::NDMA.Resource.Attribute.goIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.headerLayout = global::NDMA.Resource.Attribute.headerLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.height = global::NDMA.Resource.Attribute.height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.helperText = global::NDMA.Resource.Attribute.helperText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.helperTextEnabled = global::NDMA.Resource.Attribute.helperTextEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.helperTextTextAppearance = global::NDMA.Resource.Attribute.helperTextTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.hideMotionSpec = global::NDMA.Resource.Attribute.hideMotionSpec;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.hideOnContentScroll = global::NDMA.Resource.Attribute.hideOnContentScroll;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.hideOnScroll = global::NDMA.Resource.Attribute.hideOnScroll;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.hintAnimationEnabled = global::NDMA.Resource.Attribute.hintAnimationEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.hintEnabled = global::NDMA.Resource.Attribute.hintEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.hintTextAppearance = global::NDMA.Resource.Attribute.hintTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.homeAsUpIndicator = global::NDMA.Resource.Attribute.homeAsUpIndicator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.homeLayout = global::NDMA.Resource.Attribute.homeLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.hoveredFocusedTranslationZ = global::NDMA.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.icon = global::NDMA.Resource.Attribute.icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.iconEndPadding = global::NDMA.Resource.Attribute.iconEndPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.iconGravity = global::NDMA.Resource.Attribute.iconGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.iconPadding = global::NDMA.Resource.Attribute.iconPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.iconSize = global::NDMA.Resource.Attribute.iconSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.iconStartPadding = global::NDMA.Resource.Attribute.iconStartPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.iconTint = global::NDMA.Resource.Attribute.iconTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.iconTintMode = global::NDMA.Resource.Attribute.iconTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.iconifiedByDefault = global::NDMA.Resource.Attribute.iconifiedByDefault;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.imageButtonStyle = global::NDMA.Resource.Attribute.imageButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.indeterminateProgressStyle = global::NDMA.Resource.Attribute.indeterminateProgressStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.initialActivityCount = global::NDMA.Resource.Attribute.initialActivityCount;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.insetForeground = global::NDMA.Resource.Attribute.insetForeground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.isLightTheme = global::NDMA.Resource.Attribute.isLightTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.itemBackground = global::NDMA.Resource.Attribute.itemBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.itemHorizontalPadding = global::NDMA.Resource.Attribute.itemHorizontalPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.itemHorizontalTranslationEnabled = global::NDMA.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.itemIconPadding = global::NDMA.Resource.Attribute.itemIconPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.itemIconSize = global::NDMA.Resource.Attribute.itemIconSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.itemIconTint = global::NDMA.Resource.Attribute.itemIconTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.itemPadding = global::NDMA.Resource.Attribute.itemPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.itemSpacing = global::NDMA.Resource.Attribute.itemSpacing;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.itemTextAppearance = global::NDMA.Resource.Attribute.itemTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.itemTextAppearanceActive = global::NDMA.Resource.Attribute.itemTextAppearanceActive;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.itemTextAppearanceInactive = global::NDMA.Resource.Attribute.itemTextAppearanceInactive;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.itemTextColor = global::NDMA.Resource.Attribute.itemTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.keylines = global::NDMA.Resource.Attribute.keylines;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.labelVisibilityMode = global::NDMA.Resource.Attribute.labelVisibilityMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.lastBaselineToBottomHeight = global::NDMA.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layout = global::NDMA.Resource.Attribute.layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layoutManager = global::NDMA.Resource.Attribute.layoutManager;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layout_anchor = global::NDMA.Resource.Attribute.layout_anchor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layout_anchorGravity = global::NDMA.Resource.Attribute.layout_anchorGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layout_behavior = global::NDMA.Resource.Attribute.layout_behavior;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layout_collapseMode = global::NDMA.Resource.Attribute.layout_collapseMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layout_collapseParallaxMultiplier = global::NDMA.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layout_dodgeInsetEdges = global::NDMA.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layout_insetEdge = global::NDMA.Resource.Attribute.layout_insetEdge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layout_keyline = global::NDMA.Resource.Attribute.layout_keyline;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layout_scrollFlags = global::NDMA.Resource.Attribute.layout_scrollFlags;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.layout_scrollInterpolator = global::NDMA.Resource.Attribute.layout_scrollInterpolator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.liftOnScroll = global::NDMA.Resource.Attribute.liftOnScroll;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.lineHeight = global::NDMA.Resource.Attribute.lineHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.lineSpacing = global::NDMA.Resource.Attribute.lineSpacing;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.listChoiceBackgroundIndicator = global::NDMA.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.listDividerAlertDialog = global::NDMA.Resource.Attribute.listDividerAlertDialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.listItemLayout = global::NDMA.Resource.Attribute.listItemLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.listLayout = global::NDMA.Resource.Attribute.listLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.listMenuViewStyle = global::NDMA.Resource.Attribute.listMenuViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.listPopupWindowStyle = global::NDMA.Resource.Attribute.listPopupWindowStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.listPreferredItemHeight = global::NDMA.Resource.Attribute.listPreferredItemHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.listPreferredItemHeightLarge = global::NDMA.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.listPreferredItemHeightSmall = global::NDMA.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.listPreferredItemPaddingLeft = global::NDMA.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.listPreferredItemPaddingRight = global::NDMA.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.logo = global::NDMA.Resource.Attribute.logo;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.logoDescription = global::NDMA.Resource.Attribute.logoDescription;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.materialButtonStyle = global::NDMA.Resource.Attribute.materialButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.materialCardViewStyle = global::NDMA.Resource.Attribute.materialCardViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.maxActionInlineWidth = global::NDMA.Resource.Attribute.maxActionInlineWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.maxButtonHeight = global::NDMA.Resource.Attribute.maxButtonHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.maxImageSize = global::NDMA.Resource.Attribute.maxImageSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.measureWithLargestChild = global::NDMA.Resource.Attribute.measureWithLargestChild;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.menu = global::NDMA.Resource.Attribute.menu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.multiChoiceItemLayout = global::NDMA.Resource.Attribute.multiChoiceItemLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.navigationContentDescription = global::NDMA.Resource.Attribute.navigationContentDescription;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.navigationIcon = global::NDMA.Resource.Attribute.navigationIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.navigationMode = global::NDMA.Resource.Attribute.navigationMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.navigationViewStyle = global::NDMA.Resource.Attribute.navigationViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.numericModifiers = global::NDMA.Resource.Attribute.numericModifiers;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.overlapAnchor = global::NDMA.Resource.Attribute.overlapAnchor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.paddingBottomNoButtons = global::NDMA.Resource.Attribute.paddingBottomNoButtons;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.paddingEnd = global::NDMA.Resource.Attribute.paddingEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.paddingStart = global::NDMA.Resource.Attribute.paddingStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.paddingTopNoTitle = global::NDMA.Resource.Attribute.paddingTopNoTitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.panelBackground = global::NDMA.Resource.Attribute.panelBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.panelMenuListTheme = global::NDMA.Resource.Attribute.panelMenuListTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.panelMenuListWidth = global::NDMA.Resource.Attribute.panelMenuListWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.passwordToggleContentDescription = global::NDMA.Resource.Attribute.passwordToggleContentDescription;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.passwordToggleDrawable = global::NDMA.Resource.Attribute.passwordToggleDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.passwordToggleEnabled = global::NDMA.Resource.Attribute.passwordToggleEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.passwordToggleTint = global::NDMA.Resource.Attribute.passwordToggleTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.passwordToggleTintMode = global::NDMA.Resource.Attribute.passwordToggleTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.popupMenuStyle = global::NDMA.Resource.Attribute.popupMenuStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.popupTheme = global::NDMA.Resource.Attribute.popupTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.popupWindowStyle = global::NDMA.Resource.Attribute.popupWindowStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.preserveIconSpacing = global::NDMA.Resource.Attribute.preserveIconSpacing;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.pressedTranslationZ = global::NDMA.Resource.Attribute.pressedTranslationZ;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.progressBarPadding = global::NDMA.Resource.Attribute.progressBarPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.progressBarStyle = global::NDMA.Resource.Attribute.progressBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.queryBackground = global::NDMA.Resource.Attribute.queryBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.queryHint = global::NDMA.Resource.Attribute.queryHint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.radioButtonStyle = global::NDMA.Resource.Attribute.radioButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.ratingBarStyle = global::NDMA.Resource.Attribute.ratingBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.ratingBarStyleIndicator = global::NDMA.Resource.Attribute.ratingBarStyleIndicator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.ratingBarStyleSmall = global::NDMA.Resource.Attribute.ratingBarStyleSmall;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.reverseLayout = global::NDMA.Resource.Attribute.reverseLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.rippleColor = global::NDMA.Resource.Attribute.rippleColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.scrimAnimationDuration = global::NDMA.Resource.Attribute.scrimAnimationDuration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.scrimBackground = global::NDMA.Resource.Attribute.scrimBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.scrimVisibleHeightTrigger = global::NDMA.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.searchHintIcon = global::NDMA.Resource.Attribute.searchHintIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.searchIcon = global::NDMA.Resource.Attribute.searchIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.searchViewStyle = global::NDMA.Resource.Attribute.searchViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.seekBarStyle = global::NDMA.Resource.Attribute.seekBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.selectableItemBackground = global::NDMA.Resource.Attribute.selectableItemBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.selectableItemBackgroundBorderless = global::NDMA.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.showAsAction = global::NDMA.Resource.Attribute.showAsAction;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.showDividers = global::NDMA.Resource.Attribute.showDividers;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.showMotionSpec = global::NDMA.Resource.Attribute.showMotionSpec;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.showText = global::NDMA.Resource.Attribute.showText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.showTitle = global::NDMA.Resource.Attribute.showTitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.singleChoiceItemLayout = global::NDMA.Resource.Attribute.singleChoiceItemLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.singleLine = global::NDMA.Resource.Attribute.singleLine;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.singleSelection = global::NDMA.Resource.Attribute.singleSelection;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.snackbarButtonStyle = global::NDMA.Resource.Attribute.snackbarButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.snackbarStyle = global::NDMA.Resource.Attribute.snackbarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.spanCount = global::NDMA.Resource.Attribute.spanCount;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.spinBars = global::NDMA.Resource.Attribute.spinBars;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.spinnerDropDownItemStyle = global::NDMA.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.spinnerStyle = global::NDMA.Resource.Attribute.spinnerStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.splitTrack = global::NDMA.Resource.Attribute.splitTrack;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.srcCompat = global::NDMA.Resource.Attribute.srcCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.stackFromEnd = global::NDMA.Resource.Attribute.stackFromEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.state_above_anchor = global::NDMA.Resource.Attribute.state_above_anchor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.state_collapsed = global::NDMA.Resource.Attribute.state_collapsed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.state_collapsible = global::NDMA.Resource.Attribute.state_collapsible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.state_liftable = global::NDMA.Resource.Attribute.state_liftable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.state_lifted = global::NDMA.Resource.Attribute.state_lifted;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.statusBarBackground = global::NDMA.Resource.Attribute.statusBarBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.statusBarScrim = global::NDMA.Resource.Attribute.statusBarScrim;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.strokeColor = global::NDMA.Resource.Attribute.strokeColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.strokeWidth = global::NDMA.Resource.Attribute.strokeWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.subMenuArrow = global::NDMA.Resource.Attribute.subMenuArrow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.submitBackground = global::NDMA.Resource.Attribute.submitBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.subtitle = global::NDMA.Resource.Attribute.subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.subtitleTextAppearance = global::NDMA.Resource.Attribute.subtitleTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.subtitleTextColor = global::NDMA.Resource.Attribute.subtitleTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.subtitleTextStyle = global::NDMA.Resource.Attribute.subtitleTextStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.suggestionRowLayout = global::NDMA.Resource.Attribute.suggestionRowLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.switchMinWidth = global::NDMA.Resource.Attribute.switchMinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.switchPadding = global::NDMA.Resource.Attribute.switchPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.switchStyle = global::NDMA.Resource.Attribute.switchStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.switchTextAppearance = global::NDMA.Resource.Attribute.switchTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabBackground = global::NDMA.Resource.Attribute.tabBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabContentStart = global::NDMA.Resource.Attribute.tabContentStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabGravity = global::NDMA.Resource.Attribute.tabGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabIconTint = global::NDMA.Resource.Attribute.tabIconTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabIconTintMode = global::NDMA.Resource.Attribute.tabIconTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabIndicator = global::NDMA.Resource.Attribute.tabIndicator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabIndicatorAnimationDuration = global::NDMA.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabIndicatorColor = global::NDMA.Resource.Attribute.tabIndicatorColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabIndicatorFullWidth = global::NDMA.Resource.Attribute.tabIndicatorFullWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabIndicatorGravity = global::NDMA.Resource.Attribute.tabIndicatorGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabIndicatorHeight = global::NDMA.Resource.Attribute.tabIndicatorHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabInlineLabel = global::NDMA.Resource.Attribute.tabInlineLabel;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabMaxWidth = global::NDMA.Resource.Attribute.tabMaxWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabMinWidth = global::NDMA.Resource.Attribute.tabMinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabMode = global::NDMA.Resource.Attribute.tabMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabPadding = global::NDMA.Resource.Attribute.tabPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabPaddingBottom = global::NDMA.Resource.Attribute.tabPaddingBottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabPaddingEnd = global::NDMA.Resource.Attribute.tabPaddingEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabPaddingStart = global::NDMA.Resource.Attribute.tabPaddingStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabPaddingTop = global::NDMA.Resource.Attribute.tabPaddingTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabRippleColor = global::NDMA.Resource.Attribute.tabRippleColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabSelectedTextColor = global::NDMA.Resource.Attribute.tabSelectedTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabStyle = global::NDMA.Resource.Attribute.tabStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabTextAppearance = global::NDMA.Resource.Attribute.tabTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabTextColor = global::NDMA.Resource.Attribute.tabTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tabUnboundedRipple = global::NDMA.Resource.Attribute.tabUnboundedRipple;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAllCaps = global::NDMA.Resource.Attribute.textAllCaps;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceBody1 = global::NDMA.Resource.Attribute.textAppearanceBody1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceBody2 = global::NDMA.Resource.Attribute.textAppearanceBody2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceButton = global::NDMA.Resource.Attribute.textAppearanceButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceCaption = global::NDMA.Resource.Attribute.textAppearanceCaption;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceHeadline1 = global::NDMA.Resource.Attribute.textAppearanceHeadline1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceHeadline2 = global::NDMA.Resource.Attribute.textAppearanceHeadline2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceHeadline3 = global::NDMA.Resource.Attribute.textAppearanceHeadline3;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceHeadline4 = global::NDMA.Resource.Attribute.textAppearanceHeadline4;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceHeadline5 = global::NDMA.Resource.Attribute.textAppearanceHeadline5;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceHeadline6 = global::NDMA.Resource.Attribute.textAppearanceHeadline6;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceLargePopupMenu = global::NDMA.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceListItem = global::NDMA.Resource.Attribute.textAppearanceListItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceListItemSecondary = global::NDMA.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceListItemSmall = global::NDMA.Resource.Attribute.textAppearanceListItemSmall;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceOverline = global::NDMA.Resource.Attribute.textAppearanceOverline;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearancePopupMenuHeader = global::NDMA.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceSearchResultSubtitle = global::NDMA.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceSearchResultTitle = global::NDMA.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceSmallPopupMenu = global::NDMA.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceSubtitle1 = global::NDMA.Resource.Attribute.textAppearanceSubtitle1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textAppearanceSubtitle2 = global::NDMA.Resource.Attribute.textAppearanceSubtitle2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textColorAlertDialogListItem = global::NDMA.Resource.Attribute.textColorAlertDialogListItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textColorSearchUrl = global::NDMA.Resource.Attribute.textColorSearchUrl;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textEndPadding = global::NDMA.Resource.Attribute.textEndPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textInputStyle = global::NDMA.Resource.Attribute.textInputStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.textStartPadding = global::NDMA.Resource.Attribute.textStartPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.theme = global::NDMA.Resource.Attribute.theme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.thickness = global::NDMA.Resource.Attribute.thickness;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.thumbTextPadding = global::NDMA.Resource.Attribute.thumbTextPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.thumbTint = global::NDMA.Resource.Attribute.thumbTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.thumbTintMode = global::NDMA.Resource.Attribute.thumbTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tickMark = global::NDMA.Resource.Attribute.tickMark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tickMarkTint = global::NDMA.Resource.Attribute.tickMarkTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tickMarkTintMode = global::NDMA.Resource.Attribute.tickMarkTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tint = global::NDMA.Resource.Attribute.tint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tintMode = global::NDMA.Resource.Attribute.tintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.title = global::NDMA.Resource.Attribute.title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.titleEnabled = global::NDMA.Resource.Attribute.titleEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.titleMargin = global::NDMA.Resource.Attribute.titleMargin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.titleMarginBottom = global::NDMA.Resource.Attribute.titleMarginBottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.titleMarginEnd = global::NDMA.Resource.Attribute.titleMarginEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.titleMarginStart = global::NDMA.Resource.Attribute.titleMarginStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.titleMarginTop = global::NDMA.Resource.Attribute.titleMarginTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.titleMargins = global::NDMA.Resource.Attribute.titleMargins;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.titleTextAppearance = global::NDMA.Resource.Attribute.titleTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.titleTextColor = global::NDMA.Resource.Attribute.titleTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.titleTextStyle = global::NDMA.Resource.Attribute.titleTextStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.toolbarId = global::NDMA.Resource.Attribute.toolbarId;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.toolbarNavigationButtonStyle = global::NDMA.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.toolbarStyle = global::NDMA.Resource.Attribute.toolbarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tooltipForegroundColor = global::NDMA.Resource.Attribute.tooltipForegroundColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tooltipFrameBackground = global::NDMA.Resource.Attribute.tooltipFrameBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.tooltipText = global::NDMA.Resource.Attribute.tooltipText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.track = global::NDMA.Resource.Attribute.track;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.trackTint = global::NDMA.Resource.Attribute.trackTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.trackTintMode = global::NDMA.Resource.Attribute.trackTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.ttcIndex = global::NDMA.Resource.Attribute.ttcIndex;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.useCompatPadding = global::NDMA.Resource.Attribute.useCompatPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.viewInflaterClass = global::NDMA.Resource.Attribute.viewInflaterClass;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.voiceIcon = global::NDMA.Resource.Attribute.voiceIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.windowActionBar = global::NDMA.Resource.Attribute.windowActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.windowActionBarOverlay = global::NDMA.Resource.Attribute.windowActionBarOverlay;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.windowActionModeOverlay = global::NDMA.Resource.Attribute.windowActionModeOverlay;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.windowFixedHeightMajor = global::NDMA.Resource.Attribute.windowFixedHeightMajor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.windowFixedHeightMinor = global::NDMA.Resource.Attribute.windowFixedHeightMinor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.windowFixedWidthMajor = global::NDMA.Resource.Attribute.windowFixedWidthMajor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.windowFixedWidthMinor = global::NDMA.Resource.Attribute.windowFixedWidthMinor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.windowMinWidthMajor = global::NDMA.Resource.Attribute.windowMinWidthMajor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.windowMinWidthMinor = global::NDMA.Resource.Attribute.windowMinWidthMinor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Attribute.windowNoTitle = global::NDMA.Resource.Attribute.windowNoTitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Boolean.abc_action_bar_embed_tabs = global::NDMA.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Boolean.abc_allow_stacked_button_bar = global::NDMA.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::NDMA.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::NDMA.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_background_cache_hint_selector_material_dark = global::NDMA.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_background_cache_hint_selector_material_light = global::NDMA.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_btn_colored_borderless_text_material = global::NDMA.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_btn_colored_text_material = global::NDMA.Resource.Color.abc_btn_colored_text_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_color_highlight_material = global::NDMA.Resource.Color.abc_color_highlight_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_hint_foreground_material_dark = global::NDMA.Resource.Color.abc_hint_foreground_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_hint_foreground_material_light = global::NDMA.Resource.Color.abc_hint_foreground_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_input_method_navigation_guard = global::NDMA.Resource.Color.abc_input_method_navigation_guard;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_primary_text_disable_only_material_dark = global::NDMA.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_primary_text_disable_only_material_light = global::NDMA.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_primary_text_material_dark = global::NDMA.Resource.Color.abc_primary_text_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_primary_text_material_light = global::NDMA.Resource.Color.abc_primary_text_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_search_url_text = global::NDMA.Resource.Color.abc_search_url_text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_search_url_text_normal = global::NDMA.Resource.Color.abc_search_url_text_normal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_search_url_text_pressed = global::NDMA.Resource.Color.abc_search_url_text_pressed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_search_url_text_selected = global::NDMA.Resource.Color.abc_search_url_text_selected;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_secondary_text_material_dark = global::NDMA.Resource.Color.abc_secondary_text_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_secondary_text_material_light = global::NDMA.Resource.Color.abc_secondary_text_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_tint_btn_checkable = global::NDMA.Resource.Color.abc_tint_btn_checkable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_tint_default = global::NDMA.Resource.Color.abc_tint_default;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_tint_edittext = global::NDMA.Resource.Color.abc_tint_edittext;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_tint_seek_thumb = global::NDMA.Resource.Color.abc_tint_seek_thumb;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_tint_spinner = global::NDMA.Resource.Color.abc_tint_spinner;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.abc_tint_switch_track = global::NDMA.Resource.Color.abc_tint_switch_track;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.accent_material_dark = global::NDMA.Resource.Color.accent_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.accent_material_light = global::NDMA.Resource.Color.accent_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.background_floating_material_dark = global::NDMA.Resource.Color.background_floating_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.background_floating_material_light = global::NDMA.Resource.Color.background_floating_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.background_material_dark = global::NDMA.Resource.Color.background_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.background_material_light = global::NDMA.Resource.Color.background_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.bright_foreground_disabled_material_dark = global::NDMA.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.bright_foreground_disabled_material_light = global::NDMA.Resource.Color.bright_foreground_disabled_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.bright_foreground_inverse_material_dark = global::NDMA.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.bright_foreground_inverse_material_light = global::NDMA.Resource.Color.bright_foreground_inverse_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.bright_foreground_material_dark = global::NDMA.Resource.Color.bright_foreground_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.bright_foreground_material_light = global::NDMA.Resource.Color.bright_foreground_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.browser_actions_bg_grey = global::NDMA.Resource.Color.browser_actions_bg_grey;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.browser_actions_divider_color = global::NDMA.Resource.Color.browser_actions_divider_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.browser_actions_text_color = global::NDMA.Resource.Color.browser_actions_text_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.browser_actions_title_color = global::NDMA.Resource.Color.browser_actions_title_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.button_material_dark = global::NDMA.Resource.Color.button_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.button_material_light = global::NDMA.Resource.Color.button_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.cardview_dark_background = global::NDMA.Resource.Color.cardview_dark_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.cardview_light_background = global::NDMA.Resource.Color.cardview_light_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.cardview_shadow_end_color = global::NDMA.Resource.Color.cardview_shadow_end_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.cardview_shadow_start_color = global::NDMA.Resource.Color.cardview_shadow_start_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_bottom_navigation_shadow_color = global::NDMA.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_default_color_primary = global::NDMA.Resource.Color.design_default_color_primary;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_default_color_primary_dark = global::NDMA.Resource.Color.design_default_color_primary_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_error = global::NDMA.Resource.Color.design_error;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_fab_shadow_end_color = global::NDMA.Resource.Color.design_fab_shadow_end_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_fab_shadow_mid_color = global::NDMA.Resource.Color.design_fab_shadow_mid_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_fab_shadow_start_color = global::NDMA.Resource.Color.design_fab_shadow_start_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_fab_stroke_end_inner_color = global::NDMA.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_fab_stroke_end_outer_color = global::NDMA.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_fab_stroke_top_inner_color = global::NDMA.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_fab_stroke_top_outer_color = global::NDMA.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_snackbar_background_color = global::NDMA.Resource.Color.design_snackbar_background_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.design_tint_password_toggle = global::NDMA.Resource.Color.design_tint_password_toggle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.dim_foreground_disabled_material_dark = global::NDMA.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.dim_foreground_disabled_material_light = global::NDMA.Resource.Color.dim_foreground_disabled_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.dim_foreground_material_dark = global::NDMA.Resource.Color.dim_foreground_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.dim_foreground_material_light = global::NDMA.Resource.Color.dim_foreground_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.error_color_material_dark = global::NDMA.Resource.Color.error_color_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.error_color_material_light = global::NDMA.Resource.Color.error_color_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.foreground_material_dark = global::NDMA.Resource.Color.foreground_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.foreground_material_light = global::NDMA.Resource.Color.foreground_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.highlighted_text_material_dark = global::NDMA.Resource.Color.highlighted_text_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.highlighted_text_material_light = global::NDMA.Resource.Color.highlighted_text_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.material_blue_grey_800 = global::NDMA.Resource.Color.material_blue_grey_800;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.material_blue_grey_900 = global::NDMA.Resource.Color.material_blue_grey_900;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.material_blue_grey_950 = global::NDMA.Resource.Color.material_blue_grey_950;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.material_deep_teal_200 = global::NDMA.Resource.Color.material_deep_teal_200;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.material_deep_teal_500 = global::NDMA.Resource.Color.material_deep_teal_500;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.material_grey_100 = global::NDMA.Resource.Color.material_grey_100;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.material_grey_300 = global::NDMA.Resource.Color.material_grey_300;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.material_grey_50 = global::NDMA.Resource.Color.material_grey_50;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.material_grey_600 = global::NDMA.Resource.Color.material_grey_600;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.material_grey_800 = global::NDMA.Resource.Color.material_grey_800;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.material_grey_850 = global::NDMA.Resource.Color.material_grey_850;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.material_grey_900 = global::NDMA.Resource.Color.material_grey_900;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::NDMA.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_bottom_nav_item_tint = global::NDMA.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_btn_bg_color_disabled = global::NDMA.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_btn_bg_color_selector = global::NDMA.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_btn_ripple_color = global::NDMA.Resource.Color.mtrl_btn_ripple_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_btn_stroke_color_selector = global::NDMA.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_btn_text_btn_ripple_color = global::NDMA.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_btn_text_color_disabled = global::NDMA.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_btn_text_color_selector = global::NDMA.Resource.Color.mtrl_btn_text_color_selector;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_btn_transparent_bg_color = global::NDMA.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_chip_background_color = global::NDMA.Resource.Color.mtrl_chip_background_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_chip_close_icon_tint = global::NDMA.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_chip_ripple_color = global::NDMA.Resource.Color.mtrl_chip_ripple_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_chip_text_color = global::NDMA.Resource.Color.mtrl_chip_text_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_fab_ripple_color = global::NDMA.Resource.Color.mtrl_fab_ripple_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_scrim_color = global::NDMA.Resource.Color.mtrl_scrim_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_tabs_colored_ripple_color = global::NDMA.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_tabs_icon_color_selector = global::NDMA.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::NDMA.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::NDMA.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_tabs_ripple_color = global::NDMA.Resource.Color.mtrl_tabs_ripple_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_text_btn_text_color_selector = global::NDMA.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_textinput_default_box_stroke_color = global::NDMA.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_textinput_disabled_color = global::NDMA.Resource.Color.mtrl_textinput_disabled_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::NDMA.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::NDMA.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.notification_action_color_filter = global::NDMA.Resource.Color.notification_action_color_filter;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.notification_icon_bg_color = global::NDMA.Resource.Color.notification_icon_bg_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.primary_dark_material_dark = global::NDMA.Resource.Color.primary_dark_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.primary_dark_material_light = global::NDMA.Resource.Color.primary_dark_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.primary_material_dark = global::NDMA.Resource.Color.primary_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.primary_material_light = global::NDMA.Resource.Color.primary_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.primary_text_default_material_dark = global::NDMA.Resource.Color.primary_text_default_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.primary_text_default_material_light = global::NDMA.Resource.Color.primary_text_default_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.primary_text_disabled_material_dark = global::NDMA.Resource.Color.primary_text_disabled_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.primary_text_disabled_material_light = global::NDMA.Resource.Color.primary_text_disabled_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.ripple_material_dark = global::NDMA.Resource.Color.ripple_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.ripple_material_light = global::NDMA.Resource.Color.ripple_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.secondary_text_default_material_dark = global::NDMA.Resource.Color.secondary_text_default_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.secondary_text_default_material_light = global::NDMA.Resource.Color.secondary_text_default_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.secondary_text_disabled_material_dark = global::NDMA.Resource.Color.secondary_text_disabled_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.secondary_text_disabled_material_light = global::NDMA.Resource.Color.secondary_text_disabled_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.switch_thumb_disabled_material_dark = global::NDMA.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.switch_thumb_disabled_material_light = global::NDMA.Resource.Color.switch_thumb_disabled_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.switch_thumb_material_dark = global::NDMA.Resource.Color.switch_thumb_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.switch_thumb_material_light = global::NDMA.Resource.Color.switch_thumb_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.switch_thumb_normal_material_dark = global::NDMA.Resource.Color.switch_thumb_normal_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.switch_thumb_normal_material_light = global::NDMA.Resource.Color.switch_thumb_normal_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.tooltip_background_dark = global::NDMA.Resource.Color.tooltip_background_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Color.tooltip_background_light = global::NDMA.Resource.Color.tooltip_background_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_content_inset_material = global::NDMA.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::NDMA.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_default_height_material = global::NDMA.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_default_padding_end_material = global::NDMA.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_default_padding_start_material = global::NDMA.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_elevation_material = global::NDMA.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::NDMA.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::NDMA.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::NDMA.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_stacked_max_height = global::NDMA.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::NDMA.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::NDMA.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::NDMA.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_button_min_height_material = global::NDMA.Resource.Dimension.abc_action_button_min_height_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_button_min_width_material = global::NDMA.Resource.Dimension.abc_action_button_min_width_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_action_button_min_width_overflow_material = global::NDMA.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_alert_dialog_button_bar_height = global::NDMA.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_alert_dialog_button_dimen = global::NDMA.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_button_inset_horizontal_material = global::NDMA.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_button_inset_vertical_material = global::NDMA.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_button_padding_horizontal_material = global::NDMA.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_button_padding_vertical_material = global::NDMA.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::NDMA.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_config_prefDialogWidth = global::NDMA.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_control_corner_material = global::NDMA.Resource.Dimension.abc_control_corner_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_control_inset_material = global::NDMA.Resource.Dimension.abc_control_inset_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_control_padding_material = global::NDMA.Resource.Dimension.abc_control_padding_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dialog_corner_radius_material = global::NDMA.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dialog_fixed_height_major = global::NDMA.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dialog_fixed_height_minor = global::NDMA.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dialog_fixed_width_major = global::NDMA.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dialog_fixed_width_minor = global::NDMA.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::NDMA.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::NDMA.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dialog_min_width_major = global::NDMA.Resource.Dimension.abc_dialog_min_width_major;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dialog_min_width_minor = global::NDMA.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dialog_padding_material = global::NDMA.Resource.Dimension.abc_dialog_padding_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dialog_padding_top_material = global::NDMA.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dialog_title_divider_material = global::NDMA.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_disabled_alpha_material_dark = global::NDMA.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_disabled_alpha_material_light = global::NDMA.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dropdownitem_icon_width = global::NDMA.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dropdownitem_text_padding_left = global::NDMA.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_dropdownitem_text_padding_right = global::NDMA.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_edit_text_inset_bottom_material = global::NDMA.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::NDMA.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_edit_text_inset_top_material = global::NDMA.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_floating_window_z = global::NDMA.Resource.Dimension.abc_floating_window_z;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_list_item_padding_horizontal_material = global::NDMA.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_panel_menu_list_width = global::NDMA.Resource.Dimension.abc_panel_menu_list_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_progress_bar_height_material = global::NDMA.Resource.Dimension.abc_progress_bar_height_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_search_view_preferred_height = global::NDMA.Resource.Dimension.abc_search_view_preferred_height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_search_view_preferred_width = global::NDMA.Resource.Dimension.abc_search_view_preferred_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_seekbar_track_background_height_material = global::NDMA.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_seekbar_track_progress_height_material = global::NDMA.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_select_dialog_padding_start_material = global::NDMA.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_switch_padding = global::NDMA.Resource.Dimension.abc_switch_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_body_1_material = global::NDMA.Resource.Dimension.abc_text_size_body_1_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_body_2_material = global::NDMA.Resource.Dimension.abc_text_size_body_2_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_button_material = global::NDMA.Resource.Dimension.abc_text_size_button_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_caption_material = global::NDMA.Resource.Dimension.abc_text_size_caption_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_display_1_material = global::NDMA.Resource.Dimension.abc_text_size_display_1_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_display_2_material = global::NDMA.Resource.Dimension.abc_text_size_display_2_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_display_3_material = global::NDMA.Resource.Dimension.abc_text_size_display_3_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_display_4_material = global::NDMA.Resource.Dimension.abc_text_size_display_4_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_headline_material = global::NDMA.Resource.Dimension.abc_text_size_headline_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_large_material = global::NDMA.Resource.Dimension.abc_text_size_large_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_medium_material = global::NDMA.Resource.Dimension.abc_text_size_medium_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_menu_header_material = global::NDMA.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_menu_material = global::NDMA.Resource.Dimension.abc_text_size_menu_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_small_material = global::NDMA.Resource.Dimension.abc_text_size_small_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_subhead_material = global::NDMA.Resource.Dimension.abc_text_size_subhead_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::NDMA.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_title_material = global::NDMA.Resource.Dimension.abc_text_size_title_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.abc_text_size_title_material_toolbar = global::NDMA.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.browser_actions_context_menu_max_width = global::NDMA.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.browser_actions_context_menu_min_padding = global::NDMA.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.cardview_compat_inset_shadow = global::NDMA.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.cardview_default_elevation = global::NDMA.Resource.Dimension.cardview_default_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.cardview_default_radius = global::NDMA.Resource.Dimension.cardview_default_radius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.compat_button_inset_horizontal_material = global::NDMA.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.compat_button_inset_vertical_material = global::NDMA.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.compat_button_padding_horizontal_material = global::NDMA.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.compat_button_padding_vertical_material = global::NDMA.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.compat_control_corner_material = global::NDMA.Resource.Dimension.compat_control_corner_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.compat_notification_large_icon_max_height = global::NDMA.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.compat_notification_large_icon_max_width = global::NDMA.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_appbar_elevation = global::NDMA.Resource.Dimension.design_appbar_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::NDMA.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::NDMA.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_navigation_active_text_size = global::NDMA.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_navigation_elevation = global::NDMA.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_navigation_height = global::NDMA.Resource.Dimension.design_bottom_navigation_height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_navigation_icon_size = global::NDMA.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_navigation_item_max_width = global::NDMA.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_navigation_item_min_width = global::NDMA.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_navigation_margin = global::NDMA.Resource.Dimension.design_bottom_navigation_margin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_navigation_shadow_height = global::NDMA.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_navigation_text_size = global::NDMA.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_sheet_modal_elevation = global::NDMA.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_bottom_sheet_peek_height_min = global::NDMA.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_fab_border_width = global::NDMA.Resource.Dimension.design_fab_border_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_fab_elevation = global::NDMA.Resource.Dimension.design_fab_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_fab_image_size = global::NDMA.Resource.Dimension.design_fab_image_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_fab_size_mini = global::NDMA.Resource.Dimension.design_fab_size_mini;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_fab_size_normal = global::NDMA.Resource.Dimension.design_fab_size_normal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_fab_translation_z_hovered_focused = global::NDMA.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_fab_translation_z_pressed = global::NDMA.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_navigation_elevation = global::NDMA.Resource.Dimension.design_navigation_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_navigation_icon_padding = global::NDMA.Resource.Dimension.design_navigation_icon_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_navigation_icon_size = global::NDMA.Resource.Dimension.design_navigation_icon_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_navigation_item_horizontal_padding = global::NDMA.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_navigation_item_icon_padding = global::NDMA.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_navigation_max_width = global::NDMA.Resource.Dimension.design_navigation_max_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_navigation_padding_bottom = global::NDMA.Resource.Dimension.design_navigation_padding_bottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_navigation_separator_vertical_padding = global::NDMA.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_snackbar_action_inline_max_width = global::NDMA.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_snackbar_background_corner_radius = global::NDMA.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_snackbar_elevation = global::NDMA.Resource.Dimension.design_snackbar_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::NDMA.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_snackbar_max_width = global::NDMA.Resource.Dimension.design_snackbar_max_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_snackbar_min_width = global::NDMA.Resource.Dimension.design_snackbar_min_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_snackbar_padding_horizontal = global::NDMA.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_snackbar_padding_vertical = global::NDMA.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::NDMA.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_snackbar_text_size = global::NDMA.Resource.Dimension.design_snackbar_text_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_tab_max_width = global::NDMA.Resource.Dimension.design_tab_max_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_tab_scrollable_min_width = global::NDMA.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_tab_text_size = global::NDMA.Resource.Dimension.design_tab_text_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_tab_text_size_2line = global::NDMA.Resource.Dimension.design_tab_text_size_2line;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.design_textinput_caption_translate_y = global::NDMA.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.disabled_alpha_material_dark = global::NDMA.Resource.Dimension.disabled_alpha_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.disabled_alpha_material_light = global::NDMA.Resource.Dimension.disabled_alpha_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.fastscroll_default_thickness = global::NDMA.Resource.Dimension.fastscroll_default_thickness;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.fastscroll_margin = global::NDMA.Resource.Dimension.fastscroll_margin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.fastscroll_minimum_range = global::NDMA.Resource.Dimension.fastscroll_minimum_range;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.highlight_alpha_material_colored = global::NDMA.Resource.Dimension.highlight_alpha_material_colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.highlight_alpha_material_dark = global::NDMA.Resource.Dimension.highlight_alpha_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.highlight_alpha_material_light = global::NDMA.Resource.Dimension.highlight_alpha_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.hint_alpha_material_dark = global::NDMA.Resource.Dimension.hint_alpha_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.hint_alpha_material_light = global::NDMA.Resource.Dimension.hint_alpha_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.hint_pressed_alpha_material_dark = global::NDMA.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.hint_pressed_alpha_material_light = global::NDMA.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::NDMA.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::NDMA.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::NDMA.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::NDMA.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::NDMA.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::NDMA.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::NDMA.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_bottomappbar_height = global::NDMA.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_corner_radius = global::NDMA.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::NDMA.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_disabled_elevation = global::NDMA.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_disabled_z = global::NDMA.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_elevation = global::NDMA.Resource.Dimension.mtrl_btn_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_focused_z = global::NDMA.Resource.Dimension.mtrl_btn_focused_z;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_hovered_z = global::NDMA.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::NDMA.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_icon_padding = global::NDMA.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_inset = global::NDMA.Resource.Dimension.mtrl_btn_inset;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_letter_spacing = global::NDMA.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_padding_bottom = global::NDMA.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_padding_left = global::NDMA.Resource.Dimension.mtrl_btn_padding_left;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_padding_right = global::NDMA.Resource.Dimension.mtrl_btn_padding_right;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_padding_top = global::NDMA.Resource.Dimension.mtrl_btn_padding_top;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_pressed_z = global::NDMA.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_stroke_size = global::NDMA.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::NDMA.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::NDMA.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::NDMA.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_text_size = global::NDMA.Resource.Dimension.mtrl_btn_text_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_btn_z = global::NDMA.Resource.Dimension.mtrl_btn_z;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_card_elevation = global::NDMA.Resource.Dimension.mtrl_card_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_card_spacing = global::NDMA.Resource.Dimension.mtrl_card_spacing;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_chip_pressed_translation_z = global::NDMA.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_chip_text_size = global::NDMA.Resource.Dimension.mtrl_chip_text_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_fab_elevation = global::NDMA.Resource.Dimension.mtrl_fab_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::NDMA.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_fab_translation_z_pressed = global::NDMA.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_navigation_elevation = global::NDMA.Resource.Dimension.mtrl_navigation_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::NDMA.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_navigation_item_icon_padding = global::NDMA.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::NDMA.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_snackbar_margin = global::NDMA.Resource.Dimension.mtrl_snackbar_margin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::NDMA.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::NDMA.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::NDMA.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::NDMA.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_textinput_box_padding_end = global::NDMA.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::NDMA.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::NDMA.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::NDMA.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.mtrl_toolbar_default_height = global::NDMA.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_action_icon_size = global::NDMA.Resource.Dimension.notification_action_icon_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_action_text_size = global::NDMA.Resource.Dimension.notification_action_text_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_big_circle_margin = global::NDMA.Resource.Dimension.notification_big_circle_margin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_content_margin_start = global::NDMA.Resource.Dimension.notification_content_margin_start;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_large_icon_height = global::NDMA.Resource.Dimension.notification_large_icon_height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_large_icon_width = global::NDMA.Resource.Dimension.notification_large_icon_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_main_column_padding_top = global::NDMA.Resource.Dimension.notification_main_column_padding_top;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_media_narrow_margin = global::NDMA.Resource.Dimension.notification_media_narrow_margin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_right_icon_size = global::NDMA.Resource.Dimension.notification_right_icon_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_right_side_padding_top = global::NDMA.Resource.Dimension.notification_right_side_padding_top;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_small_icon_background_padding = global::NDMA.Resource.Dimension.notification_small_icon_background_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_small_icon_size_as_large = global::NDMA.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_subtext_size = global::NDMA.Resource.Dimension.notification_subtext_size;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_top_pad = global::NDMA.Resource.Dimension.notification_top_pad;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.notification_top_pad_large_text = global::NDMA.Resource.Dimension.notification_top_pad_large_text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.tooltip_corner_radius = global::NDMA.Resource.Dimension.tooltip_corner_radius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.tooltip_horizontal_padding = global::NDMA.Resource.Dimension.tooltip_horizontal_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.tooltip_margin = global::NDMA.Resource.Dimension.tooltip_margin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::NDMA.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.tooltip_precise_anchor_threshold = global::NDMA.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.tooltip_vertical_padding = global::NDMA.Resource.Dimension.tooltip_vertical_padding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.tooltip_y_offset_non_touch = global::NDMA.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Dimension.tooltip_y_offset_touch = global::NDMA.Resource.Dimension.tooltip_y_offset_touch;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_action_bar_item_background_material = global::NDMA.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_btn_borderless_material = global::NDMA.Resource.Drawable.abc_btn_borderless_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_btn_check_material = global::NDMA.Resource.Drawable.abc_btn_check_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::NDMA.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::NDMA.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_btn_colored_material = global::NDMA.Resource.Drawable.abc_btn_colored_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_btn_default_mtrl_shape = global::NDMA.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_btn_radio_material = global::NDMA.Resource.Drawable.abc_btn_radio_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::NDMA.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::NDMA.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::NDMA.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::NDMA.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_cab_background_internal_bg = global::NDMA.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_cab_background_top_material = global::NDMA.Resource.Drawable.abc_cab_background_top_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::NDMA.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_control_background_material = global::NDMA.Resource.Drawable.abc_control_background_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_dialog_material_background = global::NDMA.Resource.Drawable.abc_dialog_material_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_edit_text_material = global::NDMA.Resource.Drawable.abc_edit_text_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_ab_back_material = global::NDMA.Resource.Drawable.abc_ic_ab_back_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::NDMA.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_clear_material = global::NDMA.Resource.Drawable.abc_ic_clear_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_go_search_api_material = global::NDMA.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_menu_overflow_material = global::NDMA.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::NDMA.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_search_api_material = global::NDMA.Resource.Drawable.abc_ic_search_api_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_star_black_16dp = global::NDMA.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_star_black_36dp = global::NDMA.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_star_black_48dp = global::NDMA.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_star_half_black_16dp = global::NDMA.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_star_half_black_36dp = global::NDMA.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_star_half_black_48dp = global::NDMA.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ic_voice_search_api_material = global::NDMA.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_item_background_holo_dark = global::NDMA.Resource.Drawable.abc_item_background_holo_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_item_background_holo_light = global::NDMA.Resource.Drawable.abc_item_background_holo_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_list_divider_material = global::NDMA.Resource.Drawable.abc_list_divider_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_list_divider_mtrl_alpha = global::NDMA.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_list_focused_holo = global::NDMA.Resource.Drawable.abc_list_focused_holo;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_list_longpressed_holo = global::NDMA.Resource.Drawable.abc_list_longpressed_holo;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_list_pressed_holo_dark = global::NDMA.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_list_pressed_holo_light = global::NDMA.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::NDMA.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::NDMA.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::NDMA.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_list_selector_disabled_holo_light = global::NDMA.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_list_selector_holo_dark = global::NDMA.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_list_selector_holo_light = global::NDMA.Resource.Drawable.abc_list_selector_holo_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::NDMA.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_popup_background_mtrl_mult = global::NDMA.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ratingbar_indicator_material = global::NDMA.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ratingbar_material = global::NDMA.Resource.Drawable.abc_ratingbar_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_ratingbar_small_material = global::NDMA.Resource.Drawable.abc_ratingbar_small_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::NDMA.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::NDMA.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::NDMA.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::NDMA.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::NDMA.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_seekbar_thumb_material = global::NDMA.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_seekbar_tick_mark_material = global::NDMA.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_seekbar_track_material = global::NDMA.Resource.Drawable.abc_seekbar_track_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::NDMA.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_spinner_textfield_background_material = global::NDMA.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_switch_thumb_material = global::NDMA.Resource.Drawable.abc_switch_thumb_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_switch_track_mtrl_alpha = global::NDMA.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_tab_indicator_material = global::NDMA.Resource.Drawable.abc_tab_indicator_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::NDMA.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_text_cursor_material = global::NDMA.Resource.Drawable.abc_text_cursor_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::NDMA.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::NDMA.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::NDMA.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::NDMA.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::NDMA.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::NDMA.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::NDMA.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::NDMA.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::NDMA.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::NDMA.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_textfield_search_material = global::NDMA.Resource.Drawable.abc_textfield_search_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.abc_vector_test = global::NDMA.Resource.Drawable.abc_vector_test;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar1 = global::NDMA.Resource.Drawable.Avatar1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar10 = global::NDMA.Resource.Drawable.Avatar10;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar11 = global::NDMA.Resource.Drawable.Avatar11;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar12 = global::NDMA.Resource.Drawable.Avatar12;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar13 = global::NDMA.Resource.Drawable.Avatar13;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar14 = global::NDMA.Resource.Drawable.Avatar14;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar15 = global::NDMA.Resource.Drawable.Avatar15;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar16 = global::NDMA.Resource.Drawable.Avatar16;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar17 = global::NDMA.Resource.Drawable.Avatar17;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar18 = global::NDMA.Resource.Drawable.Avatar18;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar19 = global::NDMA.Resource.Drawable.Avatar19;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar2 = global::NDMA.Resource.Drawable.Avatar2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar20 = global::NDMA.Resource.Drawable.Avatar20;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar21 = global::NDMA.Resource.Drawable.Avatar21;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar22 = global::NDMA.Resource.Drawable.Avatar22;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar23 = global::NDMA.Resource.Drawable.Avatar23;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar24 = global::NDMA.Resource.Drawable.Avatar24;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar25 = global::NDMA.Resource.Drawable.Avatar25;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar26 = global::NDMA.Resource.Drawable.Avatar26;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar27 = global::NDMA.Resource.Drawable.Avatar27;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar28 = global::NDMA.Resource.Drawable.Avatar28;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar29 = global::NDMA.Resource.Drawable.Avatar29;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar3 = global::NDMA.Resource.Drawable.Avatar3;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar30 = global::NDMA.Resource.Drawable.Avatar30;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar4 = global::NDMA.Resource.Drawable.Avatar4;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar5 = global::NDMA.Resource.Drawable.Avatar5;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar6 = global::NDMA.Resource.Drawable.Avatar6;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar7 = global::NDMA.Resource.Drawable.Avatar7;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar8 = global::NDMA.Resource.Drawable.Avatar8;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.Avatar9 = global::NDMA.Resource.Drawable.Avatar9;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.avd_hide_password = global::NDMA.Resource.Drawable.avd_hide_password;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.avd_show_password = global::NDMA.Resource.Drawable.avd_show_password;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.design_bottom_navigation_item_background = global::NDMA.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.design_fab_background = global::NDMA.Resource.Drawable.design_fab_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.design_ic_visibility = global::NDMA.Resource.Drawable.design_ic_visibility;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.design_ic_visibility_off = global::NDMA.Resource.Drawable.design_ic_visibility_off;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.design_password_eye = global::NDMA.Resource.Drawable.design_password_eye;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.design_snackbar_background = global::NDMA.Resource.Drawable.design_snackbar_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.dropdownbuttonimage = global::NDMA.Resource.Drawable.dropdownbuttonimage;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.ic_mtrl_chip_checked_black = global::NDMA.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.ic_mtrl_chip_checked_circle = global::NDMA.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.ic_mtrl_chip_close_circle = global::NDMA.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.input_layout_drop_down_icon = global::NDMA.Resource.Drawable.input_layout_drop_down_icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.inputlayout_togglecollapseicon = global::NDMA.Resource.Drawable.inputlayout_togglecollapseicon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.inputlayout_togglevisibleicon = global::NDMA.Resource.Drawable.inputlayout_togglevisibleicon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.mtrl_snackbar_background = global::NDMA.Resource.Drawable.mtrl_snackbar_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.mtrl_tabs_default_indicator = global::NDMA.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.navigation_empty_icon = global::NDMA.Resource.Drawable.navigation_empty_icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.notification_action_background = global::NDMA.Resource.Drawable.notification_action_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.notification_bg = global::NDMA.Resource.Drawable.notification_bg;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.notification_bg_low = global::NDMA.Resource.Drawable.notification_bg_low;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.notification_bg_low_normal = global::NDMA.Resource.Drawable.notification_bg_low_normal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.notification_bg_low_pressed = global::NDMA.Resource.Drawable.notification_bg_low_pressed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.notification_bg_normal = global::NDMA.Resource.Drawable.notification_bg_normal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.notification_bg_normal_pressed = global::NDMA.Resource.Drawable.notification_bg_normal_pressed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.notification_icon_background = global::NDMA.Resource.Drawable.notification_icon_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.notification_template_icon_bg = global::NDMA.Resource.Drawable.notification_template_icon_bg;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.notification_template_icon_low_bg = global::NDMA.Resource.Drawable.notification_template_icon_low_bg;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.notification_tile_bg = global::NDMA.Resource.Drawable.notification_tile_bg;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.notify_panel_notification_icon_bg = global::NDMA.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.tooltip_frame_dark = global::NDMA.Resource.Drawable.tooltip_frame_dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Drawable.tooltip_frame_light = global::NDMA.Resource.Drawable.tooltip_frame_light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.ALT = global::NDMA.Resource.Id.ALT;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.CTRL = global::NDMA.Resource.Id.CTRL;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.FUNCTION = global::NDMA.Resource.Id.FUNCTION;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.Itemname = global::NDMA.Resource.Id.Itemname;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.META = global::NDMA.Resource.Id.META;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.SHIFT = global::NDMA.Resource.Id.SHIFT;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.SYM = global::NDMA.Resource.Id.SYM;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_bar = global::NDMA.Resource.Id.action_bar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_bar_activity_content = global::NDMA.Resource.Id.action_bar_activity_content;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_bar_container = global::NDMA.Resource.Id.action_bar_container;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_bar_root = global::NDMA.Resource.Id.action_bar_root;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_bar_spinner = global::NDMA.Resource.Id.action_bar_spinner;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_bar_subtitle = global::NDMA.Resource.Id.action_bar_subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_bar_title = global::NDMA.Resource.Id.action_bar_title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_container = global::NDMA.Resource.Id.action_container;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_context_bar = global::NDMA.Resource.Id.action_context_bar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_divider = global::NDMA.Resource.Id.action_divider;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_image = global::NDMA.Resource.Id.action_image;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_menu_divider = global::NDMA.Resource.Id.action_menu_divider;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_menu_presenter = global::NDMA.Resource.Id.action_menu_presenter;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_mode_bar = global::NDMA.Resource.Id.action_mode_bar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_mode_bar_stub = global::NDMA.Resource.Id.action_mode_bar_stub;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_mode_close_button = global::NDMA.Resource.Id.action_mode_close_button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.action_text = global::NDMA.Resource.Id.action_text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.actions = global::NDMA.Resource.Id.actions;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.activity_chooser_view_content = global::NDMA.Resource.Id.activity_chooser_view_content;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.add = global::NDMA.Resource.Id.add;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.alertTitle = global::NDMA.Resource.Id.alertTitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.all = global::NDMA.Resource.Id.all;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.always = global::NDMA.Resource.Id.always;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.async = global::NDMA.Resource.Id.async;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.auto = global::NDMA.Resource.Id.auto;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.beginning = global::NDMA.Resource.Id.beginning;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.blocking = global::NDMA.Resource.Id.blocking;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.bottom = global::NDMA.Resource.Id.bottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.bottomtab_navarea = global::NDMA.Resource.Id.bottomtab_navarea;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.bottomtab_tabbar = global::NDMA.Resource.Id.bottomtab_tabbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.browser_actions_header_text = global::NDMA.Resource.Id.browser_actions_header_text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.browser_actions_menu_item_icon = global::NDMA.Resource.Id.browser_actions_menu_item_icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.browser_actions_menu_item_text = global::NDMA.Resource.Id.browser_actions_menu_item_text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.browser_actions_menu_items = global::NDMA.Resource.Id.browser_actions_menu_items;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.browser_actions_menu_view = global::NDMA.Resource.Id.browser_actions_menu_view;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.buttonPanel = global::NDMA.Resource.Id.buttonPanel;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.center = global::NDMA.Resource.Id.center;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.center_horizontal = global::NDMA.Resource.Id.center_horizontal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.center_vertical = global::NDMA.Resource.Id.center_vertical;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.checkbox = global::NDMA.Resource.Id.checkbox;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.chronometer = global::NDMA.Resource.Id.chronometer;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.clip_horizontal = global::NDMA.Resource.Id.clip_horizontal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.clip_vertical = global::NDMA.Resource.Id.clip_vertical;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.collapseActionView = global::NDMA.Resource.Id.collapseActionView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.container = global::NDMA.Resource.Id.container;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.content = global::NDMA.Resource.Id.content;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.contentPanel = global::NDMA.Resource.Id.contentPanel;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.coordinator = global::NDMA.Resource.Id.coordinator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.custom = global::NDMA.Resource.Id.custom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.customPanel = global::NDMA.Resource.Id.customPanel;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.decor_content_parent = global::NDMA.Resource.Id.decor_content_parent;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.default_activity_button = global::NDMA.Resource.Id.default_activity_button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.design_bottom_sheet = global::NDMA.Resource.Id.design_bottom_sheet;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.design_menu_item_action_area = global::NDMA.Resource.Id.design_menu_item_action_area;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.design_menu_item_action_area_stub = global::NDMA.Resource.Id.design_menu_item_action_area_stub;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.design_menu_item_text = global::NDMA.Resource.Id.design_menu_item_text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.design_navigation_view = global::NDMA.Resource.Id.design_navigation_view;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.disableHome = global::NDMA.Resource.Id.disableHome;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.edit_query = global::NDMA.Resource.Id.edit_query;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.end = global::NDMA.Resource.Id.end;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.enterAlways = global::NDMA.Resource.Id.enterAlways;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.enterAlwaysCollapsed = global::NDMA.Resource.Id.enterAlwaysCollapsed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.exitUntilCollapsed = global::NDMA.Resource.Id.exitUntilCollapsed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.expand_activities_button = global::NDMA.Resource.Id.expand_activities_button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.expanded_menu = global::NDMA.Resource.Id.expanded_menu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.fill = global::NDMA.Resource.Id.fill;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.fill_horizontal = global::NDMA.Resource.Id.fill_horizontal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.fill_vertical = global::NDMA.Resource.Id.fill_vertical;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.filled = global::NDMA.Resource.Id.filled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.@fixed = global::NDMA.Resource.Id.@fixed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.flyoutcontent_appbar = global::NDMA.Resource.Id.flyoutcontent_appbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.flyoutcontent_recycler = global::NDMA.Resource.Id.flyoutcontent_recycler;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.forever = global::NDMA.Resource.Id.forever;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.group_divider = global::NDMA.Resource.Id.group_divider;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.home = global::NDMA.Resource.Id.home;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.homeAsUp = global::NDMA.Resource.Id.homeAsUp;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.icon = global::NDMA.Resource.Id.icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.icon_group = global::NDMA.Resource.Id.icon_group;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.ifRoom = global::NDMA.Resource.Id.ifRoom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.image = global::NDMA.Resource.Id.image;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.info = global::NDMA.Resource.Id.info;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.italic = global::NDMA.Resource.Id.italic;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.item_touch_helper_previous_elevation = global::NDMA.Resource.Id.item_touch_helper_previous_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.labeled = global::NDMA.Resource.Id.labeled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.largeLabel = global::NDMA.Resource.Id.largeLabel;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.left = global::NDMA.Resource.Id.left;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.line1 = global::NDMA.Resource.Id.line1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.line3 = global::NDMA.Resource.Id.line3;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.listMode = global::NDMA.Resource.Id.listMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.list_item = global::NDMA.Resource.Id.list_item;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.main_appbar = global::NDMA.Resource.Id.main_appbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.main_tablayout = global::NDMA.Resource.Id.main_tablayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.main_toolbar = global::NDMA.Resource.Id.main_toolbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.masked = global::NDMA.Resource.Id.masked;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.message = global::NDMA.Resource.Id.message;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.middle = global::NDMA.Resource.Id.middle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.mini = global::NDMA.Resource.Id.mini;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.mtrl_child_content_container = global::NDMA.Resource.Id.mtrl_child_content_container;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.mtrl_internal_children_alpha_tag = global::NDMA.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.multiply = global::NDMA.Resource.Id.multiply;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.navigation_header_container = global::NDMA.Resource.Id.navigation_header_container;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.never = global::NDMA.Resource.Id.never;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.none = global::NDMA.Resource.Id.none;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.normal = global::NDMA.Resource.Id.normal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.notification_background = global::NDMA.Resource.Id.notification_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.notification_main_column = global::NDMA.Resource.Id.notification_main_column;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.notification_main_column_container = global::NDMA.Resource.Id.notification_main_column_container;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.outline = global::NDMA.Resource.Id.outline;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.parallax = global::NDMA.Resource.Id.parallax;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.parentPanel = global::NDMA.Resource.Id.parentPanel;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.pin = global::NDMA.Resource.Id.pin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.progress_circular = global::NDMA.Resource.Id.progress_circular;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.progress_horizontal = global::NDMA.Resource.Id.progress_horizontal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.radio = global::NDMA.Resource.Id.radio;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.right = global::NDMA.Resource.Id.right;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.right_icon = global::NDMA.Resource.Id.right_icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.right_side = global::NDMA.Resource.Id.right_side;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.screen = global::NDMA.Resource.Id.screen;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.scroll = global::NDMA.Resource.Id.scroll;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.scrollIndicatorDown = global::NDMA.Resource.Id.scrollIndicatorDown;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.scrollIndicatorUp = global::NDMA.Resource.Id.scrollIndicatorUp;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.scrollView = global::NDMA.Resource.Id.scrollView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.scrollable = global::NDMA.Resource.Id.scrollable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.search_badge = global::NDMA.Resource.Id.search_badge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.search_bar = global::NDMA.Resource.Id.search_bar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.search_button = global::NDMA.Resource.Id.search_button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.search_close_btn = global::NDMA.Resource.Id.search_close_btn;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.search_edit_frame = global::NDMA.Resource.Id.search_edit_frame;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.search_go_btn = global::NDMA.Resource.Id.search_go_btn;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.search_mag_icon = global::NDMA.Resource.Id.search_mag_icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.search_plate = global::NDMA.Resource.Id.search_plate;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.search_src_text = global::NDMA.Resource.Id.search_src_text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.search_voice_btn = global::NDMA.Resource.Id.search_voice_btn;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.select_dialog_listview = global::NDMA.Resource.Id.select_dialog_listview;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.selected = global::NDMA.Resource.Id.selected;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.shellcontent_appbar = global::NDMA.Resource.Id.shellcontent_appbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.shellcontent_toolbar = global::NDMA.Resource.Id.shellcontent_toolbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.shortcut = global::NDMA.Resource.Id.shortcut;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.showCustom = global::NDMA.Resource.Id.showCustom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.showHome = global::NDMA.Resource.Id.showHome;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.showTitle = global::NDMA.Resource.Id.showTitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.smallLabel = global::NDMA.Resource.Id.smallLabel;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.snackbar_action = global::NDMA.Resource.Id.snackbar_action;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.snackbar_text = global::NDMA.Resource.Id.snackbar_text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.snap = global::NDMA.Resource.Id.snap;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.snapMargins = global::NDMA.Resource.Id.snapMargins;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.spacer = global::NDMA.Resource.Id.spacer;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.split_action_bar = global::NDMA.Resource.Id.split_action_bar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.src_atop = global::NDMA.Resource.Id.src_atop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.src_in = global::NDMA.Resource.Id.src_in;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.src_over = global::NDMA.Resource.Id.src_over;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.start = global::NDMA.Resource.Id.start;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.stretch = global::NDMA.Resource.Id.stretch;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.submenuarrow = global::NDMA.Resource.Id.submenuarrow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.submit_area = global::NDMA.Resource.Id.submit_area;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.tabMode = global::NDMA.Resource.Id.tabMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.tag_transition_group = global::NDMA.Resource.Id.tag_transition_group;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.tag_unhandled_key_event_manager = global::NDMA.Resource.Id.tag_unhandled_key_event_manager;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.tag_unhandled_key_listeners = global::NDMA.Resource.Id.tag_unhandled_key_listeners;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.text = global::NDMA.Resource.Id.text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.text2 = global::NDMA.Resource.Id.text2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.textSpacerNoButtons = global::NDMA.Resource.Id.textSpacerNoButtons;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.textSpacerNoTitle = global::NDMA.Resource.Id.textSpacerNoTitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.textStart = global::NDMA.Resource.Id.textStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.text_input_password_toggle = global::NDMA.Resource.Id.text_input_password_toggle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.textinput_counter = global::NDMA.Resource.Id.textinput_counter;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.textinput_error = global::NDMA.Resource.Id.textinput_error;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.textinput_helper_text = global::NDMA.Resource.Id.textinput_helper_text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.time = global::NDMA.Resource.Id.time;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.title = global::NDMA.Resource.Id.title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.titleDividerNoCustom = global::NDMA.Resource.Id.titleDividerNoCustom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.title_template = global::NDMA.Resource.Id.title_template;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.top = global::NDMA.Resource.Id.top;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.topPanel = global::NDMA.Resource.Id.topPanel;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.touch_outside = global::NDMA.Resource.Id.touch_outside;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.uniform = global::NDMA.Resource.Id.uniform;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.unlabeled = global::NDMA.Resource.Id.unlabeled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.up = global::NDMA.Resource.Id.up;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.useLogo = global::NDMA.Resource.Id.useLogo;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.view_offset_helper = global::NDMA.Resource.Id.view_offset_helper;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.visible = global::NDMA.Resource.Id.visible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.withText = global::NDMA.Resource.Id.withText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Id.wrap_content = global::NDMA.Resource.Id.wrap_content;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.abc_config_activityDefaultDur = global::NDMA.Resource.Integer.abc_config_activityDefaultDur;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.abc_config_activityShortDur = global::NDMA.Resource.Integer.abc_config_activityShortDur;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.app_bar_elevation_anim_duration = global::NDMA.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.bottom_sheet_slide_duration = global::NDMA.Resource.Integer.bottom_sheet_slide_duration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.cancel_button_image_alpha = global::NDMA.Resource.Integer.cancel_button_image_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.config_tooltipAnimTime = global::NDMA.Resource.Integer.config_tooltipAnimTime;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.design_snackbar_text_max_lines = global::NDMA.Resource.Integer.design_snackbar_text_max_lines;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.design_tab_indicator_anim_duration_ms = global::NDMA.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.hide_password_duration = global::NDMA.Resource.Integer.hide_password_duration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.mtrl_btn_anim_delay_ms = global::NDMA.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.mtrl_btn_anim_duration_ms = global::NDMA.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.mtrl_chip_anim_duration = global::NDMA.Resource.Integer.mtrl_chip_anim_duration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::NDMA.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.show_password_duration = global::NDMA.Resource.Integer.show_password_duration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Integer.status_bar_notification_info_maxnum = global::NDMA.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Interpolator.mtrl_fast_out_linear_in = global::NDMA.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Interpolator.mtrl_fast_out_slow_in = global::NDMA.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Interpolator.mtrl_linear = global::NDMA.Resource.Interpolator.mtrl_linear;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Interpolator.mtrl_linear_out_slow_in = global::NDMA.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_action_bar_title_item = global::NDMA.Resource.Layout.abc_action_bar_title_item;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_action_bar_up_container = global::NDMA.Resource.Layout.abc_action_bar_up_container;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_action_menu_item_layout = global::NDMA.Resource.Layout.abc_action_menu_item_layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_action_menu_layout = global::NDMA.Resource.Layout.abc_action_menu_layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_action_mode_bar = global::NDMA.Resource.Layout.abc_action_mode_bar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_action_mode_close_item_material = global::NDMA.Resource.Layout.abc_action_mode_close_item_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_activity_chooser_view = global::NDMA.Resource.Layout.abc_activity_chooser_view;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_activity_chooser_view_list_item = global::NDMA.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_alert_dialog_button_bar_material = global::NDMA.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_alert_dialog_material = global::NDMA.Resource.Layout.abc_alert_dialog_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_alert_dialog_title_material = global::NDMA.Resource.Layout.abc_alert_dialog_title_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_cascading_menu_item_layout = global::NDMA.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_dialog_title_material = global::NDMA.Resource.Layout.abc_dialog_title_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_expanded_menu_layout = global::NDMA.Resource.Layout.abc_expanded_menu_layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_list_menu_item_checkbox = global::NDMA.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_list_menu_item_icon = global::NDMA.Resource.Layout.abc_list_menu_item_icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_list_menu_item_layout = global::NDMA.Resource.Layout.abc_list_menu_item_layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_list_menu_item_radio = global::NDMA.Resource.Layout.abc_list_menu_item_radio;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_popup_menu_header_item_layout = global::NDMA.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_popup_menu_item_layout = global::NDMA.Resource.Layout.abc_popup_menu_item_layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_screen_content_include = global::NDMA.Resource.Layout.abc_screen_content_include;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_screen_simple = global::NDMA.Resource.Layout.abc_screen_simple;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_screen_simple_overlay_action_mode = global::NDMA.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_screen_toolbar = global::NDMA.Resource.Layout.abc_screen_toolbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_search_dropdown_item_icons_2line = global::NDMA.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_search_view = global::NDMA.Resource.Layout.abc_search_view;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_select_dialog_material = global::NDMA.Resource.Layout.abc_select_dialog_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.abc_tooltip = global::NDMA.Resource.Layout.abc_tooltip;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.BottomTabLayout = global::NDMA.Resource.Layout.BottomTabLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.browser_actions_context_menu_page = global::NDMA.Resource.Layout.browser_actions_context_menu_page;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.browser_actions_context_menu_row = global::NDMA.Resource.Layout.browser_actions_context_menu_row;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.CustomizedImageView = global::NDMA.Resource.Layout.CustomizedImageView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.CustomizedView = global::NDMA.Resource.Layout.CustomizedView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_bottom_navigation_item = global::NDMA.Resource.Layout.design_bottom_navigation_item;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_bottom_sheet_dialog = global::NDMA.Resource.Layout.design_bottom_sheet_dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_layout_snackbar = global::NDMA.Resource.Layout.design_layout_snackbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_layout_snackbar_include = global::NDMA.Resource.Layout.design_layout_snackbar_include;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_layout_tab_icon = global::NDMA.Resource.Layout.design_layout_tab_icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_layout_tab_text = global::NDMA.Resource.Layout.design_layout_tab_text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_menu_item_action_area = global::NDMA.Resource.Layout.design_menu_item_action_area;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_navigation_item = global::NDMA.Resource.Layout.design_navigation_item;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_navigation_item_header = global::NDMA.Resource.Layout.design_navigation_item_header;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_navigation_item_separator = global::NDMA.Resource.Layout.design_navigation_item_separator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_navigation_item_subheader = global::NDMA.Resource.Layout.design_navigation_item_subheader;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_navigation_menu = global::NDMA.Resource.Layout.design_navigation_menu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_navigation_menu_item = global::NDMA.Resource.Layout.design_navigation_menu_item;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.design_text_input_password_icon = global::NDMA.Resource.Layout.design_text_input_password_icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.FlyoutContent = global::NDMA.Resource.Layout.FlyoutContent;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.mtrl_layout_snackbar = global::NDMA.Resource.Layout.mtrl_layout_snackbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.mtrl_layout_snackbar_include = global::NDMA.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.notification_action = global::NDMA.Resource.Layout.notification_action;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.notification_action_tombstone = global::NDMA.Resource.Layout.notification_action_tombstone;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.notification_template_custom_big = global::NDMA.Resource.Layout.notification_template_custom_big;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.notification_template_icon_group = global::NDMA.Resource.Layout.notification_template_icon_group;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.notification_template_part_chronometer = global::NDMA.Resource.Layout.notification_template_part_chronometer;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.notification_template_part_time = global::NDMA.Resource.Layout.notification_template_part_time;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.RootLayout = global::NDMA.Resource.Layout.RootLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.select_dialog_item_material = global::NDMA.Resource.Layout.select_dialog_item_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.select_dialog_multichoice_material = global::NDMA.Resource.Layout.select_dialog_multichoice_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.select_dialog_singlechoice_material = global::NDMA.Resource.Layout.select_dialog_singlechoice_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.sfcomboBox_layout = global::NDMA.Resource.Layout.sfcomboBox_layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.ShellContent = global::NDMA.Resource.Layout.ShellContent;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Layout.support_simple_spinner_dropdown_item = global::NDMA.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_action_bar_home_description = global::NDMA.Resource.String.abc_action_bar_home_description;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_action_bar_up_description = global::NDMA.Resource.String.abc_action_bar_up_description;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_action_menu_overflow_description = global::NDMA.Resource.String.abc_action_menu_overflow_description;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_action_mode_done = global::NDMA.Resource.String.abc_action_mode_done;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_activity_chooser_view_see_all = global::NDMA.Resource.String.abc_activity_chooser_view_see_all;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_activitychooserview_choose_application = global::NDMA.Resource.String.abc_activitychooserview_choose_application;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_capital_off = global::NDMA.Resource.String.abc_capital_off;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_capital_on = global::NDMA.Resource.String.abc_capital_on;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_font_family_body_1_material = global::NDMA.Resource.String.abc_font_family_body_1_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_font_family_body_2_material = global::NDMA.Resource.String.abc_font_family_body_2_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_font_family_button_material = global::NDMA.Resource.String.abc_font_family_button_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_font_family_caption_material = global::NDMA.Resource.String.abc_font_family_caption_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_font_family_display_1_material = global::NDMA.Resource.String.abc_font_family_display_1_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_font_family_display_2_material = global::NDMA.Resource.String.abc_font_family_display_2_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_font_family_display_3_material = global::NDMA.Resource.String.abc_font_family_display_3_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_font_family_display_4_material = global::NDMA.Resource.String.abc_font_family_display_4_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_font_family_headline_material = global::NDMA.Resource.String.abc_font_family_headline_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_font_family_menu_material = global::NDMA.Resource.String.abc_font_family_menu_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_font_family_subhead_material = global::NDMA.Resource.String.abc_font_family_subhead_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_font_family_title_material = global::NDMA.Resource.String.abc_font_family_title_material;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_menu_alt_shortcut_label = global::NDMA.Resource.String.abc_menu_alt_shortcut_label;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_menu_ctrl_shortcut_label = global::NDMA.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_menu_delete_shortcut_label = global::NDMA.Resource.String.abc_menu_delete_shortcut_label;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_menu_enter_shortcut_label = global::NDMA.Resource.String.abc_menu_enter_shortcut_label;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_menu_function_shortcut_label = global::NDMA.Resource.String.abc_menu_function_shortcut_label;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_menu_meta_shortcut_label = global::NDMA.Resource.String.abc_menu_meta_shortcut_label;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_menu_shift_shortcut_label = global::NDMA.Resource.String.abc_menu_shift_shortcut_label;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_menu_space_shortcut_label = global::NDMA.Resource.String.abc_menu_space_shortcut_label;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_menu_sym_shortcut_label = global::NDMA.Resource.String.abc_menu_sym_shortcut_label;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_prepend_shortcut_label = global::NDMA.Resource.String.abc_prepend_shortcut_label;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_search_hint = global::NDMA.Resource.String.abc_search_hint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_searchview_description_clear = global::NDMA.Resource.String.abc_searchview_description_clear;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_searchview_description_query = global::NDMA.Resource.String.abc_searchview_description_query;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_searchview_description_search = global::NDMA.Resource.String.abc_searchview_description_search;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_searchview_description_submit = global::NDMA.Resource.String.abc_searchview_description_submit;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_searchview_description_voice = global::NDMA.Resource.String.abc_searchview_description_voice;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_shareactionprovider_share_with = global::NDMA.Resource.String.abc_shareactionprovider_share_with;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_shareactionprovider_share_with_application = global::NDMA.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.abc_toolbar_collapse_description = global::NDMA.Resource.String.abc_toolbar_collapse_description;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.appbar_scrolling_view_behavior = global::NDMA.Resource.String.appbar_scrolling_view_behavior;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.bottom_sheet_behavior = global::NDMA.Resource.String.bottom_sheet_behavior;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.character_counter_content_description = global::NDMA.Resource.String.character_counter_content_description;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.character_counter_pattern = global::NDMA.Resource.String.character_counter_pattern;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.fab_transformation_scrim_behavior = global::NDMA.Resource.String.fab_transformation_scrim_behavior;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.fab_transformation_sheet_behavior = global::NDMA.Resource.String.fab_transformation_sheet_behavior;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.hide_bottom_view_on_scroll_behavior = global::NDMA.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.mtrl_chip_close_icon_content_description = global::NDMA.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.password_toggle_content_description = global::NDMA.Resource.String.password_toggle_content_description;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.path_password_eye = global::NDMA.Resource.String.path_password_eye;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.path_password_eye_mask_strike_through = global::NDMA.Resource.String.path_password_eye_mask_strike_through;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.path_password_eye_mask_visible = global::NDMA.Resource.String.path_password_eye_mask_visible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.path_password_strike_through = global::NDMA.Resource.String.path_password_strike_through;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.search_menu_title = global::NDMA.Resource.String.search_menu_title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.String.status_bar_notification_info_overflow = global::NDMA.Resource.String.status_bar_notification_info_overflow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.AlertDialog_AppCompat = global::NDMA.Resource.Style.AlertDialog_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.AlertDialog_AppCompat_Light = global::NDMA.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Animation_AppCompat_Dialog = global::NDMA.Resource.Style.Animation_AppCompat_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Animation_AppCompat_DropDownUp = global::NDMA.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Animation_AppCompat_Tooltip = global::NDMA.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Animation_Design_BottomSheetDialog = global::NDMA.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_AlertDialog_AppCompat = global::NDMA.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_AlertDialog_AppCompat_Light = global::NDMA.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Animation_AppCompat_Dialog = global::NDMA.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::NDMA.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Animation_AppCompat_Tooltip = global::NDMA.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_CardView = global::NDMA.Resource.Style.Base_CardView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_DialogWindowTitle_AppCompat = global::NDMA.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::NDMA.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Button = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Large = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Small = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Title = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::NDMA.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::NDMA.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::NDMA.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::NDMA.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat = global::NDMA.Resource.Style.Base_Theme_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::NDMA.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_Dialog = global::NDMA.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::NDMA.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::NDMA.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::NDMA.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::NDMA.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::NDMA.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents = global::NDMA.Resource.Style.Base_Theme_MaterialComponents;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Light = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::NDMA.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_ThemeOverlay_AppCompat = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::NDMA.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::NDMA.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V14_Theme_MaterialComponents = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::NDMA.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::NDMA.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V21_Theme_AppCompat = global::NDMA.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::NDMA.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V21_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::NDMA.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::NDMA.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V22_Theme_AppCompat = global::NDMA.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V22_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V23_Theme_AppCompat = global::NDMA.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V23_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V26_Theme_AppCompat = global::NDMA.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V26_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::NDMA.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V28_Theme_AppCompat = global::NDMA.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V28_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V7_Theme_AppCompat = global::NDMA.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::NDMA.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V7_Theme_AppCompat_Light = global::NDMA.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::NDMA.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::NDMA.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::NDMA.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::NDMA.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::NDMA.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ActionBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ActionButton = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ActionMode = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::NDMA.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::NDMA.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Button = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Button_Small = global::NDMA.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::NDMA.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::NDMA.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::NDMA.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::NDMA.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::NDMA.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::NDMA.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::NDMA.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_EditText = global::NDMA.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ImageButton = global::NDMA.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::NDMA.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ListView = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::NDMA.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::NDMA.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::NDMA.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::NDMA.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::NDMA.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_RatingBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::NDMA.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::NDMA.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_SearchView = global::NDMA.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_SeekBar = global::NDMA.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::NDMA.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Spinner = global::NDMA.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::NDMA.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::NDMA.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Toolbar = global::NDMA.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::NDMA.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_Design_TabLayout = global::NDMA.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_MaterialComponents_Chip = global::NDMA.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::NDMA.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::NDMA.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.CardView = global::NDMA.Resource.Style.CardView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.CardView_Dark = global::NDMA.Resource.Style.CardView_Dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.CardView_Light = global::NDMA.Resource.Style.CardView_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_AppCompat = global::NDMA.Resource.Style.Platform_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_AppCompat_Light = global::NDMA.Resource.Style.Platform_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_MaterialComponents = global::NDMA.Resource.Style.Platform_MaterialComponents;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_MaterialComponents_Dialog = global::NDMA.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_MaterialComponents_Light = global::NDMA.Resource.Style.Platform_MaterialComponents_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::NDMA.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_ThemeOverlay_AppCompat = global::NDMA.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::NDMA.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::NDMA.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_V21_AppCompat = global::NDMA.Resource.Style.Platform_V21_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_V21_AppCompat_Light = global::NDMA.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_V25_AppCompat = global::NDMA.Resource.Style.Platform_V25_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_V25_AppCompat_Light = global::NDMA.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Platform_Widget_AppCompat_Spinner = global::NDMA.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::NDMA.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::NDMA.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::NDMA.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::NDMA.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat = global::NDMA.Resource.Style.TextAppearance_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Body1 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Body2 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Button = global::NDMA.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Caption = global::NDMA.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Display1 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Display2 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Display3 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Display4 = global::NDMA.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Headline = global::NDMA.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Large = global::NDMA.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::NDMA.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::NDMA.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::NDMA.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Medium = global::NDMA.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Menu = global::NDMA.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::NDMA.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Small = global::NDMA.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Subhead = global::NDMA.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Tooltip = global::NDMA.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::NDMA.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Compat_Notification = global::NDMA.Resource.Style.TextAppearance_Compat_Notification;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Compat_Notification_Info = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Compat_Notification_Time = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Compat_Notification_Title = global::NDMA.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::NDMA.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Design_Counter = global::NDMA.Resource.Style.TextAppearance_Design_Counter;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Design_Counter_Overflow = global::NDMA.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Design_Error = global::NDMA.Resource.Style.TextAppearance_Design_Error;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Design_HelperText = global::NDMA.Resource.Style.TextAppearance_Design_HelperText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Design_Hint = global::NDMA.Resource.Style.TextAppearance_Design_Hint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Design_Snackbar_Message = global::NDMA.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Design_Tab = global::NDMA.Resource.Style.TextAppearance_Design_Tab;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Button = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Caption = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Chip = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Overline = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_MaterialComponents_Tab = global::NDMA.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::NDMA.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::NDMA.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::NDMA.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat = global::NDMA.Resource.Style.Theme_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_CompactMenu = global::NDMA.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_DayNight = global::NDMA.Resource.Style.Theme_AppCompat_DayNight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::NDMA.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_Dialog = global::NDMA.Resource.Style.Theme_AppCompat_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_Dialog_Alert = global::NDMA.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::NDMA.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_Light = global::NDMA.Resource.Style.Theme_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::NDMA.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_Light_Dialog = global::NDMA.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::NDMA.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::NDMA.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::NDMA.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_AppCompat_NoActionBar = global::NDMA.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_Design = global::NDMA.Resource.Style.Theme_Design;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_Design_BottomSheetDialog = global::NDMA.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_Design_Light = global::NDMA.Resource.Style.Theme_Design_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::NDMA.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_Design_Light_NoActionBar = global::NDMA.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_Design_NoActionBar = global::NDMA.Resource.Style.Theme_Design_NoActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents = global::NDMA.Resource.Style.Theme_MaterialComponents;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::NDMA.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_CompactMenu = global::NDMA.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Dialog = global::NDMA.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::NDMA.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Light = global::NDMA.Resource.Style.Theme_MaterialComponents_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_NoActionBar = global::NDMA.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::NDMA.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_AppCompat = global::NDMA.Resource.Style.ThemeOverlay_AppCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_AppCompat_Dark = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_AppCompat_Light = global::NDMA.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_MaterialComponents = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::NDMA.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::NDMA.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ActionButton = global::NDMA.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::NDMA.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::NDMA.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ActionMode = global::NDMA.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ActivityChooserView = global::NDMA.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::NDMA.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Button = global::NDMA.Resource.Style.Widget_AppCompat_Button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Button_Borderless = global::NDMA.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::NDMA.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::NDMA.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Button_Colored = global::NDMA.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Button_Small = global::NDMA.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ButtonBar = global::NDMA.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::NDMA.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::NDMA.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::NDMA.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::NDMA.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::NDMA.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::NDMA.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_EditText = global::NDMA.Resource.Style.Widget_AppCompat_EditText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ImageButton = global::NDMA.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionButton = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::NDMA.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::NDMA.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::NDMA.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::NDMA.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::NDMA.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::NDMA.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::NDMA.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_SearchView = global::NDMA.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ListMenuView = global::NDMA.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ListPopupWindow = global::NDMA.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ListView = global::NDMA.Resource.Style.Widget_AppCompat_ListView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ListView_DropDown = global::NDMA.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ListView_Menu = global::NDMA.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_PopupMenu = global::NDMA.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::NDMA.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_PopupWindow = global::NDMA.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ProgressBar = global::NDMA.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::NDMA.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_RatingBar = global::NDMA.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::NDMA.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_RatingBar_Small = global::NDMA.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_SearchView = global::NDMA.Resource.Style.Widget_AppCompat_SearchView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_SeekBar = global::NDMA.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::NDMA.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Spinner = global::NDMA.Resource.Style.Widget_AppCompat_Spinner;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::NDMA.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::NDMA.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::NDMA.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::NDMA.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Toolbar = global::NDMA.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::NDMA.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Compat_NotificationActionContainer = global::NDMA.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Compat_NotificationActionText = global::NDMA.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Design_AppBarLayout = global::NDMA.Resource.Style.Widget_Design_AppBarLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Design_BottomNavigationView = global::NDMA.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Design_BottomSheet_Modal = global::NDMA.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Design_CollapsingToolbar = global::NDMA.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Design_FloatingActionButton = global::NDMA.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Design_NavigationView = global::NDMA.Resource.Style.Widget_Design_NavigationView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::NDMA.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Design_Snackbar = global::NDMA.Resource.Style.Widget_Design_Snackbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Design_TabLayout = global::NDMA.Resource.Style.Widget_Design_TabLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Design_TextInputLayout = global::NDMA.Resource.Style.Widget_Design_TextInputLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::NDMA.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Button = global::NDMA.Resource.Style.Widget_MaterialComponents_Button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Button_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::NDMA.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_CardView = global::NDMA.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Chip_Action = global::NDMA.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::NDMA.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::NDMA.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::NDMA.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_ChipGroup = global::NDMA.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::NDMA.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_NavigationView = global::NDMA.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Snackbar = global::NDMA.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::NDMA.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_TabLayout = global::NDMA.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::NDMA.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::NDMA.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_MaterialComponents_Toolbar = global::NDMA.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Style.Widget_Support_CoordinatorLayout = global::NDMA.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar = global::NDMA.Resource.Styleable.ActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_background = global::NDMA.Resource.Styleable.ActionBar_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_backgroundSplit = global::NDMA.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_backgroundStacked = global::NDMA.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_contentInsetEnd = global::NDMA.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::NDMA.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_contentInsetLeft = global::NDMA.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_contentInsetRight = global::NDMA.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_contentInsetStart = global::NDMA.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::NDMA.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_customNavigationLayout = global::NDMA.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_displayOptions = global::NDMA.Resource.Styleable.ActionBar_displayOptions;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_divider = global::NDMA.Resource.Styleable.ActionBar_divider;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_elevation = global::NDMA.Resource.Styleable.ActionBar_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_height = global::NDMA.Resource.Styleable.ActionBar_height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_hideOnContentScroll = global::NDMA.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_homeAsUpIndicator = global::NDMA.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_homeLayout = global::NDMA.Resource.Styleable.ActionBar_homeLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_icon = global::NDMA.Resource.Styleable.ActionBar_icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::NDMA.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_itemPadding = global::NDMA.Resource.Styleable.ActionBar_itemPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_logo = global::NDMA.Resource.Styleable.ActionBar_logo;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_navigationMode = global::NDMA.Resource.Styleable.ActionBar_navigationMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_popupTheme = global::NDMA.Resource.Styleable.ActionBar_popupTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_progressBarPadding = global::NDMA.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_progressBarStyle = global::NDMA.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_subtitle = global::NDMA.Resource.Styleable.ActionBar_subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_subtitleTextStyle = global::NDMA.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_title = global::NDMA.Resource.Styleable.ActionBar_title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBar_titleTextStyle = global::NDMA.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBarLayout = global::NDMA.Resource.Styleable.ActionBarLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::NDMA.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionMenuItemView = global::NDMA.Resource.Styleable.ActionMenuItemView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionMenuItemView_android_minWidth = global::NDMA.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionMenuView = global::NDMA.Resource.Styleable.ActionMenuView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionMode = global::NDMA.Resource.Styleable.ActionMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionMode_background = global::NDMA.Resource.Styleable.ActionMode_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionMode_backgroundSplit = global::NDMA.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionMode_closeItemLayout = global::NDMA.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionMode_height = global::NDMA.Resource.Styleable.ActionMode_height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionMode_subtitleTextStyle = global::NDMA.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActionMode_titleTextStyle = global::NDMA.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActivityChooserView = global::NDMA.Resource.Styleable.ActivityChooserView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::NDMA.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ActivityChooserView_initialActivityCount = global::NDMA.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AlertDialog = global::NDMA.Resource.Styleable.AlertDialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AlertDialog_android_layout = global::NDMA.Resource.Styleable.AlertDialog_android_layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AlertDialog_buttonIconDimen = global::NDMA.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::NDMA.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AlertDialog_listItemLayout = global::NDMA.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AlertDialog_listLayout = global::NDMA.Resource.Styleable.AlertDialog_listLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::NDMA.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AlertDialog_showTitle = global::NDMA.Resource.Styleable.AlertDialog_showTitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::NDMA.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableCompat = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::NDMA.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableItem = global::NDMA.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::NDMA.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::NDMA.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableTransition = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::NDMA.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayout = global::NDMA.Resource.Styleable.AppBarLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayout_android_background = global::NDMA.Resource.Styleable.AppBarLayout_android_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::NDMA.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::NDMA.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayout_elevation = global::NDMA.Resource.Styleable.AppBarLayout_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayout_expanded = global::NDMA.Resource.Styleable.AppBarLayout_expanded;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayout_liftOnScroll = global::NDMA.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayoutStates = global::NDMA.Resource.Styleable.AppBarLayoutStates;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::NDMA.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::NDMA.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayoutStates_state_liftable = global::NDMA.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayoutStates_state_lifted = global::NDMA.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayout_Layout = global::NDMA.Resource.Styleable.AppBarLayout_Layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::NDMA.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::NDMA.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatImageView = global::NDMA.Resource.Styleable.AppCompatImageView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatImageView_android_src = global::NDMA.Resource.Styleable.AppCompatImageView_android_src;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatImageView_srcCompat = global::NDMA.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatImageView_tint = global::NDMA.Resource.Styleable.AppCompatImageView_tint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatImageView_tintMode = global::NDMA.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatSeekBar = global::NDMA.Resource.Styleable.AppCompatSeekBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatSeekBar_android_thumb = global::NDMA.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatSeekBar_tickMark = global::NDMA.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::NDMA.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::NDMA.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextHelper = global::NDMA.Resource.Styleable.AppCompatTextHelper;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::NDMA.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextView = global::NDMA.Resource.Styleable.AppCompatTextView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextView_android_textAppearance = global::NDMA.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::NDMA.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::NDMA.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextView_fontFamily = global::NDMA.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::NDMA.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextView_lineHeight = global::NDMA.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTextView_textAllCaps = global::NDMA.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme = global::NDMA.Resource.Styleable.AppCompatTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionBarDivider = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionBarSize = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionBarTheme = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::NDMA.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::NDMA.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::NDMA.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModeBackground = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModeStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::NDMA.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::NDMA.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::NDMA.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::NDMA.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::NDMA.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::NDMA.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::NDMA.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::NDMA.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_buttonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::NDMA.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_checkboxStyle = global::NDMA.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_colorAccent = global::NDMA.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::NDMA.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::NDMA.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_colorControlActivated = global::NDMA.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::NDMA.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_colorControlNormal = global::NDMA.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_colorError = global::NDMA.Resource.Styleable.AppCompatTheme_colorError;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_colorPrimary = global::NDMA.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::NDMA.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::NDMA.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_controlBackground = global::NDMA.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::NDMA.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::NDMA.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_dialogTheme = global::NDMA.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::NDMA.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_dividerVertical = global::NDMA.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::NDMA.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_editTextBackground = global::NDMA.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_editTextColor = global::NDMA.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_editTextStyle = global::NDMA.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::NDMA.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::NDMA.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::NDMA.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::NDMA.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::NDMA.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_panelBackground = global::NDMA.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::NDMA.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::NDMA.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::NDMA.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::NDMA.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::NDMA.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::NDMA.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_searchViewStyle = global::NDMA.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_seekBarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::NDMA.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::NDMA.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::NDMA.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_spinnerStyle = global::NDMA.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_switchStyle = global::NDMA.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::NDMA.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::NDMA.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::NDMA.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::NDMA.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_toolbarStyle = global::NDMA.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::NDMA.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::NDMA.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::NDMA.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_windowActionBar = global::NDMA.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::NDMA.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::NDMA.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::NDMA.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::NDMA.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::NDMA.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::NDMA.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::NDMA.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::NDMA.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.AppCompatTheme_windowNoTitle = global::NDMA.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomAppBar = global::NDMA.Resource.Styleable.BottomAppBar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomAppBar_backgroundTint = global::NDMA.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::NDMA.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomAppBar_fabCradleMargin = global::NDMA.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::NDMA.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::NDMA.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomAppBar_hideOnScroll = global::NDMA.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomNavigationView = global::NDMA.Resource.Styleable.BottomNavigationView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomNavigationView_elevation = global::NDMA.Resource.Styleable.BottomNavigationView_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomNavigationView_itemBackground = global::NDMA.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::NDMA.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomNavigationView_itemIconSize = global::NDMA.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomNavigationView_itemIconTint = global::NDMA.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::NDMA.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::NDMA.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomNavigationView_itemTextColor = global::NDMA.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::NDMA.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomNavigationView_menu = global::NDMA.Resource.Styleable.BottomNavigationView_menu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomSheetBehavior_Layout = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::NDMA.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ButtonBarLayout = global::NDMA.Resource.Styleable.ButtonBarLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ButtonBarLayout_allowStacking = global::NDMA.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView = global::NDMA.Resource.Styleable.CardView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_android_minHeight = global::NDMA.Resource.Styleable.CardView_android_minHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_android_minWidth = global::NDMA.Resource.Styleable.CardView_android_minWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_cardBackgroundColor = global::NDMA.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_cardCornerRadius = global::NDMA.Resource.Styleable.CardView_cardCornerRadius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_cardElevation = global::NDMA.Resource.Styleable.CardView_cardElevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_cardMaxElevation = global::NDMA.Resource.Styleable.CardView_cardMaxElevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_cardPreventCornerOverlap = global::NDMA.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_cardUseCompatPadding = global::NDMA.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_contentPadding = global::NDMA.Resource.Styleable.CardView_contentPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_contentPaddingBottom = global::NDMA.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_contentPaddingLeft = global::NDMA.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_contentPaddingRight = global::NDMA.Resource.Styleable.CardView_contentPaddingRight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CardView_contentPaddingTop = global::NDMA.Resource.Styleable.CardView_contentPaddingTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip = global::NDMA.Resource.Styleable.Chip;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_android_checkable = global::NDMA.Resource.Styleable.Chip_android_checkable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_android_ellipsize = global::NDMA.Resource.Styleable.Chip_android_ellipsize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_android_maxWidth = global::NDMA.Resource.Styleable.Chip_android_maxWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_android_text = global::NDMA.Resource.Styleable.Chip_android_text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_android_textAppearance = global::NDMA.Resource.Styleable.Chip_android_textAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_checkedIcon = global::NDMA.Resource.Styleable.Chip_checkedIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_checkedIconEnabled = global::NDMA.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_checkedIconVisible = global::NDMA.Resource.Styleable.Chip_checkedIconVisible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_chipBackgroundColor = global::NDMA.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_chipCornerRadius = global::NDMA.Resource.Styleable.Chip_chipCornerRadius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_chipEndPadding = global::NDMA.Resource.Styleable.Chip_chipEndPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_chipIcon = global::NDMA.Resource.Styleable.Chip_chipIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_chipIconEnabled = global::NDMA.Resource.Styleable.Chip_chipIconEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_chipIconSize = global::NDMA.Resource.Styleable.Chip_chipIconSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_chipIconTint = global::NDMA.Resource.Styleable.Chip_chipIconTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_chipIconVisible = global::NDMA.Resource.Styleable.Chip_chipIconVisible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_chipMinHeight = global::NDMA.Resource.Styleable.Chip_chipMinHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_chipStartPadding = global::NDMA.Resource.Styleable.Chip_chipStartPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_chipStrokeColor = global::NDMA.Resource.Styleable.Chip_chipStrokeColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_chipStrokeWidth = global::NDMA.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_closeIcon = global::NDMA.Resource.Styleable.Chip_closeIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_closeIconEnabled = global::NDMA.Resource.Styleable.Chip_closeIconEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_closeIconEndPadding = global::NDMA.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_closeIconSize = global::NDMA.Resource.Styleable.Chip_closeIconSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_closeIconStartPadding = global::NDMA.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_closeIconTint = global::NDMA.Resource.Styleable.Chip_closeIconTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_closeIconVisible = global::NDMA.Resource.Styleable.Chip_closeIconVisible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_hideMotionSpec = global::NDMA.Resource.Styleable.Chip_hideMotionSpec;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_iconEndPadding = global::NDMA.Resource.Styleable.Chip_iconEndPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_iconStartPadding = global::NDMA.Resource.Styleable.Chip_iconStartPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_rippleColor = global::NDMA.Resource.Styleable.Chip_rippleColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_showMotionSpec = global::NDMA.Resource.Styleable.Chip_showMotionSpec;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_textEndPadding = global::NDMA.Resource.Styleable.Chip_textEndPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Chip_textStartPadding = global::NDMA.Resource.Styleable.Chip_textStartPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ChipGroup = global::NDMA.Resource.Styleable.ChipGroup;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ChipGroup_checkedChip = global::NDMA.Resource.Styleable.ChipGroup_checkedChip;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ChipGroup_chipSpacing = global::NDMA.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::NDMA.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ChipGroup_chipSpacingVertical = global::NDMA.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ChipGroup_singleLine = global::NDMA.Resource.Styleable.ChipGroup_singleLine;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ChipGroup_singleSelection = global::NDMA.Resource.Styleable.ChipGroup_singleSelection;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout = global::NDMA.Resource.Styleable.CollapsingToolbarLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_title = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_Layout = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::NDMA.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ColorStateListItem = global::NDMA.Resource.Styleable.ColorStateListItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ColorStateListItem_alpha = global::NDMA.Resource.Styleable.ColorStateListItem_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ColorStateListItem_android_alpha = global::NDMA.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ColorStateListItem_android_color = global::NDMA.Resource.Styleable.ColorStateListItem_android_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CompoundButton = global::NDMA.Resource.Styleable.CompoundButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CompoundButton_android_button = global::NDMA.Resource.Styleable.CompoundButton_android_button;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CompoundButton_buttonTint = global::NDMA.Resource.Styleable.CompoundButton_buttonTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CompoundButton_buttonTintMode = global::NDMA.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CoordinatorLayout = global::NDMA.Resource.Styleable.CoordinatorLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CoordinatorLayout_keylines = global::NDMA.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::NDMA.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CoordinatorLayout_Layout = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::NDMA.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.DesignTheme = global::NDMA.Resource.Styleable.DesignTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::NDMA.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.DesignTheme_bottomSheetStyle = global::NDMA.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.DrawerArrowToggle = global::NDMA.Resource.Styleable.DrawerArrowToggle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::NDMA.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::NDMA.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.DrawerArrowToggle_barLength = global::NDMA.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.DrawerArrowToggle_color = global::NDMA.Resource.Styleable.DrawerArrowToggle_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.DrawerArrowToggle_drawableSize = global::NDMA.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::NDMA.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.DrawerArrowToggle_spinBars = global::NDMA.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.DrawerArrowToggle_thickness = global::NDMA.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton = global::NDMA.Resource.Styleable.FloatingActionButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_backgroundTint = global::NDMA.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::NDMA.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_borderWidth = global::NDMA.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_elevation = global::NDMA.Resource.Styleable.FloatingActionButton_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_fabCustomSize = global::NDMA.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_fabSize = global::NDMA.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::NDMA.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::NDMA.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_maxImageSize = global::NDMA.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::NDMA.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_rippleColor = global::NDMA.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_showMotionSpec = global::NDMA.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_useCompatPadding = global::NDMA.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::NDMA.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::NDMA.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FlowLayout = global::NDMA.Resource.Styleable.FlowLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FlowLayout_itemSpacing = global::NDMA.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FlowLayout_lineSpacing = global::NDMA.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamily = global::NDMA.Resource.Styleable.FontFamily;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamily_fontProviderAuthority = global::NDMA.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamily_fontProviderCerts = global::NDMA.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::NDMA.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::NDMA.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamily_fontProviderPackage = global::NDMA.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamily_fontProviderQuery = global::NDMA.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamilyFont = global::NDMA.Resource.Styleable.FontFamilyFont;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamilyFont_android_font = global::NDMA.Resource.Styleable.FontFamilyFont_android_font;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamilyFont_android_fontStyle = global::NDMA.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::NDMA.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamilyFont_android_fontWeight = global::NDMA.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::NDMA.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamilyFont_font = global::NDMA.Resource.Styleable.FontFamilyFont_font;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamilyFont_fontStyle = global::NDMA.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::NDMA.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamilyFont_fontWeight = global::NDMA.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.FontFamilyFont_ttcIndex = global::NDMA.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ForegroundLinearLayout = global::NDMA.Resource.Styleable.ForegroundLinearLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::NDMA.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::NDMA.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::NDMA.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor = global::NDMA.Resource.Styleable.GradientColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor_android_centerColor = global::NDMA.Resource.Styleable.GradientColor_android_centerColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor_android_centerX = global::NDMA.Resource.Styleable.GradientColor_android_centerX;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor_android_centerY = global::NDMA.Resource.Styleable.GradientColor_android_centerY;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor_android_endColor = global::NDMA.Resource.Styleable.GradientColor_android_endColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor_android_endX = global::NDMA.Resource.Styleable.GradientColor_android_endX;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor_android_endY = global::NDMA.Resource.Styleable.GradientColor_android_endY;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor_android_gradientRadius = global::NDMA.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor_android_startColor = global::NDMA.Resource.Styleable.GradientColor_android_startColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor_android_startX = global::NDMA.Resource.Styleable.GradientColor_android_startX;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor_android_startY = global::NDMA.Resource.Styleable.GradientColor_android_startY;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor_android_tileMode = global::NDMA.Resource.Styleable.GradientColor_android_tileMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColor_android_type = global::NDMA.Resource.Styleable.GradientColor_android_type;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColorItem = global::NDMA.Resource.Styleable.GradientColorItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColorItem_android_color = global::NDMA.Resource.Styleable.GradientColorItem_android_color;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.GradientColorItem_android_offset = global::NDMA.Resource.Styleable.GradientColorItem_android_offset;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat = global::NDMA.Resource.Styleable.LinearLayoutCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_android_gravity = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_android_orientation = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::NDMA.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_divider = global::NDMA.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::NDMA.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::NDMA.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_showDividers = global::NDMA.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_Layout = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::NDMA.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ListPopupWindow = global::NDMA.Resource.Styleable.ListPopupWindow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::NDMA.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::NDMA.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton = global::NDMA.Resource.Styleable.MaterialButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_android_insetBottom = global::NDMA.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_android_insetLeft = global::NDMA.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_android_insetRight = global::NDMA.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_android_insetTop = global::NDMA.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_backgroundTint = global::NDMA.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_backgroundTintMode = global::NDMA.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_cornerRadius = global::NDMA.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_icon = global::NDMA.Resource.Styleable.MaterialButton_icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_iconGravity = global::NDMA.Resource.Styleable.MaterialButton_iconGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_iconPadding = global::NDMA.Resource.Styleable.MaterialButton_iconPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_iconSize = global::NDMA.Resource.Styleable.MaterialButton_iconSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_iconTint = global::NDMA.Resource.Styleable.MaterialButton_iconTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_iconTintMode = global::NDMA.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_rippleColor = global::NDMA.Resource.Styleable.MaterialButton_rippleColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_strokeColor = global::NDMA.Resource.Styleable.MaterialButton_strokeColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialButton_strokeWidth = global::NDMA.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialCardView = global::NDMA.Resource.Styleable.MaterialCardView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialCardView_strokeColor = global::NDMA.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialCardView_strokeWidth = global::NDMA.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme = global::NDMA.Resource.Styleable.MaterialComponentsTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::NDMA.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::NDMA.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::NDMA.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::NDMA.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuGroup = global::NDMA.Resource.Styleable.MenuGroup;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuGroup_android_checkableBehavior = global::NDMA.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuGroup_android_enabled = global::NDMA.Resource.Styleable.MenuGroup_android_enabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuGroup_android_id = global::NDMA.Resource.Styleable.MenuGroup_android_id;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuGroup_android_menuCategory = global::NDMA.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuGroup_android_orderInCategory = global::NDMA.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuGroup_android_visible = global::NDMA.Resource.Styleable.MenuGroup_android_visible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem = global::NDMA.Resource.Styleable.MenuItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_actionLayout = global::NDMA.Resource.Styleable.MenuItem_actionLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_actionProviderClass = global::NDMA.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_actionViewClass = global::NDMA.Resource.Styleable.MenuItem_actionViewClass;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_alphabeticModifiers = global::NDMA.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::NDMA.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_checkable = global::NDMA.Resource.Styleable.MenuItem_android_checkable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_checked = global::NDMA.Resource.Styleable.MenuItem_android_checked;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_enabled = global::NDMA.Resource.Styleable.MenuItem_android_enabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_icon = global::NDMA.Resource.Styleable.MenuItem_android_icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_id = global::NDMA.Resource.Styleable.MenuItem_android_id;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_menuCategory = global::NDMA.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_numericShortcut = global::NDMA.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_onClick = global::NDMA.Resource.Styleable.MenuItem_android_onClick;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_orderInCategory = global::NDMA.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_title = global::NDMA.Resource.Styleable.MenuItem_android_title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_titleCondensed = global::NDMA.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_android_visible = global::NDMA.Resource.Styleable.MenuItem_android_visible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_contentDescription = global::NDMA.Resource.Styleable.MenuItem_contentDescription;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_iconTint = global::NDMA.Resource.Styleable.MenuItem_iconTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_iconTintMode = global::NDMA.Resource.Styleable.MenuItem_iconTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_numericModifiers = global::NDMA.Resource.Styleable.MenuItem_numericModifiers;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_showAsAction = global::NDMA.Resource.Styleable.MenuItem_showAsAction;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuItem_tooltipText = global::NDMA.Resource.Styleable.MenuItem_tooltipText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuView = global::NDMA.Resource.Styleable.MenuView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuView_android_headerBackground = global::NDMA.Resource.Styleable.MenuView_android_headerBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuView_android_horizontalDivider = global::NDMA.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuView_android_itemBackground = global::NDMA.Resource.Styleable.MenuView_android_itemBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::NDMA.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuView_android_itemTextAppearance = global::NDMA.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuView_android_verticalDivider = global::NDMA.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuView_android_windowAnimationStyle = global::NDMA.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuView_preserveIconSpacing = global::NDMA.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.MenuView_subMenuArrow = global::NDMA.Resource.Styleable.MenuView_subMenuArrow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView = global::NDMA.Resource.Styleable.NavigationView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView_android_background = global::NDMA.Resource.Styleable.NavigationView_android_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::NDMA.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView_android_maxWidth = global::NDMA.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView_elevation = global::NDMA.Resource.Styleable.NavigationView_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView_headerLayout = global::NDMA.Resource.Styleable.NavigationView_headerLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView_itemBackground = global::NDMA.Resource.Styleable.NavigationView_itemBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView_itemHorizontalPadding = global::NDMA.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView_itemIconPadding = global::NDMA.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView_itemIconTint = global::NDMA.Resource.Styleable.NavigationView_itemIconTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView_itemTextAppearance = global::NDMA.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView_itemTextColor = global::NDMA.Resource.Styleable.NavigationView_itemTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.NavigationView_menu = global::NDMA.Resource.Styleable.NavigationView_menu;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.PopupWindow = global::NDMA.Resource.Styleable.PopupWindow;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::NDMA.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.PopupWindow_android_popupBackground = global::NDMA.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.PopupWindow_overlapAnchor = global::NDMA.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.PopupWindowBackgroundState = global::NDMA.Resource.Styleable.PopupWindowBackgroundState;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::NDMA.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecycleListView = global::NDMA.Resource.Styleable.RecycleListView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::NDMA.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::NDMA.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView = global::NDMA.Resource.Styleable.RecyclerView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_android_descendantFocusability = global::NDMA.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_android_orientation = global::NDMA.Resource.Styleable.RecyclerView_android_orientation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_fastScrollEnabled = global::NDMA.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::NDMA.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::NDMA.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::NDMA.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::NDMA.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_layoutManager = global::NDMA.Resource.Styleable.RecyclerView_layoutManager;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_reverseLayout = global::NDMA.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_spanCount = global::NDMA.Resource.Styleable.RecyclerView_spanCount;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.RecyclerView_stackFromEnd = global::NDMA.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ScrimInsetsFrameLayout = global::NDMA.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::NDMA.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ScrollingViewBehavior_Layout = global::NDMA.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::NDMA.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView = global::NDMA.Resource.Styleable.SearchView;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_android_focusable = global::NDMA.Resource.Styleable.SearchView_android_focusable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_android_imeOptions = global::NDMA.Resource.Styleable.SearchView_android_imeOptions;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_android_inputType = global::NDMA.Resource.Styleable.SearchView_android_inputType;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_android_maxWidth = global::NDMA.Resource.Styleable.SearchView_android_maxWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_closeIcon = global::NDMA.Resource.Styleable.SearchView_closeIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_commitIcon = global::NDMA.Resource.Styleable.SearchView_commitIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_defaultQueryHint = global::NDMA.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_goIcon = global::NDMA.Resource.Styleable.SearchView_goIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_iconifiedByDefault = global::NDMA.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_layout = global::NDMA.Resource.Styleable.SearchView_layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_queryBackground = global::NDMA.Resource.Styleable.SearchView_queryBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_queryHint = global::NDMA.Resource.Styleable.SearchView_queryHint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_searchHintIcon = global::NDMA.Resource.Styleable.SearchView_searchHintIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_searchIcon = global::NDMA.Resource.Styleable.SearchView_searchIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_submitBackground = global::NDMA.Resource.Styleable.SearchView_submitBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_suggestionRowLayout = global::NDMA.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SearchView_voiceIcon = global::NDMA.Resource.Styleable.SearchView_voiceIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Snackbar = global::NDMA.Resource.Styleable.Snackbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Snackbar_snackbarButtonStyle = global::NDMA.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Snackbar_snackbarStyle = global::NDMA.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SnackbarLayout = global::NDMA.Resource.Styleable.SnackbarLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SnackbarLayout_android_maxWidth = global::NDMA.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SnackbarLayout_elevation = global::NDMA.Resource.Styleable.SnackbarLayout_elevation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::NDMA.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Spinner = global::NDMA.Resource.Styleable.Spinner;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Spinner_android_dropDownWidth = global::NDMA.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Spinner_android_entries = global::NDMA.Resource.Styleable.Spinner_android_entries;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Spinner_android_popupBackground = global::NDMA.Resource.Styleable.Spinner_android_popupBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Spinner_android_prompt = global::NDMA.Resource.Styleable.Spinner_android_prompt;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Spinner_popupTheme = global::NDMA.Resource.Styleable.Spinner_popupTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.StateListDrawable = global::NDMA.Resource.Styleable.StateListDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.StateListDrawable_android_constantSize = global::NDMA.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.StateListDrawable_android_dither = global::NDMA.Resource.Styleable.StateListDrawable_android_dither;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::NDMA.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::NDMA.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.StateListDrawable_android_variablePadding = global::NDMA.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.StateListDrawable_android_visible = global::NDMA.Resource.Styleable.StateListDrawable_android_visible;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.StateListDrawableItem = global::NDMA.Resource.Styleable.StateListDrawableItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.StateListDrawableItem_android_drawable = global::NDMA.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat = global::NDMA.Resource.Styleable.SwitchCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_android_textOff = global::NDMA.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_android_textOn = global::NDMA.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_android_thumb = global::NDMA.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_showText = global::NDMA.Resource.Styleable.SwitchCompat_showText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_splitTrack = global::NDMA.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_switchMinWidth = global::NDMA.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_switchPadding = global::NDMA.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_switchTextAppearance = global::NDMA.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_thumbTextPadding = global::NDMA.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_thumbTint = global::NDMA.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_thumbTintMode = global::NDMA.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_track = global::NDMA.Resource.Styleable.SwitchCompat_track;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_trackTint = global::NDMA.Resource.Styleable.SwitchCompat_trackTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.SwitchCompat_trackTintMode = global::NDMA.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabItem = global::NDMA.Resource.Styleable.TabItem;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabItem_android_icon = global::NDMA.Resource.Styleable.TabItem_android_icon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabItem_android_layout = global::NDMA.Resource.Styleable.TabItem_android_layout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabItem_android_text = global::NDMA.Resource.Styleable.TabItem_android_text;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout = global::NDMA.Resource.Styleable.TabLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabBackground = global::NDMA.Resource.Styleable.TabLayout_tabBackground;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabContentStart = global::NDMA.Resource.Styleable.TabLayout_tabContentStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabGravity = global::NDMA.Resource.Styleable.TabLayout_tabGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabIconTint = global::NDMA.Resource.Styleable.TabLayout_tabIconTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabIconTintMode = global::NDMA.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabIndicator = global::NDMA.Resource.Styleable.TabLayout_tabIndicator;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabIndicatorColor = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabIndicatorGravity = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabIndicatorHeight = global::NDMA.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabInlineLabel = global::NDMA.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabMaxWidth = global::NDMA.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabMinWidth = global::NDMA.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabMode = global::NDMA.Resource.Styleable.TabLayout_tabMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabPadding = global::NDMA.Resource.Styleable.TabLayout_tabPadding;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabPaddingBottom = global::NDMA.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabPaddingEnd = global::NDMA.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabPaddingStart = global::NDMA.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabPaddingTop = global::NDMA.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabRippleColor = global::NDMA.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabSelectedTextColor = global::NDMA.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabTextAppearance = global::NDMA.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabTextColor = global::NDMA.Resource.Styleable.TabLayout_tabTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TabLayout_tabUnboundedRipple = global::NDMA.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance = global::NDMA.Resource.Styleable.TextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_android_fontFamily = global::NDMA.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_android_shadowColor = global::NDMA.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_android_shadowDx = global::NDMA.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_android_shadowDy = global::NDMA.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_android_shadowRadius = global::NDMA.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_android_textColor = global::NDMA.Resource.Styleable.TextAppearance_android_textColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_android_textColorHint = global::NDMA.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_android_textColorLink = global::NDMA.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_android_textSize = global::NDMA.Resource.Styleable.TextAppearance_android_textSize;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_android_textStyle = global::NDMA.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_android_typeface = global::NDMA.Resource.Styleable.TextAppearance_android_typeface;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_fontFamily = global::NDMA.Resource.Styleable.TextAppearance_fontFamily;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextAppearance_textAllCaps = global::NDMA.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout = global::NDMA.Resource.Styleable.TextInputLayout;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_android_hint = global::NDMA.Resource.Styleable.TextInputLayout_android_hint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_android_textColorHint = global::NDMA.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::NDMA.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::NDMA.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::NDMA.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::NDMA.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::NDMA.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::NDMA.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::NDMA.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_boxStrokeColor = global::NDMA.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::NDMA.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_counterEnabled = global::NDMA.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_counterMaxLength = global::NDMA.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_counterTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_errorEnabled = global::NDMA.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_errorTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_helperText = global::NDMA.Resource.Styleable.TextInputLayout_helperText;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_helperTextEnabled = global::NDMA.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::NDMA.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_hintEnabled = global::NDMA.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_hintTextAppearance = global::NDMA.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_passwordToggleTint = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::NDMA.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ThemeEnforcement = global::NDMA.Resource.Styleable.ThemeEnforcement;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::NDMA.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::NDMA.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::NDMA.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar = global::NDMA.Resource.Styleable.Toolbar;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_android_gravity = global::NDMA.Resource.Styleable.Toolbar_android_gravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_android_minHeight = global::NDMA.Resource.Styleable.Toolbar_android_minHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_buttonGravity = global::NDMA.Resource.Styleable.Toolbar_buttonGravity;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_collapseContentDescription = global::NDMA.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_collapseIcon = global::NDMA.Resource.Styleable.Toolbar_collapseIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_contentInsetEnd = global::NDMA.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::NDMA.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_contentInsetLeft = global::NDMA.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_contentInsetRight = global::NDMA.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_contentInsetStart = global::NDMA.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::NDMA.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_logo = global::NDMA.Resource.Styleable.Toolbar_logo;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_logoDescription = global::NDMA.Resource.Styleable.Toolbar_logoDescription;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_maxButtonHeight = global::NDMA.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_navigationContentDescription = global::NDMA.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_navigationIcon = global::NDMA.Resource.Styleable.Toolbar_navigationIcon;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_popupTheme = global::NDMA.Resource.Styleable.Toolbar_popupTheme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_subtitle = global::NDMA.Resource.Styleable.Toolbar_subtitle;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_subtitleTextAppearance = global::NDMA.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_subtitleTextColor = global::NDMA.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_title = global::NDMA.Resource.Styleable.Toolbar_title;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_titleMargin = global::NDMA.Resource.Styleable.Toolbar_titleMargin;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_titleMarginBottom = global::NDMA.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_titleMarginEnd = global::NDMA.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_titleMarginStart = global::NDMA.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_titleMarginTop = global::NDMA.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_titleMargins = global::NDMA.Resource.Styleable.Toolbar_titleMargins;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_titleTextAppearance = global::NDMA.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.Toolbar_titleTextColor = global::NDMA.Resource.Styleable.Toolbar_titleTextColor;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.View = global::NDMA.Resource.Styleable.View;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.View_android_focusable = global::NDMA.Resource.Styleable.View_android_focusable;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.View_android_theme = global::NDMA.Resource.Styleable.View_android_theme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.View_paddingEnd = global::NDMA.Resource.Styleable.View_paddingEnd;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.View_paddingStart = global::NDMA.Resource.Styleable.View_paddingStart;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.View_theme = global::NDMA.Resource.Styleable.View_theme;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ViewBackgroundHelper = global::NDMA.Resource.Styleable.ViewBackgroundHelper;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ViewBackgroundHelper_android_background = global::NDMA.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::NDMA.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::NDMA.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ViewStubCompat = global::NDMA.Resource.Styleable.ViewStubCompat;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ViewStubCompat_android_id = global::NDMA.Resource.Styleable.ViewStubCompat_android_id;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ViewStubCompat_android_inflatedId = global::NDMA.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Syncfusion.XForms.Android.ComboBox.Resource.Styleable.ViewStubCompat_android_layout = global::NDMA.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.allowDraggingColumn = global::NDMA.Resource.Attribute.allowDraggingColumn;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.allowDraggingRow = global::NDMA.Resource.Attribute.allowDraggingRow;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.allowEditing = global::NDMA.Resource.Attribute.allowEditing;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.allowGroupExpandCollapse = global::NDMA.Resource.Attribute.allowGroupExpandCollapse;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.allowLoadMore = global::NDMA.Resource.Attribute.allowLoadMore;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.allowMultiSorting = global::NDMA.Resource.Attribute.allowMultiSorting;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.allowNull = global::NDMA.Resource.Attribute.allowNull;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.allowPullToRefresh = global::NDMA.Resource.Attribute.allowPullToRefresh;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.allowResizingColumn = global::NDMA.Resource.Attribute.allowResizingColumn;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.allowSorting = global::NDMA.Resource.Attribute.allowSorting;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.allowSwiping = global::NDMA.Resource.Attribute.allowSwiping;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.allowTriStateSorting = global::NDMA.Resource.Attribute.allowTriStateSorting;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.alternationCount = global::NDMA.Resource.Attribute.alternationCount;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.autoExpandGroups = global::NDMA.Resource.Attribute.autoExpandGroups;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.autoGenerateColumns = global::NDMA.Resource.Attribute.autoGenerateColumns;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.borderColor = global::NDMA.Resource.Attribute.borderColor;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.columnSizer = global::NDMA.Resource.Attribute.columnSizer;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.culture = global::NDMA.Resource.Attribute.culture;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.editTapAction = global::NDMA.Resource.Attribute.editTapAction;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.editorSelectionBehavior = global::NDMA.Resource.Attribute.editorSelectionBehavior;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.enableGroupSeparator = global::NDMA.Resource.Attribute.enableGroupSeparator;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.fontSize = global::NDMA.Resource.Attribute.fontSize;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.frozenColumnsCount = global::NDMA.Resource.Attribute.frozenColumnsCount;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.frozenRowsCount = global::NDMA.Resource.Attribute.frozenRowsCount;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.gridRowHeight = global::NDMA.Resource.Attribute.gridRowHeight;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.gridSelectionMode = global::NDMA.Resource.Attribute.gridSelectionMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.groupingMode = global::NDMA.Resource.Attribute.groupingMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.headerRowHeight = global::NDMA.Resource.Attribute.headerRowHeight;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.indentColumnWidth = global::NDMA.Resource.Attribute.indentColumnWidth;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.isBusy = global::NDMA.Resource.Attribute.isBusy;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.loadMorePosition = global::NDMA.Resource.Attribute.loadMorePosition;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.loadMoreText = global::NDMA.Resource.Attribute.loadMoreText;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.maxSwipeOffset = global::NDMA.Resource.Attribute.maxSwipeOffset;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.maximumDecimalDigits = global::NDMA.Resource.Attribute.maximumDecimalDigits;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.numberFormat = global::NDMA.Resource.Attribute.numberFormat;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.numericButtonBackground = global::NDMA.Resource.Attribute.numericButtonBackground;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.numericButtonCount = global::NDMA.Resource.Attribute.numericButtonCount;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.numericTextBoxValue = global::NDMA.Resource.Attribute.numericTextBoxValue;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.orientation = global::NDMA.Resource.Attribute.orientation;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.pageCount = global::NDMA.Resource.Attribute.pageCount;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.pageSize = global::NDMA.Resource.Attribute.pageSize;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.parsingMode = global::NDMA.Resource.Attribute.parsingMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.percentDisplayMode = global::NDMA.Resource.Attribute.percentDisplayMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.resizingMode = global::NDMA.Resource.Attribute.resizingMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.rowHeaderWidth = global::NDMA.Resource.Attribute.rowHeaderWidth;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.scrollingMode = global::NDMA.Resource.Attribute.scrollingMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.selectAllOnFocus = global::NDMA.Resource.Attribute.selectAllOnFocus;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.selectedIndex = global::NDMA.Resource.Attribute.selectedIndex;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.selectionForeground = global::NDMA.Resource.Attribute.selectionForeground;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.showRowHeader = global::NDMA.Resource.Attribute.showRowHeader;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.sortTapAction = global::NDMA.Resource.Attribute.sortTapAction;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.useOnDemandPaging = global::NDMA.Resource.Attribute.useOnDemandPaging;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.valueChangeMode = global::NDMA.Resource.Attribute.valueChangeMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.verticalOverScrollMode = global::NDMA.Resource.Attribute.verticalOverScrollMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.watermark = global::NDMA.Resource.Attribute.watermark;
+			global::Syncfusion.SfDataGrid.Android.Resource.Attribute.watermarkColor = global::NDMA.Resource.Attribute.watermarkColor;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.Ascending = global::NDMA.Resource.Drawable.Ascending;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.Descending = global::NDMA.Resource.Drawable.Descending;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.Drag_and_Drop_Icon = global::NDMA.Resource.Drawable.Drag_and_Drop_Icon;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.DragDown = global::NDMA.Resource.Drawable.DragDown;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.DragUp = global::NDMA.Resource.Drawable.DragUp;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.error2 = global::NDMA.Resource.Drawable.error2;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.FirstPageIcon = global::NDMA.Resource.Drawable.FirstPageIcon;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.GroupCollapse = global::NDMA.Resource.Drawable.GroupCollapse;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.GroupExpander = global::NDMA.Resource.Drawable.GroupExpander;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.GroupIcon_Android = global::NDMA.Resource.Drawable.GroupIcon_Android;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.LastPageIcon = global::NDMA.Resource.Drawable.LastPageIcon;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.NextPageIcon = global::NDMA.Resource.Drawable.NextPageIcon;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.PrevPageIcon = global::NDMA.Resource.Drawable.PrevPageIcon;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.ResizingIcon = global::NDMA.Resource.Drawable.ResizingIcon;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.Sort = global::NDMA.Resource.Drawable.Sort;
+			global::Syncfusion.SfDataGrid.Android.Resource.Drawable.SortDescending = global::NDMA.Resource.Drawable.SortDescending;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.auto = global::NDMA.Resource.Id.auto;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.bottom = global::NDMA.Resource.Id.bottom;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.bounce = global::NDMA.Resource.Id.bounce;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.compute = global::NDMA.Resource.Id.compute;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.decimalMode = global::NDMA.Resource.Id.decimalMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.doubleMode = global::NDMA.Resource.Id.doubleMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.doubleTap = global::NDMA.Resource.Id.doubleTap;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.horizontal = global::NDMA.Resource.Id.horizontal;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.lastCoulmnFill = global::NDMA.Resource.Id.lastCoulmnFill;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.line = global::NDMA.Resource.Id.line;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.moveLast = global::NDMA.Resource.Id.moveLast;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.multiple = global::NDMA.Resource.Id.multiple;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.none = global::NDMA.Resource.Id.none;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.onKeyFocus = global::NDMA.Resource.Id.onKeyFocus;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.onLostFocus = global::NDMA.Resource.Id.onLostFocus;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.onMoved = global::NDMA.Resource.Id.onMoved;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.onTap = global::NDMA.Resource.Id.onTap;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.onTouchUp = global::NDMA.Resource.Id.onTouchUp;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.pixel = global::NDMA.Resource.Id.pixel;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.pixelLine = global::NDMA.Resource.Id.pixelLine;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.selectAll = global::NDMA.Resource.Id.selectAll;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.single = global::NDMA.Resource.Id.single;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.singleDeSelect = global::NDMA.Resource.Id.singleDeSelect;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.singleTap = global::NDMA.Resource.Id.singleTap;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.star = global::NDMA.Resource.Id.star;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.top = global::NDMA.Resource.Id.top;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.value = global::NDMA.Resource.Id.value;
+			global::Syncfusion.SfDataGrid.Android.Resource.Id.vertical = global::NDMA.Resource.Id.vertical;
+			global::Syncfusion.SfDataGrid.Android.Resource.Layout.ScrollViewer = global::NDMA.Resource.Layout.ScrollViewer;
+			global::Syncfusion.SfDataGrid.Android.Resource.String.library_name = global::NDMA.Resource.String.library_name;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid = global::NDMA.Resource.Styleable.SfDataGrid;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_allowDraggingColumn = global::NDMA.Resource.Styleable.SfDataGrid_allowDraggingColumn;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_allowDraggingRow = global::NDMA.Resource.Styleable.SfDataGrid_allowDraggingRow;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_allowEditing = global::NDMA.Resource.Styleable.SfDataGrid_allowEditing;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_allowGroupExpandCollapse = global::NDMA.Resource.Styleable.SfDataGrid_allowGroupExpandCollapse;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_allowLoadMore = global::NDMA.Resource.Styleable.SfDataGrid_allowLoadMore;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_allowMultiSorting = global::NDMA.Resource.Styleable.SfDataGrid_allowMultiSorting;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_allowPullToRefresh = global::NDMA.Resource.Styleable.SfDataGrid_allowPullToRefresh;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_allowResizingColumn = global::NDMA.Resource.Styleable.SfDataGrid_allowResizingColumn;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_allowSorting = global::NDMA.Resource.Styleable.SfDataGrid_allowSorting;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_allowSwiping = global::NDMA.Resource.Styleable.SfDataGrid_allowSwiping;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_allowTriStateSorting = global::NDMA.Resource.Styleable.SfDataGrid_allowTriStateSorting;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_alternationCount = global::NDMA.Resource.Styleable.SfDataGrid_alternationCount;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_autoExpandGroups = global::NDMA.Resource.Styleable.SfDataGrid_autoExpandGroups;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_autoGenerateColumns = global::NDMA.Resource.Styleable.SfDataGrid_autoGenerateColumns;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_columnSizer = global::NDMA.Resource.Styleable.SfDataGrid_columnSizer;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_editTapAction = global::NDMA.Resource.Styleable.SfDataGrid_editTapAction;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_editorSelectionBehavior = global::NDMA.Resource.Styleable.SfDataGrid_editorSelectionBehavior;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_frozenColumnsCount = global::NDMA.Resource.Styleable.SfDataGrid_frozenColumnsCount;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_frozenRowsCount = global::NDMA.Resource.Styleable.SfDataGrid_frozenRowsCount;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_gridRowHeight = global::NDMA.Resource.Styleable.SfDataGrid_gridRowHeight;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_gridSelectionMode = global::NDMA.Resource.Styleable.SfDataGrid_gridSelectionMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_groupingMode = global::NDMA.Resource.Styleable.SfDataGrid_groupingMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_headerRowHeight = global::NDMA.Resource.Styleable.SfDataGrid_headerRowHeight;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_indentColumnWidth = global::NDMA.Resource.Styleable.SfDataGrid_indentColumnWidth;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_isBusy = global::NDMA.Resource.Styleable.SfDataGrid_isBusy;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_loadMorePosition = global::NDMA.Resource.Styleable.SfDataGrid_loadMorePosition;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_loadMoreText = global::NDMA.Resource.Styleable.SfDataGrid_loadMoreText;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_maxSwipeOffset = global::NDMA.Resource.Styleable.SfDataGrid_maxSwipeOffset;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_resizingMode = global::NDMA.Resource.Styleable.SfDataGrid_resizingMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_rowHeaderWidth = global::NDMA.Resource.Styleable.SfDataGrid_rowHeaderWidth;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_scrollingMode = global::NDMA.Resource.Styleable.SfDataGrid_scrollingMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_selectedIndex = global::NDMA.Resource.Styleable.SfDataGrid_selectedIndex;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_showRowHeader = global::NDMA.Resource.Styleable.SfDataGrid_showRowHeader;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_sortTapAction = global::NDMA.Resource.Styleable.SfDataGrid_sortTapAction;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataGrid_verticalOverScrollMode = global::NDMA.Resource.Styleable.SfDataGrid_verticalOverScrollMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataPager = global::NDMA.Resource.Styleable.SfDataPager;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataPager_numericButtonBackground = global::NDMA.Resource.Styleable.SfDataPager_numericButtonBackground;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataPager_numericButtonCount = global::NDMA.Resource.Styleable.SfDataPager_numericButtonCount;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataPager_orientation = global::NDMA.Resource.Styleable.SfDataPager_orientation;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataPager_pageCount = global::NDMA.Resource.Styleable.SfDataPager_pageCount;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataPager_pageSize = global::NDMA.Resource.Styleable.SfDataPager_pageSize;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataPager_selectionForeground = global::NDMA.Resource.Styleable.SfDataPager_selectionForeground;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfDataPager_useOnDemandPaging = global::NDMA.Resource.Styleable.SfDataPager_useOnDemandPaging;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox = global::NDMA.Resource.Styleable.SfNumericTextBox;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_allowNull = global::NDMA.Resource.Styleable.SfNumericTextBox_allowNull;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_borderColor = global::NDMA.Resource.Styleable.SfNumericTextBox_borderColor;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_culture = global::NDMA.Resource.Styleable.SfNumericTextBox_culture;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_enableGroupSeparator = global::NDMA.Resource.Styleable.SfNumericTextBox_enableGroupSeparator;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_fontSize = global::NDMA.Resource.Styleable.SfNumericTextBox_fontSize;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_maximumDecimalDigits = global::NDMA.Resource.Styleable.SfNumericTextBox_maximumDecimalDigits;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_numberFormat = global::NDMA.Resource.Styleable.SfNumericTextBox_numberFormat;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_numericTextBoxValue = global::NDMA.Resource.Styleable.SfNumericTextBox_numericTextBoxValue;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_parsingMode = global::NDMA.Resource.Styleable.SfNumericTextBox_parsingMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_percentDisplayMode = global::NDMA.Resource.Styleable.SfNumericTextBox_percentDisplayMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_selectAllOnFocus = global::NDMA.Resource.Styleable.SfNumericTextBox_selectAllOnFocus;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_valueChangeMode = global::NDMA.Resource.Styleable.SfNumericTextBox_valueChangeMode;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_watermark = global::NDMA.Resource.Styleable.SfNumericTextBox_watermark;
+			global::Syncfusion.SfDataGrid.Android.Resource.Styleable.SfNumericTextBox_watermarkColor = global::NDMA.Resource.Styleable.SfNumericTextBox_watermarkColor;
+			global::Syncfusion.SfDataGrid.XForms.Droid.Resource.Layout.ScrollViewer = global::NDMA.Resource.Layout.ScrollViewer;
+			global::Syncfusion.SfDataGrid.XForms.Droid.Resource.String.library_name = global::NDMA.Resource.String.library_name;
+			global::Syncfusion.SfDataGrid.XForms.Droid.Resource.String.load_more_items = global::NDMA.Resource.String.load_more_items;
+			global::Syncfusion.SfDataGrid.XForms.Droid.Resource.String.cancel_drop = global::NDMA.Resource.String.cancel_drop;
+			global::Syncfusion.SfDataGrid.XForms.Droid.Resource.String.drop_above = global::NDMA.Resource.String.drop_above;
+			global::Syncfusion.SfDataGrid.XForms.Droid.Resource.String.drop_below = global::NDMA.Resource.String.drop_below;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.allowNull = global::NDMA.Resource.Attribute.allowNull;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.borderColor = global::NDMA.Resource.Attribute.borderColor;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.culture = global::NDMA.Resource.Attribute.culture;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.enableGroupSeparator = global::NDMA.Resource.Attribute.enableGroupSeparator;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.fontSize = global::NDMA.Resource.Attribute.fontSize;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.maximumDecimalDigits = global::NDMA.Resource.Attribute.maximumDecimalDigits;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.numberFormat = global::NDMA.Resource.Attribute.numberFormat;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.numericTextBoxValue = global::NDMA.Resource.Attribute.numericTextBoxValue;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.parsingMode = global::NDMA.Resource.Attribute.parsingMode;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.percentDisplayMode = global::NDMA.Resource.Attribute.percentDisplayMode;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.selectAllOnFocus = global::NDMA.Resource.Attribute.selectAllOnFocus;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.valueChangeMode = global::NDMA.Resource.Attribute.valueChangeMode;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.watermark = global::NDMA.Resource.Attribute.watermark;
+			global::Com.Syncfusion.Numerictextbox.Resource.Attribute.watermarkColor = global::NDMA.Resource.Attribute.watermarkColor;
+			global::Com.Syncfusion.Numerictextbox.Resource.Id.compute = global::NDMA.Resource.Id.compute;
+			global::Com.Syncfusion.Numerictextbox.Resource.Id.decimalMode = global::NDMA.Resource.Id.decimalMode;
+			global::Com.Syncfusion.Numerictextbox.Resource.Id.doubleMode = global::NDMA.Resource.Id.doubleMode;
+			global::Com.Syncfusion.Numerictextbox.Resource.Id.onKeyFocus = global::NDMA.Resource.Id.onKeyFocus;
+			global::Com.Syncfusion.Numerictextbox.Resource.Id.onLostFocus = global::NDMA.Resource.Id.onLostFocus;
+			global::Com.Syncfusion.Numerictextbox.Resource.Id.value = global::NDMA.Resource.Id.value;
+			global::Com.Syncfusion.Numerictextbox.Resource.String.library_name = global::NDMA.Resource.String.library_name;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox = global::NDMA.Resource.Styleable.SfNumericTextBox;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_allowNull = global::NDMA.Resource.Styleable.SfNumericTextBox_allowNull;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_borderColor = global::NDMA.Resource.Styleable.SfNumericTextBox_borderColor;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_culture = global::NDMA.Resource.Styleable.SfNumericTextBox_culture;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_enableGroupSeparator = global::NDMA.Resource.Styleable.SfNumericTextBox_enableGroupSeparator;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_fontSize = global::NDMA.Resource.Styleable.SfNumericTextBox_fontSize;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_maximumDecimalDigits = global::NDMA.Resource.Styleable.SfNumericTextBox_maximumDecimalDigits;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_numberFormat = global::NDMA.Resource.Styleable.SfNumericTextBox_numberFormat;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_numericTextBoxValue = global::NDMA.Resource.Styleable.SfNumericTextBox_numericTextBoxValue;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_parsingMode = global::NDMA.Resource.Styleable.SfNumericTextBox_parsingMode;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_percentDisplayMode = global::NDMA.Resource.Styleable.SfNumericTextBox_percentDisplayMode;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_selectAllOnFocus = global::NDMA.Resource.Styleable.SfNumericTextBox_selectAllOnFocus;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_valueChangeMode = global::NDMA.Resource.Styleable.SfNumericTextBox_valueChangeMode;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_watermark = global::NDMA.Resource.Styleable.SfNumericTextBox_watermark;
+			global::Com.Syncfusion.Numerictextbox.Resource.Styleable.SfNumericTextBox_watermarkColor = global::NDMA.Resource.Styleable.SfNumericTextBox_watermarkColor;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::NDMA.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::NDMA.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::NDMA.Resource.Attribute.font;
@@ -5399,6 +8518,18 @@ namespace NDMA
 			// aapt resource value: 0x7F010013
 			public const int ExitToRight = 2130771987;
 			
+			// aapt resource value: 0x7F010014
+			public const int SfChart_Fade_In = 2130771988;
+			
+			// aapt resource value: 0x7F010015
+			public const int SfChart_Fade_Out = 2130771989;
+			
+			// aapt resource value: 0x7F010016
+			public const int SfChart_Scale_In = 2130771990;
+			
+			// aapt resource value: 0x7F010017
+			public const int SfChart_Scale_Out = 2130771991;
+			
 			static Animation()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -5589,1321 +8720,1978 @@ namespace NDMA
 			public const int alertDialogTheme = 2130968613;
 			
 			// aapt resource value: 0x7F040026
-			public const int allowStacking = 2130968614;
+			public const int allowDraggingColumn = 2130968614;
 			
 			// aapt resource value: 0x7F040027
-			public const int alpha = 2130968615;
+			public const int allowDraggingRow = 2130968615;
 			
 			// aapt resource value: 0x7F040028
-			public const int alphabeticModifiers = 2130968616;
+			public const int allowEditing = 2130968616;
 			
 			// aapt resource value: 0x7F040029
-			public const int arrowHeadLength = 2130968617;
+			public const int allowGroupExpandCollapse = 2130968617;
 			
 			// aapt resource value: 0x7F04002A
-			public const int arrowShaftLength = 2130968618;
+			public const int allowLoadMore = 2130968618;
 			
 			// aapt resource value: 0x7F04002B
-			public const int autoCompleteTextViewStyle = 2130968619;
+			public const int allowMultiSorting = 2130968619;
 			
 			// aapt resource value: 0x7F04002C
-			public const int autoSizeMaxTextSize = 2130968620;
+			public const int allowNull = 2130968620;
 			
 			// aapt resource value: 0x7F04002D
-			public const int autoSizeMinTextSize = 2130968621;
+			public const int allowPullToRefresh = 2130968621;
 			
 			// aapt resource value: 0x7F04002E
-			public const int autoSizePresetSizes = 2130968622;
+			public const int allowResizingColumn = 2130968622;
 			
 			// aapt resource value: 0x7F04002F
-			public const int autoSizeStepGranularity = 2130968623;
+			public const int allowSorting = 2130968623;
 			
 			// aapt resource value: 0x7F040030
-			public const int autoSizeTextType = 2130968624;
+			public const int allowStacking = 2130968624;
 			
 			// aapt resource value: 0x7F040031
-			public const int background = 2130968625;
+			public const int allowSwiping = 2130968625;
 			
 			// aapt resource value: 0x7F040032
-			public const int backgroundSplit = 2130968626;
+			public const int allowTriStateSorting = 2130968626;
 			
 			// aapt resource value: 0x7F040033
-			public const int backgroundStacked = 2130968627;
+			public const int alpha = 2130968627;
 			
 			// aapt resource value: 0x7F040034
-			public const int backgroundTint = 2130968628;
+			public const int alphabeticModifiers = 2130968628;
 			
 			// aapt resource value: 0x7F040035
-			public const int backgroundTintMode = 2130968629;
+			public const int alternationCount = 2130968629;
 			
 			// aapt resource value: 0x7F040036
-			public const int barLength = 2130968630;
+			public const int arrowHeadLength = 2130968630;
 			
 			// aapt resource value: 0x7F040037
-			public const int behavior_autoHide = 2130968631;
+			public const int arrowShaftLength = 2130968631;
 			
 			// aapt resource value: 0x7F040038
-			public const int behavior_fitToContents = 2130968632;
+			public const int autoCompleteTextViewStyle = 2130968632;
 			
 			// aapt resource value: 0x7F040039
-			public const int behavior_hideable = 2130968633;
+			public const int autoExpandGroups = 2130968633;
 			
 			// aapt resource value: 0x7F04003A
-			public const int behavior_overlapTop = 2130968634;
+			public const int autoGenerateColumns = 2130968634;
 			
 			// aapt resource value: 0x7F04003B
-			public const int behavior_peekHeight = 2130968635;
+			public const int autoSizeMaxTextSize = 2130968635;
 			
 			// aapt resource value: 0x7F04003C
-			public const int behavior_skipCollapsed = 2130968636;
-			
-			// aapt resource value: 0x7F04003E
-			public const int borderlessButtonStyle = 2130968638;
+			public const int autoSizeMinTextSize = 2130968636;
 			
 			// aapt resource value: 0x7F04003D
-			public const int borderWidth = 2130968637;
+			public const int autoSizePresetSizes = 2130968637;
+			
+			// aapt resource value: 0x7F04003E
+			public const int autoSizeStepGranularity = 2130968638;
 			
 			// aapt resource value: 0x7F04003F
-			public const int bottomAppBarStyle = 2130968639;
+			public const int autoSizeTextType = 2130968639;
 			
 			// aapt resource value: 0x7F040040
-			public const int bottomNavigationStyle = 2130968640;
+			public const int axisBandsColor = 2130968640;
 			
 			// aapt resource value: 0x7F040041
-			public const int bottomSheetDialogTheme = 2130968641;
+			public const int axisTooltipBackground = 2130968641;
 			
 			// aapt resource value: 0x7F040042
-			public const int bottomSheetStyle = 2130968642;
+			public const int axisTooltipTextColor = 2130968642;
 			
 			// aapt resource value: 0x7F040043
-			public const int boxBackgroundColor = 2130968643;
+			public const int axisTooltipTextSize = 2130968643;
 			
 			// aapt resource value: 0x7F040044
-			public const int boxBackgroundMode = 2130968644;
+			public const int background = 2130968644;
 			
 			// aapt resource value: 0x7F040045
-			public const int boxCollapsedPaddingTop = 2130968645;
+			public const int backgroundSplit = 2130968645;
 			
 			// aapt resource value: 0x7F040046
-			public const int boxCornerRadiusBottomEnd = 2130968646;
+			public const int backgroundStacked = 2130968646;
 			
 			// aapt resource value: 0x7F040047
-			public const int boxCornerRadiusBottomStart = 2130968647;
+			public const int backgroundTint = 2130968647;
 			
 			// aapt resource value: 0x7F040048
-			public const int boxCornerRadiusTopEnd = 2130968648;
+			public const int backgroundTintMode = 2130968648;
 			
 			// aapt resource value: 0x7F040049
-			public const int boxCornerRadiusTopStart = 2130968649;
+			public const int bandFillDownColor = 2130968649;
 			
 			// aapt resource value: 0x7F04004A
-			public const int boxStrokeColor = 2130968650;
+			public const int bandFillUpColor = 2130968650;
 			
 			// aapt resource value: 0x7F04004B
-			public const int boxStrokeWidth = 2130968651;
+			public const int bandStrokeDownColor = 2130968651;
 			
 			// aapt resource value: 0x7F04004C
-			public const int buttonBarButtonStyle = 2130968652;
+			public const int bandStrokeUpColor = 2130968652;
 			
 			// aapt resource value: 0x7F04004D
-			public const int buttonBarNegativeButtonStyle = 2130968653;
+			public const int barLength = 2130968653;
 			
 			// aapt resource value: 0x7F04004E
-			public const int buttonBarNeutralButtonStyle = 2130968654;
+			public const int behavior_autoHide = 2130968654;
 			
 			// aapt resource value: 0x7F04004F
-			public const int buttonBarPositiveButtonStyle = 2130968655;
+			public const int behavior_fitToContents = 2130968655;
 			
 			// aapt resource value: 0x7F040050
-			public const int buttonBarStyle = 2130968656;
+			public const int behavior_hideable = 2130968656;
 			
 			// aapt resource value: 0x7F040051
-			public const int buttonGravity = 2130968657;
+			public const int behavior_overlapTop = 2130968657;
 			
 			// aapt resource value: 0x7F040052
-			public const int buttonIconDimen = 2130968658;
+			public const int behavior_peekHeight = 2130968658;
 			
 			// aapt resource value: 0x7F040053
-			public const int buttonPanelSideLayout = 2130968659;
+			public const int behavior_skipCollapsed = 2130968659;
 			
 			// aapt resource value: 0x7F040054
-			public const int buttonStyle = 2130968660;
-			
-			// aapt resource value: 0x7F040055
-			public const int buttonStyleSmall = 2130968661;
+			public const int borderColor = 2130968660;
 			
 			// aapt resource value: 0x7F040056
-			public const int buttonTint = 2130968662;
+			public const int borderlessButtonStyle = 2130968662;
+			
+			// aapt resource value: 0x7F040055
+			public const int borderWidth = 2130968661;
 			
 			// aapt resource value: 0x7F040057
-			public const int buttonTintMode = 2130968663;
+			public const int bottomAppBarStyle = 2130968663;
 			
 			// aapt resource value: 0x7F040058
-			public const int cardBackgroundColor = 2130968664;
+			public const int bottomNavigationStyle = 2130968664;
 			
 			// aapt resource value: 0x7F040059
-			public const int cardCornerRadius = 2130968665;
+			public const int bottomSheetDialogTheme = 2130968665;
 			
 			// aapt resource value: 0x7F04005A
-			public const int cardElevation = 2130968666;
+			public const int bottomSheetStyle = 2130968666;
 			
 			// aapt resource value: 0x7F04005B
-			public const int cardMaxElevation = 2130968667;
+			public const int boxBackgroundColor = 2130968667;
 			
 			// aapt resource value: 0x7F04005C
-			public const int cardPreventCornerOverlap = 2130968668;
+			public const int boxBackgroundMode = 2130968668;
 			
 			// aapt resource value: 0x7F04005D
-			public const int cardUseCompatPadding = 2130968669;
+			public const int boxCollapsedPaddingTop = 2130968669;
 			
 			// aapt resource value: 0x7F04005E
-			public const int cardViewStyle = 2130968670;
+			public const int boxCornerRadiusBottomEnd = 2130968670;
 			
 			// aapt resource value: 0x7F04005F
-			public const int checkboxStyle = 2130968671;
+			public const int boxCornerRadiusBottomStart = 2130968671;
 			
 			// aapt resource value: 0x7F040060
-			public const int checkedChip = 2130968672;
+			public const int boxCornerRadiusTopEnd = 2130968672;
 			
 			// aapt resource value: 0x7F040061
-			public const int checkedIcon = 2130968673;
+			public const int boxCornerRadiusTopStart = 2130968673;
 			
 			// aapt resource value: 0x7F040062
-			public const int checkedIconEnabled = 2130968674;
+			public const int boxStrokeColor = 2130968674;
 			
 			// aapt resource value: 0x7F040063
-			public const int checkedIconVisible = 2130968675;
+			public const int boxStrokeWidth = 2130968675;
 			
 			// aapt resource value: 0x7F040064
-			public const int checkedTextViewStyle = 2130968676;
+			public const int buttonBarButtonStyle = 2130968676;
 			
 			// aapt resource value: 0x7F040065
-			public const int chipBackgroundColor = 2130968677;
+			public const int buttonBarNegativeButtonStyle = 2130968677;
 			
 			// aapt resource value: 0x7F040066
-			public const int chipCornerRadius = 2130968678;
+			public const int buttonBarNeutralButtonStyle = 2130968678;
 			
 			// aapt resource value: 0x7F040067
-			public const int chipEndPadding = 2130968679;
+			public const int buttonBarPositiveButtonStyle = 2130968679;
 			
 			// aapt resource value: 0x7F040068
-			public const int chipGroupStyle = 2130968680;
+			public const int buttonBarStyle = 2130968680;
 			
 			// aapt resource value: 0x7F040069
-			public const int chipIcon = 2130968681;
+			public const int buttonGravity = 2130968681;
 			
 			// aapt resource value: 0x7F04006A
-			public const int chipIconEnabled = 2130968682;
+			public const int buttonIconDimen = 2130968682;
 			
 			// aapt resource value: 0x7F04006B
-			public const int chipIconSize = 2130968683;
+			public const int buttonPanelSideLayout = 2130968683;
 			
 			// aapt resource value: 0x7F04006C
-			public const int chipIconTint = 2130968684;
+			public const int buttonStyle = 2130968684;
 			
 			// aapt resource value: 0x7F04006D
-			public const int chipIconVisible = 2130968685;
+			public const int buttonStyleSmall = 2130968685;
 			
 			// aapt resource value: 0x7F04006E
-			public const int chipMinHeight = 2130968686;
+			public const int buttonTint = 2130968686;
 			
 			// aapt resource value: 0x7F04006F
-			public const int chipSpacing = 2130968687;
+			public const int buttonTintMode = 2130968687;
 			
 			// aapt resource value: 0x7F040070
-			public const int chipSpacingHorizontal = 2130968688;
+			public const int candleStickFillDownColor = 2130968688;
 			
 			// aapt resource value: 0x7F040071
-			public const int chipSpacingVertical = 2130968689;
+			public const int candleStickFillUpColor = 2130968689;
 			
 			// aapt resource value: 0x7F040072
-			public const int chipStandaloneStyle = 2130968690;
+			public const int candleStickStrokeDownColor = 2130968690;
 			
 			// aapt resource value: 0x7F040073
-			public const int chipStartPadding = 2130968691;
+			public const int candleStickStrokeUpColor = 2130968691;
 			
 			// aapt resource value: 0x7F040074
-			public const int chipStrokeColor = 2130968692;
+			public const int cardBackgroundColor = 2130968692;
 			
 			// aapt resource value: 0x7F040075
-			public const int chipStrokeWidth = 2130968693;
+			public const int cardCornerRadius = 2130968693;
 			
 			// aapt resource value: 0x7F040076
-			public const int chipStyle = 2130968694;
+			public const int cardElevation = 2130968694;
 			
 			// aapt resource value: 0x7F040077
-			public const int closeIcon = 2130968695;
+			public const int cardMaxElevation = 2130968695;
 			
 			// aapt resource value: 0x7F040078
-			public const int closeIconEnabled = 2130968696;
+			public const int cardPreventCornerOverlap = 2130968696;
 			
 			// aapt resource value: 0x7F040079
-			public const int closeIconEndPadding = 2130968697;
+			public const int cardUseCompatPadding = 2130968697;
 			
 			// aapt resource value: 0x7F04007A
-			public const int closeIconSize = 2130968698;
+			public const int cardViewStyle = 2130968698;
 			
 			// aapt resource value: 0x7F04007B
-			public const int closeIconStartPadding = 2130968699;
+			public const int checkboxStyle = 2130968699;
 			
 			// aapt resource value: 0x7F04007C
-			public const int closeIconTint = 2130968700;
+			public const int checkedChip = 2130968700;
 			
 			// aapt resource value: 0x7F04007D
-			public const int closeIconVisible = 2130968701;
+			public const int checkedIcon = 2130968701;
 			
 			// aapt resource value: 0x7F04007E
-			public const int closeItemLayout = 2130968702;
+			public const int checkedIconEnabled = 2130968702;
 			
 			// aapt resource value: 0x7F04007F
-			public const int collapseContentDescription = 2130968703;
-			
-			// aapt resource value: 0x7F040081
-			public const int collapsedTitleGravity = 2130968705;
-			
-			// aapt resource value: 0x7F040082
-			public const int collapsedTitleTextAppearance = 2130968706;
+			public const int checkedIconVisible = 2130968703;
 			
 			// aapt resource value: 0x7F040080
-			public const int collapseIcon = 2130968704;
+			public const int checkedTextViewStyle = 2130968704;
+			
+			// aapt resource value: 0x7F040081
+			public const int chipBackgroundColor = 2130968705;
+			
+			// aapt resource value: 0x7F040082
+			public const int chipCornerRadius = 2130968706;
 			
 			// aapt resource value: 0x7F040083
-			public const int color = 2130968707;
+			public const int chipEndPadding = 2130968707;
 			
 			// aapt resource value: 0x7F040084
-			public const int colorAccent = 2130968708;
+			public const int chipGroupStyle = 2130968708;
 			
 			// aapt resource value: 0x7F040085
-			public const int colorBackgroundFloating = 2130968709;
+			public const int chipIcon = 2130968709;
 			
 			// aapt resource value: 0x7F040086
-			public const int colorButtonNormal = 2130968710;
+			public const int chipIconEnabled = 2130968710;
 			
 			// aapt resource value: 0x7F040087
-			public const int colorControlActivated = 2130968711;
+			public const int chipIconSize = 2130968711;
 			
 			// aapt resource value: 0x7F040088
-			public const int colorControlHighlight = 2130968712;
+			public const int chipIconTint = 2130968712;
 			
 			// aapt resource value: 0x7F040089
-			public const int colorControlNormal = 2130968713;
+			public const int chipIconVisible = 2130968713;
 			
 			// aapt resource value: 0x7F04008A
-			public const int colorError = 2130968714;
+			public const int chipMinHeight = 2130968714;
 			
 			// aapt resource value: 0x7F04008B
-			public const int colorPrimary = 2130968715;
+			public const int chipSpacing = 2130968715;
 			
 			// aapt resource value: 0x7F04008C
-			public const int colorPrimaryDark = 2130968716;
+			public const int chipSpacingHorizontal = 2130968716;
 			
 			// aapt resource value: 0x7F04008D
-			public const int colorSecondary = 2130968717;
+			public const int chipSpacingVertical = 2130968717;
 			
 			// aapt resource value: 0x7F04008E
-			public const int colorSwitchThumbNormal = 2130968718;
+			public const int chipStandaloneStyle = 2130968718;
 			
 			// aapt resource value: 0x7F04008F
-			public const int commitIcon = 2130968719;
+			public const int chipStartPadding = 2130968719;
 			
 			// aapt resource value: 0x7F040090
-			public const int contentDescription = 2130968720;
+			public const int chipStrokeColor = 2130968720;
 			
 			// aapt resource value: 0x7F040091
-			public const int contentInsetEnd = 2130968721;
+			public const int chipStrokeWidth = 2130968721;
 			
 			// aapt resource value: 0x7F040092
-			public const int contentInsetEndWithActions = 2130968722;
+			public const int chipStyle = 2130968722;
 			
 			// aapt resource value: 0x7F040093
-			public const int contentInsetLeft = 2130968723;
+			public const int closeIcon = 2130968723;
 			
 			// aapt resource value: 0x7F040094
-			public const int contentInsetRight = 2130968724;
+			public const int closeIconEnabled = 2130968724;
 			
 			// aapt resource value: 0x7F040095
-			public const int contentInsetStart = 2130968725;
+			public const int closeIconEndPadding = 2130968725;
 			
 			// aapt resource value: 0x7F040096
-			public const int contentInsetStartWithNavigation = 2130968726;
+			public const int closeIconSize = 2130968726;
 			
 			// aapt resource value: 0x7F040097
-			public const int contentPadding = 2130968727;
+			public const int closeIconStartPadding = 2130968727;
 			
 			// aapt resource value: 0x7F040098
-			public const int contentPaddingBottom = 2130968728;
+			public const int closeIconTint = 2130968728;
 			
 			// aapt resource value: 0x7F040099
-			public const int contentPaddingLeft = 2130968729;
+			public const int closeIconVisible = 2130968729;
 			
 			// aapt resource value: 0x7F04009A
-			public const int contentPaddingRight = 2130968730;
+			public const int closeItemLayout = 2130968730;
 			
 			// aapt resource value: 0x7F04009B
-			public const int contentPaddingTop = 2130968731;
-			
-			// aapt resource value: 0x7F04009C
-			public const int contentScrim = 2130968732;
+			public const int collapseContentDescription = 2130968731;
 			
 			// aapt resource value: 0x7F04009D
-			public const int controlBackground = 2130968733;
+			public const int collapsedTitleGravity = 2130968733;
 			
 			// aapt resource value: 0x7F04009E
-			public const int coordinatorLayoutStyle = 2130968734;
+			public const int collapsedTitleTextAppearance = 2130968734;
+			
+			// aapt resource value: 0x7F04009C
+			public const int collapseIcon = 2130968732;
 			
 			// aapt resource value: 0x7F04009F
-			public const int cornerRadius = 2130968735;
+			public const int color = 2130968735;
 			
 			// aapt resource value: 0x7F0400A0
-			public const int counterEnabled = 2130968736;
+			public const int colorAccent = 2130968736;
 			
 			// aapt resource value: 0x7F0400A1
-			public const int counterMaxLength = 2130968737;
+			public const int colorBackgroundFloating = 2130968737;
 			
 			// aapt resource value: 0x7F0400A2
-			public const int counterOverflowTextAppearance = 2130968738;
+			public const int colorButtonNormal = 2130968738;
 			
 			// aapt resource value: 0x7F0400A3
-			public const int counterTextAppearance = 2130968739;
+			public const int colorControlActivated = 2130968739;
 			
 			// aapt resource value: 0x7F0400A4
-			public const int customNavigationLayout = 2130968740;
+			public const int colorControlHighlight = 2130968740;
 			
 			// aapt resource value: 0x7F0400A5
-			public const int defaultQueryHint = 2130968741;
+			public const int colorControlNormal = 2130968741;
 			
 			// aapt resource value: 0x7F0400A6
-			public const int dialogCornerRadius = 2130968742;
+			public const int colorError = 2130968742;
 			
 			// aapt resource value: 0x7F0400A7
-			public const int dialogPreferredPadding = 2130968743;
+			public const int colorPalette = 2130968743;
 			
 			// aapt resource value: 0x7F0400A8
-			public const int dialogTheme = 2130968744;
+			public const int colorPrimary = 2130968744;
 			
 			// aapt resource value: 0x7F0400A9
-			public const int displayOptions = 2130968745;
+			public const int colorPrimaryDark = 2130968745;
 			
 			// aapt resource value: 0x7F0400AA
-			public const int divider = 2130968746;
+			public const int colorSecondary = 2130968746;
 			
 			// aapt resource value: 0x7F0400AB
-			public const int dividerHorizontal = 2130968747;
+			public const int colorSwitchThumbNormal = 2130968747;
 			
 			// aapt resource value: 0x7F0400AC
-			public const int dividerPadding = 2130968748;
+			public const int columnFillColor = 2130968748;
 			
 			// aapt resource value: 0x7F0400AD
-			public const int dividerVertical = 2130968749;
+			public const int columnLineColor = 2130968749;
 			
 			// aapt resource value: 0x7F0400AE
-			public const int drawableSize = 2130968750;
+			public const int columnSizer = 2130968750;
 			
 			// aapt resource value: 0x7F0400AF
-			public const int drawerArrowStyle = 2130968751;
-			
-			// aapt resource value: 0x7F0400B1
-			public const int dropdownListPreferredItemHeight = 2130968753;
+			public const int commitIcon = 2130968751;
 			
 			// aapt resource value: 0x7F0400B0
-			public const int dropDownListViewStyle = 2130968752;
+			public const int contentDescription = 2130968752;
+			
+			// aapt resource value: 0x7F0400B1
+			public const int contentInsetEnd = 2130968753;
 			
 			// aapt resource value: 0x7F0400B2
-			public const int editTextBackground = 2130968754;
+			public const int contentInsetEndWithActions = 2130968754;
 			
 			// aapt resource value: 0x7F0400B3
-			public const int editTextColor = 2130968755;
+			public const int contentInsetLeft = 2130968755;
 			
 			// aapt resource value: 0x7F0400B4
-			public const int editTextStyle = 2130968756;
+			public const int contentInsetRight = 2130968756;
 			
 			// aapt resource value: 0x7F0400B5
-			public const int elevation = 2130968757;
+			public const int contentInsetStart = 2130968757;
 			
 			// aapt resource value: 0x7F0400B6
-			public const int enforceMaterialTheme = 2130968758;
+			public const int contentInsetStartWithNavigation = 2130968758;
 			
 			// aapt resource value: 0x7F0400B7
-			public const int enforceTextAppearance = 2130968759;
+			public const int contentPadding = 2130968759;
 			
 			// aapt resource value: 0x7F0400B8
-			public const int errorEnabled = 2130968760;
+			public const int contentPaddingBottom = 2130968760;
 			
 			// aapt resource value: 0x7F0400B9
-			public const int errorTextAppearance = 2130968761;
+			public const int contentPaddingLeft = 2130968761;
 			
 			// aapt resource value: 0x7F0400BA
-			public const int expandActivityOverflowButtonDrawable = 2130968762;
+			public const int contentPaddingRight = 2130968762;
 			
 			// aapt resource value: 0x7F0400BB
-			public const int expanded = 2130968763;
+			public const int contentPaddingTop = 2130968763;
 			
 			// aapt resource value: 0x7F0400BC
-			public const int expandedTitleGravity = 2130968764;
+			public const int contentScrim = 2130968764;
 			
 			// aapt resource value: 0x7F0400BD
-			public const int expandedTitleMargin = 2130968765;
+			public const int controlBackground = 2130968765;
 			
 			// aapt resource value: 0x7F0400BE
-			public const int expandedTitleMarginBottom = 2130968766;
+			public const int coordinatorLayoutStyle = 2130968766;
 			
 			// aapt resource value: 0x7F0400BF
-			public const int expandedTitleMarginEnd = 2130968767;
+			public const int cornerRadius = 2130968767;
 			
 			// aapt resource value: 0x7F0400C0
-			public const int expandedTitleMarginStart = 2130968768;
+			public const int counterEnabled = 2130968768;
 			
 			// aapt resource value: 0x7F0400C1
-			public const int expandedTitleMarginTop = 2130968769;
+			public const int counterMaxLength = 2130968769;
 			
 			// aapt resource value: 0x7F0400C2
-			public const int expandedTitleTextAppearance = 2130968770;
+			public const int counterOverflowTextAppearance = 2130968770;
 			
 			// aapt resource value: 0x7F0400C3
-			public const int fabAlignmentMode = 2130968771;
+			public const int counterTextAppearance = 2130968771;
 			
 			// aapt resource value: 0x7F0400C4
-			public const int fabCradleMargin = 2130968772;
+			public const int culture = 2130968772;
 			
 			// aapt resource value: 0x7F0400C5
-			public const int fabCradleRoundedCornerRadius = 2130968773;
+			public const int cursorLineColor = 2130968773;
 			
 			// aapt resource value: 0x7F0400C6
-			public const int fabCradleVerticalOffset = 2130968774;
+			public const int customNavigationLayout = 2130968774;
 			
 			// aapt resource value: 0x7F0400C7
-			public const int fabCustomSize = 2130968775;
+			public const int defaultAnnotationGripsBackgroundColor = 2130968775;
 			
 			// aapt resource value: 0x7F0400C8
-			public const int fabSize = 2130968776;
+			public const int defaultAnnotationGripsStrokeColor = 2130968776;
 			
 			// aapt resource value: 0x7F0400C9
-			public const int fastScrollEnabled = 2130968777;
+			public const int defaultPieSegmentTitleTextColor = 2130968777;
 			
 			// aapt resource value: 0x7F0400CA
-			public const int fastScrollHorizontalThumbDrawable = 2130968778;
+			public const int defaultPieSegmentTitleTextSize = 2130968778;
 			
 			// aapt resource value: 0x7F0400CB
-			public const int fastScrollHorizontalTrackDrawable = 2130968779;
+			public const int defaultQueryHint = 2130968779;
 			
 			// aapt resource value: 0x7F0400CC
-			public const int fastScrollVerticalThumbDrawable = 2130968780;
+			public const int defaultTextColor = 2130968780;
 			
 			// aapt resource value: 0x7F0400CD
-			public const int fastScrollVerticalTrackDrawable = 2130968781;
+			public const int defaultTextSize = 2130968781;
 			
 			// aapt resource value: 0x7F0400CE
-			public const int firstBaselineToTopHeight = 2130968782;
+			public const int deferredUpdateDelay = 2130968782;
 			
 			// aapt resource value: 0x7F0400CF
-			public const int floatingActionButtonStyle = 2130968783;
+			public const int deferredUpdateEnabled = 2130968783;
 			
 			// aapt resource value: 0x7F0400D0
-			public const int font = 2130968784;
+			public const int dialogCornerRadius = 2130968784;
 			
 			// aapt resource value: 0x7F0400D1
-			public const int fontFamily = 2130968785;
+			public const int dialogPreferredPadding = 2130968785;
 			
 			// aapt resource value: 0x7F0400D2
-			public const int fontProviderAuthority = 2130968786;
+			public const int dialogTheme = 2130968786;
 			
 			// aapt resource value: 0x7F0400D3
-			public const int fontProviderCerts = 2130968787;
+			public const int displayOptions = 2130968787;
 			
 			// aapt resource value: 0x7F0400D4
-			public const int fontProviderFetchStrategy = 2130968788;
+			public const int divider = 2130968788;
 			
 			// aapt resource value: 0x7F0400D5
-			public const int fontProviderFetchTimeout = 2130968789;
+			public const int dividerHorizontal = 2130968789;
 			
 			// aapt resource value: 0x7F0400D6
-			public const int fontProviderPackage = 2130968790;
+			public const int dividerPadding = 2130968790;
 			
 			// aapt resource value: 0x7F0400D7
-			public const int fontProviderQuery = 2130968791;
+			public const int dividerVertical = 2130968791;
 			
 			// aapt resource value: 0x7F0400D8
-			public const int fontStyle = 2130968792;
+			public const int drawableSize = 2130968792;
 			
 			// aapt resource value: 0x7F0400D9
-			public const int fontVariationSettings = 2130968793;
-			
-			// aapt resource value: 0x7F0400DA
-			public const int fontWeight = 2130968794;
+			public const int drawerArrowStyle = 2130968793;
 			
 			// aapt resource value: 0x7F0400DB
-			public const int foregroundInsidePadding = 2130968795;
+			public const int dropdownListPreferredItemHeight = 2130968795;
 			
-			// aapt resource value: 0x7F0400DC
-			public const int gapBetweenBars = 2130968796;
-			
-			// aapt resource value: 0x7F0400DD
-			public const int goIcon = 2130968797;
-			
-			// aapt resource value: 0x7F0400DE
-			public const int headerLayout = 2130968798;
-			
-			// aapt resource value: 0x7F0400DF
-			public const int height = 2130968799;
+			// aapt resource value: 0x7F0400DA
+			public const int dropDownListViewStyle = 2130968794;
 			
 			// aapt resource value: 0x7F0400E0
-			public const int helperText = 2130968800;
+			public const int editorSelectionBehavior = 2130968800;
+			
+			// aapt resource value: 0x7F0400DC
+			public const int editTapAction = 2130968796;
+			
+			// aapt resource value: 0x7F0400DD
+			public const int editTextBackground = 2130968797;
+			
+			// aapt resource value: 0x7F0400DE
+			public const int editTextColor = 2130968798;
+			
+			// aapt resource value: 0x7F0400DF
+			public const int editTextStyle = 2130968799;
 			
 			// aapt resource value: 0x7F0400E1
-			public const int helperTextEnabled = 2130968801;
+			public const int elevation = 2130968801;
 			
 			// aapt resource value: 0x7F0400E2
-			public const int helperTextTextAppearance = 2130968802;
+			public const int enableGroupSeparator = 2130968802;
 			
 			// aapt resource value: 0x7F0400E3
-			public const int hideMotionSpec = 2130968803;
+			public const int enableTooltip = 2130968803;
 			
 			// aapt resource value: 0x7F0400E4
-			public const int hideOnContentScroll = 2130968804;
+			public const int enableTrackball = 2130968804;
 			
 			// aapt resource value: 0x7F0400E5
-			public const int hideOnScroll = 2130968805;
+			public const int enableZooming = 2130968805;
 			
 			// aapt resource value: 0x7F0400E6
-			public const int hintAnimationEnabled = 2130968806;
+			public const int enforceMaterialTheme = 2130968806;
 			
 			// aapt resource value: 0x7F0400E7
-			public const int hintEnabled = 2130968807;
+			public const int enforceTextAppearance = 2130968807;
 			
 			// aapt resource value: 0x7F0400E8
-			public const int hintTextAppearance = 2130968808;
+			public const int errorEnabled = 2130968808;
 			
 			// aapt resource value: 0x7F0400E9
-			public const int homeAsUpIndicator = 2130968809;
+			public const int errorTextAppearance = 2130968809;
 			
 			// aapt resource value: 0x7F0400EA
-			public const int homeLayout = 2130968810;
+			public const int expandActivityOverflowButtonDrawable = 2130968810;
 			
 			// aapt resource value: 0x7F0400EB
-			public const int hoveredFocusedTranslationZ = 2130968811;
+			public const int expanded = 2130968811;
 			
 			// aapt resource value: 0x7F0400EC
-			public const int icon = 2130968812;
+			public const int expandedTitleGravity = 2130968812;
 			
 			// aapt resource value: 0x7F0400ED
-			public const int iconEndPadding = 2130968813;
+			public const int expandedTitleMargin = 2130968813;
 			
 			// aapt resource value: 0x7F0400EE
-			public const int iconGravity = 2130968814;
-			
-			// aapt resource value: 0x7F0400F4
-			public const int iconifiedByDefault = 2130968820;
+			public const int expandedTitleMarginBottom = 2130968814;
 			
 			// aapt resource value: 0x7F0400EF
-			public const int iconPadding = 2130968815;
+			public const int expandedTitleMarginEnd = 2130968815;
 			
 			// aapt resource value: 0x7F0400F0
-			public const int iconSize = 2130968816;
+			public const int expandedTitleMarginStart = 2130968816;
 			
 			// aapt resource value: 0x7F0400F1
-			public const int iconStartPadding = 2130968817;
+			public const int expandedTitleMarginTop = 2130968817;
 			
 			// aapt resource value: 0x7F0400F2
-			public const int iconTint = 2130968818;
+			public const int expandedTitleTextAppearance = 2130968818;
 			
 			// aapt resource value: 0x7F0400F3
-			public const int iconTintMode = 2130968819;
+			public const int fabAlignmentMode = 2130968819;
+			
+			// aapt resource value: 0x7F0400F4
+			public const int fabCradleMargin = 2130968820;
 			
 			// aapt resource value: 0x7F0400F5
-			public const int imageButtonStyle = 2130968821;
+			public const int fabCradleRoundedCornerRadius = 2130968821;
 			
 			// aapt resource value: 0x7F0400F6
-			public const int indeterminateProgressStyle = 2130968822;
+			public const int fabCradleVerticalOffset = 2130968822;
 			
 			// aapt resource value: 0x7F0400F7
-			public const int initialActivityCount = 2130968823;
+			public const int fabCustomSize = 2130968823;
 			
 			// aapt resource value: 0x7F0400F8
-			public const int insetForeground = 2130968824;
+			public const int fabSize = 2130968824;
 			
 			// aapt resource value: 0x7F0400F9
-			public const int isLightTheme = 2130968825;
+			public const int fastScrollEnabled = 2130968825;
 			
 			// aapt resource value: 0x7F0400FA
-			public const int itemBackground = 2130968826;
+			public const int fastScrollHorizontalThumbDrawable = 2130968826;
 			
 			// aapt resource value: 0x7F0400FB
-			public const int itemHorizontalPadding = 2130968827;
+			public const int fastScrollHorizontalTrackDrawable = 2130968827;
 			
 			// aapt resource value: 0x7F0400FC
-			public const int itemHorizontalTranslationEnabled = 2130968828;
+			public const int fastScrollVerticalThumbDrawable = 2130968828;
 			
 			// aapt resource value: 0x7F0400FD
-			public const int itemIconPadding = 2130968829;
+			public const int fastScrollVerticalTrackDrawable = 2130968829;
 			
 			// aapt resource value: 0x7F0400FE
-			public const int itemIconSize = 2130968830;
+			public const int firstBaselineToTopHeight = 2130968830;
 			
 			// aapt resource value: 0x7F0400FF
-			public const int itemIconTint = 2130968831;
+			public const int floatingActionButtonStyle = 2130968831;
 			
 			// aapt resource value: 0x7F040100
-			public const int itemPadding = 2130968832;
+			public const int font = 2130968832;
 			
 			// aapt resource value: 0x7F040101
-			public const int itemSpacing = 2130968833;
+			public const int fontFamily = 2130968833;
 			
 			// aapt resource value: 0x7F040102
-			public const int itemTextAppearance = 2130968834;
+			public const int fontProviderAuthority = 2130968834;
 			
 			// aapt resource value: 0x7F040103
-			public const int itemTextAppearanceActive = 2130968835;
+			public const int fontProviderCerts = 2130968835;
 			
 			// aapt resource value: 0x7F040104
-			public const int itemTextAppearanceInactive = 2130968836;
+			public const int fontProviderFetchStrategy = 2130968836;
 			
 			// aapt resource value: 0x7F040105
-			public const int itemTextColor = 2130968837;
+			public const int fontProviderFetchTimeout = 2130968837;
 			
 			// aapt resource value: 0x7F040106
-			public const int keylines = 2130968838;
+			public const int fontProviderPackage = 2130968838;
 			
 			// aapt resource value: 0x7F040107
-			public const int labelVisibilityMode = 2130968839;
+			public const int fontProviderQuery = 2130968839;
 			
 			// aapt resource value: 0x7F040108
-			public const int lastBaselineToBottomHeight = 2130968840;
+			public const int fontSize = 2130968840;
 			
 			// aapt resource value: 0x7F040109
-			public const int layout = 2130968841;
+			public const int fontStyle = 2130968841;
 			
 			// aapt resource value: 0x7F04010A
-			public const int layoutManager = 2130968842;
+			public const int fontVariationSettings = 2130968842;
 			
 			// aapt resource value: 0x7F04010B
-			public const int layout_anchor = 2130968843;
+			public const int fontWeight = 2130968843;
 			
 			// aapt resource value: 0x7F04010C
-			public const int layout_anchorGravity = 2130968844;
+			public const int foregroundInsidePadding = 2130968844;
 			
 			// aapt resource value: 0x7F04010D
-			public const int layout_behavior = 2130968845;
+			public const int frozenColumnsCount = 2130968845;
 			
 			// aapt resource value: 0x7F04010E
-			public const int layout_collapseMode = 2130968846;
+			public const int frozenRowsCount = 2130968846;
 			
 			// aapt resource value: 0x7F04010F
-			public const int layout_collapseParallaxMultiplier = 2130968847;
+			public const int gapBetweenBars = 2130968847;
 			
 			// aapt resource value: 0x7F040110
-			public const int layout_dodgeInsetEdges = 2130968848;
+			public const int goIcon = 2130968848;
 			
 			// aapt resource value: 0x7F040111
-			public const int layout_insetEdge = 2130968849;
+			public const int gridRowHeight = 2130968849;
 			
 			// aapt resource value: 0x7F040112
-			public const int layout_keyline = 2130968850;
+			public const int gridSelectionMode = 2130968850;
 			
 			// aapt resource value: 0x7F040113
-			public const int layout_scrollFlags = 2130968851;
+			public const int groupingMode = 2130968851;
 			
 			// aapt resource value: 0x7F040114
-			public const int layout_scrollInterpolator = 2130968852;
+			public const int headerLayout = 2130968852;
 			
 			// aapt resource value: 0x7F040115
-			public const int liftOnScroll = 2130968853;
+			public const int headerRowHeight = 2130968853;
 			
 			// aapt resource value: 0x7F040116
-			public const int lineHeight = 2130968854;
+			public const int height = 2130968854;
 			
 			// aapt resource value: 0x7F040117
-			public const int lineSpacing = 2130968855;
+			public const int helperText = 2130968855;
 			
 			// aapt resource value: 0x7F040118
-			public const int listChoiceBackgroundIndicator = 2130968856;
+			public const int helperTextEnabled = 2130968856;
 			
 			// aapt resource value: 0x7F040119
-			public const int listDividerAlertDialog = 2130968857;
+			public const int helperTextTextAppearance = 2130968857;
 			
 			// aapt resource value: 0x7F04011A
-			public const int listItemLayout = 2130968858;
+			public const int hideMotionSpec = 2130968858;
 			
 			// aapt resource value: 0x7F04011B
-			public const int listLayout = 2130968859;
+			public const int hideOnContentScroll = 2130968859;
 			
 			// aapt resource value: 0x7F04011C
-			public const int listMenuViewStyle = 2130968860;
+			public const int hideOnScroll = 2130968860;
 			
 			// aapt resource value: 0x7F04011D
-			public const int listPopupWindowStyle = 2130968861;
+			public const int hintAnimationEnabled = 2130968861;
 			
 			// aapt resource value: 0x7F04011E
-			public const int listPreferredItemHeight = 2130968862;
+			public const int hintEnabled = 2130968862;
 			
 			// aapt resource value: 0x7F04011F
-			public const int listPreferredItemHeightLarge = 2130968863;
+			public const int hintTextAppearance = 2130968863;
 			
 			// aapt resource value: 0x7F040120
-			public const int listPreferredItemHeightSmall = 2130968864;
+			public const int homeAsUpIndicator = 2130968864;
 			
 			// aapt resource value: 0x7F040121
-			public const int listPreferredItemPaddingLeft = 2130968865;
+			public const int homeLayout = 2130968865;
 			
 			// aapt resource value: 0x7F040122
-			public const int listPreferredItemPaddingRight = 2130968866;
+			public const int hoveredFocusedTranslationZ = 2130968866;
 			
 			// aapt resource value: 0x7F040123
-			public const int logo = 2130968867;
+			public const int icon = 2130968867;
 			
 			// aapt resource value: 0x7F040124
-			public const int logoDescription = 2130968868;
+			public const int iconEndPadding = 2130968868;
 			
 			// aapt resource value: 0x7F040125
-			public const int materialButtonStyle = 2130968869;
-			
-			// aapt resource value: 0x7F040126
-			public const int materialCardViewStyle = 2130968870;
-			
-			// aapt resource value: 0x7F040127
-			public const int maxActionInlineWidth = 2130968871;
-			
-			// aapt resource value: 0x7F040128
-			public const int maxButtonHeight = 2130968872;
-			
-			// aapt resource value: 0x7F040129
-			public const int maxImageSize = 2130968873;
-			
-			// aapt resource value: 0x7F04012A
-			public const int measureWithLargestChild = 2130968874;
+			public const int iconGravity = 2130968869;
 			
 			// aapt resource value: 0x7F04012B
-			public const int menu = 2130968875;
+			public const int iconifiedByDefault = 2130968875;
+			
+			// aapt resource value: 0x7F040126
+			public const int iconPadding = 2130968870;
+			
+			// aapt resource value: 0x7F040127
+			public const int iconSize = 2130968871;
+			
+			// aapt resource value: 0x7F040128
+			public const int iconStartPadding = 2130968872;
+			
+			// aapt resource value: 0x7F040129
+			public const int iconTint = 2130968873;
+			
+			// aapt resource value: 0x7F04012A
+			public const int iconTintMode = 2130968874;
 			
 			// aapt resource value: 0x7F04012C
-			public const int multiChoiceItemLayout = 2130968876;
+			public const int imageButtonStyle = 2130968876;
 			
 			// aapt resource value: 0x7F04012D
-			public const int navigationContentDescription = 2130968877;
+			public const int indentColumnWidth = 2130968877;
 			
 			// aapt resource value: 0x7F04012E
-			public const int navigationIcon = 2130968878;
+			public const int indeterminateProgressStyle = 2130968878;
 			
 			// aapt resource value: 0x7F04012F
-			public const int navigationMode = 2130968879;
+			public const int initialActivityCount = 2130968879;
 			
 			// aapt resource value: 0x7F040130
-			public const int navigationViewStyle = 2130968880;
+			public const int insetForeground = 2130968880;
 			
 			// aapt resource value: 0x7F040131
-			public const int numericModifiers = 2130968881;
+			public const int isBusy = 2130968881;
 			
 			// aapt resource value: 0x7F040132
-			public const int overlapAnchor = 2130968882;
+			public const int isLightTheme = 2130968882;
 			
 			// aapt resource value: 0x7F040133
-			public const int paddingBottomNoButtons = 2130968883;
+			public const int itemBackground = 2130968883;
 			
 			// aapt resource value: 0x7F040134
-			public const int paddingEnd = 2130968884;
+			public const int itemHorizontalPadding = 2130968884;
 			
 			// aapt resource value: 0x7F040135
-			public const int paddingStart = 2130968885;
+			public const int itemHorizontalTranslationEnabled = 2130968885;
 			
 			// aapt resource value: 0x7F040136
-			public const int paddingTopNoTitle = 2130968886;
+			public const int itemIconPadding = 2130968886;
 			
 			// aapt resource value: 0x7F040137
-			public const int panelBackground = 2130968887;
+			public const int itemIconSize = 2130968887;
 			
 			// aapt resource value: 0x7F040138
-			public const int panelMenuListTheme = 2130968888;
+			public const int itemIconTint = 2130968888;
 			
 			// aapt resource value: 0x7F040139
-			public const int panelMenuListWidth = 2130968889;
+			public const int itemPadding = 2130968889;
 			
 			// aapt resource value: 0x7F04013A
-			public const int passwordToggleContentDescription = 2130968890;
+			public const int itemSpacing = 2130968890;
 			
 			// aapt resource value: 0x7F04013B
-			public const int passwordToggleDrawable = 2130968891;
+			public const int itemTextAppearance = 2130968891;
 			
 			// aapt resource value: 0x7F04013C
-			public const int passwordToggleEnabled = 2130968892;
+			public const int itemTextAppearanceActive = 2130968892;
 			
 			// aapt resource value: 0x7F04013D
-			public const int passwordToggleTint = 2130968893;
+			public const int itemTextAppearanceInactive = 2130968893;
 			
 			// aapt resource value: 0x7F04013E
-			public const int passwordToggleTintMode = 2130968894;
+			public const int itemTextColor = 2130968894;
 			
 			// aapt resource value: 0x7F04013F
-			public const int popupMenuStyle = 2130968895;
+			public const int keylines = 2130968895;
 			
 			// aapt resource value: 0x7F040140
-			public const int popupTheme = 2130968896;
+			public const int labelBackground = 2130968896;
 			
 			// aapt resource value: 0x7F040141
-			public const int popupWindowStyle = 2130968897;
+			public const int labelVisibilityMode = 2130968897;
 			
 			// aapt resource value: 0x7F040142
-			public const int preserveIconSpacing = 2130968898;
+			public const int lastBaselineToBottomHeight = 2130968898;
 			
 			// aapt resource value: 0x7F040143
-			public const int pressedTranslationZ = 2130968899;
+			public const int layout = 2130968899;
 			
 			// aapt resource value: 0x7F040144
-			public const int progressBarPadding = 2130968900;
+			public const int layoutManager = 2130968900;
 			
 			// aapt resource value: 0x7F040145
-			public const int progressBarStyle = 2130968901;
+			public const int layout_anchor = 2130968901;
 			
 			// aapt resource value: 0x7F040146
-			public const int queryBackground = 2130968902;
+			public const int layout_anchorGravity = 2130968902;
 			
 			// aapt resource value: 0x7F040147
-			public const int queryHint = 2130968903;
+			public const int layout_behavior = 2130968903;
 			
 			// aapt resource value: 0x7F040148
-			public const int radioButtonStyle = 2130968904;
+			public const int layout_collapseMode = 2130968904;
 			
 			// aapt resource value: 0x7F040149
-			public const int ratingBarStyle = 2130968905;
+			public const int layout_collapseParallaxMultiplier = 2130968905;
 			
 			// aapt resource value: 0x7F04014A
-			public const int ratingBarStyleIndicator = 2130968906;
+			public const int layout_dodgeInsetEdges = 2130968906;
 			
 			// aapt resource value: 0x7F04014B
-			public const int ratingBarStyleSmall = 2130968907;
+			public const int layout_insetEdge = 2130968907;
 			
 			// aapt resource value: 0x7F04014C
-			public const int reverseLayout = 2130968908;
+			public const int layout_keyline = 2130968908;
 			
 			// aapt resource value: 0x7F04014D
-			public const int rippleColor = 2130968909;
+			public const int layout_scrollFlags = 2130968909;
 			
 			// aapt resource value: 0x7F04014E
-			public const int scrimAnimationDuration = 2130968910;
+			public const int layout_scrollInterpolator = 2130968910;
 			
 			// aapt resource value: 0x7F04014F
-			public const int scrimBackground = 2130968911;
+			public const int leftThumbBackground = 2130968911;
 			
 			// aapt resource value: 0x7F040150
-			public const int scrimVisibleHeightTrigger = 2130968912;
+			public const int leftThumbHeight = 2130968912;
 			
 			// aapt resource value: 0x7F040151
-			public const int searchHintIcon = 2130968913;
+			public const int leftThumbLineColor = 2130968913;
 			
 			// aapt resource value: 0x7F040152
-			public const int searchIcon = 2130968914;
+			public const int leftThumbLineWidth = 2130968914;
 			
 			// aapt resource value: 0x7F040153
-			public const int searchViewStyle = 2130968915;
+			public const int leftThumbStroke = 2130968915;
 			
 			// aapt resource value: 0x7F040154
-			public const int seekBarStyle = 2130968916;
+			public const int leftThumbStrokeWidth = 2130968916;
 			
 			// aapt resource value: 0x7F040155
-			public const int selectableItemBackground = 2130968917;
+			public const int leftThumbWidth = 2130968917;
 			
 			// aapt resource value: 0x7F040156
-			public const int selectableItemBackgroundBorderless = 2130968918;
+			public const int leftTooltipBackgroundColor = 2130968918;
 			
 			// aapt resource value: 0x7F040157
-			public const int showAsAction = 2130968919;
+			public const int leftTooltipMargin = 2130968919;
 			
 			// aapt resource value: 0x7F040158
-			public const int showDividers = 2130968920;
+			public const int leftTooltipStrokeColor = 2130968920;
 			
 			// aapt resource value: 0x7F040159
-			public const int showMotionSpec = 2130968921;
+			public const int leftTooltipStrokeWidth = 2130968921;
 			
 			// aapt resource value: 0x7F04015A
-			public const int showText = 2130968922;
+			public const int leftTooltipTextColor = 2130968922;
 			
 			// aapt resource value: 0x7F04015B
-			public const int showTitle = 2130968923;
+			public const int leftTooltipTextSize = 2130968923;
 			
 			// aapt resource value: 0x7F04015C
-			public const int singleChoiceItemLayout = 2130968924;
+			public const int legendBackground = 2130968924;
 			
 			// aapt resource value: 0x7F04015D
-			public const int singleLine = 2130968925;
+			public const int legendDockPosition = 2130968925;
 			
 			// aapt resource value: 0x7F04015E
-			public const int singleSelection = 2130968926;
+			public const int legendIconHeight = 2130968926;
 			
 			// aapt resource value: 0x7F04015F
-			public const int snackbarButtonStyle = 2130968927;
+			public const int legendIconWidth = 2130968927;
 			
 			// aapt resource value: 0x7F040160
-			public const int snackbarStyle = 2130968928;
+			public const int legendItemMarginBottom = 2130968928;
 			
 			// aapt resource value: 0x7F040161
-			public const int spanCount = 2130968929;
+			public const int legendItemMarginLeft = 2130968929;
 			
 			// aapt resource value: 0x7F040162
-			public const int spinBars = 2130968930;
+			public const int legendItemMarginRight = 2130968930;
 			
 			// aapt resource value: 0x7F040163
-			public const int spinnerDropDownItemStyle = 2130968931;
+			public const int legendItemMarginTop = 2130968931;
 			
 			// aapt resource value: 0x7F040164
-			public const int spinnerStyle = 2130968932;
+			public const int legendOrientation = 2130968932;
 			
 			// aapt resource value: 0x7F040165
-			public const int splitTrack = 2130968933;
+			public const int legendTitleText = 2130968933;
 			
 			// aapt resource value: 0x7F040166
-			public const int srcCompat = 2130968934;
+			public const int legendVisibility = 2130968934;
 			
 			// aapt resource value: 0x7F040167
-			public const int stackFromEnd = 2130968935;
+			public const int liftOnScroll = 2130968935;
 			
 			// aapt resource value: 0x7F040168
-			public const int state_above_anchor = 2130968936;
+			public const int lineAnnotationLineColor = 2130968936;
 			
 			// aapt resource value: 0x7F040169
-			public const int state_collapsed = 2130968937;
+			public const int lineAnnotationLineThickness = 2130968937;
 			
 			// aapt resource value: 0x7F04016A
-			public const int state_collapsible = 2130968938;
+			public const int lineHeight = 2130968938;
 			
 			// aapt resource value: 0x7F04016B
-			public const int state_liftable = 2130968939;
+			public const int lineSeriesColor = 2130968939;
 			
 			// aapt resource value: 0x7F04016C
-			public const int state_lifted = 2130968940;
+			public const int lineSpacing = 2130968940;
 			
 			// aapt resource value: 0x7F04016D
-			public const int statusBarBackground = 2130968941;
+			public const int listChoiceBackgroundIndicator = 2130968941;
 			
 			// aapt resource value: 0x7F04016E
-			public const int statusBarScrim = 2130968942;
+			public const int listDividerAlertDialog = 2130968942;
 			
 			// aapt resource value: 0x7F04016F
-			public const int strokeColor = 2130968943;
+			public const int listItemLayout = 2130968943;
 			
 			// aapt resource value: 0x7F040170
-			public const int strokeWidth = 2130968944;
+			public const int listLayout = 2130968944;
 			
 			// aapt resource value: 0x7F040171
-			public const int subMenuArrow = 2130968945;
+			public const int listMenuViewStyle = 2130968945;
 			
 			// aapt resource value: 0x7F040172
-			public const int submitBackground = 2130968946;
+			public const int listPopupWindowStyle = 2130968946;
 			
 			// aapt resource value: 0x7F040173
-			public const int subtitle = 2130968947;
+			public const int listPreferredItemHeight = 2130968947;
 			
 			// aapt resource value: 0x7F040174
-			public const int subtitleTextAppearance = 2130968948;
+			public const int listPreferredItemHeightLarge = 2130968948;
 			
 			// aapt resource value: 0x7F040175
-			public const int subtitleTextColor = 2130968949;
+			public const int listPreferredItemHeightSmall = 2130968949;
 			
 			// aapt resource value: 0x7F040176
-			public const int subtitleTextStyle = 2130968950;
+			public const int listPreferredItemPaddingLeft = 2130968950;
 			
 			// aapt resource value: 0x7F040177
-			public const int suggestionRowLayout = 2130968951;
+			public const int listPreferredItemPaddingRight = 2130968951;
 			
 			// aapt resource value: 0x7F040178
-			public const int switchMinWidth = 2130968952;
+			public const int loadMorePosition = 2130968952;
 			
 			// aapt resource value: 0x7F040179
-			public const int switchPadding = 2130968953;
+			public const int loadMoreText = 2130968953;
 			
 			// aapt resource value: 0x7F04017A
-			public const int switchStyle = 2130968954;
+			public const int logo = 2130968954;
 			
 			// aapt resource value: 0x7F04017B
-			public const int switchTextAppearance = 2130968955;
+			public const int logoDescription = 2130968955;
 			
 			// aapt resource value: 0x7F04017C
-			public const int tabBackground = 2130968956;
+			public const int majorGridLinesColor = 2130968956;
 			
 			// aapt resource value: 0x7F04017D
-			public const int tabContentStart = 2130968957;
+			public const int majorScaleGridLineColor = 2130968957;
 			
 			// aapt resource value: 0x7F04017E
-			public const int tabGravity = 2130968958;
+			public const int majorScaleGridLineWidth = 2130968958;
 			
 			// aapt resource value: 0x7F04017F
-			public const int tabIconTint = 2130968959;
+			public const int majorScaleLabelAlignment = 2130968959;
 			
 			// aapt resource value: 0x7F040180
-			public const int tabIconTintMode = 2130968960;
+			public const int majorScaleLabelBackground = 2130968960;
 			
 			// aapt resource value: 0x7F040181
-			public const int tabIndicator = 2130968961;
+			public const int majorScaleLabelFormat = 2130968961;
 			
 			// aapt resource value: 0x7F040182
-			public const int tabIndicatorAnimationDuration = 2130968962;
+			public const int majorScaleLabelMargin = 2130968962;
 			
 			// aapt resource value: 0x7F040183
-			public const int tabIndicatorColor = 2130968963;
+			public const int majorScaleLabelStroke = 2130968963;
 			
 			// aapt resource value: 0x7F040184
-			public const int tabIndicatorFullWidth = 2130968964;
+			public const int majorScaleLabelStrokeWidth = 2130968964;
 			
 			// aapt resource value: 0x7F040185
-			public const int tabIndicatorGravity = 2130968965;
+			public const int majorScaleLabelTextColor = 2130968965;
 			
 			// aapt resource value: 0x7F040186
-			public const int tabIndicatorHeight = 2130968966;
+			public const int majorScaleLabelTextSize = 2130968966;
 			
 			// aapt resource value: 0x7F040187
-			public const int tabInlineLabel = 2130968967;
+			public const int majorScalePosition = 2130968967;
 			
 			// aapt resource value: 0x7F040188
-			public const int tabMaxWidth = 2130968968;
+			public const int majorScaleSelectedLabelBackground = 2130968968;
 			
 			// aapt resource value: 0x7F040189
-			public const int tabMinWidth = 2130968969;
+			public const int majorScaleSelectedLabelMargin = 2130968969;
 			
 			// aapt resource value: 0x7F04018A
-			public const int tabMode = 2130968970;
+			public const int majorScaleSelectedLabelStroke = 2130968970;
 			
 			// aapt resource value: 0x7F04018B
-			public const int tabPadding = 2130968971;
+			public const int majorScaleSelectedLabelStrokeWidth = 2130968971;
 			
 			// aapt resource value: 0x7F04018C
-			public const int tabPaddingBottom = 2130968972;
+			public const int majorScaleSelectedLabelTextColor = 2130968972;
 			
 			// aapt resource value: 0x7F04018D
-			public const int tabPaddingEnd = 2130968973;
+			public const int majorScaleSelectedLabelTextSize = 2130968973;
 			
 			// aapt resource value: 0x7F04018E
-			public const int tabPaddingStart = 2130968974;
+			public const int majorScaleTickColor = 2130968974;
 			
 			// aapt resource value: 0x7F04018F
-			public const int tabPaddingTop = 2130968975;
+			public const int majorScaleTickWidth = 2130968975;
 			
 			// aapt resource value: 0x7F040190
-			public const int tabRippleColor = 2130968976;
+			public const int majorScaleVisibility = 2130968976;
 			
 			// aapt resource value: 0x7F040191
-			public const int tabSelectedTextColor = 2130968977;
+			public const int majorTickLinesLength = 2130968977;
 			
 			// aapt resource value: 0x7F040192
-			public const int tabStyle = 2130968978;
+			public const int materialButtonStyle = 2130968978;
 			
 			// aapt resource value: 0x7F040193
-			public const int tabTextAppearance = 2130968979;
+			public const int materialCardViewStyle = 2130968979;
 			
 			// aapt resource value: 0x7F040194
-			public const int tabTextColor = 2130968980;
+			public const int maxActionInlineWidth = 2130968980;
 			
 			// aapt resource value: 0x7F040195
-			public const int tabUnboundedRipple = 2130968981;
+			public const int maxButtonHeight = 2130968981;
 			
 			// aapt resource value: 0x7F040196
-			public const int textAllCaps = 2130968982;
-			
-			// aapt resource value: 0x7F040197
-			public const int textAppearanceBody1 = 2130968983;
+			public const int maxImageSize = 2130968982;
 			
 			// aapt resource value: 0x7F040198
-			public const int textAppearanceBody2 = 2130968984;
+			public const int maximumDecimalDigits = 2130968984;
 			
 			// aapt resource value: 0x7F040199
-			public const int textAppearanceButton = 2130968985;
+			public const int maximumValue = 2130968985;
+			
+			// aapt resource value: 0x7F040197
+			public const int maxSwipeOffset = 2130968983;
 			
 			// aapt resource value: 0x7F04019A
-			public const int textAppearanceCaption = 2130968986;
+			public const int measureWithLargestChild = 2130968986;
 			
 			// aapt resource value: 0x7F04019B
-			public const int textAppearanceHeadline1 = 2130968987;
+			public const int menu = 2130968987;
 			
 			// aapt resource value: 0x7F04019C
-			public const int textAppearanceHeadline2 = 2130968988;
+			public const int minimumValue = 2130968988;
 			
 			// aapt resource value: 0x7F04019D
-			public const int textAppearanceHeadline3 = 2130968989;
+			public const int minorGridLinesColor = 2130968989;
 			
 			// aapt resource value: 0x7F04019E
-			public const int textAppearanceHeadline4 = 2130968990;
+			public const int minorScaleGridLineColor = 2130968990;
 			
 			// aapt resource value: 0x7F04019F
-			public const int textAppearanceHeadline5 = 2130968991;
+			public const int minorScaleGridLineWidth = 2130968991;
 			
 			// aapt resource value: 0x7F0401A0
-			public const int textAppearanceHeadline6 = 2130968992;
+			public const int minorScaleLabelAlignment = 2130968992;
 			
 			// aapt resource value: 0x7F0401A1
-			public const int textAppearanceLargePopupMenu = 2130968993;
+			public const int minorScaleLabelBackground = 2130968993;
 			
 			// aapt resource value: 0x7F0401A2
-			public const int textAppearanceListItem = 2130968994;
+			public const int minorScaleLabelFormat = 2130968994;
 			
 			// aapt resource value: 0x7F0401A3
-			public const int textAppearanceListItemSecondary = 2130968995;
+			public const int minorScaleLabelMargin = 2130968995;
 			
 			// aapt resource value: 0x7F0401A4
-			public const int textAppearanceListItemSmall = 2130968996;
+			public const int minorScaleLabelStroke = 2130968996;
 			
 			// aapt resource value: 0x7F0401A5
-			public const int textAppearanceOverline = 2130968997;
+			public const int minorScaleLabelStrokeWidth = 2130968997;
 			
 			// aapt resource value: 0x7F0401A6
-			public const int textAppearancePopupMenuHeader = 2130968998;
+			public const int minorScaleLabelTextColor = 2130968998;
 			
 			// aapt resource value: 0x7F0401A7
-			public const int textAppearanceSearchResultSubtitle = 2130968999;
+			public const int minorScaleLabelTextSize = 2130968999;
 			
 			// aapt resource value: 0x7F0401A8
-			public const int textAppearanceSearchResultTitle = 2130969000;
+			public const int minorScalePosition = 2130969000;
 			
 			// aapt resource value: 0x7F0401A9
-			public const int textAppearanceSmallPopupMenu = 2130969001;
+			public const int minorScaleSelectedLabelBackground = 2130969001;
 			
 			// aapt resource value: 0x7F0401AA
-			public const int textAppearanceSubtitle1 = 2130969002;
+			public const int minorScaleSelectedLabelMargin = 2130969002;
 			
 			// aapt resource value: 0x7F0401AB
-			public const int textAppearanceSubtitle2 = 2130969003;
+			public const int minorScaleSelectedLabelStroke = 2130969003;
 			
 			// aapt resource value: 0x7F0401AC
-			public const int textColorAlertDialogListItem = 2130969004;
+			public const int minorScaleSelectedLabelStrokeWidth = 2130969004;
 			
 			// aapt resource value: 0x7F0401AD
-			public const int textColorSearchUrl = 2130969005;
+			public const int minorScaleSelectedLabelTextColor = 2130969005;
 			
 			// aapt resource value: 0x7F0401AE
-			public const int textEndPadding = 2130969006;
+			public const int minorScaleSelectedLabelTextSize = 2130969006;
 			
 			// aapt resource value: 0x7F0401AF
-			public const int textInputStyle = 2130969007;
+			public const int minorScaleTickColor = 2130969007;
 			
 			// aapt resource value: 0x7F0401B0
-			public const int textStartPadding = 2130969008;
+			public const int minorScaleTickWidth = 2130969008;
 			
 			// aapt resource value: 0x7F0401B1
-			public const int theme = 2130969009;
+			public const int minorScaleVisibility = 2130969009;
 			
 			// aapt resource value: 0x7F0401B2
-			public const int thickness = 2130969010;
+			public const int minorTickLinesLength = 2130969010;
 			
 			// aapt resource value: 0x7F0401B3
-			public const int thumbTextPadding = 2130969011;
+			public const int mountainAreaColor = 2130969011;
 			
 			// aapt resource value: 0x7F0401B4
-			public const int thumbTint = 2130969012;
+			public const int mountainLineColor = 2130969012;
 			
 			// aapt resource value: 0x7F0401B5
-			public const int thumbTintMode = 2130969013;
+			public const int multiChoiceItemLayout = 2130969013;
 			
 			// aapt resource value: 0x7F0401B6
-			public const int tickMark = 2130969014;
+			public const int navigationContentDescription = 2130969014;
 			
 			// aapt resource value: 0x7F0401B7
-			public const int tickMarkTint = 2130969015;
+			public const int navigationIcon = 2130969015;
 			
 			// aapt resource value: 0x7F0401B8
-			public const int tickMarkTintMode = 2130969016;
+			public const int navigationMode = 2130969016;
 			
 			// aapt resource value: 0x7F0401B9
-			public const int tint = 2130969017;
+			public const int navigationViewStyle = 2130969017;
 			
 			// aapt resource value: 0x7F0401BA
-			public const int tintMode = 2130969018;
+			public const int numberFormat = 2130969018;
 			
 			// aapt resource value: 0x7F0401BB
-			public const int title = 2130969019;
+			public const int numericButtonBackground = 2130969019;
 			
 			// aapt resource value: 0x7F0401BC
-			public const int titleEnabled = 2130969020;
+			public const int numericButtonCount = 2130969020;
 			
 			// aapt resource value: 0x7F0401BD
-			public const int titleMargin = 2130969021;
+			public const int numericModifiers = 2130969021;
 			
 			// aapt resource value: 0x7F0401BE
-			public const int titleMarginBottom = 2130969022;
+			public const int numericTextBoxValue = 2130969022;
 			
 			// aapt resource value: 0x7F0401BF
-			public const int titleMarginEnd = 2130969023;
-			
-			// aapt resource value: 0x7F0401C2
-			public const int titleMargins = 2130969026;
+			public const int orientation = 2130969023;
 			
 			// aapt resource value: 0x7F0401C0
-			public const int titleMarginStart = 2130969024;
+			public const int overlapAnchor = 2130969024;
 			
 			// aapt resource value: 0x7F0401C1
-			public const int titleMarginTop = 2130969025;
+			public const int overlayColor = 2130969025;
+			
+			// aapt resource value: 0x7F0401C2
+			public const int paddingBottomNoButtons = 2130969026;
 			
 			// aapt resource value: 0x7F0401C3
-			public const int titleTextAppearance = 2130969027;
+			public const int paddingEnd = 2130969027;
 			
 			// aapt resource value: 0x7F0401C4
-			public const int titleTextColor = 2130969028;
+			public const int paddingStart = 2130969028;
 			
 			// aapt resource value: 0x7F0401C5
-			public const int titleTextStyle = 2130969029;
+			public const int paddingTopNoTitle = 2130969029;
 			
 			// aapt resource value: 0x7F0401C6
-			public const int toolbarId = 2130969030;
+			public const int pageCount = 2130969030;
 			
 			// aapt resource value: 0x7F0401C7
-			public const int toolbarNavigationButtonStyle = 2130969031;
+			public const int pageSize = 2130969031;
 			
 			// aapt resource value: 0x7F0401C8
-			public const int toolbarStyle = 2130969032;
+			public const int panelBackground = 2130969032;
 			
 			// aapt resource value: 0x7F0401C9
-			public const int tooltipForegroundColor = 2130969033;
+			public const int panelMenuListTheme = 2130969033;
 			
 			// aapt resource value: 0x7F0401CA
-			public const int tooltipFrameBackground = 2130969034;
+			public const int panelMenuListWidth = 2130969034;
 			
 			// aapt resource value: 0x7F0401CB
-			public const int tooltipText = 2130969035;
+			public const int parsingMode = 2130969035;
 			
 			// aapt resource value: 0x7F0401CC
-			public const int track = 2130969036;
+			public const int passwordToggleContentDescription = 2130969036;
 			
 			// aapt resource value: 0x7F0401CD
-			public const int trackTint = 2130969037;
+			public const int passwordToggleDrawable = 2130969037;
 			
 			// aapt resource value: 0x7F0401CE
-			public const int trackTintMode = 2130969038;
+			public const int passwordToggleEnabled = 2130969038;
 			
 			// aapt resource value: 0x7F0401CF
-			public const int ttcIndex = 2130969039;
+			public const int passwordToggleTint = 2130969039;
 			
 			// aapt resource value: 0x7F0401D0
-			public const int useCompatPadding = 2130969040;
+			public const int passwordToggleTintMode = 2130969040;
 			
 			// aapt resource value: 0x7F0401D1
-			public const int viewInflaterClass = 2130969041;
+			public const int percentDisplayMode = 2130969041;
 			
 			// aapt resource value: 0x7F0401D2
-			public const int voiceIcon = 2130969042;
+			public const int popupMenuStyle = 2130969042;
 			
 			// aapt resource value: 0x7F0401D3
-			public const int windowActionBar = 2130969043;
+			public const int popupTheme = 2130969043;
 			
 			// aapt resource value: 0x7F0401D4
-			public const int windowActionBarOverlay = 2130969044;
+			public const int popupWindowStyle = 2130969044;
 			
 			// aapt resource value: 0x7F0401D5
-			public const int windowActionModeOverlay = 2130969045;
+			public const int preserveIconSpacing = 2130969045;
 			
 			// aapt resource value: 0x7F0401D6
-			public const int windowFixedHeightMajor = 2130969046;
+			public const int pressedTranslationZ = 2130969046;
 			
 			// aapt resource value: 0x7F0401D7
-			public const int windowFixedHeightMinor = 2130969047;
+			public const int progressBarPadding = 2130969047;
 			
 			// aapt resource value: 0x7F0401D8
-			public const int windowFixedWidthMajor = 2130969048;
+			public const int progressBarStyle = 2130969048;
 			
 			// aapt resource value: 0x7F0401D9
-			public const int windowFixedWidthMinor = 2130969049;
+			public const int queryBackground = 2130969049;
 			
 			// aapt resource value: 0x7F0401DA
-			public const int windowMinWidthMajor = 2130969050;
+			public const int queryHint = 2130969050;
 			
 			// aapt resource value: 0x7F0401DB
-			public const int windowMinWidthMinor = 2130969051;
+			public const int radioButtonStyle = 2130969051;
 			
 			// aapt resource value: 0x7F0401DC
-			public const int windowNoTitle = 2130969052;
+			public const int ratingBarStyle = 2130969052;
+			
+			// aapt resource value: 0x7F0401DD
+			public const int ratingBarStyleIndicator = 2130969053;
+			
+			// aapt resource value: 0x7F0401DE
+			public const int ratingBarStyleSmall = 2130969054;
+			
+			// aapt resource value: 0x7F0401DF
+			public const int renderableSeriesAreaBorderColor = 2130969055;
+			
+			// aapt resource value: 0x7F0401E0
+			public const int renderableSeriesAreaFillColor = 2130969056;
+			
+			// aapt resource value: 0x7F0401E1
+			public const int renderableSeriesAreaStrokeThickness = 2130969057;
+			
+			// aapt resource value: 0x7F0401E2
+			public const int resizingMode = 2130969058;
+			
+			// aapt resource value: 0x7F0401E3
+			public const int reverseLayout = 2130969059;
+			
+			// aapt resource value: 0x7F0401E4
+			public const int rightThumbBackground = 2130969060;
+			
+			// aapt resource value: 0x7F0401E5
+			public const int rightThumbHeight = 2130969061;
+			
+			// aapt resource value: 0x7F0401E6
+			public const int rightThumbLineColor = 2130969062;
+			
+			// aapt resource value: 0x7F0401E7
+			public const int rightThumbLineWidth = 2130969063;
+			
+			// aapt resource value: 0x7F0401E8
+			public const int rightThumbStroke = 2130969064;
+			
+			// aapt resource value: 0x7F0401E9
+			public const int rightThumbStrokeWidth = 2130969065;
+			
+			// aapt resource value: 0x7F0401EA
+			public const int rightThumbWidth = 2130969066;
+			
+			// aapt resource value: 0x7F0401EB
+			public const int rightTooltipBackground = 2130969067;
+			
+			// aapt resource value: 0x7F0401EC
+			public const int rightTooltipMargin = 2130969068;
+			
+			// aapt resource value: 0x7F0401ED
+			public const int rightTooltipStroke = 2130969069;
+			
+			// aapt resource value: 0x7F0401EE
+			public const int rightTooltipStrokeWidth = 2130969070;
+			
+			// aapt resource value: 0x7F0401EF
+			public const int rightTooltipTextColor = 2130969071;
+			
+			// aapt resource value: 0x7F0401F0
+			public const int rightTooltipTextSize = 2130969072;
+			
+			// aapt resource value: 0x7F0401F1
+			public const int rippleColor = 2130969073;
+			
+			// aapt resource value: 0x7F0401F2
+			public const int rolloverLineColor = 2130969074;
+			
+			// aapt resource value: 0x7F0401F3
+			public const int rowHeaderWidth = 2130969075;
+			
+			// aapt resource value: 0x7F0401F4
+			public const int rubberBandFillColor = 2130969076;
+			
+			// aapt resource value: 0x7F0401F5
+			public const int rubberBandStrokeColor = 2130969077;
+			
+			// aapt resource value: 0x7F0401F6
+			public const int sciChartBackground = 2130969078;
+			
+			// aapt resource value: 0x7F0401F7
+			public const int scrimAnimationDuration = 2130969079;
+			
+			// aapt resource value: 0x7F0401F8
+			public const int scrimBackground = 2130969080;
+			
+			// aapt resource value: 0x7F0401F9
+			public const int scrimVisibleHeightTrigger = 2130969081;
+			
+			// aapt resource value: 0x7F0401FA
+			public const int scrollingMode = 2130969082;
+			
+			// aapt resource value: 0x7F0401FB
+			public const int searchHintIcon = 2130969083;
+			
+			// aapt resource value: 0x7F0401FC
+			public const int searchIcon = 2130969084;
+			
+			// aapt resource value: 0x7F0401FD
+			public const int searchViewStyle = 2130969085;
+			
+			// aapt resource value: 0x7F0401FE
+			public const int seekBarStyle = 2130969086;
+			
+			// aapt resource value: 0x7F040200
+			public const int selectableItemBackground = 2130969088;
+			
+			// aapt resource value: 0x7F040201
+			public const int selectableItemBackgroundBorderless = 2130969089;
+			
+			// aapt resource value: 0x7F0401FF
+			public const int selectAllOnFocus = 2130969087;
+			
+			// aapt resource value: 0x7F040202
+			public const int selectedIndex = 2130969090;
+			
+			// aapt resource value: 0x7F040203
+			public const int selectionForeground = 2130969091;
+			
+			// aapt resource value: 0x7F040204
+			public const int showAsAction = 2130969092;
+			
+			// aapt resource value: 0x7F040205
+			public const int showDividers = 2130969093;
+			
+			// aapt resource value: 0x7F040206
+			public const int showMajorGridLines = 2130969094;
+			
+			// aapt resource value: 0x7F040207
+			public const int showMinorGridLines = 2130969095;
+			
+			// aapt resource value: 0x7F040208
+			public const int showMotionSpec = 2130969096;
+			
+			// aapt resource value: 0x7F040209
+			public const int showRowHeader = 2130969097;
+			
+			// aapt resource value: 0x7F04020A
+			public const int showText = 2130969098;
+			
+			// aapt resource value: 0x7F04020B
+			public const int showTitle = 2130969099;
+			
+			// aapt resource value: 0x7F04020C
+			public const int singleChoiceItemLayout = 2130969100;
+			
+			// aapt resource value: 0x7F04020D
+			public const int singleLine = 2130969101;
+			
+			// aapt resource value: 0x7F04020E
+			public const int singleSelection = 2130969102;
+			
+			// aapt resource value: 0x7F04020F
+			public const int snackbarButtonStyle = 2130969103;
+			
+			// aapt resource value: 0x7F040210
+			public const int snackbarStyle = 2130969104;
+			
+			// aapt resource value: 0x7F040211
+			public const int sortTapAction = 2130969105;
+			
+			// aapt resource value: 0x7F040212
+			public const int spanCount = 2130969106;
+			
+			// aapt resource value: 0x7F040213
+			public const int spinBars = 2130969107;
+			
+			// aapt resource value: 0x7F040214
+			public const int spinnerDropDownItemStyle = 2130969108;
+			
+			// aapt resource value: 0x7F040215
+			public const int spinnerStyle = 2130969109;
+			
+			// aapt resource value: 0x7F040216
+			public const int splitTrack = 2130969110;
+			
+			// aapt resource value: 0x7F040217
+			public const int srcCompat = 2130969111;
+			
+			// aapt resource value: 0x7F040218
+			public const int stackFromEnd = 2130969112;
+			
+			// aapt resource value: 0x7F040219
+			public const int state_above_anchor = 2130969113;
+			
+			// aapt resource value: 0x7F04021A
+			public const int state_collapsed = 2130969114;
+			
+			// aapt resource value: 0x7F04021B
+			public const int state_collapsible = 2130969115;
+			
+			// aapt resource value: 0x7F04021C
+			public const int state_liftable = 2130969116;
+			
+			// aapt resource value: 0x7F04021D
+			public const int state_lifted = 2130969117;
+			
+			// aapt resource value: 0x7F04021E
+			public const int statusBarBackground = 2130969118;
+			
+			// aapt resource value: 0x7F04021F
+			public const int statusBarScrim = 2130969119;
+			
+			// aapt resource value: 0x7F040220
+			public const int strokeColor = 2130969120;
+			
+			// aapt resource value: 0x7F040221
+			public const int strokeWidth = 2130969121;
+			
+			// aapt resource value: 0x7F040222
+			public const int subMenuArrow = 2130969122;
+			
+			// aapt resource value: 0x7F040223
+			public const int submitBackground = 2130969123;
+			
+			// aapt resource value: 0x7F040224
+			public const int subtitle = 2130969124;
+			
+			// aapt resource value: 0x7F040225
+			public const int subtitleTextAppearance = 2130969125;
+			
+			// aapt resource value: 0x7F040226
+			public const int subtitleTextColor = 2130969126;
+			
+			// aapt resource value: 0x7F040227
+			public const int subtitleTextStyle = 2130969127;
+			
+			// aapt resource value: 0x7F040228
+			public const int suggestionRowLayout = 2130969128;
+			
+			// aapt resource value: 0x7F040229
+			public const int switchMinWidth = 2130969129;
+			
+			// aapt resource value: 0x7F04022A
+			public const int switchPadding = 2130969130;
+			
+			// aapt resource value: 0x7F04022B
+			public const int switchStyle = 2130969131;
+			
+			// aapt resource value: 0x7F04022C
+			public const int switchTextAppearance = 2130969132;
+			
+			// aapt resource value: 0x7F04022D
+			public const int tabBackground = 2130969133;
+			
+			// aapt resource value: 0x7F04022E
+			public const int tabContentStart = 2130969134;
+			
+			// aapt resource value: 0x7F04022F
+			public const int tabGravity = 2130969135;
+			
+			// aapt resource value: 0x7F040230
+			public const int tabIconTint = 2130969136;
+			
+			// aapt resource value: 0x7F040231
+			public const int tabIconTintMode = 2130969137;
+			
+			// aapt resource value: 0x7F040232
+			public const int tabIndicator = 2130969138;
+			
+			// aapt resource value: 0x7F040233
+			public const int tabIndicatorAnimationDuration = 2130969139;
+			
+			// aapt resource value: 0x7F040234
+			public const int tabIndicatorColor = 2130969140;
+			
+			// aapt resource value: 0x7F040235
+			public const int tabIndicatorFullWidth = 2130969141;
+			
+			// aapt resource value: 0x7F040236
+			public const int tabIndicatorGravity = 2130969142;
+			
+			// aapt resource value: 0x7F040237
+			public const int tabIndicatorHeight = 2130969143;
+			
+			// aapt resource value: 0x7F040238
+			public const int tabInlineLabel = 2130969144;
+			
+			// aapt resource value: 0x7F040239
+			public const int tabMaxWidth = 2130969145;
+			
+			// aapt resource value: 0x7F04023A
+			public const int tabMinWidth = 2130969146;
+			
+			// aapt resource value: 0x7F04023B
+			public const int tabMode = 2130969147;
+			
+			// aapt resource value: 0x7F04023C
+			public const int tabPadding = 2130969148;
+			
+			// aapt resource value: 0x7F04023D
+			public const int tabPaddingBottom = 2130969149;
+			
+			// aapt resource value: 0x7F04023E
+			public const int tabPaddingEnd = 2130969150;
+			
+			// aapt resource value: 0x7F04023F
+			public const int tabPaddingStart = 2130969151;
+			
+			// aapt resource value: 0x7F040240
+			public const int tabPaddingTop = 2130969152;
+			
+			// aapt resource value: 0x7F040241
+			public const int tabRippleColor = 2130969153;
+			
+			// aapt resource value: 0x7F040242
+			public const int tabSelectedTextColor = 2130969154;
+			
+			// aapt resource value: 0x7F040243
+			public const int tabStyle = 2130969155;
+			
+			// aapt resource value: 0x7F040244
+			public const int tabTextAppearance = 2130969156;
+			
+			// aapt resource value: 0x7F040245
+			public const int tabTextColor = 2130969157;
+			
+			// aapt resource value: 0x7F040246
+			public const int tabUnboundedRipple = 2130969158;
+			
+			// aapt resource value: 0x7F040247
+			public const int textAllCaps = 2130969159;
+			
+			// aapt resource value: 0x7F040248
+			public const int textAnnotationBackgroundColor = 2130969160;
+			
+			// aapt resource value: 0x7F040249
+			public const int textAnnotationTextColor = 2130969161;
+			
+			// aapt resource value: 0x7F04024A
+			public const int textAnnotationTextSize = 2130969162;
+			
+			// aapt resource value: 0x7F04024B
+			public const int textAppearanceBody1 = 2130969163;
+			
+			// aapt resource value: 0x7F04024C
+			public const int textAppearanceBody2 = 2130969164;
+			
+			// aapt resource value: 0x7F04024D
+			public const int textAppearanceButton = 2130969165;
+			
+			// aapt resource value: 0x7F04024E
+			public const int textAppearanceCaption = 2130969166;
+			
+			// aapt resource value: 0x7F04024F
+			public const int textAppearanceHeadline1 = 2130969167;
+			
+			// aapt resource value: 0x7F040250
+			public const int textAppearanceHeadline2 = 2130969168;
+			
+			// aapt resource value: 0x7F040251
+			public const int textAppearanceHeadline3 = 2130969169;
+			
+			// aapt resource value: 0x7F040252
+			public const int textAppearanceHeadline4 = 2130969170;
+			
+			// aapt resource value: 0x7F040253
+			public const int textAppearanceHeadline5 = 2130969171;
+			
+			// aapt resource value: 0x7F040254
+			public const int textAppearanceHeadline6 = 2130969172;
+			
+			// aapt resource value: 0x7F040255
+			public const int textAppearanceLargePopupMenu = 2130969173;
+			
+			// aapt resource value: 0x7F040256
+			public const int textAppearanceListItem = 2130969174;
+			
+			// aapt resource value: 0x7F040257
+			public const int textAppearanceListItemSecondary = 2130969175;
+			
+			// aapt resource value: 0x7F040258
+			public const int textAppearanceListItemSmall = 2130969176;
+			
+			// aapt resource value: 0x7F040259
+			public const int textAppearanceOverline = 2130969177;
+			
+			// aapt resource value: 0x7F04025A
+			public const int textAppearancePopupMenuHeader = 2130969178;
+			
+			// aapt resource value: 0x7F04025B
+			public const int textAppearanceSearchResultSubtitle = 2130969179;
+			
+			// aapt resource value: 0x7F04025C
+			public const int textAppearanceSearchResultTitle = 2130969180;
+			
+			// aapt resource value: 0x7F04025D
+			public const int textAppearanceSmallPopupMenu = 2130969181;
+			
+			// aapt resource value: 0x7F04025E
+			public const int textAppearanceSubtitle1 = 2130969182;
+			
+			// aapt resource value: 0x7F04025F
+			public const int textAppearanceSubtitle2 = 2130969183;
+			
+			// aapt resource value: 0x7F040260
+			public const int textColorAlertDialogListItem = 2130969184;
+			
+			// aapt resource value: 0x7F040261
+			public const int textColorSearchUrl = 2130969185;
+			
+			// aapt resource value: 0x7F040262
+			public const int textEndPadding = 2130969186;
+			
+			// aapt resource value: 0x7F040263
+			public const int textInputStyle = 2130969187;
+			
+			// aapt resource value: 0x7F040264
+			public const int textStartPadding = 2130969188;
+			
+			// aapt resource value: 0x7F040265
+			public const int theme = 2130969189;
+			
+			// aapt resource value: 0x7F040266
+			public const int thickness = 2130969190;
+			
+			// aapt resource value: 0x7F040267
+			public const int thumbTextPadding = 2130969191;
+			
+			// aapt resource value: 0x7F040268
+			public const int thumbTint = 2130969192;
+			
+			// aapt resource value: 0x7F040269
+			public const int thumbTintMode = 2130969193;
+			
+			// aapt resource value: 0x7F04026A
+			public const int tickMark = 2130969194;
+			
+			// aapt resource value: 0x7F04026B
+			public const int tickMarkTint = 2130969195;
+			
+			// aapt resource value: 0x7F04026C
+			public const int tickMarkTintMode = 2130969196;
+			
+			// aapt resource value: 0x7F04026D
+			public const int tickTextColor = 2130969197;
+			
+			// aapt resource value: 0x7F04026E
+			public const int tickTextSize = 2130969198;
+			
+			// aapt resource value: 0x7F04026F
+			public const int tickTextTypeFace = 2130969199;
+			
+			// aapt resource value: 0x7F040270
+			public const int tint = 2130969200;
+			
+			// aapt resource value: 0x7F040271
+			public const int tintMode = 2130969201;
+			
+			// aapt resource value: 0x7F040272
+			public const int title = 2130969202;
+			
+			// aapt resource value: 0x7F040273
+			public const int titleBackgroundColor = 2130969203;
+			
+			// aapt resource value: 0x7F040274
+			public const int titleColor = 2130969204;
+			
+			// aapt resource value: 0x7F040275
+			public const int titleEnabled = 2130969205;
+			
+			// aapt resource value: 0x7F040276
+			public const int titleMargin = 2130969206;
+			
+			// aapt resource value: 0x7F040277
+			public const int titleMarginBottom = 2130969207;
+			
+			// aapt resource value: 0x7F040278
+			public const int titleMarginEnd = 2130969208;
+			
+			// aapt resource value: 0x7F04027B
+			public const int titleMargins = 2130969211;
+			
+			// aapt resource value: 0x7F040279
+			public const int titleMarginStart = 2130969209;
+			
+			// aapt resource value: 0x7F04027A
+			public const int titleMarginTop = 2130969210;
+			
+			// aapt resource value: 0x7F04027C
+			public const int titlePaddingBottom = 2130969212;
+			
+			// aapt resource value: 0x7F04027D
+			public const int titlePaddingLeft = 2130969213;
+			
+			// aapt resource value: 0x7F04027E
+			public const int titlePaddingRight = 2130969214;
+			
+			// aapt resource value: 0x7F04027F
+			public const int titlePaddingTop = 2130969215;
+			
+			// aapt resource value: 0x7F040280
+			public const int titleSize = 2130969216;
+			
+			// aapt resource value: 0x7F040281
+			public const int titleText = 2130969217;
+			
+			// aapt resource value: 0x7F040282
+			public const int titleTextAppearance = 2130969218;
+			
+			// aapt resource value: 0x7F040283
+			public const int titleTextColor = 2130969219;
+			
+			// aapt resource value: 0x7F040284
+			public const int titleTextSize = 2130969220;
+			
+			// aapt resource value: 0x7F040285
+			public const int titleTextStyle = 2130969221;
+			
+			// aapt resource value: 0x7F040286
+			public const int toolbarId = 2130969222;
+			
+			// aapt resource value: 0x7F040287
+			public const int toolbarNavigationButtonStyle = 2130969223;
+			
+			// aapt resource value: 0x7F040288
+			public const int toolbarStyle = 2130969224;
+			
+			// aapt resource value: 0x7F040289
+			public const int tooltipDisplayMode = 2130969225;
+			
+			// aapt resource value: 0x7F04028A
+			public const int tooltipForegroundColor = 2130969226;
+			
+			// aapt resource value: 0x7F04028B
+			public const int tooltipFormat = 2130969227;
+			
+			// aapt resource value: 0x7F04028C
+			public const int tooltipFrameBackground = 2130969228;
+			
+			// aapt resource value: 0x7F04028D
+			public const int tooltipText = 2130969229;
+			
+			// aapt resource value: 0x7F04028E
+			public const int track = 2130969230;
+			
+			// aapt resource value: 0x7F04028F
+			public const int trackTint = 2130969231;
+			
+			// aapt resource value: 0x7F040290
+			public const int trackTintMode = 2130969232;
+			
+			// aapt resource value: 0x7F040291
+			public const int ttcIndex = 2130969233;
+			
+			// aapt resource value: 0x7F040292
+			public const int useCompatPadding = 2130969234;
+			
+			// aapt resource value: 0x7F040293
+			public const int useOnDemandPaging = 2130969235;
+			
+			// aapt resource value: 0x7F040294
+			public const int valueChangeMode = 2130969236;
+			
+			// aapt resource value: 0x7F040295
+			public const int verticalOverScrollMode = 2130969237;
+			
+			// aapt resource value: 0x7F040296
+			public const int viewInflaterClass = 2130969238;
+			
+			// aapt resource value: 0x7F040297
+			public const int viewRangeEnd = 2130969239;
+			
+			// aapt resource value: 0x7F040298
+			public const int viewRangeStart = 2130969240;
+			
+			// aapt resource value: 0x7F040299
+			public const int voiceIcon = 2130969241;
+			
+			// aapt resource value: 0x7F04029A
+			public const int watermark = 2130969242;
+			
+			// aapt resource value: 0x7F04029B
+			public const int watermarkColor = 2130969243;
+			
+			// aapt resource value: 0x7F04029C
+			public const int windowActionBar = 2130969244;
+			
+			// aapt resource value: 0x7F04029D
+			public const int windowActionBarOverlay = 2130969245;
+			
+			// aapt resource value: 0x7F04029E
+			public const int windowActionModeOverlay = 2130969246;
+			
+			// aapt resource value: 0x7F04029F
+			public const int windowFixedHeightMajor = 2130969247;
+			
+			// aapt resource value: 0x7F0402A0
+			public const int windowFixedHeightMinor = 2130969248;
+			
+			// aapt resource value: 0x7F0402A1
+			public const int windowFixedWidthMajor = 2130969249;
+			
+			// aapt resource value: 0x7F0402A2
+			public const int windowFixedWidthMinor = 2130969250;
+			
+			// aapt resource value: 0x7F0402A3
+			public const int windowMinWidthMajor = 2130969251;
+			
+			// aapt resource value: 0x7F0402A4
+			public const int windowMinWidthMinor = 2130969252;
+			
+			// aapt resource value: 0x7F0402A5
+			public const int windowNoTitle = 2130969253;
+			
+			// aapt resource value: 0x7F0402A6
+			public const int xAxis = 2130969254;
+			
+			// aapt resource value: 0x7F0402A7
+			public const int xAxisLineColor = 2130969255;
+			
+			// aapt resource value: 0x7F0402A8
+			public const int xAxisLineWidth = 2130969256;
+			
+			// aapt resource value: 0x7F0402A9
+			public const int xAxisMajorGridLineColor = 2130969257;
+			
+			// aapt resource value: 0x7F0402AA
+			public const int xAxisMajorGridLineWidth = 2130969258;
+			
+			// aapt resource value: 0x7F0402AB
+			public const int xAxisTitleBackgroundColor = 2130969259;
+			
+			// aapt resource value: 0x7F0402AC
+			public const int xAxisTitleSize = 2130969260;
+			
+			// aapt resource value: 0x7F0402AD
+			public const int xAxisTitleText = 2130969261;
+			
+			// aapt resource value: 0x7F0402AE
+			public const int xAxisTitleTextColor = 2130969262;
+			
+			// aapt resource value: 0x7F0402AF
+			public const int yAxis = 2130969263;
+			
+			// aapt resource value: 0x7F0402B0
+			public const int yAxisLineColor = 2130969264;
+			
+			// aapt resource value: 0x7F0402B1
+			public const int yAxisLineWidth = 2130969265;
+			
+			// aapt resource value: 0x7F0402B2
+			public const int yAxisMajorGridLineColor = 2130969266;
+			
+			// aapt resource value: 0x7F0402B3
+			public const int yAxisMajorGridLineWidth = 2130969267;
+			
+			// aapt resource value: 0x7F0402B4
+			public const int yAxisTitleBackgroundColor = 2130969268;
+			
+			// aapt resource value: 0x7F0402B5
+			public const int yAxisTitleSize = 2130969269;
+			
+			// aapt resource value: 0x7F0402B6
+			public const int yAxisTitleText = 2130969270;
+			
+			// aapt resource value: 0x7F0402B7
+			public const int yAxisTitleTextColor = 2130969271;
 			
 			static Attribute()
 			{
@@ -7812,229 +11600,253 @@ namespace NDMA
 			public const int item_touch_helper_swipe_escape_velocity = 2131165329;
 			
 			// aapt resource value: 0x7F070092
-			public const int mtrl_bottomappbar_fabOffsetEndMode = 2131165330;
+			public const int legendItemCheckBoxNegativeMargin = 2131165330;
 			
 			// aapt resource value: 0x7F070093
-			public const int mtrl_bottomappbar_fab_cradle_margin = 2131165331;
+			public const int legendItemMargin = 2131165331;
 			
 			// aapt resource value: 0x7F070094
-			public const int mtrl_bottomappbar_fab_cradle_rounded_corner_radius = 2131165332;
+			public const int legendItemPointMarkerMargin = 2131165332;
 			
 			// aapt resource value: 0x7F070095
-			public const int mtrl_bottomappbar_fab_cradle_vertical_offset = 2131165333;
+			public const int legendItemPointMarkerWidth = 2131165333;
 			
 			// aapt resource value: 0x7F070096
-			public const int mtrl_bottomappbar_height = 2131165334;
+			public const int legendItemSeriesNameLeftMargin = 2131165334;
 			
 			// aapt resource value: 0x7F070097
-			public const int mtrl_btn_corner_radius = 2131165335;
+			public const int legendItemSeriesNameRightMargin = 2131165335;
 			
 			// aapt resource value: 0x7F070098
-			public const int mtrl_btn_dialog_btn_min_width = 2131165336;
+			public const int legendModifierPadding = 2131165336;
 			
 			// aapt resource value: 0x7F070099
-			public const int mtrl_btn_disabled_elevation = 2131165337;
+			public const int legendTextSize = 2131165337;
 			
 			// aapt resource value: 0x7F07009A
-			public const int mtrl_btn_disabled_z = 2131165338;
+			public const int mtrl_bottomappbar_fabOffsetEndMode = 2131165338;
 			
 			// aapt resource value: 0x7F07009B
-			public const int mtrl_btn_elevation = 2131165339;
+			public const int mtrl_bottomappbar_fab_cradle_margin = 2131165339;
 			
 			// aapt resource value: 0x7F07009C
-			public const int mtrl_btn_focused_z = 2131165340;
+			public const int mtrl_bottomappbar_fab_cradle_rounded_corner_radius = 2131165340;
 			
 			// aapt resource value: 0x7F07009D
-			public const int mtrl_btn_hovered_z = 2131165341;
+			public const int mtrl_bottomappbar_fab_cradle_vertical_offset = 2131165341;
 			
 			// aapt resource value: 0x7F07009E
-			public const int mtrl_btn_icon_btn_padding_left = 2131165342;
+			public const int mtrl_bottomappbar_height = 2131165342;
 			
 			// aapt resource value: 0x7F07009F
-			public const int mtrl_btn_icon_padding = 2131165343;
+			public const int mtrl_btn_corner_radius = 2131165343;
 			
 			// aapt resource value: 0x7F0700A0
-			public const int mtrl_btn_inset = 2131165344;
+			public const int mtrl_btn_dialog_btn_min_width = 2131165344;
 			
 			// aapt resource value: 0x7F0700A1
-			public const int mtrl_btn_letter_spacing = 2131165345;
+			public const int mtrl_btn_disabled_elevation = 2131165345;
 			
 			// aapt resource value: 0x7F0700A2
-			public const int mtrl_btn_padding_bottom = 2131165346;
+			public const int mtrl_btn_disabled_z = 2131165346;
 			
 			// aapt resource value: 0x7F0700A3
-			public const int mtrl_btn_padding_left = 2131165347;
+			public const int mtrl_btn_elevation = 2131165347;
 			
 			// aapt resource value: 0x7F0700A4
-			public const int mtrl_btn_padding_right = 2131165348;
+			public const int mtrl_btn_focused_z = 2131165348;
 			
 			// aapt resource value: 0x7F0700A5
-			public const int mtrl_btn_padding_top = 2131165349;
+			public const int mtrl_btn_hovered_z = 2131165349;
 			
 			// aapt resource value: 0x7F0700A6
-			public const int mtrl_btn_pressed_z = 2131165350;
+			public const int mtrl_btn_icon_btn_padding_left = 2131165350;
 			
 			// aapt resource value: 0x7F0700A7
-			public const int mtrl_btn_stroke_size = 2131165351;
+			public const int mtrl_btn_icon_padding = 2131165351;
 			
 			// aapt resource value: 0x7F0700A8
-			public const int mtrl_btn_text_btn_icon_padding = 2131165352;
+			public const int mtrl_btn_inset = 2131165352;
 			
 			// aapt resource value: 0x7F0700A9
-			public const int mtrl_btn_text_btn_padding_left = 2131165353;
+			public const int mtrl_btn_letter_spacing = 2131165353;
 			
 			// aapt resource value: 0x7F0700AA
-			public const int mtrl_btn_text_btn_padding_right = 2131165354;
+			public const int mtrl_btn_padding_bottom = 2131165354;
 			
 			// aapt resource value: 0x7F0700AB
-			public const int mtrl_btn_text_size = 2131165355;
+			public const int mtrl_btn_padding_left = 2131165355;
 			
 			// aapt resource value: 0x7F0700AC
-			public const int mtrl_btn_z = 2131165356;
+			public const int mtrl_btn_padding_right = 2131165356;
 			
 			// aapt resource value: 0x7F0700AD
-			public const int mtrl_card_elevation = 2131165357;
+			public const int mtrl_btn_padding_top = 2131165357;
 			
 			// aapt resource value: 0x7F0700AE
-			public const int mtrl_card_spacing = 2131165358;
+			public const int mtrl_btn_pressed_z = 2131165358;
 			
 			// aapt resource value: 0x7F0700AF
-			public const int mtrl_chip_pressed_translation_z = 2131165359;
+			public const int mtrl_btn_stroke_size = 2131165359;
 			
 			// aapt resource value: 0x7F0700B0
-			public const int mtrl_chip_text_size = 2131165360;
+			public const int mtrl_btn_text_btn_icon_padding = 2131165360;
 			
 			// aapt resource value: 0x7F0700B1
-			public const int mtrl_fab_elevation = 2131165361;
+			public const int mtrl_btn_text_btn_padding_left = 2131165361;
 			
 			// aapt resource value: 0x7F0700B2
-			public const int mtrl_fab_translation_z_hovered_focused = 2131165362;
+			public const int mtrl_btn_text_btn_padding_right = 2131165362;
 			
 			// aapt resource value: 0x7F0700B3
-			public const int mtrl_fab_translation_z_pressed = 2131165363;
+			public const int mtrl_btn_text_size = 2131165363;
 			
 			// aapt resource value: 0x7F0700B4
-			public const int mtrl_navigation_elevation = 2131165364;
+			public const int mtrl_btn_z = 2131165364;
 			
 			// aapt resource value: 0x7F0700B5
-			public const int mtrl_navigation_item_horizontal_padding = 2131165365;
+			public const int mtrl_card_elevation = 2131165365;
 			
 			// aapt resource value: 0x7F0700B6
-			public const int mtrl_navigation_item_icon_padding = 2131165366;
+			public const int mtrl_card_spacing = 2131165366;
 			
 			// aapt resource value: 0x7F0700B7
-			public const int mtrl_snackbar_background_corner_radius = 2131165367;
+			public const int mtrl_chip_pressed_translation_z = 2131165367;
 			
 			// aapt resource value: 0x7F0700B8
-			public const int mtrl_snackbar_margin = 2131165368;
+			public const int mtrl_chip_text_size = 2131165368;
 			
 			// aapt resource value: 0x7F0700B9
-			public const int mtrl_textinput_box_bottom_offset = 2131165369;
+			public const int mtrl_fab_elevation = 2131165369;
 			
 			// aapt resource value: 0x7F0700BA
-			public const int mtrl_textinput_box_corner_radius_medium = 2131165370;
+			public const int mtrl_fab_translation_z_hovered_focused = 2131165370;
 			
 			// aapt resource value: 0x7F0700BB
-			public const int mtrl_textinput_box_corner_radius_small = 2131165371;
+			public const int mtrl_fab_translation_z_pressed = 2131165371;
 			
 			// aapt resource value: 0x7F0700BC
-			public const int mtrl_textinput_box_label_cutout_padding = 2131165372;
+			public const int mtrl_navigation_elevation = 2131165372;
 			
 			// aapt resource value: 0x7F0700BD
-			public const int mtrl_textinput_box_padding_end = 2131165373;
+			public const int mtrl_navigation_item_horizontal_padding = 2131165373;
 			
 			// aapt resource value: 0x7F0700BE
-			public const int mtrl_textinput_box_stroke_width_default = 2131165374;
+			public const int mtrl_navigation_item_icon_padding = 2131165374;
 			
 			// aapt resource value: 0x7F0700BF
-			public const int mtrl_textinput_box_stroke_width_focused = 2131165375;
+			public const int mtrl_snackbar_background_corner_radius = 2131165375;
 			
 			// aapt resource value: 0x7F0700C0
-			public const int mtrl_textinput_outline_box_expanded_padding = 2131165376;
+			public const int mtrl_snackbar_margin = 2131165376;
 			
 			// aapt resource value: 0x7F0700C1
-			public const int mtrl_toolbar_default_height = 2131165377;
+			public const int mtrl_textinput_box_bottom_offset = 2131165377;
 			
 			// aapt resource value: 0x7F0700C2
-			public const int notification_action_icon_size = 2131165378;
+			public const int mtrl_textinput_box_corner_radius_medium = 2131165378;
 			
 			// aapt resource value: 0x7F0700C3
-			public const int notification_action_text_size = 2131165379;
+			public const int mtrl_textinput_box_corner_radius_small = 2131165379;
 			
 			// aapt resource value: 0x7F0700C4
-			public const int notification_big_circle_margin = 2131165380;
+			public const int mtrl_textinput_box_label_cutout_padding = 2131165380;
 			
 			// aapt resource value: 0x7F0700C5
-			public const int notification_content_margin_start = 2131165381;
+			public const int mtrl_textinput_box_padding_end = 2131165381;
 			
 			// aapt resource value: 0x7F0700C6
-			public const int notification_large_icon_height = 2131165382;
+			public const int mtrl_textinput_box_stroke_width_default = 2131165382;
 			
 			// aapt resource value: 0x7F0700C7
-			public const int notification_large_icon_width = 2131165383;
+			public const int mtrl_textinput_box_stroke_width_focused = 2131165383;
 			
 			// aapt resource value: 0x7F0700C8
-			public const int notification_main_column_padding_top = 2131165384;
+			public const int mtrl_textinput_outline_box_expanded_padding = 2131165384;
 			
 			// aapt resource value: 0x7F0700C9
-			public const int notification_media_narrow_margin = 2131165385;
+			public const int mtrl_toolbar_default_height = 2131165385;
 			
 			// aapt resource value: 0x7F0700CA
-			public const int notification_right_icon_size = 2131165386;
+			public const int notification_action_icon_size = 2131165386;
 			
 			// aapt resource value: 0x7F0700CB
-			public const int notification_right_side_padding_top = 2131165387;
+			public const int notification_action_text_size = 2131165387;
 			
 			// aapt resource value: 0x7F0700CC
-			public const int notification_small_icon_background_padding = 2131165388;
+			public const int notification_big_circle_margin = 2131165388;
 			
 			// aapt resource value: 0x7F0700CD
-			public const int notification_small_icon_size_as_large = 2131165389;
+			public const int notification_content_margin_start = 2131165389;
 			
 			// aapt resource value: 0x7F0700CE
-			public const int notification_subtext_size = 2131165390;
+			public const int notification_large_icon_height = 2131165390;
 			
 			// aapt resource value: 0x7F0700CF
-			public const int notification_top_pad = 2131165391;
+			public const int notification_large_icon_width = 2131165391;
 			
 			// aapt resource value: 0x7F0700D0
-			public const int notification_top_pad_large_text = 2131165392;
+			public const int notification_main_column_padding_top = 2131165392;
 			
 			// aapt resource value: 0x7F0700D1
-			public const int subtitle_corner_radius = 2131165393;
+			public const int notification_media_narrow_margin = 2131165393;
 			
 			// aapt resource value: 0x7F0700D2
-			public const int subtitle_outline_width = 2131165394;
+			public const int notification_right_icon_size = 2131165394;
 			
 			// aapt resource value: 0x7F0700D3
-			public const int subtitle_shadow_offset = 2131165395;
+			public const int notification_right_side_padding_top = 2131165395;
 			
 			// aapt resource value: 0x7F0700D4
-			public const int subtitle_shadow_radius = 2131165396;
+			public const int notification_small_icon_background_padding = 2131165396;
 			
 			// aapt resource value: 0x7F0700D5
-			public const int tooltip_corner_radius = 2131165397;
+			public const int notification_small_icon_size_as_large = 2131165397;
 			
 			// aapt resource value: 0x7F0700D6
-			public const int tooltip_horizontal_padding = 2131165398;
+			public const int notification_subtext_size = 2131165398;
 			
 			// aapt resource value: 0x7F0700D7
-			public const int tooltip_margin = 2131165399;
+			public const int notification_top_pad = 2131165399;
 			
 			// aapt resource value: 0x7F0700D8
-			public const int tooltip_precise_anchor_extra_offset = 2131165400;
+			public const int notification_top_pad_large_text = 2131165400;
 			
 			// aapt resource value: 0x7F0700D9
-			public const int tooltip_precise_anchor_threshold = 2131165401;
+			public const int subtitle_corner_radius = 2131165401;
 			
 			// aapt resource value: 0x7F0700DA
-			public const int tooltip_vertical_padding = 2131165402;
+			public const int subtitle_outline_width = 2131165402;
 			
 			// aapt resource value: 0x7F0700DB
-			public const int tooltip_y_offset_non_touch = 2131165403;
+			public const int subtitle_shadow_offset = 2131165403;
 			
 			// aapt resource value: 0x7F0700DC
-			public const int tooltip_y_offset_touch = 2131165404;
+			public const int subtitle_shadow_radius = 2131165404;
+			
+			// aapt resource value: 0x7F0700DD
+			public const int tooltip_corner_radius = 2131165405;
+			
+			// aapt resource value: 0x7F0700DE
+			public const int tooltip_horizontal_padding = 2131165406;
+			
+			// aapt resource value: 0x7F0700DF
+			public const int tooltip_margin = 2131165407;
+			
+			// aapt resource value: 0x7F0700E0
+			public const int tooltip_precise_anchor_extra_offset = 2131165408;
+			
+			// aapt resource value: 0x7F0700E1
+			public const int tooltip_precise_anchor_threshold = 2131165409;
+			
+			// aapt resource value: 0x7F0700E2
+			public const int tooltip_vertical_padding = 2131165410;
+			
+			// aapt resource value: 0x7F0700E3
+			public const int tooltip_y_offset_non_touch = 2131165411;
+			
+			// aapt resource value: 0x7F0700E4
+			public const int tooltip_y_offset_touch = 2131165412;
 			
 			static Dimension()
 			{
@@ -8302,94 +12114,319 @@ namespace NDMA
 			public const int abc_vector_test = 2131230809;
 			
 			// aapt resource value: 0x7F08005A
-			public const int avd_hide_password = 2131230810;
+			public const int Ascending = 2131230810;
 			
 			// aapt resource value: 0x7F08005B
-			public const int avd_show_password = 2131230811;
+			public const int Avatar1 = 2131230811;
 			
 			// aapt resource value: 0x7F08005C
-			public const int BackGroundGradient = 2131230812;
+			public const int Avatar10 = 2131230812;
 			
 			// aapt resource value: 0x7F08005D
-			public const int CustomButton = 2131230813;
+			public const int Avatar11 = 2131230813;
 			
 			// aapt resource value: 0x7F08005E
-			public const int design_bottom_navigation_item_background = 2131230814;
+			public const int Avatar12 = 2131230814;
 			
 			// aapt resource value: 0x7F08005F
-			public const int design_fab_background = 2131230815;
+			public const int Avatar13 = 2131230815;
 			
 			// aapt resource value: 0x7F080060
-			public const int design_ic_visibility = 2131230816;
+			public const int Avatar14 = 2131230816;
 			
 			// aapt resource value: 0x7F080061
-			public const int design_ic_visibility_off = 2131230817;
+			public const int Avatar15 = 2131230817;
 			
 			// aapt resource value: 0x7F080062
-			public const int design_password_eye = 2131230818;
+			public const int Avatar16 = 2131230818;
 			
 			// aapt resource value: 0x7F080063
-			public const int design_snackbar_background = 2131230819;
+			public const int Avatar17 = 2131230819;
 			
 			// aapt resource value: 0x7F080064
-			public const int ic_mtrl_chip_checked_black = 2131230820;
+			public const int Avatar18 = 2131230820;
 			
 			// aapt resource value: 0x7F080065
-			public const int ic_mtrl_chip_checked_circle = 2131230821;
+			public const int Avatar19 = 2131230821;
 			
 			// aapt resource value: 0x7F080066
-			public const int ic_mtrl_chip_close_circle = 2131230822;
+			public const int Avatar2 = 2131230822;
 			
 			// aapt resource value: 0x7F080067
-			public const int mtrl_snackbar_background = 2131230823;
+			public const int Avatar20 = 2131230823;
 			
 			// aapt resource value: 0x7F080068
-			public const int mtrl_tabs_default_indicator = 2131230824;
+			public const int Avatar21 = 2131230824;
 			
 			// aapt resource value: 0x7F080069
-			public const int navigation_empty_icon = 2131230825;
+			public const int Avatar22 = 2131230825;
 			
 			// aapt resource value: 0x7F08006A
-			public const int notification_action_background = 2131230826;
+			public const int Avatar23 = 2131230826;
 			
 			// aapt resource value: 0x7F08006B
-			public const int notification_bg = 2131230827;
+			public const int Avatar24 = 2131230827;
 			
 			// aapt resource value: 0x7F08006C
-			public const int notification_bg_low = 2131230828;
+			public const int Avatar25 = 2131230828;
 			
 			// aapt resource value: 0x7F08006D
-			public const int notification_bg_low_normal = 2131230829;
+			public const int Avatar26 = 2131230829;
 			
 			// aapt resource value: 0x7F08006E
-			public const int notification_bg_low_pressed = 2131230830;
+			public const int Avatar27 = 2131230830;
 			
 			// aapt resource value: 0x7F08006F
-			public const int notification_bg_normal = 2131230831;
+			public const int Avatar28 = 2131230831;
 			
 			// aapt resource value: 0x7F080070
-			public const int notification_bg_normal_pressed = 2131230832;
+			public const int Avatar29 = 2131230832;
 			
 			// aapt resource value: 0x7F080071
-			public const int notification_icon_background = 2131230833;
+			public const int Avatar3 = 2131230833;
 			
 			// aapt resource value: 0x7F080072
-			public const int notification_template_icon_bg = 2131230834;
+			public const int Avatar30 = 2131230834;
 			
 			// aapt resource value: 0x7F080073
-			public const int notification_template_icon_low_bg = 2131230835;
+			public const int Avatar4 = 2131230835;
 			
 			// aapt resource value: 0x7F080074
-			public const int notification_tile_bg = 2131230836;
+			public const int Avatar5 = 2131230836;
 			
 			// aapt resource value: 0x7F080075
-			public const int notify_panel_notification_icon_bg = 2131230837;
+			public const int Avatar6 = 2131230837;
 			
 			// aapt resource value: 0x7F080076
-			public const int tooltip_frame_dark = 2131230838;
+			public const int Avatar7 = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int tooltip_frame_light = 2131230839;
+			public const int Avatar8 = 2131230839;
+			
+			// aapt resource value: 0x7F080078
+			public const int Avatar9 = 2131230840;
+			
+			// aapt resource value: 0x7F080079
+			public const int avd_hide_password = 2131230841;
+			
+			// aapt resource value: 0x7F08007A
+			public const int avd_show_password = 2131230842;
+			
+			// aapt resource value: 0x7F08007B
+			public const int BackGroundGradient = 2131230843;
+			
+			// aapt resource value: 0x7F08007C
+			public const int CustomButton = 2131230844;
+			
+			// aapt resource value: 0x7F08007D
+			public const int Descending = 2131230845;
+			
+			// aapt resource value: 0x7F08007E
+			public const int design_bottom_navigation_item_background = 2131230846;
+			
+			// aapt resource value: 0x7F08007F
+			public const int design_fab_background = 2131230847;
+			
+			// aapt resource value: 0x7F080080
+			public const int design_ic_visibility = 2131230848;
+			
+			// aapt resource value: 0x7F080081
+			public const int design_ic_visibility_off = 2131230849;
+			
+			// aapt resource value: 0x7F080082
+			public const int design_password_eye = 2131230850;
+			
+			// aapt resource value: 0x7F080083
+			public const int design_snackbar_background = 2131230851;
+			
+			// aapt resource value: 0x7F080085
+			public const int DragDown = 2131230853;
+			
+			// aapt resource value: 0x7F080086
+			public const int DragUp = 2131230854;
+			
+			// aapt resource value: 0x7F080084
+			public const int Drag_and_Drop_Icon = 2131230852;
+			
+			// aapt resource value: 0x7F080087
+			public const int dropdownbuttonimage = 2131230855;
+			
+			// aapt resource value: 0x7F080088
+			public const int error2 = 2131230856;
+			
+			// aapt resource value: 0x7F080089
+			public const int FirstPageIcon = 2131230857;
+			
+			// aapt resource value: 0x7F08008A
+			public const int GroupCollapse = 2131230858;
+			
+			// aapt resource value: 0x7F08008B
+			public const int GroupExpander = 2131230859;
+			
+			// aapt resource value: 0x7F08008C
+			public const int GroupIcon_Android = 2131230860;
+			
+			// aapt resource value: 0x7F08008D
+			public const int ic_mtrl_chip_checked_black = 2131230861;
+			
+			// aapt resource value: 0x7F08008E
+			public const int ic_mtrl_chip_checked_circle = 2131230862;
+			
+			// aapt resource value: 0x7F08008F
+			public const int ic_mtrl_chip_close_circle = 2131230863;
+			
+			// aapt resource value: 0x7F080091
+			public const int inputlayout_togglecollapseicon = 2131230865;
+			
+			// aapt resource value: 0x7F080092
+			public const int inputlayout_togglevisibleicon = 2131230866;
+			
+			// aapt resource value: 0x7F080090
+			public const int input_layout_drop_down_icon = 2131230864;
+			
+			// aapt resource value: 0x7F080093
+			public const int LastPageIcon = 2131230867;
+			
+			// aapt resource value: 0x7F080094
+			public const int mtrl_snackbar_background = 2131230868;
+			
+			// aapt resource value: 0x7F080095
+			public const int mtrl_tabs_default_indicator = 2131230869;
+			
+			// aapt resource value: 0x7F080096
+			public const int navigation_empty_icon = 2131230870;
+			
+			// aapt resource value: 0x7F080097
+			public const int NextPageIcon = 2131230871;
+			
+			// aapt resource value: 0x7F080098
+			public const int notification_action_background = 2131230872;
+			
+			// aapt resource value: 0x7F080099
+			public const int notification_bg = 2131230873;
+			
+			// aapt resource value: 0x7F08009A
+			public const int notification_bg_low = 2131230874;
+			
+			// aapt resource value: 0x7F08009B
+			public const int notification_bg_low_normal = 2131230875;
+			
+			// aapt resource value: 0x7F08009C
+			public const int notification_bg_low_pressed = 2131230876;
+			
+			// aapt resource value: 0x7F08009D
+			public const int notification_bg_normal = 2131230877;
+			
+			// aapt resource value: 0x7F08009E
+			public const int notification_bg_normal_pressed = 2131230878;
+			
+			// aapt resource value: 0x7F08009F
+			public const int notification_icon_background = 2131230879;
+			
+			// aapt resource value: 0x7F0800A0
+			public const int notification_template_icon_bg = 2131230880;
+			
+			// aapt resource value: 0x7F0800A1
+			public const int notification_template_icon_low_bg = 2131230881;
+			
+			// aapt resource value: 0x7F0800A2
+			public const int notification_tile_bg = 2131230882;
+			
+			// aapt resource value: 0x7F0800A3
+			public const int notify_panel_notification_icon_bg = 2131230883;
+			
+			// aapt resource value: 0x7F0800A4
+			public const int PrevPageIcon = 2131230884;
+			
+			// aapt resource value: 0x7F0800A5
+			public const int ResizingIcon = 2131230885;
+			
+			// aapt resource value: 0x7F0800A6
+			public const int sci_chart_black_steel_background = 2131230886;
+			
+			// aapt resource value: 0x7F0800A7
+			public const int sci_chart_black_steel_label_background = 2131230887;
+			
+			// aapt resource value: 0x7F0800A8
+			public const int sci_chart_black_steel_legend_background = 2131230888;
+			
+			// aapt resource value: 0x7F0800A9
+			public const int sci_chart_bright_spark_background = 2131230889;
+			
+			// aapt resource value: 0x7F0800AA
+			public const int sci_chart_bright_spark_label_background = 2131230890;
+			
+			// aapt resource value: 0x7F0800AB
+			public const int sci_chart_bright_spark_legend_background = 2131230891;
+			
+			// aapt resource value: 0x7F0800AC
+			public const int sci_chart_chrome_background = 2131230892;
+			
+			// aapt resource value: 0x7F0800AD
+			public const int sci_chart_chrome_label_background = 2131230893;
+			
+			// aapt resource value: 0x7F0800AE
+			public const int sci_chart_chrome_legend_background = 2131230894;
+			
+			// aapt resource value: 0x7F0800AF
+			public const int sci_chart_electric_background = 2131230895;
+			
+			// aapt resource value: 0x7F0800B0
+			public const int sci_chart_electric_label_background = 2131230896;
+			
+			// aapt resource value: 0x7F0800B1
+			public const int sci_chart_electric_legend_background = 2131230897;
+			
+			// aapt resource value: 0x7F0800B2
+			public const int sci_chart_expression_dark_background = 2131230898;
+			
+			// aapt resource value: 0x7F0800B3
+			public const int sci_chart_expression_dark_label_background = 2131230899;
+			
+			// aapt resource value: 0x7F0800B4
+			public const int sci_chart_expression_dark_legend_background = 2131230900;
+			
+			// aapt resource value: 0x7F0800B5
+			public const int sci_chart_expression_light_background = 2131230901;
+			
+			// aapt resource value: 0x7F0800B6
+			public const int sci_chart_expression_light_label_background = 2131230902;
+			
+			// aapt resource value: 0x7F0800B7
+			public const int sci_chart_expression_light_legend_background = 2131230903;
+			
+			// aapt resource value: 0x7F0800B8
+			public const int sci_chart_oscilloscope_background = 2131230904;
+			
+			// aapt resource value: 0x7F0800B9
+			public const int sci_chart_oscilloscope_label_background = 2131230905;
+			
+			// aapt resource value: 0x7F0800BA
+			public const int sci_chart_oscilloscope_legend_background = 2131230906;
+			
+			// aapt resource value: 0x7F0800BB
+			public const int sci_chart_tooltip_background = 2131230907;
+			
+			// aapt resource value: 0x7F0800BC
+			public const int sci_chart_v4_dark_background = 2131230908;
+			
+			// aapt resource value: 0x7F0800BD
+			public const int sci_chart_v4_dark_label_background = 2131230909;
+			
+			// aapt resource value: 0x7F0800BE
+			public const int sci_chart_v4_dark_legend_background = 2131230910;
+			
+			// aapt resource value: 0x7F0800BF
+			public const int Sort = 2131230911;
+			
+			// aapt resource value: 0x7F0800C0
+			public const int SortDescending = 2131230912;
+			
+			// aapt resource value: 0x7F0800C1
+			public const int tooltip_frame_dark = 2131230913;
+			
+			// aapt resource value: 0x7F0800C2
+			public const int tooltip_frame_light = 2131230914;
 			
 			static Drawable()
 			{
@@ -8404,68 +12441,71 @@ namespace NDMA
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7F090046
-			public const int action0 = 2131296326;
-			
-			// aapt resource value: 0x7F090058
-			public const int actions = 2131296344;
-			
-			// aapt resource value: 0x7F090047
-			public const int action_bar = 2131296327;
-			
 			// aapt resource value: 0x7F090048
-			public const int action_bar_activity_content = 2131296328;
-			
-			// aapt resource value: 0x7F090049
-			public const int action_bar_container = 2131296329;
-			
-			// aapt resource value: 0x7F09004A
-			public const int action_bar_root = 2131296330;
-			
-			// aapt resource value: 0x7F09004B
-			public const int action_bar_spinner = 2131296331;
-			
-			// aapt resource value: 0x7F09004C
-			public const int action_bar_subtitle = 2131296332;
-			
-			// aapt resource value: 0x7F09004D
-			public const int action_bar_title = 2131296333;
-			
-			// aapt resource value: 0x7F09004E
-			public const int action_container = 2131296334;
-			
-			// aapt resource value: 0x7F09004F
-			public const int action_context_bar = 2131296335;
-			
-			// aapt resource value: 0x7F090050
-			public const int action_divider = 2131296336;
-			
-			// aapt resource value: 0x7F090051
-			public const int action_image = 2131296337;
-			
-			// aapt resource value: 0x7F090052
-			public const int action_menu_divider = 2131296338;
-			
-			// aapt resource value: 0x7F090053
-			public const int action_menu_presenter = 2131296339;
-			
-			// aapt resource value: 0x7F090054
-			public const int action_mode_bar = 2131296340;
-			
-			// aapt resource value: 0x7F090055
-			public const int action_mode_bar_stub = 2131296341;
-			
-			// aapt resource value: 0x7F090056
-			public const int action_mode_close_button = 2131296342;
-			
-			// aapt resource value: 0x7F090057
-			public const int action_text = 2131296343;
-			
-			// aapt resource value: 0x7F090059
-			public const int activity_chooser_view_content = 2131296345;
+			public const int action0 = 2131296328;
 			
 			// aapt resource value: 0x7F09005A
-			public const int add = 2131296346;
+			public const int actions = 2131296346;
+			
+			// aapt resource value: 0x7F090049
+			public const int action_bar = 2131296329;
+			
+			// aapt resource value: 0x7F09004A
+			public const int action_bar_activity_content = 2131296330;
+			
+			// aapt resource value: 0x7F09004B
+			public const int action_bar_container = 2131296331;
+			
+			// aapt resource value: 0x7F09004C
+			public const int action_bar_root = 2131296332;
+			
+			// aapt resource value: 0x7F09004D
+			public const int action_bar_spinner = 2131296333;
+			
+			// aapt resource value: 0x7F09004E
+			public const int action_bar_subtitle = 2131296334;
+			
+			// aapt resource value: 0x7F09004F
+			public const int action_bar_title = 2131296335;
+			
+			// aapt resource value: 0x7F090050
+			public const int action_container = 2131296336;
+			
+			// aapt resource value: 0x7F090051
+			public const int action_context_bar = 2131296337;
+			
+			// aapt resource value: 0x7F090052
+			public const int action_divider = 2131296338;
+			
+			// aapt resource value: 0x7F090053
+			public const int action_image = 2131296339;
+			
+			// aapt resource value: 0x7F090054
+			public const int action_menu_divider = 2131296340;
+			
+			// aapt resource value: 0x7F090055
+			public const int action_menu_presenter = 2131296341;
+			
+			// aapt resource value: 0x7F090056
+			public const int action_mode_bar = 2131296342;
+			
+			// aapt resource value: 0x7F090057
+			public const int action_mode_bar_stub = 2131296343;
+			
+			// aapt resource value: 0x7F090058
+			public const int action_mode_close_button = 2131296344;
+			
+			// aapt resource value: 0x7F090059
+			public const int action_text = 2131296345;
+			
+			// aapt resource value: 0x7F09005B
+			public const int activity_chooser_view_content = 2131296347;
+			
+			// aapt resource value: 0x7F09005C
+			public const int add = 2131296348;
+			
+			// aapt resource value: 0x7F09005D
+			public const int adornerLayer = 2131296349;
 			
 			// aapt resource value: 0x7F090001
 			public const int AdviseBtn = 2131296257;
@@ -8485,65 +12525,86 @@ namespace NDMA
 			// aapt resource value: 0x7F090006
 			public const int AgeCategory = 2131296262;
 			
-			// aapt resource value: 0x7F09005B
-			public const int alertTitle = 2131296347;
+			// aapt resource value: 0x7F09005E
+			public const int alertTitle = 2131296350;
 			
-			// aapt resource value: 0x7F09005C
-			public const int all = 2131296348;
+			// aapt resource value: 0x7F09005F
+			public const int all = 2131296351;
 			
 			// aapt resource value: 0x7F090000
 			public const int ALT = 2131296256;
 			
-			// aapt resource value: 0x7F09005D
-			public const int always = 2131296349;
-			
-			// aapt resource value: 0x7F09005E
-			public const int async = 2131296350;
-			
-			// aapt resource value: 0x7F09005F
-			public const int auto = 2131296351;
-			
 			// aapt resource value: 0x7F090060
-			public const int beginning = 2131296352;
+			public const int always = 2131296352;
 			
 			// aapt resource value: 0x7F090061
-			public const int blocking = 2131296353;
+			public const int annotationLayout = 2131296353;
 			
 			// aapt resource value: 0x7F090062
-			public const int bottom = 2131296354;
+			public const int annotationOverlaySurface = 2131296354;
 			
 			// aapt resource value: 0x7F090063
-			public const int bottomtab_navarea = 2131296355;
+			public const int annotationUnderlaySurface = 2131296355;
 			
 			// aapt resource value: 0x7F090064
-			public const int bottomtab_tabbar = 2131296356;
+			public const int async = 2131296356;
+			
+			// aapt resource value: 0x7F090065
+			public const int auto = 2131296357;
+			
+			// aapt resource value: 0x7F090066
+			public const int axisLayout = 2131296358;
+			
+			// aapt resource value: 0x7F090067
+			public const int axisModifierSurfaceArea = 2131296359;
+			
+			// aapt resource value: 0x7F090068
+			public const int beginning = 2131296360;
+			
+			// aapt resource value: 0x7F090069
+			public const int blocking = 2131296361;
+			
+			// aapt resource value: 0x7F09006A
+			public const int bottom = 2131296362;
+			
+			// aapt resource value: 0x7F09006C
+			public const int bottomtab_navarea = 2131296364;
+			
+			// aapt resource value: 0x7F09006D
+			public const int bottomtab_tabbar = 2131296365;
+			
+			// aapt resource value: 0x7F09006B
+			public const int bottom_labels = 2131296363;
+			
+			// aapt resource value: 0x7F09006E
+			public const int bounce = 2131296366;
 			
 			// aapt resource value: 0x7F090007
 			public const int BreakfastCb = 2131296263;
 			
-			// aapt resource value: 0x7F090065
-			public const int browser_actions_header_text = 2131296357;
+			// aapt resource value: 0x7F09006F
+			public const int browser_actions_header_text = 2131296367;
 			
-			// aapt resource value: 0x7F090068
-			public const int browser_actions_menu_items = 2131296360;
+			// aapt resource value: 0x7F090072
+			public const int browser_actions_menu_items = 2131296370;
 			
-			// aapt resource value: 0x7F090066
-			public const int browser_actions_menu_item_icon = 2131296358;
+			// aapt resource value: 0x7F090070
+			public const int browser_actions_menu_item_icon = 2131296368;
 			
-			// aapt resource value: 0x7F090067
-			public const int browser_actions_menu_item_text = 2131296359;
+			// aapt resource value: 0x7F090071
+			public const int browser_actions_menu_item_text = 2131296369;
 			
-			// aapt resource value: 0x7F090069
-			public const int browser_actions_menu_view = 2131296361;
+			// aapt resource value: 0x7F090073
+			public const int browser_actions_menu_view = 2131296371;
 			
 			// aapt resource value: 0x7F090008
 			public const int BrunchCb = 2131296264;
 			
-			// aapt resource value: 0x7F09006A
-			public const int btnSearch = 2131296362;
+			// aapt resource value: 0x7F090074
+			public const int btnSearch = 2131296372;
 			
-			// aapt resource value: 0x7F09006B
-			public const int buttonPanel = 2131296363;
+			// aapt resource value: 0x7F090075
+			public const int buttonPanel = 2131296373;
 			
 			// aapt resource value: 0x7F09000A
 			public const int Cancel = 2131296266;
@@ -8557,146 +12618,188 @@ namespace NDMA
 			// aapt resource value: 0x7F09000D
 			public const int CancelSchBtn = 2131296269;
 			
-			// aapt resource value: 0x7F09006C
-			public const int cancel_action = 2131296364;
+			// aapt resource value: 0x7F090076
+			public const int cancel_action = 2131296374;
 			
-			// aapt resource value: 0x7F09006D
-			public const int center = 2131296365;
+			// aapt resource value: 0x7F090077
+			public const int category = 2131296375;
 			
-			// aapt resource value: 0x7F09006E
-			public const int center_horizontal = 2131296366;
+			// aapt resource value: 0x7F090078
+			public const int center = 2131296376;
 			
-			// aapt resource value: 0x7F09006F
-			public const int center_vertical = 2131296367;
+			// aapt resource value: 0x7F090079
+			public const int center_horizontal = 2131296377;
 			
-			// aapt resource value: 0x7F090070
-			public const int checkbox = 2131296368;
+			// aapt resource value: 0x7F09007A
+			public const int center_vertical = 2131296378;
+			
+			// aapt resource value: 0x7F09007B
+			public const int chartBehaviorLayout = 2131296379;
+			
+			// aapt resource value: 0x7F09007C
+			public const int chartLegendScrollView = 2131296380;
+			
+			// aapt resource value: 0x7F09007D
+			public const int chartModifierSurface = 2131296381;
+			
+			// aapt resource value: 0x7F09007E
+			public const int chartModifierSurface3d = 2131296382;
+			
+			// aapt resource value: 0x7F09007F
+			public const int checkbox = 2131296383;
 			
 			// aapt resource value: 0x7F09000E
 			public const int CheckQuicklyBtn = 2131296270;
 			
-			// aapt resource value: 0x7F090071
-			public const int chronometer = 2131296369;
+			// aapt resource value: 0x7F090080
+			public const int chronometer = 2131296384;
 			
-			// aapt resource value: 0x7F090072
-			public const int clip_horizontal = 2131296370;
+			// aapt resource value: 0x7F090081
+			public const int clip_horizontal = 2131296385;
 			
-			// aapt resource value: 0x7F090073
-			public const int clip_vertical = 2131296371;
+			// aapt resource value: 0x7F090082
+			public const int clip_vertical = 2131296386;
 			
-			// aapt resource value: 0x7F090074
-			public const int collapseActionView = 2131296372;
+			// aapt resource value: 0x7F090083
+			public const int collapseActionView = 2131296387;
+			
+			// aapt resource value: 0x7F090084
+			public const int colorMapView = 2131296388;
+			
+			// aapt resource value: 0x7F090085
+			public const int compute = 2131296389;
 			
 			// aapt resource value: 0x7F09000F
 			public const int ConfirmPassword = 2131296271;
 			
-			// aapt resource value: 0x7F090075
-			public const int container = 2131296373;
+			// aapt resource value: 0x7F090086
+			public const int container = 2131296390;
 			
-			// aapt resource value: 0x7F090076
-			public const int content = 2131296374;
+			// aapt resource value: 0x7F090087
+			public const int content = 2131296391;
 			
-			// aapt resource value: 0x7F090077
-			public const int contentPanel = 2131296375;
+			// aapt resource value: 0x7F090088
+			public const int contentPanel = 2131296392;
 			
-			// aapt resource value: 0x7F090078
-			public const int coordinator = 2131296376;
+			// aapt resource value: 0x7F090089
+			public const int coordinator = 2131296393;
 			
 			// aapt resource value: 0x7F090009
 			public const int CTRL = 2131296265;
 			
-			// aapt resource value: 0x7F090079
-			public const int custom = 2131296377;
+			// aapt resource value: 0x7F09008A
+			public const int custom = 2131296394;
 			
-			// aapt resource value: 0x7F09007A
-			public const int customPanel = 2131296378;
+			// aapt resource value: 0x7F09008B
+			public const int customPanel = 2131296395;
 			
 			// aapt resource value: 0x7F090010
 			public const int DailyStatusImage = 2131296272;
 			
-			// aapt resource value: 0x7F09007B
-			public const int decor_content_parent = 2131296379;
+			// aapt resource value: 0x7F09008C
+			public const int dataMarkerLayout = 2131296396;
 			
-			// aapt resource value: 0x7F09007C
-			public const int default_activity_button = 2131296380;
+			// aapt resource value: 0x7F09008D
+			public const int dateTime = 2131296397;
 			
-			// aapt resource value: 0x7F09007D
-			public const int design_bottom_sheet = 2131296381;
+			// aapt resource value: 0x7F09008E
+			public const int dateTimeCategory = 2131296398;
 			
-			// aapt resource value: 0x7F09007E
-			public const int design_menu_item_action_area = 2131296382;
+			// aapt resource value: 0x7F09008F
+			public const int decimalMode = 2131296399;
 			
-			// aapt resource value: 0x7F09007F
-			public const int design_menu_item_action_area_stub = 2131296383;
+			// aapt resource value: 0x7F090090
+			public const int decor_content_parent = 2131296400;
 			
-			// aapt resource value: 0x7F090080
-			public const int design_menu_item_text = 2131296384;
+			// aapt resource value: 0x7F090091
+			public const int default_activity_button = 2131296401;
 			
-			// aapt resource value: 0x7F090081
-			public const int design_navigation_view = 2131296385;
+			// aapt resource value: 0x7F090092
+			public const int design_bottom_sheet = 2131296402;
+			
+			// aapt resource value: 0x7F090093
+			public const int design_menu_item_action_area = 2131296403;
+			
+			// aapt resource value: 0x7F090094
+			public const int design_menu_item_action_area_stub = 2131296404;
+			
+			// aapt resource value: 0x7F090095
+			public const int design_menu_item_text = 2131296405;
+			
+			// aapt resource value: 0x7F090096
+			public const int design_navigation_view = 2131296406;
 			
 			// aapt resource value: 0x7F090011
 			public const int DinnerCb = 2131296273;
 			
-			// aapt resource value: 0x7F090082
-			public const int disableHome = 2131296386;
+			// aapt resource value: 0x7F090097
+			public const int disableHome = 2131296407;
 			
 			// aapt resource value: 0x7F090012
 			public const int Discard = 2131296274;
 			
+			// aapt resource value: 0x7F090098
+			public const int doubleMode = 2131296408;
+			
+			// aapt resource value: 0x7F090099
+			public const int doubleTap = 2131296409;
+			
 			// aapt resource value: 0x7F090013
 			public const int DunchCb = 2131296275;
 			
-			// aapt resource value: 0x7F090083
-			public const int edit_query = 2131296387;
+			// aapt resource value: 0x7F09009A
+			public const int edit_query = 2131296410;
 			
 			// aapt resource value: 0x7F090014
 			public const int Email = 2131296276;
 			
-			// aapt resource value: 0x7F090084
-			public const int end = 2131296388;
+			// aapt resource value: 0x7F09009B
+			public const int end = 2131296411;
 			
-			// aapt resource value: 0x7F090085
-			public const int end_padder = 2131296389;
+			// aapt resource value: 0x7F09009C
+			public const int end_padder = 2131296412;
 			
-			// aapt resource value: 0x7F090086
-			public const int enterAlways = 2131296390;
+			// aapt resource value: 0x7F09009D
+			public const int enterAlways = 2131296413;
 			
-			// aapt resource value: 0x7F090087
-			public const int enterAlwaysCollapsed = 2131296391;
+			// aapt resource value: 0x7F09009E
+			public const int enterAlwaysCollapsed = 2131296414;
 			
-			// aapt resource value: 0x7F090088
-			public const int exitUntilCollapsed = 2131296392;
+			// aapt resource value: 0x7F09009F
+			public const int exitUntilCollapsed = 2131296415;
 			
-			// aapt resource value: 0x7F09008A
-			public const int expanded_menu = 2131296394;
+			// aapt resource value: 0x7F0900A1
+			public const int expanded_menu = 2131296417;
 			
-			// aapt resource value: 0x7F090089
-			public const int expand_activities_button = 2131296393;
+			// aapt resource value: 0x7F0900A0
+			public const int expand_activities_button = 2131296416;
 			
-			// aapt resource value: 0x7F09008B
-			public const int fill = 2131296395;
+			// aapt resource value: 0x7F0900A2
+			public const int fill = 2131296418;
 			
-			// aapt resource value: 0x7F09008E
-			public const int filled = 2131296398;
+			// aapt resource value: 0x7F0900A5
+			public const int filled = 2131296421;
 			
-			// aapt resource value: 0x7F09008C
-			public const int fill_horizontal = 2131296396;
+			// aapt resource value: 0x7F0900A3
+			public const int fill_horizontal = 2131296419;
 			
-			// aapt resource value: 0x7F09008D
-			public const int fill_vertical = 2131296397;
+			// aapt resource value: 0x7F0900A4
+			public const int fill_vertical = 2131296420;
 			
 			// aapt resource value: 0x7F090016
 			public const int FinishAssessingInfoBtn = 2131296278;
 			
-			// aapt resource value: 0x7F09008F
-			public const int @fixed = 2131296399;
+			// aapt resource value: 0x7F0900A6
+			public const int @fixed = 2131296422;
 			
-			// aapt resource value: 0x7F090090
-			public const int flyoutcontent_appbar = 2131296400;
+			// aapt resource value: 0x7F0900A7
+			public const int floating = 2131296423;
 			
-			// aapt resource value: 0x7F090091
-			public const int flyoutcontent_recycler = 2131296401;
+			// aapt resource value: 0x7F0900A8
+			public const int flyoutcontent_appbar = 2131296424;
+			
+			// aapt resource value: 0x7F0900A9
+			public const int flyoutcontent_recycler = 2131296425;
 			
 			// aapt resource value: 0x7F090017
 			public const int FoodLayoutItemNameId = 2131296279;
@@ -8716,41 +12819,56 @@ namespace NDMA
 			// aapt resource value: 0x7F09001C
 			public const int FoodSpecListViewItemName = 2131296284;
 			
-			// aapt resource value: 0x7F090092
-			public const int forever = 2131296402;
+			// aapt resource value: 0x7F0900AA
+			public const int forever = 2131296426;
 			
 			// aapt resource value: 0x7F090015
 			public const int FUNCTION = 2131296277;
 			
-			// aapt resource value: 0x7F090093
-			public const int ghost_view = 2131296403;
+			// aapt resource value: 0x7F0900AB
+			public const int ghost_view = 2131296427;
 			
-			// aapt resource value: 0x7F090094
-			public const int group_divider = 2131296404;
+			// aapt resource value: 0x7F0900AC
+			public const int gone = 2131296428;
+			
+			// aapt resource value: 0x7F0900AD
+			public const int gridLineLayout = 2131296429;
+			
+			// aapt resource value: 0x7F0900AE
+			public const int gridLinesLayout = 2131296430;
+			
+			// aapt resource value: 0x7F0900AF
+			public const int group_divider = 2131296431;
 			
 			// aapt resource value: 0x7F09001D
 			public const int HeaderMainAdvise = 2131296285;
 			
-			// aapt resource value: 0x7F090095
-			public const int home = 2131296405;
+			// aapt resource value: 0x7F0900B0
+			public const int home = 2131296432;
 			
-			// aapt resource value: 0x7F090096
-			public const int homeAsUp = 2131296406;
+			// aapt resource value: 0x7F0900B1
+			public const int homeAsUp = 2131296433;
 			
-			// aapt resource value: 0x7F090097
-			public const int icon = 2131296407;
+			// aapt resource value: 0x7F0900B2
+			public const int horizontal = 2131296434;
 			
-			// aapt resource value: 0x7F090098
-			public const int icon_group = 2131296408;
+			// aapt resource value: 0x7F0900B3
+			public const int icon = 2131296435;
 			
-			// aapt resource value: 0x7F090099
-			public const int ifRoom = 2131296409;
+			// aapt resource value: 0x7F0900B4
+			public const int iconView = 2131296436;
 			
-			// aapt resource value: 0x7F09009A
-			public const int image = 2131296410;
+			// aapt resource value: 0x7F0900B5
+			public const int icon_group = 2131296437;
 			
-			// aapt resource value: 0x7F09009B
-			public const int info = 2131296411;
+			// aapt resource value: 0x7F0900B6
+			public const int ifRoom = 2131296438;
+			
+			// aapt resource value: 0x7F0900B7
+			public const int image = 2131296439;
+			
+			// aapt resource value: 0x7F0900B8
+			public const int info = 2131296440;
 			
 			// aapt resource value: 0x7F09001E
 			public const int InputBreakFastName = 2131296286;
@@ -8761,458 +12879,611 @@ namespace NDMA
 			// aapt resource value: 0x7F090020
 			public const int InputLunchName = 2131296288;
 			
-			// aapt resource value: 0x7F09009C
-			public const int italic = 2131296412;
-			
-			// aapt resource value: 0x7F09009D
-			public const int item_touch_helper_previous_elevation = 2131296413;
-			
-			// aapt resource value: 0x7F09009E
-			public const int labeled = 2131296414;
-			
-			// aapt resource value: 0x7F09009F
-			public const int largeLabel = 2131296415;
-			
-			// aapt resource value: 0x7F0900A0
-			public const int left = 2131296416;
-			
-			// aapt resource value: 0x7F0900A1
-			public const int line1 = 2131296417;
-			
-			// aapt resource value: 0x7F0900A2
-			public const int line3 = 2131296418;
-			
-			// aapt resource value: 0x7F0900A3
-			public const int listMode = 2131296419;
-			
-			// aapt resource value: 0x7F0900A4
-			public const int list_item = 2131296420;
-			
-			// aapt resource value: 0x7F090021
-			public const int Log = 2131296289;
-			
-			// aapt resource value: 0x7F090022
-			public const int LogDiet = 2131296290;
-			
-			// aapt resource value: 0x7F090023
-			public const int Login = 2131296291;
-			
-			// aapt resource value: 0x7F090024
-			public const int LoginInstead = 2131296292;
-			
-			// aapt resource value: 0x7F090025
-			public const int LunchCb = 2131296293;
-			
-			// aapt resource value: 0x7F0900A5
-			public const int main_appbar = 2131296421;
-			
-			// aapt resource value: 0x7F0900A6
-			public const int main_tablayout = 2131296422;
-			
-			// aapt resource value: 0x7F0900A7
-			public const int main_toolbar = 2131296423;
-			
-			// aapt resource value: 0x7F0900A8
-			public const int main_viewpager = 2131296424;
-			
-			// aapt resource value: 0x7F0900A9
-			public const int masked = 2131296425;
-			
-			// aapt resource value: 0x7F0900AA
-			public const int media_actions = 2131296426;
-			
-			// aapt resource value: 0x7F0900AB
-			public const int message = 2131296427;
-			
-			// aapt resource value: 0x7F090026
-			public const int META = 2131296294;
-			
-			// aapt resource value: 0x7F0900AC
-			public const int middle = 2131296428;
-			
-			// aapt resource value: 0x7F0900AD
-			public const int mini = 2131296429;
-			
-			// aapt resource value: 0x7F0900AE
-			public const int mtrl_child_content_container = 2131296430;
-			
-			// aapt resource value: 0x7F0900AF
-			public const int mtrl_internal_children_alpha_tag = 2131296431;
-			
-			// aapt resource value: 0x7F0900B0
-			public const int multiply = 2131296432;
-			
-			// aapt resource value: 0x7F090027
-			public const int Name = 2131296295;
-			
-			// aapt resource value: 0x7F0900B1
-			public const int navigation_header_container = 2131296433;
-			
-			// aapt resource value: 0x7F0900B2
-			public const int never = 2131296434;
-			
-			// aapt resource value: 0x7F0900B3
-			public const int none = 2131296435;
-			
-			// aapt resource value: 0x7F0900B4
-			public const int normal = 2131296436;
-			
-			// aapt resource value: 0x7F0900B5
-			public const int notification_background = 2131296437;
-			
-			// aapt resource value: 0x7F0900B6
-			public const int notification_main_column = 2131296438;
-			
-			// aapt resource value: 0x7F0900B7
-			public const int notification_main_column_container = 2131296439;
-			
-			// aapt resource value: 0x7F090028
-			public const int NutFoodList = 2131296296;
-			
-			// aapt resource value: 0x7F090029
-			public const int NutSearch = 2131296297;
-			
-			// aapt resource value: 0x7F09002A
-			public const int NutUsername = 2131296298;
-			
-			// aapt resource value: 0x7F0900B8
-			public const int outline = 2131296440;
-			
 			// aapt resource value: 0x7F0900B9
-			public const int parallax = 2131296441;
+			public const int inside = 2131296441;
 			
 			// aapt resource value: 0x7F0900BA
-			public const int parentPanel = 2131296442;
+			public const int isVisible = 2131296442;
 			
 			// aapt resource value: 0x7F0900BB
-			public const int parent_matrix = 2131296443;
+			public const int italic = 2131296443;
 			
-			// aapt resource value: 0x7F09002B
-			public const int Password = 2131296299;
-			
-			// aapt resource value: 0x7F09002C
-			public const int PeriodlyStatusImage = 2131296300;
+			// aapt resource value: 0x7F090021
+			public const int Itemname = 2131296289;
 			
 			// aapt resource value: 0x7F0900BC
-			public const int pin = 2131296444;
+			public const int item_touch_helper_previous_elevation = 2131296444;
 			
 			// aapt resource value: 0x7F0900BD
-			public const int progress_circular = 2131296445;
+			public const int label = 2131296445;
 			
 			// aapt resource value: 0x7F0900BE
-			public const int progress_horizontal = 2131296446;
+			public const int labeled = 2131296446;
 			
 			// aapt resource value: 0x7F0900BF
-			public const int radio = 2131296447;
-			
-			// aapt resource value: 0x7F09002D
-			public const int Register = 2131296301;
-			
-			// aapt resource value: 0x7F09002E
-			public const int RegisterInstead = 2131296302;
-			
-			// aapt resource value: 0x7F09002F
-			public const int ReturnToAdviseSearchBtn = 2131296303;
-			
-			// aapt resource value: 0x7F090030
-			public const int ReturnToSearch = 2131296304;
+			public const int largeLabel = 2131296447;
 			
 			// aapt resource value: 0x7F0900C0
-			public const int right = 2131296448;
+			public const int lastCoulmnFill = 2131296448;
 			
 			// aapt resource value: 0x7F0900C1
-			public const int right_icon = 2131296449;
+			public const int left = 2131296449;
 			
 			// aapt resource value: 0x7F0900C2
-			public const int right_side = 2131296450;
+			public const int legendHeader = 2131296450;
 			
 			// aapt resource value: 0x7F0900C3
-			public const int save_image_matrix = 2131296451;
+			public const int legendItemsLayout = 2131296451;
 			
 			// aapt resource value: 0x7F0900C4
-			public const int save_non_transition_alpha = 2131296452;
+			public const int legendLayout = 2131296452;
 			
 			// aapt resource value: 0x7F0900C5
-			public const int save_scale_type = 2131296453;
+			public const int legendScrollView = 2131296453;
 			
 			// aapt resource value: 0x7F0900C6
-			public const int screen = 2131296454;
+			public const int legendViewGroup = 2131296454;
 			
 			// aapt resource value: 0x7F0900C7
-			public const int scroll = 2131296455;
-			
-			// aapt resource value: 0x7F0900CB
-			public const int scrollable = 2131296459;
+			public const int line = 2131296455;
 			
 			// aapt resource value: 0x7F0900C8
-			public const int scrollIndicatorDown = 2131296456;
+			public const int line1 = 2131296456;
 			
 			// aapt resource value: 0x7F0900C9
-			public const int scrollIndicatorUp = 2131296457;
+			public const int line3 = 2131296457;
 			
 			// aapt resource value: 0x7F0900CA
-			public const int scrollView = 2131296458;
+			public const int listMode = 2131296458;
 			
-			// aapt resource value: 0x7F090033
-			public const int Search = 2131296307;
+			// aapt resource value: 0x7F0900CB
+			public const int list_item = 2131296459;
 			
-			// aapt resource value: 0x7F090034
-			public const int SearchFoodList = 2131296308;
+			// aapt resource value: 0x7F090022
+			public const int Log = 2131296290;
 			
 			// aapt resource value: 0x7F0900CC
-			public const int search_badge = 2131296460;
+			public const int logarithmic = 2131296460;
+			
+			// aapt resource value: 0x7F090023
+			public const int LogDiet = 2131296291;
+			
+			// aapt resource value: 0x7F090024
+			public const int Login = 2131296292;
+			
+			// aapt resource value: 0x7F090025
+			public const int LoginInstead = 2131296293;
+			
+			// aapt resource value: 0x7F090026
+			public const int LunchCb = 2131296294;
 			
 			// aapt resource value: 0x7F0900CD
-			public const int search_bar = 2131296461;
+			public const int main_appbar = 2131296461;
 			
 			// aapt resource value: 0x7F0900CE
-			public const int search_button = 2131296462;
+			public const int main_tablayout = 2131296462;
 			
 			// aapt resource value: 0x7F0900CF
-			public const int search_close_btn = 2131296463;
+			public const int main_toolbar = 2131296463;
 			
 			// aapt resource value: 0x7F0900D0
-			public const int search_edit_frame = 2131296464;
+			public const int main_viewpager = 2131296464;
 			
 			// aapt resource value: 0x7F0900D1
-			public const int search_go_btn = 2131296465;
+			public const int masked = 2131296465;
 			
 			// aapt resource value: 0x7F0900D2
-			public const int search_mag_icon = 2131296466;
+			public const int maximumTextView = 2131296466;
 			
 			// aapt resource value: 0x7F0900D3
-			public const int search_plate = 2131296467;
+			public const int media_actions = 2131296467;
 			
 			// aapt resource value: 0x7F0900D4
-			public const int search_src_text = 2131296468;
+			public const int message = 2131296468;
+			
+			// aapt resource value: 0x7F090027
+			public const int META = 2131296295;
 			
 			// aapt resource value: 0x7F0900D5
-			public const int search_voice_btn = 2131296469;
-			
-			// aapt resource value: 0x7F0900D7
-			public const int selected = 2131296471;
+			public const int metro = 2131296469;
 			
 			// aapt resource value: 0x7F0900D6
-			public const int select_dialog_listview = 2131296470;
+			public const int middle = 2131296470;
 			
-			// aapt resource value: 0x7F090035
-			public const int SexCategory = 2131296309;
+			// aapt resource value: 0x7F0900D7
+			public const int middleTextView = 2131296471;
 			
 			// aapt resource value: 0x7F0900D8
-			public const int shellcontent_appbar = 2131296472;
+			public const int mini = 2131296472;
 			
 			// aapt resource value: 0x7F0900D9
-			public const int shellcontent_toolbar = 2131296473;
-			
-			// aapt resource value: 0x7F090031
-			public const int SHIFT = 2131296305;
+			public const int minimumTextView = 2131296473;
 			
 			// aapt resource value: 0x7F0900DA
-			public const int shortcut = 2131296474;
+			public const int moveLast = 2131296474;
 			
 			// aapt resource value: 0x7F0900DB
-			public const int showCustom = 2131296475;
+			public const int mtrl_child_content_container = 2131296475;
 			
 			// aapt resource value: 0x7F0900DC
-			public const int showHome = 2131296476;
+			public const int mtrl_internal_children_alpha_tag = 2131296476;
 			
 			// aapt resource value: 0x7F0900DD
-			public const int showTitle = 2131296477;
-			
-			// aapt resource value: 0x7F090036
-			public const int SimpleListViewAddButton = 2131296310;
-			
-			// aapt resource value: 0x7F090037
-			public const int SimpleListViewTextView = 2131296311;
-			
-			// aapt resource value: 0x7F090038
-			public const int SimpleListViewTextViewType = 2131296312;
+			public const int multiple = 2131296477;
 			
 			// aapt resource value: 0x7F0900DE
-			public const int smallLabel = 2131296478;
+			public const int multiply = 2131296478;
 			
 			// aapt resource value: 0x7F0900DF
-			public const int snackbar_action = 2131296479;
+			public const int name = 2131296479;
+			
+			// aapt resource value: 0x7F090028
+			public const int Name = 2131296296;
 			
 			// aapt resource value: 0x7F0900E0
-			public const int snackbar_text = 2131296480;
+			public const int natural = 2131296480;
 			
 			// aapt resource value: 0x7F0900E1
-			public const int snap = 2131296481;
+			public const int navigation_header_container = 2131296481;
 			
 			// aapt resource value: 0x7F0900E2
-			public const int snapMargins = 2131296482;
+			public const int never = 2131296482;
 			
 			// aapt resource value: 0x7F0900E3
-			public const int spacer = 2131296483;
+			public const int none = 2131296483;
 			
 			// aapt resource value: 0x7F0900E4
-			public const int split_action_bar = 2131296484;
+			public const int normal = 2131296484;
 			
 			// aapt resource value: 0x7F0900E5
-			public const int src_atop = 2131296485;
+			public const int notification_background = 2131296485;
 			
 			// aapt resource value: 0x7F0900E6
-			public const int src_in = 2131296486;
+			public const int notification_main_column = 2131296486;
 			
 			// aapt resource value: 0x7F0900E7
-			public const int src_over = 2131296487;
+			public const int notification_main_column_container = 2131296487;
 			
 			// aapt resource value: 0x7F0900E8
-			public const int start = 2131296488;
+			public const int numerical = 2131296488;
+			
+			// aapt resource value: 0x7F090029
+			public const int NutFoodList = 2131296297;
+			
+			// aapt resource value: 0x7F09002A
+			public const int NutSearch = 2131296298;
+			
+			// aapt resource value: 0x7F09002B
+			public const int NutUsername = 2131296299;
 			
 			// aapt resource value: 0x7F0900E9
-			public const int status_bar_latest_event_content = 2131296489;
+			public const int onDemand = 2131296489;
 			
 			// aapt resource value: 0x7F0900EA
-			public const int stretch = 2131296490;
+			public const int onKeyFocus = 2131296490;
 			
 			// aapt resource value: 0x7F0900EB
-			public const int submenuarrow = 2131296491;
-			
-			// aapt resource value: 0x7F090039
-			public const int Submit = 2131296313;
-			
-			// aapt resource value: 0x7F09003A
-			public const int SubmitCheck = 2131296314;
-			
-			// aapt resource value: 0x7F09003B
-			public const int SubmitSchBtn = 2131296315;
+			public const int onLostFocus = 2131296491;
 			
 			// aapt resource value: 0x7F0900EC
-			public const int submit_area = 2131296492;
-			
-			// aapt resource value: 0x7F09003C
-			public const int SupperCb = 2131296316;
-			
-			// aapt resource value: 0x7F090032
-			public const int SYM = 2131296306;
+			public const int onMoved = 2131296492;
 			
 			// aapt resource value: 0x7F0900ED
-			public const int tabMode = 2131296493;
+			public const int onTap = 2131296493;
 			
 			// aapt resource value: 0x7F0900EE
-			public const int tag_transition_group = 2131296494;
+			public const int onTouchUp = 2131296494;
 			
 			// aapt resource value: 0x7F0900EF
-			public const int tag_unhandled_key_event_manager = 2131296495;
+			public const int outline = 2131296495;
 			
 			// aapt resource value: 0x7F0900F0
-			public const int tag_unhandled_key_listeners = 2131296496;
-			
-			// aapt resource value: 0x7F09003D
-			public const int TestAddBreakfastBtn = 2131296317;
-			
-			// aapt resource value: 0x7F09003E
-			public const int TestAddDinnerBtn = 2131296318;
-			
-			// aapt resource value: 0x7F09003F
-			public const int TestAddLunchBtn = 2131296319;
-			
-			// aapt resource value: 0x7F090040
-			public const int TestImageView = 2131296320;
-			
-			// aapt resource value: 0x7F090041
-			public const int TestTextView = 2131296321;
+			public const int outside = 2131296496;
 			
 			// aapt resource value: 0x7F0900F1
-			public const int text = 2131296497;
+			public const int parallax = 2131296497;
 			
 			// aapt resource value: 0x7F0900F2
-			public const int text2 = 2131296498;
-			
-			// aapt resource value: 0x7F0900F7
-			public const int textinput_counter = 2131296503;
-			
-			// aapt resource value: 0x7F0900F8
-			public const int textinput_error = 2131296504;
-			
-			// aapt resource value: 0x7F0900F9
-			public const int textinput_helper_text = 2131296505;
+			public const int parentPanel = 2131296498;
 			
 			// aapt resource value: 0x7F0900F3
-			public const int textSpacerNoButtons = 2131296499;
+			public const int parent_matrix = 2131296499;
+			
+			// aapt resource value: 0x7F09002C
+			public const int Password = 2131296300;
+			
+			// aapt resource value: 0x7F09002D
+			public const int PeriodlyStatusImage = 2131296301;
 			
 			// aapt resource value: 0x7F0900F4
-			public const int textSpacerNoTitle = 2131296500;
+			public const int pin = 2131296500;
 			
 			// aapt resource value: 0x7F0900F5
-			public const int textStart = 2131296501;
+			public const int pineapple = 2131296501;
 			
 			// aapt resource value: 0x7F0900F6
-			public const int text_input_password_toggle = 2131296502;
+			public const int pixel = 2131296502;
+			
+			// aapt resource value: 0x7F0900F7
+			public const int pixelLine = 2131296503;
+			
+			// aapt resource value: 0x7F0900F8
+			public const int pointMarker = 2131296504;
+			
+			// aapt resource value: 0x7F0900F9
+			public const int progress_circular = 2131296505;
 			
 			// aapt resource value: 0x7F0900FA
-			public const int time = 2131296506;
+			public const int progress_horizontal = 2131296506;
 			
 			// aapt resource value: 0x7F0900FB
-			public const int title = 2131296507;
+			public const int radio = 2131296507;
 			
-			// aapt resource value: 0x7F0900FC
-			public const int titleDividerNoCustom = 2131296508;
+			// aapt resource value: 0x7F09002E
+			public const int Register = 2131296302;
+			
+			// aapt resource value: 0x7F09002F
+			public const int RegisterInstead = 2131296303;
 			
 			// aapt resource value: 0x7F0900FD
-			public const int title_template = 2131296509;
+			public const int renderableSeriesArea = 2131296509;
+			
+			// aapt resource value: 0x7F0900FC
+			public const int renderSurface3d = 2131296508;
+			
+			// aapt resource value: 0x7F090030
+			public const int ReturnToAdviseSearchBtn = 2131296304;
+			
+			// aapt resource value: 0x7F090031
+			public const int ReturnToSearch = 2131296305;
 			
 			// aapt resource value: 0x7F0900FE
-			public const int top = 2131296510;
+			public const int right = 2131296510;
 			
 			// aapt resource value: 0x7F0900FF
-			public const int topPanel = 2131296511;
+			public const int right_icon = 2131296511;
 			
 			// aapt resource value: 0x7F090100
-			public const int touch_outside = 2131296512;
+			public const int right_side = 2131296512;
 			
 			// aapt resource value: 0x7F090101
-			public const int transition_current_scene = 2131296513;
+			public const int rootLayout = 2131296513;
 			
 			// aapt resource value: 0x7F090102
-			public const int transition_layout_save = 2131296514;
+			public const int rotateLayout = 2131296514;
 			
 			// aapt resource value: 0x7F090103
-			public const int transition_position = 2131296515;
+			public const int save_image_matrix = 2131296515;
 			
 			// aapt resource value: 0x7F090104
-			public const int transition_scene_layoutid_cache = 2131296516;
+			public const int save_non_transition_alpha = 2131296516;
 			
 			// aapt resource value: 0x7F090105
-			public const int transition_transform = 2131296517;
-			
-			// aapt resource value: 0x7F090042
-			public const int TypeOfFoodSpinner = 2131296322;
+			public const int save_scale_type = 2131296517;
 			
 			// aapt resource value: 0x7F090106
-			public const int uniform = 2131296518;
+			public const int screen = 2131296518;
 			
 			// aapt resource value: 0x7F090107
-			public const int unlabeled = 2131296519;
-			
-			// aapt resource value: 0x7F090108
-			public const int up = 2131296520;
-			
-			// aapt resource value: 0x7F090109
-			public const int useLogo = 2131296521;
-			
-			// aapt resource value: 0x7F090043
-			public const int UserFoodList = 2131296323;
-			
-			// aapt resource value: 0x7F090044
-			public const int Username = 2131296324;
-			
-			// aapt resource value: 0x7F090045
-			public const int ViewAccount = 2131296325;
-			
-			// aapt resource value: 0x7F09010A
-			public const int view_offset_helper = 2131296522;
+			public const int scroll = 2131296519;
 			
 			// aapt resource value: 0x7F09010B
-			public const int visible = 2131296523;
+			public const int scrollable = 2131296523;
+			
+			// aapt resource value: 0x7F090108
+			public const int scrollIndicatorDown = 2131296520;
+			
+			// aapt resource value: 0x7F090109
+			public const int scrollIndicatorUp = 2131296521;
+			
+			// aapt resource value: 0x7F09010A
+			public const int scrollView = 2131296522;
+			
+			// aapt resource value: 0x7F090034
+			public const int Search = 2131296308;
+			
+			// aapt resource value: 0x7F090035
+			public const int SearchFoodList = 2131296309;
 			
 			// aapt resource value: 0x7F09010C
-			public const int withText = 2131296524;
+			public const int search_badge = 2131296524;
 			
 			// aapt resource value: 0x7F09010D
-			public const int wrap_content = 2131296525;
+			public const int search_bar = 2131296525;
+			
+			// aapt resource value: 0x7F09010E
+			public const int search_button = 2131296526;
+			
+			// aapt resource value: 0x7F09010F
+			public const int search_close_btn = 2131296527;
+			
+			// aapt resource value: 0x7F090110
+			public const int search_edit_frame = 2131296528;
+			
+			// aapt resource value: 0x7F090111
+			public const int search_go_btn = 2131296529;
+			
+			// aapt resource value: 0x7F090112
+			public const int search_mag_icon = 2131296530;
+			
+			// aapt resource value: 0x7F090113
+			public const int search_plate = 2131296531;
+			
+			// aapt resource value: 0x7F090114
+			public const int search_src_text = 2131296532;
+			
+			// aapt resource value: 0x7F090115
+			public const int search_voice_btn = 2131296533;
+			
+			// aapt resource value: 0x7F090116
+			public const int selectAll = 2131296534;
+			
+			// aapt resource value: 0x7F090118
+			public const int selected = 2131296536;
+			
+			// aapt resource value: 0x7F090117
+			public const int select_dialog_listview = 2131296535;
+			
+			// aapt resource value: 0x7F090119
+			public const int seriesLayout = 2131296537;
+			
+			// aapt resource value: 0x7F090036
+			public const int SexCategory = 2131296310;
+			
+			// aapt resource value: 0x7F090037
+			public const int SfChart = 2131296311;
+			
+			// aapt resource value: 0x7F09011A
+			public const int shellcontent_appbar = 2131296538;
+			
+			// aapt resource value: 0x7F09011B
+			public const int shellcontent_toolbar = 2131296539;
+			
+			// aapt resource value: 0x7F090032
+			public const int SHIFT = 2131296306;
+			
+			// aapt resource value: 0x7F09011C
+			public const int shortcut = 2131296540;
+			
+			// aapt resource value: 0x7F09011D
+			public const int showCustom = 2131296541;
+			
+			// aapt resource value: 0x7F09011E
+			public const int showHome = 2131296542;
+			
+			// aapt resource value: 0x7F09011F
+			public const int showTitle = 2131296543;
+			
+			// aapt resource value: 0x7F090038
+			public const int SimpleListViewAddButton = 2131296312;
+			
+			// aapt resource value: 0x7F090039
+			public const int SimpleListViewTextView = 2131296313;
+			
+			// aapt resource value: 0x7F09003A
+			public const int SimpleListViewTextViewType = 2131296314;
+			
+			// aapt resource value: 0x7F090120
+			public const int single = 2131296544;
+			
+			// aapt resource value: 0x7F090121
+			public const int singleDeSelect = 2131296545;
+			
+			// aapt resource value: 0x7F090122
+			public const int singleTap = 2131296546;
+			
+			// aapt resource value: 0x7F090123
+			public const int smallLabel = 2131296547;
+			
+			// aapt resource value: 0x7F090124
+			public const int snackbar_action = 2131296548;
+			
+			// aapt resource value: 0x7F090125
+			public const int snackbar_text = 2131296549;
+			
+			// aapt resource value: 0x7F090126
+			public const int snap = 2131296550;
+			
+			// aapt resource value: 0x7F090127
+			public const int snapMargins = 2131296551;
+			
+			// aapt resource value: 0x7F090128
+			public const int spacer = 2131296552;
+			
+			// aapt resource value: 0x7F090129
+			public const int split_action_bar = 2131296553;
+			
+			// aapt resource value: 0x7F09012A
+			public const int src_atop = 2131296554;
+			
+			// aapt resource value: 0x7F09012B
+			public const int src_in = 2131296555;
+			
+			// aapt resource value: 0x7F09012C
+			public const int src_over = 2131296556;
+			
+			// aapt resource value: 0x7F09012D
+			public const int star = 2131296557;
+			
+			// aapt resource value: 0x7F09012E
+			public const int start = 2131296558;
+			
+			// aapt resource value: 0x7F09012F
+			public const int status_bar_latest_event_content = 2131296559;
+			
+			// aapt resource value: 0x7F090130
+			public const int stretch = 2131296560;
+			
+			// aapt resource value: 0x7F090131
+			public const int stripLinesLayout = 2131296561;
+			
+			// aapt resource value: 0x7F090132
+			public const int submenuarrow = 2131296562;
+			
+			// aapt resource value: 0x7F09003B
+			public const int Submit = 2131296315;
+			
+			// aapt resource value: 0x7F09003C
+			public const int SubmitCheck = 2131296316;
+			
+			// aapt resource value: 0x7F09003D
+			public const int SubmitSchBtn = 2131296317;
+			
+			// aapt resource value: 0x7F090133
+			public const int submit_area = 2131296563;
+			
+			// aapt resource value: 0x7F09003E
+			public const int SupperCb = 2131296318;
+			
+			// aapt resource value: 0x7F090033
+			public const int SYM = 2131296307;
+			
+			// aapt resource value: 0x7F090134
+			public const int tabMode = 2131296564;
+			
+			// aapt resource value: 0x7F090135
+			public const int tag_transition_group = 2131296565;
+			
+			// aapt resource value: 0x7F090136
+			public const int tag_unhandled_key_event_manager = 2131296566;
+			
+			// aapt resource value: 0x7F090137
+			public const int tag_unhandled_key_listeners = 2131296567;
+			
+			// aapt resource value: 0x7F090138
+			public const int technicalIndicatorLayout = 2131296568;
+			
+			// aapt resource value: 0x7F09003F
+			public const int TestAddBreakfastBtn = 2131296319;
+			
+			// aapt resource value: 0x7F090040
+			public const int TestAddDinnerBtn = 2131296320;
+			
+			// aapt resource value: 0x7F090041
+			public const int TestAddLunchBtn = 2131296321;
+			
+			// aapt resource value: 0x7F090042
+			public const int TestImageView = 2131296322;
+			
+			// aapt resource value: 0x7F090043
+			public const int TestTextView = 2131296323;
+			
+			// aapt resource value: 0x7F090139
+			public const int text = 2131296569;
+			
+			// aapt resource value: 0x7F09013A
+			public const int text2 = 2131296570;
+			
+			// aapt resource value: 0x7F09013F
+			public const int textinput_counter = 2131296575;
+			
+			// aapt resource value: 0x7F090140
+			public const int textinput_error = 2131296576;
+			
+			// aapt resource value: 0x7F090141
+			public const int textinput_helper_text = 2131296577;
+			
+			// aapt resource value: 0x7F09013B
+			public const int textSpacerNoButtons = 2131296571;
+			
+			// aapt resource value: 0x7F09013C
+			public const int textSpacerNoTitle = 2131296572;
+			
+			// aapt resource value: 0x7F09013D
+			public const int textStart = 2131296573;
+			
+			// aapt resource value: 0x7F09013E
+			public const int text_input_password_toggle = 2131296574;
+			
+			// aapt resource value: 0x7F090142
+			public const int thumbLayout = 2131296578;
+			
+			// aapt resource value: 0x7F090143
+			public const int time = 2131296579;
+			
+			// aapt resource value: 0x7F090144
+			public const int title = 2131296580;
+			
+			// aapt resource value: 0x7F090145
+			public const int titleDividerNoCustom = 2131296581;
+			
+			// aapt resource value: 0x7F090146
+			public const int titleLayout = 2131296582;
+			
+			// aapt resource value: 0x7F090147
+			public const int title_template = 2131296583;
+			
+			// aapt resource value: 0x7F090148
+			public const int tomatoSpectrum = 2131296584;
+			
+			// aapt resource value: 0x7F090149
+			public const int top = 2131296585;
+			
+			// aapt resource value: 0x7F09014A
+			public const int topPanel = 2131296586;
+			
+			// aapt resource value: 0x7F09014B
+			public const int top_labels = 2131296587;
+			
+			// aapt resource value: 0x7F09014C
+			public const int touch_outside = 2131296588;
+			
+			// aapt resource value: 0x7F09014D
+			public const int transition_current_scene = 2131296589;
+			
+			// aapt resource value: 0x7F09014E
+			public const int transition_layout_save = 2131296590;
+			
+			// aapt resource value: 0x7F09014F
+			public const int transition_position = 2131296591;
+			
+			// aapt resource value: 0x7F090150
+			public const int transition_scene_layoutid_cache = 2131296592;
+			
+			// aapt resource value: 0x7F090151
+			public const int transition_transform = 2131296593;
+			
+			// aapt resource value: 0x7F090044
+			public const int TypeOfFoodSpinner = 2131296324;
+			
+			// aapt resource value: 0x7F090152
+			public const int uniform = 2131296594;
+			
+			// aapt resource value: 0x7F090153
+			public const int unlabeled = 2131296595;
+			
+			// aapt resource value: 0x7F090154
+			public const int up = 2131296596;
+			
+			// aapt resource value: 0x7F090155
+			public const int useLogo = 2131296597;
+			
+			// aapt resource value: 0x7F090045
+			public const int UserFoodList = 2131296325;
+			
+			// aapt resource value: 0x7F090046
+			public const int Username = 2131296326;
+			
+			// aapt resource value: 0x7F090156
+			public const int value = 2131296598;
+			
+			// aapt resource value: 0x7F090157
+			public const int vertical = 2131296599;
+			
+			// aapt resource value: 0x7F090047
+			public const int ViewAccount = 2131296327;
+			
+			// aapt resource value: 0x7F090158
+			public const int view_offset_helper = 2131296600;
+			
+			// aapt resource value: 0x7F090159
+			public const int visible = 2131296601;
+			
+			// aapt resource value: 0x7F09015A
+			public const int withText = 2131296602;
+			
+			// aapt resource value: 0x7F09015B
+			public const int wrap_content = 2131296603;
 			
 			static Id()
 			{
@@ -9407,181 +13678,241 @@ namespace NDMA
 			public const int AdvisorMain = 2131492895;
 			
 			// aapt resource value: 0x7F0C0020
-			public const int BottomTabLayout = 2131492896;
+			public const int axis_marker_annotation_layout = 2131492896;
 			
 			// aapt resource value: 0x7F0C0021
-			public const int browser_actions_context_menu_page = 2131492897;
+			public const int BottomTabLayout = 2131492897;
 			
 			// aapt resource value: 0x7F0C0022
-			public const int browser_actions_context_menu_row = 2131492898;
+			public const int browser_actions_context_menu_page = 2131492898;
 			
 			// aapt resource value: 0x7F0C0023
-			public const int CheckDailyInputForWeeklySample = 2131492899;
+			public const int browser_actions_context_menu_row = 2131492899;
 			
 			// aapt resource value: 0x7F0C0024
-			public const int CustomSimpleListLayout = 2131492900;
+			public const int chart_layout = 2131492900;
 			
 			// aapt resource value: 0x7F0C0025
-			public const int design_bottom_navigation_item = 2131492901;
+			public const int chart_legend = 2131492901;
 			
 			// aapt resource value: 0x7F0C0026
-			public const int design_bottom_sheet_dialog = 2131492902;
+			public const int chart_legend_item = 2131492902;
 			
 			// aapt resource value: 0x7F0C0027
-			public const int design_layout_snackbar = 2131492903;
+			public const int CheckDailyInputForWeeklySample = 2131492903;
 			
 			// aapt resource value: 0x7F0C0028
-			public const int design_layout_snackbar_include = 2131492904;
+			public const int CustomizedImageView = 2131492904;
 			
 			// aapt resource value: 0x7F0C0029
-			public const int design_layout_tab_icon = 2131492905;
+			public const int CustomizedView = 2131492905;
 			
 			// aapt resource value: 0x7F0C002A
-			public const int design_layout_tab_text = 2131492906;
+			public const int CustomSimpleListLayout = 2131492906;
 			
 			// aapt resource value: 0x7F0C002B
-			public const int design_menu_item_action_area = 2131492907;
+			public const int design_bottom_navigation_item = 2131492907;
 			
 			// aapt resource value: 0x7F0C002C
-			public const int design_navigation_item = 2131492908;
+			public const int design_bottom_sheet_dialog = 2131492908;
 			
 			// aapt resource value: 0x7F0C002D
-			public const int design_navigation_item_header = 2131492909;
+			public const int design_layout_snackbar = 2131492909;
 			
 			// aapt resource value: 0x7F0C002E
-			public const int design_navigation_item_separator = 2131492910;
+			public const int design_layout_snackbar_include = 2131492910;
 			
 			// aapt resource value: 0x7F0C002F
-			public const int design_navigation_item_subheader = 2131492911;
+			public const int design_layout_tab_icon = 2131492911;
 			
 			// aapt resource value: 0x7F0C0030
-			public const int design_navigation_menu = 2131492912;
+			public const int design_layout_tab_text = 2131492912;
 			
 			// aapt resource value: 0x7F0C0031
-			public const int design_navigation_menu_item = 2131492913;
+			public const int design_menu_item_action_area = 2131492913;
 			
 			// aapt resource value: 0x7F0C0032
-			public const int design_text_input_password_icon = 2131492914;
+			public const int design_navigation_item = 2131492914;
 			
 			// aapt resource value: 0x7F0C0033
-			public const int DisplaySearchedAPIListLayout = 2131492915;
+			public const int design_navigation_item_header = 2131492915;
 			
 			// aapt resource value: 0x7F0C0034
-			public const int FlyoutContent = 2131492916;
+			public const int design_navigation_item_separator = 2131492916;
 			
 			// aapt resource value: 0x7F0C0035
-			public const int FoodDailySchedule = 2131492917;
+			public const int design_navigation_item_subheader = 2131492917;
 			
 			// aapt resource value: 0x7F0C0036
-			public const int FoodLayoutSpecification = 2131492918;
+			public const int design_navigation_menu = 2131492918;
 			
 			// aapt resource value: 0x7F0C0037
-			public const int FoodLayoutSpecListViewContents = 2131492919;
+			public const int design_navigation_menu_item = 2131492919;
 			
 			// aapt resource value: 0x7F0C0038
-			public const int FoodLoggedList = 2131492920;
+			public const int design_text_input_password_icon = 2131492920;
 			
 			// aapt resource value: 0x7F0C0039
-			public const int FoodSpecListView = 2131492921;
+			public const int DisplaySearchedAPIListLayout = 2131492921;
 			
 			// aapt resource value: 0x7F0C003A
-			public const int GraphLayout = 2131492922;
+			public const int FlyoutContent = 2131492922;
 			
 			// aapt resource value: 0x7F0C003B
-			public const int Home = 2131492923;
+			public const int FoodDailySchedule = 2131492923;
 			
 			// aapt resource value: 0x7F0C003C
-			public const int LogDiet = 2131492924;
+			public const int FoodLayoutSpecification = 2131492924;
 			
 			// aapt resource value: 0x7F0C003D
-			public const int login = 2131492925;
+			public const int FoodLayoutSpecListViewContents = 2131492925;
 			
 			// aapt resource value: 0x7F0C003E
-			public const int mtrl_layout_snackbar = 2131492926;
+			public const int FoodLoggedList = 2131492926;
 			
 			// aapt resource value: 0x7F0C003F
-			public const int mtrl_layout_snackbar_include = 2131492927;
+			public const int FoodSpecListView = 2131492927;
 			
 			// aapt resource value: 0x7F0C0040
-			public const int notification_action = 2131492928;
+			public const int GraphLayout = 2131492928;
 			
 			// aapt resource value: 0x7F0C0041
-			public const int notification_action_tombstone = 2131492929;
+			public const int Home = 2131492929;
 			
 			// aapt resource value: 0x7F0C0042
-			public const int notification_media_action = 2131492930;
+			public const int horizontal_legend_placeholder_layout = 2131492930;
 			
 			// aapt resource value: 0x7F0C0043
-			public const int notification_media_cancel_action = 2131492931;
+			public const int legend_item = 2131492931;
 			
 			// aapt resource value: 0x7F0C0044
-			public const int notification_template_big_media = 2131492932;
+			public const int LogDiet = 2131492932;
 			
 			// aapt resource value: 0x7F0C0045
-			public const int notification_template_big_media_custom = 2131492933;
+			public const int login = 2131492933;
 			
 			// aapt resource value: 0x7F0C0046
-			public const int notification_template_big_media_narrow = 2131492934;
+			public const int mtrl_layout_snackbar = 2131492934;
 			
 			// aapt resource value: 0x7F0C0047
-			public const int notification_template_big_media_narrow_custom = 2131492935;
+			public const int mtrl_layout_snackbar_include = 2131492935;
 			
 			// aapt resource value: 0x7F0C0048
-			public const int notification_template_custom_big = 2131492936;
+			public const int notification_action = 2131492936;
 			
 			// aapt resource value: 0x7F0C0049
-			public const int notification_template_icon_group = 2131492937;
+			public const int notification_action_tombstone = 2131492937;
 			
 			// aapt resource value: 0x7F0C004A
-			public const int notification_template_lines_media = 2131492938;
+			public const int notification_media_action = 2131492938;
 			
 			// aapt resource value: 0x7F0C004B
-			public const int notification_template_media = 2131492939;
+			public const int notification_media_cancel_action = 2131492939;
 			
 			// aapt resource value: 0x7F0C004C
-			public const int notification_template_media_custom = 2131492940;
+			public const int notification_template_big_media = 2131492940;
 			
 			// aapt resource value: 0x7F0C004D
-			public const int notification_template_part_chronometer = 2131492941;
+			public const int notification_template_big_media_custom = 2131492941;
 			
 			// aapt resource value: 0x7F0C004E
-			public const int notification_template_part_time = 2131492942;
+			public const int notification_template_big_media_narrow = 2131492942;
 			
 			// aapt resource value: 0x7F0C004F
-			public const int Register = 2131492943;
+			public const int notification_template_big_media_narrow_custom = 2131492943;
 			
 			// aapt resource value: 0x7F0C0050
-			public const int RootLayout = 2131492944;
+			public const int notification_template_custom_big = 2131492944;
 			
 			// aapt resource value: 0x7F0C0051
-			public const int SearchForFood = 2131492945;
+			public const int notification_template_icon_group = 2131492945;
 			
 			// aapt resource value: 0x7F0C0052
-			public const int SearchForFoodListView = 2131492946;
+			public const int notification_template_lines_media = 2131492946;
 			
 			// aapt resource value: 0x7F0C0053
-			public const int SearchIngredient = 2131492947;
+			public const int notification_template_media = 2131492947;
 			
 			// aapt resource value: 0x7F0C0054
-			public const int select_dialog_item_material = 2131492948;
+			public const int notification_template_media_custom = 2131492948;
 			
 			// aapt resource value: 0x7F0C0055
-			public const int select_dialog_multichoice_material = 2131492949;
+			public const int notification_template_part_chronometer = 2131492949;
 			
 			// aapt resource value: 0x7F0C0056
-			public const int select_dialog_singlechoice_material = 2131492950;
+			public const int notification_template_part_time = 2131492950;
 			
 			// aapt resource value: 0x7F0C0057
-			public const int ShellContent = 2131492951;
+			public const int range_navigator_layout = 2131492951;
 			
 			// aapt resource value: 0x7F0C0058
-			public const int support_simple_spinner_dropdown_item = 2131492952;
+			public const int Register = 2131492952;
 			
 			// aapt resource value: 0x7F0C0059
-			public const int TestFoodResults = 2131492953;
+			public const int RootLayout = 2131492953;
 			
 			// aapt resource value: 0x7F0C005A
-			public const int UserAdviseMainLayout = 2131492954;
+			public const int scichart_default_cursor_modifier_tooltip_container = 2131492954;
+			
+			// aapt resource value: 0x7F0C005B
+			public const int scichart_default_tooltip_modifier_tooltip_container = 2131492955;
+			
+			// aapt resource value: 0x7F0C005C
+			public const int scichart_heatmap_colour_map_horizontal_layout = 2131492956;
+			
+			// aapt resource value: 0x7F0C005D
+			public const int scichart_heatmap_colour_map_vertical_layout = 2131492957;
+			
+			// aapt resource value: 0x7F0C005E
+			public const int scichart_surface3d_layout = 2131492958;
+			
+			// aapt resource value: 0x7F0C005F
+			public const int scihart_surface_layout = 2131492959;
+			
+			// aapt resource value: 0x7F0C0060
+			public const int ScrollViewer = 2131492960;
+			
+			// aapt resource value: 0x7F0C0061
+			public const int SearchForFood = 2131492961;
+			
+			// aapt resource value: 0x7F0C0062
+			public const int SearchForFoodListView = 2131492962;
+			
+			// aapt resource value: 0x7F0C0063
+			public const int SearchIngredient = 2131492963;
+			
+			// aapt resource value: 0x7F0C0064
+			public const int select_dialog_item_material = 2131492964;
+			
+			// aapt resource value: 0x7F0C0065
+			public const int select_dialog_multichoice_material = 2131492965;
+			
+			// aapt resource value: 0x7F0C0066
+			public const int select_dialog_singlechoice_material = 2131492966;
+			
+			// aapt resource value: 0x7F0C0067
+			public const int sfcomboBox_layout = 2131492967;
+			
+			// aapt resource value: 0x7F0C0068
+			public const int ShellContent = 2131492968;
+			
+			// aapt resource value: 0x7F0C0069
+			public const int support_simple_spinner_dropdown_item = 2131492969;
+			
+			// aapt resource value: 0x7F0C006B
+			public const int TestFoodResults = 2131492971;
+			
+			// aapt resource value: 0x7F0C006A
+			public const int test_graph_layout = 2131492970;
+			
+			// aapt resource value: 0x7F0C006C
+			public const int text_annotation_layout = 2131492972;
+			
+			// aapt resource value: 0x7F0C006D
+			public const int UserAdviseMainLayout = 2131492973;
+			
+			// aapt resource value: 0x7F0C006E
+			public const int vertical_legend_placeholder_layout = 2131492974;
 			
 			static Layout()
 			{
@@ -9748,43 +14079,94 @@ namespace NDMA
 			public const int bottom_sheet_behavior = 2131623978;
 			
 			// aapt resource value: 0x7F0E002B
-			public const int character_counter_content_description = 2131623979;
+			public const int cancel_drop = 2131623979;
 			
 			// aapt resource value: 0x7F0E002C
-			public const int character_counter_pattern = 2131623980;
+			public const int character_counter_content_description = 2131623980;
 			
 			// aapt resource value: 0x7F0E002D
-			public const int fab_transformation_scrim_behavior = 2131623981;
+			public const int character_counter_pattern = 2131623981;
 			
 			// aapt resource value: 0x7F0E002E
-			public const int fab_transformation_sheet_behavior = 2131623982;
+			public const int drop_above = 2131623982;
 			
 			// aapt resource value: 0x7F0E002F
-			public const int hide_bottom_view_on_scroll_behavior = 2131623983;
+			public const int drop_below = 2131623983;
 			
 			// aapt resource value: 0x7F0E0030
-			public const int mtrl_chip_close_icon_content_description = 2131623984;
+			public const int fab_transformation_scrim_behavior = 2131623984;
 			
 			// aapt resource value: 0x7F0E0031
-			public const int password_toggle_content_description = 2131623985;
+			public const int fab_transformation_sheet_behavior = 2131623985;
 			
 			// aapt resource value: 0x7F0E0032
-			public const int path_password_eye = 2131623986;
+			public const int hide_bottom_view_on_scroll_behavior = 2131623986;
 			
 			// aapt resource value: 0x7F0E0033
-			public const int path_password_eye_mask_strike_through = 2131623987;
+			public const int library_name = 2131623987;
 			
 			// aapt resource value: 0x7F0E0034
-			public const int path_password_eye_mask_visible = 2131623988;
+			public const int load_more_items = 2131623988;
 			
 			// aapt resource value: 0x7F0E0035
-			public const int path_password_strike_through = 2131623989;
+			public const int mtrl_chip_close_icon_content_description = 2131623989;
 			
 			// aapt resource value: 0x7F0E0036
-			public const int search_menu_title = 2131623990;
+			public const int password_toggle_content_description = 2131623990;
 			
 			// aapt resource value: 0x7F0E0037
-			public const int status_bar_notification_info_overflow = 2131623991;
+			public const int path_password_eye = 2131623991;
+			
+			// aapt resource value: 0x7F0E0038
+			public const int path_password_eye_mask_strike_through = 2131623992;
+			
+			// aapt resource value: 0x7F0E0039
+			public const int path_password_eye_mask_visible = 2131623993;
+			
+			// aapt resource value: 0x7F0E003A
+			public const int path_password_strike_through = 2131623994;
+			
+			// aapt resource value: 0x7F0E003B
+			public const int q = 2131623995;
+			
+			// aapt resource value: 0x7F0E003C
+			public const int quarter = 2131623996;
+			
+			// aapt resource value: 0x7F0E003D
+			public const int search_menu_title = 2131623997;
+			
+			// aapt resource value: 0x7F0E003E
+			public const int sfchart_close_label = 2131623998;
+			
+			// aapt resource value: 0x7F0E003F
+			public const int sfchart_decrease_label = 2131623999;
+			
+			// aapt resource value: 0x7F0E0040
+			public const int sfchart_high_label = 2131624000;
+			
+			// aapt resource value: 0x7F0E0041
+			public const int sfchart_increase_label = 2131624001;
+			
+			// aapt resource value: 0x7F0E0042
+			public const int sfchart_low_label = 2131624002;
+			
+			// aapt resource value: 0x7F0E0043
+			public const int sfchart_open_label = 2131624003;
+			
+			// aapt resource value: 0x7F0E0044
+			public const int sfchart_others_label = 2131624004;
+			
+			// aapt resource value: 0x7F0E0045
+			public const int sfchart_total_label = 2131624005;
+			
+			// aapt resource value: 0x7F0E0046
+			public const int status_bar_notification_info_overflow = 2131624006;
+			
+			// aapt resource value: 0x7F0E0047
+			public const int w = 2131624007;
+			
+			// aapt resource value: 0x7F0E0048
+			public const int week = 2131624008;
 			
 			static String()
 			{
@@ -10396,8 +14778,8 @@ namespace NDMA
 			// aapt resource value: 0x7F0F00C6
 			public const int CheckBoxStyle = 2131689670;
 			
-			// aapt resource value: 0x7F0F01F7
-			public const int collectionViewStyle = 2131689975;
+			// aapt resource value: 0x7F0F0200
+			public const int collectionViewStyle = 2131689984;
 			
 			// aapt resource value: 0x7F0F00C7
 			public const int NestedScrollBarStyle = 2131689671;
@@ -10496,820 +14878,847 @@ namespace NDMA
 			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131689702;
 			
 			// aapt resource value: 0x7F0F00E7
-			public const int TextAppearance_AppCompat = 2131689703;
+			public const int SciChart_BaseStyle = 2131689703;
 			
 			// aapt resource value: 0x7F0F00E8
-			public const int TextAppearance_AppCompat_Body1 = 2131689704;
+			public const int SciChart_BlackSteel = 2131689704;
 			
 			// aapt resource value: 0x7F0F00E9
-			public const int TextAppearance_AppCompat_Body2 = 2131689705;
+			public const int SciChart_Bright_Spark = 2131689705;
 			
 			// aapt resource value: 0x7F0F00EA
-			public const int TextAppearance_AppCompat_Button = 2131689706;
+			public const int SciChart_ChromeStyle = 2131689706;
 			
 			// aapt resource value: 0x7F0F00EB
-			public const int TextAppearance_AppCompat_Caption = 2131689707;
+			public const int SciChart_ElectricStyle = 2131689707;
 			
 			// aapt resource value: 0x7F0F00EC
-			public const int TextAppearance_AppCompat_Display1 = 2131689708;
+			public const int SciChart_ExpressionDarkStyle = 2131689708;
 			
 			// aapt resource value: 0x7F0F00ED
-			public const int TextAppearance_AppCompat_Display2 = 2131689709;
+			public const int SciChart_ExpressionLightStyle = 2131689709;
 			
 			// aapt resource value: 0x7F0F00EE
-			public const int TextAppearance_AppCompat_Display3 = 2131689710;
+			public const int SciChart_OscilloscopeStyle = 2131689710;
 			
 			// aapt resource value: 0x7F0F00EF
-			public const int TextAppearance_AppCompat_Display4 = 2131689711;
+			public const int SciChart_SciChartv4DarkStyle = 2131689711;
 			
 			// aapt resource value: 0x7F0F00F0
-			public const int TextAppearance_AppCompat_Headline = 2131689712;
+			public const int TextAppearance_AppCompat = 2131689712;
 			
 			// aapt resource value: 0x7F0F00F1
-			public const int TextAppearance_AppCompat_Inverse = 2131689713;
+			public const int TextAppearance_AppCompat_Body1 = 2131689713;
 			
 			// aapt resource value: 0x7F0F00F2
-			public const int TextAppearance_AppCompat_Large = 2131689714;
+			public const int TextAppearance_AppCompat_Body2 = 2131689714;
 			
 			// aapt resource value: 0x7F0F00F3
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131689715;
+			public const int TextAppearance_AppCompat_Button = 2131689715;
 			
 			// aapt resource value: 0x7F0F00F4
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131689716;
+			public const int TextAppearance_AppCompat_Caption = 2131689716;
 			
 			// aapt resource value: 0x7F0F00F5
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131689717;
+			public const int TextAppearance_AppCompat_Display1 = 2131689717;
 			
 			// aapt resource value: 0x7F0F00F6
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689718;
+			public const int TextAppearance_AppCompat_Display2 = 2131689718;
 			
 			// aapt resource value: 0x7F0F00F7
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689719;
+			public const int TextAppearance_AppCompat_Display3 = 2131689719;
 			
 			// aapt resource value: 0x7F0F00F8
-			public const int TextAppearance_AppCompat_Medium = 2131689720;
+			public const int TextAppearance_AppCompat_Display4 = 2131689720;
 			
 			// aapt resource value: 0x7F0F00F9
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131689721;
+			public const int TextAppearance_AppCompat_Headline = 2131689721;
 			
 			// aapt resource value: 0x7F0F00FA
-			public const int TextAppearance_AppCompat_Menu = 2131689722;
+			public const int TextAppearance_AppCompat_Inverse = 2131689722;
 			
 			// aapt resource value: 0x7F0F00FB
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131689723;
+			public const int TextAppearance_AppCompat_Large = 2131689723;
 			
 			// aapt resource value: 0x7F0F00FC
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131689724;
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131689724;
 			
 			// aapt resource value: 0x7F0F00FD
-			public const int TextAppearance_AppCompat_Small = 2131689725;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131689725;
 			
 			// aapt resource value: 0x7F0F00FE
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131689726;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131689726;
 			
 			// aapt resource value: 0x7F0F00FF
-			public const int TextAppearance_AppCompat_Subhead = 2131689727;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689727;
 			
 			// aapt resource value: 0x7F0F0100
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131689728;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689728;
 			
 			// aapt resource value: 0x7F0F0101
-			public const int TextAppearance_AppCompat_Title = 2131689729;
+			public const int TextAppearance_AppCompat_Medium = 2131689729;
 			
 			// aapt resource value: 0x7F0F0102
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131689730;
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131689730;
 			
 			// aapt resource value: 0x7F0F0103
-			public const int TextAppearance_AppCompat_Tooltip = 2131689731;
+			public const int TextAppearance_AppCompat_Menu = 2131689731;
 			
 			// aapt resource value: 0x7F0F0104
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689732;
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131689732;
 			
 			// aapt resource value: 0x7F0F0105
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689733;
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131689733;
 			
 			// aapt resource value: 0x7F0F0106
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689734;
+			public const int TextAppearance_AppCompat_Small = 2131689734;
 			
 			// aapt resource value: 0x7F0F0107
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689735;
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131689735;
 			
 			// aapt resource value: 0x7F0F0108
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689736;
+			public const int TextAppearance_AppCompat_Subhead = 2131689736;
 			
 			// aapt resource value: 0x7F0F0109
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689737;
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131689737;
 			
 			// aapt resource value: 0x7F0F010A
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131689738;
+			public const int TextAppearance_AppCompat_Title = 2131689738;
 			
 			// aapt resource value: 0x7F0F010B
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689739;
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131689739;
 			
 			// aapt resource value: 0x7F0F010C
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131689740;
+			public const int TextAppearance_AppCompat_Tooltip = 2131689740;
 			
 			// aapt resource value: 0x7F0F010D
-			public const int TextAppearance_AppCompat_Widget_Button = 2131689741;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689741;
 			
 			// aapt resource value: 0x7F0F010E
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689742;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689742;
 			
 			// aapt resource value: 0x7F0F010F
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131689743;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689743;
 			
 			// aapt resource value: 0x7F0F0110
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131689744;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689744;
 			
 			// aapt resource value: 0x7F0F0111
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131689745;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689745;
 			
 			// aapt resource value: 0x7F0F0112
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689746;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689746;
 			
 			// aapt resource value: 0x7F0F0113
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689747;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131689747;
 			
 			// aapt resource value: 0x7F0F0114
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689748;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689748;
 			
 			// aapt resource value: 0x7F0F0115
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131689749;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131689749;
 			
 			// aapt resource value: 0x7F0F0116
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689750;
+			public const int TextAppearance_AppCompat_Widget_Button = 2131689750;
 			
 			// aapt resource value: 0x7F0F0117
-			public const int TextAppearance_Compat_Notification = 2131689751;
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689751;
 			
 			// aapt resource value: 0x7F0F0118
-			public const int TextAppearance_Compat_Notification_Info = 2131689752;
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131689752;
 			
 			// aapt resource value: 0x7F0F0119
-			public const int TextAppearance_Compat_Notification_Info_Media = 2131689753;
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131689753;
 			
 			// aapt resource value: 0x7F0F011A
-			public const int TextAppearance_Compat_Notification_Line2 = 2131689754;
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131689754;
 			
 			// aapt resource value: 0x7F0F011B
-			public const int TextAppearance_Compat_Notification_Line2_Media = 2131689755;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689755;
 			
 			// aapt resource value: 0x7F0F011C
-			public const int TextAppearance_Compat_Notification_Media = 2131689756;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689756;
 			
 			// aapt resource value: 0x7F0F011D
-			public const int TextAppearance_Compat_Notification_Time = 2131689757;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689757;
 			
 			// aapt resource value: 0x7F0F011E
-			public const int TextAppearance_Compat_Notification_Time_Media = 2131689758;
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131689758;
 			
 			// aapt resource value: 0x7F0F011F
-			public const int TextAppearance_Compat_Notification_Title = 2131689759;
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689759;
 			
 			// aapt resource value: 0x7F0F0120
-			public const int TextAppearance_Compat_Notification_Title_Media = 2131689760;
+			public const int TextAppearance_Compat_Notification = 2131689760;
 			
 			// aapt resource value: 0x7F0F0121
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689761;
+			public const int TextAppearance_Compat_Notification_Info = 2131689761;
 			
 			// aapt resource value: 0x7F0F0122
-			public const int TextAppearance_Design_Counter = 2131689762;
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131689762;
 			
 			// aapt resource value: 0x7F0F0123
-			public const int TextAppearance_Design_Counter_Overflow = 2131689763;
+			public const int TextAppearance_Compat_Notification_Line2 = 2131689763;
 			
 			// aapt resource value: 0x7F0F0124
-			public const int TextAppearance_Design_Error = 2131689764;
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131689764;
 			
 			// aapt resource value: 0x7F0F0125
-			public const int TextAppearance_Design_HelperText = 2131689765;
+			public const int TextAppearance_Compat_Notification_Media = 2131689765;
 			
 			// aapt resource value: 0x7F0F0126
-			public const int TextAppearance_Design_Hint = 2131689766;
+			public const int TextAppearance_Compat_Notification_Time = 2131689766;
 			
 			// aapt resource value: 0x7F0F0127
-			public const int TextAppearance_Design_Snackbar_Message = 2131689767;
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131689767;
 			
 			// aapt resource value: 0x7F0F0128
-			public const int TextAppearance_Design_Tab = 2131689768;
+			public const int TextAppearance_Compat_Notification_Title = 2131689768;
 			
 			// aapt resource value: 0x7F0F0129
-			public const int TextAppearance_MaterialComponents_Body1 = 2131689769;
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131689769;
 			
 			// aapt resource value: 0x7F0F012A
-			public const int TextAppearance_MaterialComponents_Body2 = 2131689770;
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689770;
 			
 			// aapt resource value: 0x7F0F012B
-			public const int TextAppearance_MaterialComponents_Button = 2131689771;
+			public const int TextAppearance_Design_Counter = 2131689771;
 			
 			// aapt resource value: 0x7F0F012C
-			public const int TextAppearance_MaterialComponents_Caption = 2131689772;
+			public const int TextAppearance_Design_Counter_Overflow = 2131689772;
 			
 			// aapt resource value: 0x7F0F012D
-			public const int TextAppearance_MaterialComponents_Chip = 2131689773;
+			public const int TextAppearance_Design_Error = 2131689773;
 			
 			// aapt resource value: 0x7F0F012E
-			public const int TextAppearance_MaterialComponents_Headline1 = 2131689774;
+			public const int TextAppearance_Design_HelperText = 2131689774;
 			
 			// aapt resource value: 0x7F0F012F
-			public const int TextAppearance_MaterialComponents_Headline2 = 2131689775;
+			public const int TextAppearance_Design_Hint = 2131689775;
 			
 			// aapt resource value: 0x7F0F0130
-			public const int TextAppearance_MaterialComponents_Headline3 = 2131689776;
+			public const int TextAppearance_Design_Snackbar_Message = 2131689776;
 			
 			// aapt resource value: 0x7F0F0131
-			public const int TextAppearance_MaterialComponents_Headline4 = 2131689777;
+			public const int TextAppearance_Design_Tab = 2131689777;
 			
 			// aapt resource value: 0x7F0F0132
-			public const int TextAppearance_MaterialComponents_Headline5 = 2131689778;
+			public const int TextAppearance_MaterialComponents_Body1 = 2131689778;
 			
 			// aapt resource value: 0x7F0F0133
-			public const int TextAppearance_MaterialComponents_Headline6 = 2131689779;
+			public const int TextAppearance_MaterialComponents_Body2 = 2131689779;
 			
 			// aapt resource value: 0x7F0F0134
-			public const int TextAppearance_MaterialComponents_Overline = 2131689780;
+			public const int TextAppearance_MaterialComponents_Button = 2131689780;
 			
 			// aapt resource value: 0x7F0F0135
-			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689781;
+			public const int TextAppearance_MaterialComponents_Caption = 2131689781;
 			
 			// aapt resource value: 0x7F0F0136
-			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689782;
+			public const int TextAppearance_MaterialComponents_Chip = 2131689782;
 			
 			// aapt resource value: 0x7F0F0137
-			public const int TextAppearance_MaterialComponents_Tab = 2131689783;
+			public const int TextAppearance_MaterialComponents_Headline1 = 2131689783;
 			
 			// aapt resource value: 0x7F0F0138
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689784;
+			public const int TextAppearance_MaterialComponents_Headline2 = 2131689784;
 			
 			// aapt resource value: 0x7F0F0139
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689785;
+			public const int TextAppearance_MaterialComponents_Headline3 = 2131689785;
 			
 			// aapt resource value: 0x7F0F013A
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689786;
-			
-			// aapt resource value: 0x7F0F016B
-			public const int ThemeOverlay_AppCompat = 2131689835;
-			
-			// aapt resource value: 0x7F0F016C
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131689836;
-			
-			// aapt resource value: 0x7F0F016D
-			public const int ThemeOverlay_AppCompat_Dark = 2131689837;
-			
-			// aapt resource value: 0x7F0F016E
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689838;
-			
-			// aapt resource value: 0x7F0F016F
-			public const int ThemeOverlay_AppCompat_Dialog = 2131689839;
-			
-			// aapt resource value: 0x7F0F0170
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689840;
-			
-			// aapt resource value: 0x7F0F0171
-			public const int ThemeOverlay_AppCompat_Light = 2131689841;
-			
-			// aapt resource value: 0x7F0F0172
-			public const int ThemeOverlay_MaterialComponents = 2131689842;
-			
-			// aapt resource value: 0x7F0F0173
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689843;
-			
-			// aapt resource value: 0x7F0F0174
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131689844;
-			
-			// aapt resource value: 0x7F0F0175
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689845;
-			
-			// aapt resource value: 0x7F0F0176
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689846;
-			
-			// aapt resource value: 0x7F0F0177
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689847;
-			
-			// aapt resource value: 0x7F0F0178
-			public const int ThemeOverlay_MaterialComponents_Light = 2131689848;
-			
-			// aapt resource value: 0x7F0F0179
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689849;
-			
-			// aapt resource value: 0x7F0F017A
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689850;
-			
-			// aapt resource value: 0x7F0F017B
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689851;
-			
-			// aapt resource value: 0x7F0F017C
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689852;
-			
-			// aapt resource value: 0x7F0F017D
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689853;
+			public const int TextAppearance_MaterialComponents_Headline4 = 2131689786;
 			
 			// aapt resource value: 0x7F0F013B
-			public const int Theme_AppCompat = 2131689787;
+			public const int TextAppearance_MaterialComponents_Headline5 = 2131689787;
 			
 			// aapt resource value: 0x7F0F013C
-			public const int Theme_AppCompat_CompactMenu = 2131689788;
+			public const int TextAppearance_MaterialComponents_Headline6 = 2131689788;
 			
 			// aapt resource value: 0x7F0F013D
-			public const int Theme_AppCompat_DayNight = 2131689789;
+			public const int TextAppearance_MaterialComponents_Overline = 2131689789;
 			
 			// aapt resource value: 0x7F0F013E
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689790;
+			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689790;
 			
 			// aapt resource value: 0x7F0F013F
-			public const int Theme_AppCompat_DayNight_Dialog = 2131689791;
-			
-			// aapt resource value: 0x7F0F0142
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689794;
+			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689791;
 			
 			// aapt resource value: 0x7F0F0140
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689792;
+			public const int TextAppearance_MaterialComponents_Tab = 2131689792;
 			
 			// aapt resource value: 0x7F0F0141
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689793;
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689793;
+			
+			// aapt resource value: 0x7F0F0142
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689794;
 			
 			// aapt resource value: 0x7F0F0143
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689795;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689795;
 			
-			// aapt resource value: 0x7F0F0144
-			public const int Theme_AppCompat_Dialog = 2131689796;
+			// aapt resource value: 0x7F0F0174
+			public const int ThemeOverlay_AppCompat = 2131689844;
 			
-			// aapt resource value: 0x7F0F0147
-			public const int Theme_AppCompat_DialogWhenLarge = 2131689799;
+			// aapt resource value: 0x7F0F0175
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131689845;
 			
-			// aapt resource value: 0x7F0F0145
-			public const int Theme_AppCompat_Dialog_Alert = 2131689797;
+			// aapt resource value: 0x7F0F0176
+			public const int ThemeOverlay_AppCompat_Dark = 2131689846;
 			
-			// aapt resource value: 0x7F0F0146
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131689798;
+			// aapt resource value: 0x7F0F0177
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689847;
 			
-			// aapt resource value: 0x7F0F0148
-			public const int Theme_AppCompat_Light = 2131689800;
+			// aapt resource value: 0x7F0F0178
+			public const int ThemeOverlay_AppCompat_Dialog = 2131689848;
 			
-			// aapt resource value: 0x7F0F0149
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131689801;
+			// aapt resource value: 0x7F0F0179
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689849;
 			
-			// aapt resource value: 0x7F0F014A
-			public const int Theme_AppCompat_Light_Dialog = 2131689802;
+			// aapt resource value: 0x7F0F017A
+			public const int ThemeOverlay_AppCompat_Light = 2131689850;
 			
-			// aapt resource value: 0x7F0F014D
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689805;
+			// aapt resource value: 0x7F0F017B
+			public const int ThemeOverlay_MaterialComponents = 2131689851;
 			
-			// aapt resource value: 0x7F0F014B
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689803;
+			// aapt resource value: 0x7F0F017C
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689852;
 			
-			// aapt resource value: 0x7F0F014C
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689804;
-			
-			// aapt resource value: 0x7F0F014E
-			public const int Theme_AppCompat_Light_NoActionBar = 2131689806;
-			
-			// aapt resource value: 0x7F0F014F
-			public const int Theme_AppCompat_NoActionBar = 2131689807;
-			
-			// aapt resource value: 0x7F0F0150
-			public const int Theme_Design = 2131689808;
-			
-			// aapt resource value: 0x7F0F0151
-			public const int Theme_Design_BottomSheetDialog = 2131689809;
-			
-			// aapt resource value: 0x7F0F0152
-			public const int Theme_Design_Light = 2131689810;
-			
-			// aapt resource value: 0x7F0F0153
-			public const int Theme_Design_Light_BottomSheetDialog = 2131689811;
-			
-			// aapt resource value: 0x7F0F0154
-			public const int Theme_Design_Light_NoActionBar = 2131689812;
-			
-			// aapt resource value: 0x7F0F0155
-			public const int Theme_Design_NoActionBar = 2131689813;
-			
-			// aapt resource value: 0x7F0F0156
-			public const int Theme_MaterialComponents = 2131689814;
-			
-			// aapt resource value: 0x7F0F0157
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689815;
-			
-			// aapt resource value: 0x7F0F0158
-			public const int Theme_MaterialComponents_Bridge = 2131689816;
-			
-			// aapt resource value: 0x7F0F0159
-			public const int Theme_MaterialComponents_CompactMenu = 2131689817;
-			
-			// aapt resource value: 0x7F0F015A
-			public const int Theme_MaterialComponents_Dialog = 2131689818;
-			
-			// aapt resource value: 0x7F0F015D
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689821;
-			
-			// aapt resource value: 0x7F0F015B
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131689819;
-			
-			// aapt resource value: 0x7F0F015C
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689820;
-			
-			// aapt resource value: 0x7F0F015E
-			public const int Theme_MaterialComponents_Light = 2131689822;
-			
-			// aapt resource value: 0x7F0F015F
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689823;
-			
-			// aapt resource value: 0x7F0F0160
-			public const int Theme_MaterialComponents_Light_Bridge = 2131689824;
-			
-			// aapt resource value: 0x7F0F0161
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689825;
-			
-			// aapt resource value: 0x7F0F0162
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689826;
-			
-			// aapt resource value: 0x7F0F0163
-			public const int Theme_MaterialComponents_Light_Dialog = 2131689827;
-			
-			// aapt resource value: 0x7F0F0166
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689830;
-			
-			// aapt resource value: 0x7F0F0164
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689828;
-			
-			// aapt resource value: 0x7F0F0165
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689829;
-			
-			// aapt resource value: 0x7F0F0167
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689831;
-			
-			// aapt resource value: 0x7F0F0168
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689832;
-			
-			// aapt resource value: 0x7F0F0169
-			public const int Theme_MaterialComponents_NoActionBar = 2131689833;
-			
-			// aapt resource value: 0x7F0F016A
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689834;
+			// aapt resource value: 0x7F0F017D
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131689853;
 			
 			// aapt resource value: 0x7F0F017E
-			public const int Widget_AppCompat_ActionBar = 2131689854;
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689854;
 			
 			// aapt resource value: 0x7F0F017F
-			public const int Widget_AppCompat_ActionBar_Solid = 2131689855;
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689855;
 			
 			// aapt resource value: 0x7F0F0180
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131689856;
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689856;
 			
 			// aapt resource value: 0x7F0F0181
-			public const int Widget_AppCompat_ActionBar_TabText = 2131689857;
+			public const int ThemeOverlay_MaterialComponents_Light = 2131689857;
 			
 			// aapt resource value: 0x7F0F0182
-			public const int Widget_AppCompat_ActionBar_TabView = 2131689858;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689858;
 			
 			// aapt resource value: 0x7F0F0183
-			public const int Widget_AppCompat_ActionButton = 2131689859;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689859;
 			
 			// aapt resource value: 0x7F0F0184
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131689860;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689860;
 			
 			// aapt resource value: 0x7F0F0185
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131689861;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689861;
 			
 			// aapt resource value: 0x7F0F0186
-			public const int Widget_AppCompat_ActionMode = 2131689862;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689862;
+			
+			// aapt resource value: 0x7F0F0144
+			public const int Theme_AppCompat = 2131689796;
+			
+			// aapt resource value: 0x7F0F0145
+			public const int Theme_AppCompat_CompactMenu = 2131689797;
+			
+			// aapt resource value: 0x7F0F0146
+			public const int Theme_AppCompat_DayNight = 2131689798;
+			
+			// aapt resource value: 0x7F0F0147
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689799;
+			
+			// aapt resource value: 0x7F0F0148
+			public const int Theme_AppCompat_DayNight_Dialog = 2131689800;
+			
+			// aapt resource value: 0x7F0F014B
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689803;
+			
+			// aapt resource value: 0x7F0F0149
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689801;
+			
+			// aapt resource value: 0x7F0F014A
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689802;
+			
+			// aapt resource value: 0x7F0F014C
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689804;
+			
+			// aapt resource value: 0x7F0F014D
+			public const int Theme_AppCompat_Dialog = 2131689805;
+			
+			// aapt resource value: 0x7F0F0150
+			public const int Theme_AppCompat_DialogWhenLarge = 2131689808;
+			
+			// aapt resource value: 0x7F0F014E
+			public const int Theme_AppCompat_Dialog_Alert = 2131689806;
+			
+			// aapt resource value: 0x7F0F014F
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131689807;
+			
+			// aapt resource value: 0x7F0F0151
+			public const int Theme_AppCompat_Light = 2131689809;
+			
+			// aapt resource value: 0x7F0F0152
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131689810;
+			
+			// aapt resource value: 0x7F0F0153
+			public const int Theme_AppCompat_Light_Dialog = 2131689811;
+			
+			// aapt resource value: 0x7F0F0156
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689814;
+			
+			// aapt resource value: 0x7F0F0154
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689812;
+			
+			// aapt resource value: 0x7F0F0155
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689813;
+			
+			// aapt resource value: 0x7F0F0157
+			public const int Theme_AppCompat_Light_NoActionBar = 2131689815;
+			
+			// aapt resource value: 0x7F0F0158
+			public const int Theme_AppCompat_NoActionBar = 2131689816;
+			
+			// aapt resource value: 0x7F0F0159
+			public const int Theme_Design = 2131689817;
+			
+			// aapt resource value: 0x7F0F015A
+			public const int Theme_Design_BottomSheetDialog = 2131689818;
+			
+			// aapt resource value: 0x7F0F015B
+			public const int Theme_Design_Light = 2131689819;
+			
+			// aapt resource value: 0x7F0F015C
+			public const int Theme_Design_Light_BottomSheetDialog = 2131689820;
+			
+			// aapt resource value: 0x7F0F015D
+			public const int Theme_Design_Light_NoActionBar = 2131689821;
+			
+			// aapt resource value: 0x7F0F015E
+			public const int Theme_Design_NoActionBar = 2131689822;
+			
+			// aapt resource value: 0x7F0F015F
+			public const int Theme_MaterialComponents = 2131689823;
+			
+			// aapt resource value: 0x7F0F0160
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689824;
+			
+			// aapt resource value: 0x7F0F0161
+			public const int Theme_MaterialComponents_Bridge = 2131689825;
+			
+			// aapt resource value: 0x7F0F0162
+			public const int Theme_MaterialComponents_CompactMenu = 2131689826;
+			
+			// aapt resource value: 0x7F0F0163
+			public const int Theme_MaterialComponents_Dialog = 2131689827;
+			
+			// aapt resource value: 0x7F0F0166
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689830;
+			
+			// aapt resource value: 0x7F0F0164
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131689828;
+			
+			// aapt resource value: 0x7F0F0165
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689829;
+			
+			// aapt resource value: 0x7F0F0167
+			public const int Theme_MaterialComponents_Light = 2131689831;
+			
+			// aapt resource value: 0x7F0F0168
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689832;
+			
+			// aapt resource value: 0x7F0F0169
+			public const int Theme_MaterialComponents_Light_Bridge = 2131689833;
+			
+			// aapt resource value: 0x7F0F016A
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689834;
+			
+			// aapt resource value: 0x7F0F016B
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689835;
+			
+			// aapt resource value: 0x7F0F016C
+			public const int Theme_MaterialComponents_Light_Dialog = 2131689836;
+			
+			// aapt resource value: 0x7F0F016F
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689839;
+			
+			// aapt resource value: 0x7F0F016D
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689837;
+			
+			// aapt resource value: 0x7F0F016E
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689838;
+			
+			// aapt resource value: 0x7F0F0170
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689840;
+			
+			// aapt resource value: 0x7F0F0171
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689841;
+			
+			// aapt resource value: 0x7F0F0172
+			public const int Theme_MaterialComponents_NoActionBar = 2131689842;
+			
+			// aapt resource value: 0x7F0F0173
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689843;
 			
 			// aapt resource value: 0x7F0F0187
-			public const int Widget_AppCompat_ActivityChooserView = 2131689863;
+			public const int Widget_AppCompat_ActionBar = 2131689863;
 			
 			// aapt resource value: 0x7F0F0188
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131689864;
+			public const int Widget_AppCompat_ActionBar_Solid = 2131689864;
 			
 			// aapt resource value: 0x7F0F0189
-			public const int Widget_AppCompat_Button = 2131689865;
-			
-			// aapt resource value: 0x7F0F018F
-			public const int Widget_AppCompat_ButtonBar = 2131689871;
-			
-			// aapt resource value: 0x7F0F0190
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131689872;
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131689865;
 			
 			// aapt resource value: 0x7F0F018A
-			public const int Widget_AppCompat_Button_Borderless = 2131689866;
+			public const int Widget_AppCompat_ActionBar_TabText = 2131689866;
 			
 			// aapt resource value: 0x7F0F018B
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131689867;
+			public const int Widget_AppCompat_ActionBar_TabView = 2131689867;
 			
 			// aapt resource value: 0x7F0F018C
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689868;
+			public const int Widget_AppCompat_ActionButton = 2131689868;
 			
 			// aapt resource value: 0x7F0F018D
-			public const int Widget_AppCompat_Button_Colored = 2131689869;
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131689869;
 			
 			// aapt resource value: 0x7F0F018E
-			public const int Widget_AppCompat_Button_Small = 2131689870;
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131689870;
+			
+			// aapt resource value: 0x7F0F018F
+			public const int Widget_AppCompat_ActionMode = 2131689871;
+			
+			// aapt resource value: 0x7F0F0190
+			public const int Widget_AppCompat_ActivityChooserView = 2131689872;
 			
 			// aapt resource value: 0x7F0F0191
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131689873;
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131689873;
 			
 			// aapt resource value: 0x7F0F0192
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131689874;
-			
-			// aapt resource value: 0x7F0F0193
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131689875;
-			
-			// aapt resource value: 0x7F0F0194
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131689876;
-			
-			// aapt resource value: 0x7F0F0195
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131689877;
-			
-			// aapt resource value: 0x7F0F0196
-			public const int Widget_AppCompat_EditText = 2131689878;
-			
-			// aapt resource value: 0x7F0F0197
-			public const int Widget_AppCompat_ImageButton = 2131689879;
+			public const int Widget_AppCompat_Button = 2131689874;
 			
 			// aapt resource value: 0x7F0F0198
-			public const int Widget_AppCompat_Light_ActionBar = 2131689880;
+			public const int Widget_AppCompat_ButtonBar = 2131689880;
 			
 			// aapt resource value: 0x7F0F0199
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131689881;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131689881;
+			
+			// aapt resource value: 0x7F0F0193
+			public const int Widget_AppCompat_Button_Borderless = 2131689875;
+			
+			// aapt resource value: 0x7F0F0194
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131689876;
+			
+			// aapt resource value: 0x7F0F0195
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689877;
+			
+			// aapt resource value: 0x7F0F0196
+			public const int Widget_AppCompat_Button_Colored = 2131689878;
+			
+			// aapt resource value: 0x7F0F0197
+			public const int Widget_AppCompat_Button_Small = 2131689879;
 			
 			// aapt resource value: 0x7F0F019A
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131689882;
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131689882;
 			
 			// aapt resource value: 0x7F0F019B
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131689883;
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131689883;
 			
 			// aapt resource value: 0x7F0F019C
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131689884;
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131689884;
 			
 			// aapt resource value: 0x7F0F019D
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131689885;
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131689885;
 			
 			// aapt resource value: 0x7F0F019E
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689886;
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131689886;
 			
 			// aapt resource value: 0x7F0F019F
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131689887;
+			public const int Widget_AppCompat_EditText = 2131689887;
 			
 			// aapt resource value: 0x7F0F01A0
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131689888;
+			public const int Widget_AppCompat_ImageButton = 2131689888;
 			
 			// aapt resource value: 0x7F0F01A1
-			public const int Widget_AppCompat_Light_ActionButton = 2131689889;
+			public const int Widget_AppCompat_Light_ActionBar = 2131689889;
 			
 			// aapt resource value: 0x7F0F01A2
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131689890;
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131689890;
 			
 			// aapt resource value: 0x7F0F01A3
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131689891;
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131689891;
 			
 			// aapt resource value: 0x7F0F01A4
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131689892;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131689892;
 			
 			// aapt resource value: 0x7F0F01A5
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131689893;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131689893;
 			
 			// aapt resource value: 0x7F0F01A6
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131689894;
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131689894;
 			
 			// aapt resource value: 0x7F0F01A7
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131689895;
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689895;
 			
 			// aapt resource value: 0x7F0F01A8
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131689896;
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131689896;
 			
 			// aapt resource value: 0x7F0F01A9
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131689897;
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131689897;
 			
 			// aapt resource value: 0x7F0F01AA
-			public const int Widget_AppCompat_Light_PopupMenu = 2131689898;
+			public const int Widget_AppCompat_Light_ActionButton = 2131689898;
 			
 			// aapt resource value: 0x7F0F01AB
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131689899;
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131689899;
 			
 			// aapt resource value: 0x7F0F01AC
-			public const int Widget_AppCompat_Light_SearchView = 2131689900;
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131689900;
 			
 			// aapt resource value: 0x7F0F01AD
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131689901;
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131689901;
 			
 			// aapt resource value: 0x7F0F01AE
-			public const int Widget_AppCompat_ListMenuView = 2131689902;
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131689902;
 			
 			// aapt resource value: 0x7F0F01AF
-			public const int Widget_AppCompat_ListPopupWindow = 2131689903;
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131689903;
 			
 			// aapt resource value: 0x7F0F01B0
-			public const int Widget_AppCompat_ListView = 2131689904;
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131689904;
 			
 			// aapt resource value: 0x7F0F01B1
-			public const int Widget_AppCompat_ListView_DropDown = 2131689905;
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131689905;
 			
 			// aapt resource value: 0x7F0F01B2
-			public const int Widget_AppCompat_ListView_Menu = 2131689906;
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131689906;
 			
 			// aapt resource value: 0x7F0F01B3
-			public const int Widget_AppCompat_PopupMenu = 2131689907;
+			public const int Widget_AppCompat_Light_PopupMenu = 2131689907;
 			
 			// aapt resource value: 0x7F0F01B4
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131689908;
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131689908;
 			
 			// aapt resource value: 0x7F0F01B5
-			public const int Widget_AppCompat_PopupWindow = 2131689909;
+			public const int Widget_AppCompat_Light_SearchView = 2131689909;
 			
 			// aapt resource value: 0x7F0F01B6
-			public const int Widget_AppCompat_ProgressBar = 2131689910;
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131689910;
 			
 			// aapt resource value: 0x7F0F01B7
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131689911;
+			public const int Widget_AppCompat_ListMenuView = 2131689911;
 			
 			// aapt resource value: 0x7F0F01B8
-			public const int Widget_AppCompat_RatingBar = 2131689912;
+			public const int Widget_AppCompat_ListPopupWindow = 2131689912;
 			
 			// aapt resource value: 0x7F0F01B9
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131689913;
+			public const int Widget_AppCompat_ListView = 2131689913;
 			
 			// aapt resource value: 0x7F0F01BA
-			public const int Widget_AppCompat_RatingBar_Small = 2131689914;
+			public const int Widget_AppCompat_ListView_DropDown = 2131689914;
 			
 			// aapt resource value: 0x7F0F01BB
-			public const int Widget_AppCompat_SearchView = 2131689915;
+			public const int Widget_AppCompat_ListView_Menu = 2131689915;
 			
 			// aapt resource value: 0x7F0F01BC
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131689916;
+			public const int Widget_AppCompat_PopupMenu = 2131689916;
 			
 			// aapt resource value: 0x7F0F01BD
-			public const int Widget_AppCompat_SeekBar = 2131689917;
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131689917;
 			
 			// aapt resource value: 0x7F0F01BE
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131689918;
+			public const int Widget_AppCompat_PopupWindow = 2131689918;
 			
 			// aapt resource value: 0x7F0F01BF
-			public const int Widget_AppCompat_Spinner = 2131689919;
+			public const int Widget_AppCompat_ProgressBar = 2131689919;
 			
 			// aapt resource value: 0x7F0F01C0
-			public const int Widget_AppCompat_Spinner_DropDown = 2131689920;
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131689920;
 			
 			// aapt resource value: 0x7F0F01C1
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131689921;
+			public const int Widget_AppCompat_RatingBar = 2131689921;
 			
 			// aapt resource value: 0x7F0F01C2
-			public const int Widget_AppCompat_Spinner_Underlined = 2131689922;
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131689922;
 			
 			// aapt resource value: 0x7F0F01C3
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131689923;
+			public const int Widget_AppCompat_RatingBar_Small = 2131689923;
 			
 			// aapt resource value: 0x7F0F01C4
-			public const int Widget_AppCompat_Toolbar = 2131689924;
+			public const int Widget_AppCompat_SearchView = 2131689924;
 			
 			// aapt resource value: 0x7F0F01C5
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131689925;
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131689925;
 			
 			// aapt resource value: 0x7F0F01C6
-			public const int Widget_Compat_NotificationActionContainer = 2131689926;
+			public const int Widget_AppCompat_SeekBar = 2131689926;
 			
 			// aapt resource value: 0x7F0F01C7
-			public const int Widget_Compat_NotificationActionText = 2131689927;
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131689927;
 			
 			// aapt resource value: 0x7F0F01C8
-			public const int Widget_Design_AppBarLayout = 2131689928;
+			public const int Widget_AppCompat_Spinner = 2131689928;
 			
 			// aapt resource value: 0x7F0F01C9
-			public const int Widget_Design_BottomNavigationView = 2131689929;
+			public const int Widget_AppCompat_Spinner_DropDown = 2131689929;
 			
 			// aapt resource value: 0x7F0F01CA
-			public const int Widget_Design_BottomSheet_Modal = 2131689930;
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131689930;
 			
 			// aapt resource value: 0x7F0F01CB
-			public const int Widget_Design_CollapsingToolbar = 2131689931;
+			public const int Widget_AppCompat_Spinner_Underlined = 2131689931;
 			
 			// aapt resource value: 0x7F0F01CC
-			public const int Widget_Design_FloatingActionButton = 2131689932;
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131689932;
 			
 			// aapt resource value: 0x7F0F01CD
-			public const int Widget_Design_NavigationView = 2131689933;
+			public const int Widget_AppCompat_Toolbar = 2131689933;
 			
 			// aapt resource value: 0x7F0F01CE
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131689934;
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131689934;
 			
 			// aapt resource value: 0x7F0F01CF
-			public const int Widget_Design_Snackbar = 2131689935;
+			public const int Widget_Compat_NotificationActionContainer = 2131689935;
 			
 			// aapt resource value: 0x7F0F01D0
-			public const int Widget_Design_TabLayout = 2131689936;
+			public const int Widget_Compat_NotificationActionText = 2131689936;
 			
 			// aapt resource value: 0x7F0F01D1
-			public const int Widget_Design_TextInputLayout = 2131689937;
+			public const int Widget_Design_AppBarLayout = 2131689937;
 			
 			// aapt resource value: 0x7F0F01D2
-			public const int Widget_MaterialComponents_BottomAppBar = 2131689938;
+			public const int Widget_Design_BottomNavigationView = 2131689938;
 			
 			// aapt resource value: 0x7F0F01D3
-			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131689939;
+			public const int Widget_Design_BottomSheet_Modal = 2131689939;
 			
 			// aapt resource value: 0x7F0F01D4
-			public const int Widget_MaterialComponents_BottomNavigationView = 2131689940;
+			public const int Widget_Design_CollapsingToolbar = 2131689940;
 			
 			// aapt resource value: 0x7F0F01D5
-			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131689941;
+			public const int Widget_Design_FloatingActionButton = 2131689941;
 			
 			// aapt resource value: 0x7F0F01D6
-			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131689942;
+			public const int Widget_Design_NavigationView = 2131689942;
 			
 			// aapt resource value: 0x7F0F01D7
-			public const int Widget_MaterialComponents_Button = 2131689943;
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131689943;
 			
 			// aapt resource value: 0x7F0F01D8
-			public const int Widget_MaterialComponents_Button_Icon = 2131689944;
+			public const int Widget_Design_Snackbar = 2131689944;
 			
 			// aapt resource value: 0x7F0F01D9
-			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131689945;
+			public const int Widget_Design_TabLayout = 2131689945;
 			
 			// aapt resource value: 0x7F0F01DA
-			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131689946;
+			public const int Widget_Design_TextInputLayout = 2131689946;
 			
 			// aapt resource value: 0x7F0F01DB
-			public const int Widget_MaterialComponents_Button_TextButton = 2131689947;
+			public const int Widget_MaterialComponents_BottomAppBar = 2131689947;
 			
 			// aapt resource value: 0x7F0F01DC
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131689948;
+			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131689948;
 			
 			// aapt resource value: 0x7F0F01DD
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131689949;
+			public const int Widget_MaterialComponents_BottomNavigationView = 2131689949;
 			
 			// aapt resource value: 0x7F0F01DE
-			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131689950;
+			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131689950;
 			
 			// aapt resource value: 0x7F0F01DF
-			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131689951;
+			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131689951;
 			
 			// aapt resource value: 0x7F0F01E0
-			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131689952;
+			public const int Widget_MaterialComponents_Button = 2131689952;
 			
 			// aapt resource value: 0x7F0F01E1
-			public const int Widget_MaterialComponents_CardView = 2131689953;
-			
-			// aapt resource value: 0x7F0F01E6
-			public const int Widget_MaterialComponents_ChipGroup = 2131689958;
+			public const int Widget_MaterialComponents_Button_Icon = 2131689953;
 			
 			// aapt resource value: 0x7F0F01E2
-			public const int Widget_MaterialComponents_Chip_Action = 2131689954;
+			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131689954;
 			
 			// aapt resource value: 0x7F0F01E3
-			public const int Widget_MaterialComponents_Chip_Choice = 2131689955;
+			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131689955;
 			
 			// aapt resource value: 0x7F0F01E4
-			public const int Widget_MaterialComponents_Chip_Entry = 2131689956;
+			public const int Widget_MaterialComponents_Button_TextButton = 2131689956;
 			
 			// aapt resource value: 0x7F0F01E5
-			public const int Widget_MaterialComponents_Chip_Filter = 2131689957;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131689957;
+			
+			// aapt resource value: 0x7F0F01E6
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131689958;
 			
 			// aapt resource value: 0x7F0F01E7
-			public const int Widget_MaterialComponents_FloatingActionButton = 2131689959;
+			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131689959;
 			
 			// aapt resource value: 0x7F0F01E8
-			public const int Widget_MaterialComponents_NavigationView = 2131689960;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131689960;
 			
 			// aapt resource value: 0x7F0F01E9
-			public const int Widget_MaterialComponents_Snackbar = 2131689961;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131689961;
 			
 			// aapt resource value: 0x7F0F01EA
-			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131689962;
-			
-			// aapt resource value: 0x7F0F01EB
-			public const int Widget_MaterialComponents_TabLayout = 2131689963;
-			
-			// aapt resource value: 0x7F0F01EC
-			public const int Widget_MaterialComponents_TabLayout_Colored = 2131689964;
-			
-			// aapt resource value: 0x7F0F01ED
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131689965;
-			
-			// aapt resource value: 0x7F0F01EE
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689966;
+			public const int Widget_MaterialComponents_CardView = 2131689962;
 			
 			// aapt resource value: 0x7F0F01EF
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131689967;
+			public const int Widget_MaterialComponents_ChipGroup = 2131689967;
+			
+			// aapt resource value: 0x7F0F01EB
+			public const int Widget_MaterialComponents_Chip_Action = 2131689963;
+			
+			// aapt resource value: 0x7F0F01EC
+			public const int Widget_MaterialComponents_Chip_Choice = 2131689964;
+			
+			// aapt resource value: 0x7F0F01ED
+			public const int Widget_MaterialComponents_Chip_Entry = 2131689965;
+			
+			// aapt resource value: 0x7F0F01EE
+			public const int Widget_MaterialComponents_Chip_Filter = 2131689966;
 			
 			// aapt resource value: 0x7F0F01F0
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689968;
+			public const int Widget_MaterialComponents_FloatingActionButton = 2131689968;
 			
 			// aapt resource value: 0x7F0F01F1
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131689969;
+			public const int Widget_MaterialComponents_NavigationView = 2131689969;
 			
 			// aapt resource value: 0x7F0F01F2
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131689970;
+			public const int Widget_MaterialComponents_Snackbar = 2131689970;
 			
 			// aapt resource value: 0x7F0F01F3
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131689971;
+			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131689971;
 			
 			// aapt resource value: 0x7F0F01F4
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131689972;
+			public const int Widget_MaterialComponents_TabLayout = 2131689972;
 			
 			// aapt resource value: 0x7F0F01F5
-			public const int Widget_MaterialComponents_Toolbar = 2131689973;
+			public const int Widget_MaterialComponents_TabLayout_Colored = 2131689973;
 			
 			// aapt resource value: 0x7F0F01F6
-			public const int Widget_Support_CoordinatorLayout = 2131689974;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131689974;
+			
+			// aapt resource value: 0x7F0F01F7
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689975;
+			
+			// aapt resource value: 0x7F0F01F8
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131689976;
+			
+			// aapt resource value: 0x7F0F01F9
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689977;
+			
+			// aapt resource value: 0x7F0F01FA
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131689978;
+			
+			// aapt resource value: 0x7F0F01FB
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131689979;
+			
+			// aapt resource value: 0x7F0F01FC
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131689980;
+			
+			// aapt resource value: 0x7F0F01FD
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131689981;
+			
+			// aapt resource value: 0x7F0F01FE
+			public const int Widget_MaterialComponents_Toolbar = 2131689982;
+			
+			// aapt resource value: 0x7F0F01FF
+			public const int Widget_Support_CoordinatorLayout = 2131689983;
 			
 			static Style()
 			{
@@ -11324,37 +15733,37 @@ namespace NDMA
 		public partial class Styleable
 		{
 			
-			// aapt resource value: { 0x7F040031,0x7F040032,0x7F040033,0x7F040091,0x7F040092,0x7F040093,0x7F040094,0x7F040095,0x7F040096,0x7F0400A4,0x7F0400A9,0x7F0400AA,0x7F0400B5,0x7F0400DF,0x7F0400E4,0x7F0400E9,0x7F0400EA,0x7F0400EC,0x7F0400F6,0x7F040100,0x7F040123,0x7F04012F,0x7F040140,0x7F040144,0x7F040145,0x7F040173,0x7F040176,0x7F0401BB,0x7F0401C5 }
+			// aapt resource value: { 0x7F040044,0x7F040045,0x7F040046,0x7F0400B1,0x7F0400B2,0x7F0400B3,0x7F0400B4,0x7F0400B5,0x7F0400B6,0x7F0400C6,0x7F0400D3,0x7F0400D4,0x7F0400E1,0x7F040116,0x7F04011B,0x7F040120,0x7F040121,0x7F040123,0x7F04012E,0x7F040139,0x7F04017A,0x7F0401B8,0x7F0401D3,0x7F0401D7,0x7F0401D8,0x7F040224,0x7F040227,0x7F040272,0x7F040285 }
 			public static int[] ActionBar = new int[] {
-					2130968625,
-					2130968626,
-					2130968627,
-					2130968721,
-					2130968722,
-					2130968723,
-					2130968724,
-					2130968725,
-					2130968726,
-					2130968740,
-					2130968745,
-					2130968746,
+					2130968644,
+					2130968645,
+					2130968646,
+					2130968753,
+					2130968754,
+					2130968755,
+					2130968756,
 					2130968757,
-					2130968799,
-					2130968804,
-					2130968809,
-					2130968810,
-					2130968812,
-					2130968822,
-					2130968832,
+					2130968758,
+					2130968774,
+					2130968787,
+					2130968788,
+					2130968801,
+					2130968854,
+					2130968859,
+					2130968864,
+					2130968865,
 					2130968867,
-					2130968879,
-					2130968896,
-					2130968900,
-					2130968901,
-					2130968947,
-					2130968950,
-					2130969019,
-					2130969029};
+					2130968878,
+					2130968889,
+					2130968954,
+					2130969016,
+					2130969043,
+					2130969047,
+					2130969048,
+					2130969124,
+					2130969127,
+					2130969202,
+					2130969221};
 			
 			// aapt resource value: { 0x10100B3 }
 			public static int[] ActionBarLayout = new int[] {
@@ -11461,14 +15870,14 @@ namespace NDMA
 			public static int[] ActionMenuView = new int[] {
 					-1};
 			
-			// aapt resource value: { 0x7F040031,0x7F040032,0x7F04007E,0x7F0400DF,0x7F040176,0x7F0401C5 }
+			// aapt resource value: { 0x7F040044,0x7F040045,0x7F04009A,0x7F040116,0x7F040227,0x7F040285 }
 			public static int[] ActionMode = new int[] {
-					2130968625,
-					2130968626,
-					2130968702,
-					2130968799,
-					2130968950,
-					2130969029};
+					2130968644,
+					2130968645,
+					2130968730,
+					2130968854,
+					2130969127,
+					2130969221};
 			
 			// aapt resource value: 0
 			public const int ActionMode_background = 0;
@@ -11488,10 +15897,10 @@ namespace NDMA
 			// aapt resource value: 5
 			public const int ActionMode_titleTextStyle = 5;
 			
-			// aapt resource value: { 0x7F0400BA,0x7F0400F7 }
+			// aapt resource value: { 0x7F0400EA,0x7F04012F }
 			public static int[] ActivityChooserView = new int[] {
-					2130968762,
-					2130968823};
+					2130968810,
+					2130968879};
 			
 			// aapt resource value: 0
 			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 0;
@@ -11499,16 +15908,16 @@ namespace NDMA
 			// aapt resource value: 1
 			public const int ActivityChooserView_initialActivityCount = 1;
 			
-			// aapt resource value: { 0x10100F2,0x7F040052,0x7F040053,0x7F04011A,0x7F04011B,0x7F04012C,0x7F04015B,0x7F04015C }
+			// aapt resource value: { 0x10100F2,0x7F04006A,0x7F04006B,0x7F04016F,0x7F040170,0x7F0401B5,0x7F04020B,0x7F04020C }
 			public static int[] AlertDialog = new int[] {
 					16842994,
-					2130968658,
-					2130968659,
-					2130968858,
-					2130968859,
-					2130968876,
-					2130968923,
-					2130968924};
+					2130968682,
+					2130968683,
+					2130968943,
+					2130968944,
+					2130969013,
+					2130969099,
+					2130969100};
 			
 			// aapt resource value: 0
 			public const int AlertDialog_android_layout = 0;
@@ -11591,21 +16000,21 @@ namespace NDMA
 			// aapt resource value: 1
 			public const int AnimatedStateListDrawableTransition_android_toId = 1;
 			
-			// aapt resource value: { 0x10100D4,0x101048F,0x1010540,0x7F0400B5,0x7F0400BB,0x7F040115 }
+			// aapt resource value: { 0x10100D4,0x101048F,0x1010540,0x7F0400E1,0x7F0400EB,0x7F040167 }
 			public static int[] AppBarLayout = new int[] {
 					16842964,
 					16843919,
 					16844096,
-					2130968757,
-					2130968763,
-					2130968853};
+					2130968801,
+					2130968811,
+					2130968935};
 			
-			// aapt resource value: { 0x7F040169,0x7F04016A,0x7F04016B,0x7F04016C }
+			// aapt resource value: { 0x7F04021A,0x7F04021B,0x7F04021C,0x7F04021D }
 			public static int[] AppBarLayoutStates = new int[] {
-					2130968937,
-					2130968938,
-					2130968939,
-					2130968940};
+					2130969114,
+					2130969115,
+					2130969116,
+					2130969117};
 			
 			// aapt resource value: 0
 			public const int AppBarLayoutStates_state_collapsed = 0;
@@ -11634,10 +16043,10 @@ namespace NDMA
 			// aapt resource value: 4
 			public const int AppBarLayout_expanded = 4;
 			
-			// aapt resource value: { 0x7F040113,0x7F040114 }
+			// aapt resource value: { 0x7F04014D,0x7F04014E }
 			public static int[] AppBarLayout_Layout = new int[] {
-					2130968851,
-					2130968852};
+					2130968909,
+					2130968910};
 			
 			// aapt resource value: 0
 			public const int AppBarLayout_Layout_layout_scrollFlags = 0;
@@ -11648,12 +16057,12 @@ namespace NDMA
 			// aapt resource value: 5
 			public const int AppBarLayout_liftOnScroll = 5;
 			
-			// aapt resource value: { 0x1010119,0x7F040166,0x7F0401B9,0x7F0401BA }
+			// aapt resource value: { 0x1010119,0x7F040217,0x7F040270,0x7F040271 }
 			public static int[] AppCompatImageView = new int[] {
 					16843033,
-					2130968934,
-					2130969017,
-					2130969018};
+					2130969111,
+					2130969200,
+					2130969201};
 			
 			// aapt resource value: 0
 			public const int AppCompatImageView_android_src = 0;
@@ -11667,12 +16076,12 @@ namespace NDMA
 			// aapt resource value: 3
 			public const int AppCompatImageView_tintMode = 3;
 			
-			// aapt resource value: { 0x1010142,0x7F0401B6,0x7F0401B7,0x7F0401B8 }
+			// aapt resource value: { 0x1010142,0x7F04026A,0x7F04026B,0x7F04026C }
 			public static int[] AppCompatSeekBar = new int[] {
 					16843074,
-					2130969014,
-					2130969015,
-					2130969016};
+					2130969194,
+					2130969195,
+					2130969196};
 			
 			// aapt resource value: 0
 			public const int AppCompatSeekBar_android_thumb = 0;
@@ -11717,19 +16126,19 @@ namespace NDMA
 			// aapt resource value: 0
 			public const int AppCompatTextHelper_android_textAppearance = 0;
 			
-			// aapt resource value: { 0x1010034,0x7F04002C,0x7F04002D,0x7F04002E,0x7F04002F,0x7F040030,0x7F0400CE,0x7F0400D1,0x7F040108,0x7F040116,0x7F040196 }
+			// aapt resource value: { 0x1010034,0x7F04003B,0x7F04003C,0x7F04003D,0x7F04003E,0x7F04003F,0x7F0400FE,0x7F040101,0x7F040142,0x7F04016A,0x7F040247 }
 			public static int[] AppCompatTextView = new int[] {
 					16842804,
-					2130968620,
-					2130968621,
-					2130968622,
-					2130968623,
-					2130968624,
-					2130968782,
-					2130968785,
-					2130968840,
-					2130968854,
-					2130968982};
+					2130968635,
+					2130968636,
+					2130968637,
+					2130968638,
+					2130968639,
+					2130968830,
+					2130968833,
+					2130968898,
+					2130968938,
+					2130969159};
 			
 			// aapt resource value: 0
 			public const int AppCompatTextView_android_textAppearance = 0;
@@ -11764,7 +16173,7 @@ namespace NDMA
 			// aapt resource value: 10
 			public const int AppCompatTextView_textAllCaps = 10;
 			
-			// aapt resource value: { 0x1010057,0x10100AE,0x7F040000,0x7F040001,0x7F040002,0x7F040003,0x7F040004,0x7F040005,0x7F040006,0x7F040007,0x7F040008,0x7F040009,0x7F04000A,0x7F04000B,0x7F04000C,0x7F04000E,0x7F04000F,0x7F040010,0x7F040011,0x7F040012,0x7F040013,0x7F040014,0x7F040015,0x7F040016,0x7F040017,0x7F040018,0x7F040019,0x7F04001A,0x7F04001B,0x7F04001C,0x7F04001D,0x7F04001E,0x7F040021,0x7F040022,0x7F040023,0x7F040024,0x7F040025,0x7F04002B,0x7F04003E,0x7F04004C,0x7F04004D,0x7F04004E,0x7F04004F,0x7F040050,0x7F040054,0x7F040055,0x7F04005F,0x7F040064,0x7F040084,0x7F040085,0x7F040086,0x7F040087,0x7F040088,0x7F040089,0x7F04008A,0x7F04008B,0x7F04008C,0x7F04008E,0x7F04009D,0x7F0400A6,0x7F0400A7,0x7F0400A8,0x7F0400AB,0x7F0400AD,0x7F0400B0,0x7F0400B1,0x7F0400B2,0x7F0400B3,0x7F0400B4,0x7F0400E9,0x7F0400F5,0x7F040118,0x7F040119,0x7F04011C,0x7F04011D,0x7F04011E,0x7F04011F,0x7F040120,0x7F040121,0x7F040122,0x7F040137,0x7F040138,0x7F040139,0x7F04013F,0x7F040141,0x7F040148,0x7F040149,0x7F04014A,0x7F04014B,0x7F040153,0x7F040154,0x7F040155,0x7F040156,0x7F040163,0x7F040164,0x7F04017A,0x7F0401A1,0x7F0401A2,0x7F0401A3,0x7F0401A4,0x7F0401A6,0x7F0401A7,0x7F0401A8,0x7F0401A9,0x7F0401AC,0x7F0401AD,0x7F0401C7,0x7F0401C8,0x7F0401C9,0x7F0401CA,0x7F0401D1,0x7F0401D3,0x7F0401D4,0x7F0401D5,0x7F0401D6,0x7F0401D7,0x7F0401D8,0x7F0401D9,0x7F0401DA,0x7F0401DB,0x7F0401DC }
+			// aapt resource value: { 0x1010057,0x10100AE,0x7F040000,0x7F040001,0x7F040002,0x7F040003,0x7F040004,0x7F040005,0x7F040006,0x7F040007,0x7F040008,0x7F040009,0x7F04000A,0x7F04000B,0x7F04000C,0x7F04000E,0x7F04000F,0x7F040010,0x7F040011,0x7F040012,0x7F040013,0x7F040014,0x7F040015,0x7F040016,0x7F040017,0x7F040018,0x7F040019,0x7F04001A,0x7F04001B,0x7F04001C,0x7F04001D,0x7F04001E,0x7F040021,0x7F040022,0x7F040023,0x7F040024,0x7F040025,0x7F040038,0x7F040056,0x7F040064,0x7F040065,0x7F040066,0x7F040067,0x7F040068,0x7F04006C,0x7F04006D,0x7F04007B,0x7F040080,0x7F0400A0,0x7F0400A1,0x7F0400A2,0x7F0400A3,0x7F0400A4,0x7F0400A5,0x7F0400A6,0x7F0400A8,0x7F0400A9,0x7F0400AB,0x7F0400BD,0x7F0400D0,0x7F0400D1,0x7F0400D2,0x7F0400D5,0x7F0400D7,0x7F0400DA,0x7F0400DB,0x7F0400DD,0x7F0400DE,0x7F0400DF,0x7F040120,0x7F04012C,0x7F04016D,0x7F04016E,0x7F040171,0x7F040172,0x7F040173,0x7F040174,0x7F040175,0x7F040176,0x7F040177,0x7F0401C8,0x7F0401C9,0x7F0401CA,0x7F0401D2,0x7F0401D4,0x7F0401DB,0x7F0401DC,0x7F0401DD,0x7F0401DE,0x7F0401FD,0x7F0401FE,0x7F040200,0x7F040201,0x7F040214,0x7F040215,0x7F04022B,0x7F040255,0x7F040256,0x7F040257,0x7F040258,0x7F04025A,0x7F04025B,0x7F04025C,0x7F04025D,0x7F040260,0x7F040261,0x7F040287,0x7F040288,0x7F04028A,0x7F04028C,0x7F040296,0x7F04029C,0x7F04029D,0x7F04029E,0x7F04029F,0x7F0402A0,0x7F0402A1,0x7F0402A2,0x7F0402A3,0x7F0402A4,0x7F0402A5 }
 			public static int[] AppCompatTheme = new int[] {
 					16842839,
 					16842926,
@@ -11803,90 +16212,90 @@ namespace NDMA
 					2130968611,
 					2130968612,
 					2130968613,
-					2130968619,
-					2130968638,
-					2130968652,
-					2130968653,
-					2130968654,
-					2130968655,
-					2130968656,
-					2130968660,
-					2130968661,
-					2130968671,
+					2130968632,
+					2130968662,
 					2130968676,
-					2130968708,
-					2130968709,
-					2130968710,
-					2130968711,
-					2130968712,
-					2130968713,
-					2130968714,
-					2130968715,
-					2130968716,
-					2130968718,
-					2130968733,
+					2130968677,
+					2130968678,
+					2130968679,
+					2130968680,
+					2130968684,
+					2130968685,
+					2130968699,
+					2130968704,
+					2130968736,
+					2130968737,
+					2130968738,
+					2130968739,
+					2130968740,
+					2130968741,
 					2130968742,
-					2130968743,
 					2130968744,
+					2130968745,
 					2130968747,
-					2130968749,
-					2130968752,
-					2130968753,
-					2130968754,
-					2130968755,
-					2130968756,
-					2130968809,
-					2130968821,
-					2130968856,
-					2130968857,
-					2130968860,
-					2130968861,
-					2130968862,
-					2130968863,
+					2130968765,
+					2130968784,
+					2130968785,
+					2130968786,
+					2130968789,
+					2130968791,
+					2130968794,
+					2130968795,
+					2130968797,
+					2130968798,
+					2130968799,
 					2130968864,
-					2130968865,
-					2130968866,
-					2130968887,
-					2130968888,
-					2130968889,
-					2130968895,
-					2130968897,
-					2130968904,
-					2130968905,
-					2130968906,
-					2130968907,
-					2130968915,
-					2130968916,
-					2130968917,
-					2130968918,
-					2130968931,
-					2130968932,
-					2130968954,
-					2130968993,
-					2130968994,
-					2130968995,
-					2130968996,
-					2130968998,
-					2130968999,
-					2130969000,
-					2130969001,
-					2130969004,
-					2130969005,
-					2130969031,
+					2130968876,
+					2130968941,
+					2130968942,
+					2130968945,
+					2130968946,
+					2130968947,
+					2130968948,
+					2130968949,
+					2130968950,
+					2130968951,
 					2130969032,
 					2130969033,
 					2130969034,
-					2130969041,
-					2130969043,
+					2130969042,
 					2130969044,
-					2130969045,
-					2130969046,
-					2130969047,
-					2130969048,
-					2130969049,
-					2130969050,
 					2130969051,
-					2130969052};
+					2130969052,
+					2130969053,
+					2130969054,
+					2130969085,
+					2130969086,
+					2130969088,
+					2130969089,
+					2130969108,
+					2130969109,
+					2130969131,
+					2130969173,
+					2130969174,
+					2130969175,
+					2130969176,
+					2130969178,
+					2130969179,
+					2130969180,
+					2130969181,
+					2130969184,
+					2130969185,
+					2130969223,
+					2130969224,
+					2130969226,
+					2130969228,
+					2130969238,
+					2130969244,
+					2130969245,
+					2130969246,
+					2130969247,
+					2130969248,
+					2130969249,
+					2130969250,
+					2130969251,
+					2130969252,
+					2130969253};
 			
 			// aapt resource value: 2
 			public const int AppCompatTheme_actionBarDivider = 2;
@@ -12251,14 +16660,14 @@ namespace NDMA
 			// aapt resource value: 120
 			public const int AppCompatTheme_windowNoTitle = 120;
 			
-			// aapt resource value: { 0x7F040034,0x7F0400C3,0x7F0400C4,0x7F0400C5,0x7F0400C6,0x7F0400E5 }
+			// aapt resource value: { 0x7F040047,0x7F0400F3,0x7F0400F4,0x7F0400F5,0x7F0400F6,0x7F04011C }
 			public static int[] BottomAppBar = new int[] {
-					2130968628,
-					2130968771,
-					2130968772,
-					2130968773,
-					2130968774,
-					2130968805};
+					2130968647,
+					2130968819,
+					2130968820,
+					2130968821,
+					2130968822,
+					2130968860};
 			
 			// aapt resource value: 0
 			public const int BottomAppBar_backgroundTint = 0;
@@ -12278,18 +16687,18 @@ namespace NDMA
 			// aapt resource value: 5
 			public const int BottomAppBar_hideOnScroll = 5;
 			
-			// aapt resource value: { 0x7F0400B5,0x7F0400FA,0x7F0400FC,0x7F0400FE,0x7F0400FF,0x7F040103,0x7F040104,0x7F040105,0x7F040107,0x7F04012B }
+			// aapt resource value: { 0x7F0400E1,0x7F040133,0x7F040135,0x7F040137,0x7F040138,0x7F04013C,0x7F04013D,0x7F04013E,0x7F040141,0x7F04019B }
 			public static int[] BottomNavigationView = new int[] {
-					2130968757,
-					2130968826,
-					2130968828,
-					2130968830,
-					2130968831,
-					2130968835,
-					2130968836,
-					2130968837,
-					2130968839,
-					2130968875};
+					2130968801,
+					2130968883,
+					2130968885,
+					2130968887,
+					2130968888,
+					2130968892,
+					2130968893,
+					2130968894,
+					2130968897,
+					2130968987};
 			
 			// aapt resource value: 0
 			public const int BottomNavigationView_elevation = 0;
@@ -12321,12 +16730,12 @@ namespace NDMA
 			// aapt resource value: 9
 			public const int BottomNavigationView_menu = 9;
 			
-			// aapt resource value: { 0x7F040038,0x7F040039,0x7F04003B,0x7F04003C }
+			// aapt resource value: { 0x7F04004F,0x7F040050,0x7F040052,0x7F040053 }
 			public static int[] BottomSheetBehavior_Layout = new int[] {
-					2130968632,
-					2130968633,
-					2130968635,
-					2130968636};
+					2130968655,
+					2130968656,
+					2130968658,
+					2130968659};
 			
 			// aapt resource value: 0
 			public const int BottomSheetBehavior_Layout_behavior_fitToContents = 0;
@@ -12340,28 +16749,28 @@ namespace NDMA
 			// aapt resource value: 3
 			public const int BottomSheetBehavior_Layout_behavior_skipCollapsed = 3;
 			
-			// aapt resource value: { 0x7F040026 }
+			// aapt resource value: { 0x7F040030 }
 			public static int[] ButtonBarLayout = new int[] {
-					2130968614};
+					2130968624};
 			
 			// aapt resource value: 0
 			public const int ButtonBarLayout_allowStacking = 0;
 			
-			// aapt resource value: { 0x101013F,0x1010140,0x7F040058,0x7F040059,0x7F04005A,0x7F04005B,0x7F04005C,0x7F04005D,0x7F040097,0x7F040098,0x7F040099,0x7F04009A,0x7F04009B }
+			// aapt resource value: { 0x101013F,0x1010140,0x7F040074,0x7F040075,0x7F040076,0x7F040077,0x7F040078,0x7F040079,0x7F0400B7,0x7F0400B8,0x7F0400B9,0x7F0400BA,0x7F0400BB }
 			public static int[] CardView = new int[] {
 					16843071,
 					16843072,
-					2130968664,
-					2130968665,
-					2130968666,
-					2130968667,
-					2130968668,
-					2130968669,
-					2130968727,
-					2130968728,
-					2130968729,
-					2130968730,
-					2130968731};
+					2130968692,
+					2130968693,
+					2130968694,
+					2130968695,
+					2130968696,
+					2130968697,
+					2130968759,
+					2130968760,
+					2130968761,
+					2130968762,
+					2130968763};
 			
 			// aapt resource value: 1
 			public const int CardView_android_minHeight = 1;
@@ -12402,51 +16811,51 @@ namespace NDMA
 			// aapt resource value: 12
 			public const int CardView_contentPaddingTop = 12;
 			
-			// aapt resource value: { 0x1010034,0x10100AB,0x101011F,0x101014F,0x10101E5,0x7F040061,0x7F040062,0x7F040063,0x7F040065,0x7F040066,0x7F040067,0x7F040069,0x7F04006A,0x7F04006B,0x7F04006C,0x7F04006D,0x7F04006E,0x7F040073,0x7F040074,0x7F040075,0x7F040077,0x7F040078,0x7F040079,0x7F04007A,0x7F04007B,0x7F04007C,0x7F04007D,0x7F0400E3,0x7F0400ED,0x7F0400F1,0x7F04014D,0x7F040159,0x7F0401AE,0x7F0401B0 }
+			// aapt resource value: { 0x1010034,0x10100AB,0x101011F,0x101014F,0x10101E5,0x7F04007D,0x7F04007E,0x7F04007F,0x7F040081,0x7F040082,0x7F040083,0x7F040085,0x7F040086,0x7F040087,0x7F040088,0x7F040089,0x7F04008A,0x7F04008F,0x7F040090,0x7F040091,0x7F040093,0x7F040094,0x7F040095,0x7F040096,0x7F040097,0x7F040098,0x7F040099,0x7F04011A,0x7F040124,0x7F040128,0x7F0401F1,0x7F040208,0x7F040262,0x7F040264 }
 			public static int[] Chip = new int[] {
 					16842804,
 					16842923,
 					16843039,
 					16843087,
 					16843237,
-					2130968673,
-					2130968674,
-					2130968675,
-					2130968677,
-					2130968678,
-					2130968679,
-					2130968681,
-					2130968682,
-					2130968683,
-					2130968684,
-					2130968685,
-					2130968686,
-					2130968691,
-					2130968692,
-					2130968693,
-					2130968695,
-					2130968696,
-					2130968697,
-					2130968698,
-					2130968699,
-					2130968700,
 					2130968701,
-					2130968803,
-					2130968813,
-					2130968817,
-					2130968909,
-					2130968921,
-					2130969006,
-					2130969008};
+					2130968702,
+					2130968703,
+					2130968705,
+					2130968706,
+					2130968707,
+					2130968709,
+					2130968710,
+					2130968711,
+					2130968712,
+					2130968713,
+					2130968714,
+					2130968719,
+					2130968720,
+					2130968721,
+					2130968723,
+					2130968724,
+					2130968725,
+					2130968726,
+					2130968727,
+					2130968728,
+					2130968729,
+					2130968858,
+					2130968868,
+					2130968872,
+					2130969073,
+					2130969096,
+					2130969186,
+					2130969188};
 			
-			// aapt resource value: { 0x7F040060,0x7F04006F,0x7F040070,0x7F040071,0x7F04015D,0x7F04015E }
+			// aapt resource value: { 0x7F04007C,0x7F04008B,0x7F04008C,0x7F04008D,0x7F04020D,0x7F04020E }
 			public static int[] ChipGroup = new int[] {
-					2130968672,
-					2130968687,
-					2130968688,
-					2130968689,
-					2130968925,
-					2130968926};
+					2130968700,
+					2130968715,
+					2130968716,
+					2130968717,
+					2130969101,
+					2130969102};
 			
 			// aapt resource value: 0
 			public const int ChipGroup_checkedChip = 0;
@@ -12568,24 +16977,24 @@ namespace NDMA
 			// aapt resource value: 33
 			public const int Chip_textStartPadding = 33;
 			
-			// aapt resource value: { 0x7F040081,0x7F040082,0x7F04009C,0x7F0400BC,0x7F0400BD,0x7F0400BE,0x7F0400BF,0x7F0400C0,0x7F0400C1,0x7F0400C2,0x7F04014E,0x7F040150,0x7F04016E,0x7F0401BB,0x7F0401BC,0x7F0401C6 }
+			// aapt resource value: { 0x7F04009D,0x7F04009E,0x7F0400BC,0x7F0400EC,0x7F0400ED,0x7F0400EE,0x7F0400EF,0x7F0400F0,0x7F0400F1,0x7F0400F2,0x7F0401F7,0x7F0401F9,0x7F04021F,0x7F040272,0x7F040275,0x7F040286 }
 			public static int[] CollapsingToolbarLayout = new int[] {
-					2130968705,
-					2130968706,
-					2130968732,
+					2130968733,
+					2130968734,
 					2130968764,
-					2130968765,
-					2130968766,
-					2130968767,
-					2130968768,
-					2130968769,
-					2130968770,
-					2130968910,
-					2130968912,
-					2130968942,
-					2130969019,
-					2130969020,
-					2130969030};
+					2130968812,
+					2130968813,
+					2130968814,
+					2130968815,
+					2130968816,
+					2130968817,
+					2130968818,
+					2130969079,
+					2130969081,
+					2130969119,
+					2130969202,
+					2130969205,
+					2130969222};
 			
 			// aapt resource value: 0
 			public const int CollapsingToolbarLayout_collapsedTitleGravity = 0;
@@ -12617,10 +17026,10 @@ namespace NDMA
 			// aapt resource value: 9
 			public const int CollapsingToolbarLayout_expandedTitleTextAppearance = 9;
 			
-			// aapt resource value: { 0x7F04010E,0x7F04010F }
+			// aapt resource value: { 0x7F040148,0x7F040149 }
 			public static int[] CollapsingToolbarLayout_Layout = new int[] {
-					2130968846,
-					2130968847};
+					2130968904,
+					2130968905};
 			
 			// aapt resource value: 0
 			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
@@ -12646,11 +17055,11 @@ namespace NDMA
 			// aapt resource value: 15
 			public const int CollapsingToolbarLayout_toolbarId = 15;
 			
-			// aapt resource value: { 0x10101A5,0x101031F,0x7F040027 }
+			// aapt resource value: { 0x10101A5,0x101031F,0x7F040033 }
 			public static int[] ColorStateListItem = new int[] {
 					16843173,
 					16843551,
-					2130968615};
+					2130968627};
 			
 			// aapt resource value: 2
 			public const int ColorStateListItem_alpha = 2;
@@ -12661,11 +17070,11 @@ namespace NDMA
 			// aapt resource value: 0
 			public const int ColorStateListItem_android_color = 0;
 			
-			// aapt resource value: { 0x1010107,0x7F040056,0x7F040057 }
+			// aapt resource value: { 0x1010107,0x7F04006E,0x7F04006F }
 			public static int[] CompoundButton = new int[] {
 					16843015,
-					2130968662,
-					2130968663};
+					2130968686,
+					2130968687};
 			
 			// aapt resource value: 0
 			public const int CompoundButton_android_button = 0;
@@ -12676,23 +17085,23 @@ namespace NDMA
 			// aapt resource value: 2
 			public const int CompoundButton_buttonTintMode = 2;
 			
-			// aapt resource value: { 0x7F040106,0x7F04016D }
+			// aapt resource value: { 0x7F04013F,0x7F04021E }
 			public static int[] CoordinatorLayout = new int[] {
-					2130968838,
-					2130968941};
+					2130968895,
+					2130969118};
 			
 			// aapt resource value: 0
 			public const int CoordinatorLayout_keylines = 0;
 			
-			// aapt resource value: { 0x10100B3,0x7F04010B,0x7F04010C,0x7F04010D,0x7F040110,0x7F040111,0x7F040112 }
+			// aapt resource value: { 0x10100B3,0x7F040145,0x7F040146,0x7F040147,0x7F04014A,0x7F04014B,0x7F04014C }
 			public static int[] CoordinatorLayout_Layout = new int[] {
 					16842931,
-					2130968843,
-					2130968844,
-					2130968845,
-					2130968848,
-					2130968849,
-					2130968850};
+					2130968901,
+					2130968902,
+					2130968903,
+					2130968906,
+					2130968907,
+					2130968908};
 			
 			// aapt resource value: 0
 			public const int CoordinatorLayout_Layout_android_layout_gravity = 0;
@@ -12718,10 +17127,10 @@ namespace NDMA
 			// aapt resource value: 1
 			public const int CoordinatorLayout_statusBarBackground = 1;
 			
-			// aapt resource value: { 0x7F040041,0x7F040042 }
+			// aapt resource value: { 0x7F040059,0x7F04005A }
 			public static int[] DesignTheme = new int[] {
-					2130968641,
-					2130968642};
+					2130968665,
+					2130968666};
 			
 			// aapt resource value: 0
 			public const int DesignTheme_bottomSheetDialogTheme = 0;
@@ -12729,16 +17138,16 @@ namespace NDMA
 			// aapt resource value: 1
 			public const int DesignTheme_bottomSheetStyle = 1;
 			
-			// aapt resource value: { 0x7F040029,0x7F04002A,0x7F040036,0x7F040083,0x7F0400AE,0x7F0400DC,0x7F040162,0x7F0401B2 }
+			// aapt resource value: { 0x7F040036,0x7F040037,0x7F04004D,0x7F04009F,0x7F0400D8,0x7F04010F,0x7F040213,0x7F040266 }
 			public static int[] DrawerArrowToggle = new int[] {
-					2130968617,
-					2130968618,
 					2130968630,
-					2130968707,
-					2130968750,
-					2130968796,
-					2130968930,
-					2130969010};
+					2130968631,
+					2130968653,
+					2130968735,
+					2130968792,
+					2130968847,
+					2130969107,
+					2130969190};
 			
 			// aapt resource value: 0
 			public const int DrawerArrowToggle_arrowHeadLength = 0;
@@ -12764,21 +17173,21 @@ namespace NDMA
 			// aapt resource value: 7
 			public const int DrawerArrowToggle_thickness = 7;
 			
-			// aapt resource value: { 0x7F040034,0x7F040035,0x7F04003D,0x7F0400B5,0x7F0400C7,0x7F0400C8,0x7F0400E3,0x7F0400EB,0x7F040129,0x7F040143,0x7F04014D,0x7F040159,0x7F0401D0 }
+			// aapt resource value: { 0x7F040047,0x7F040048,0x7F040055,0x7F0400E1,0x7F0400F7,0x7F0400F8,0x7F04011A,0x7F040122,0x7F040196,0x7F0401D6,0x7F0401F1,0x7F040208,0x7F040292 }
 			public static int[] FloatingActionButton = new int[] {
-					2130968628,
-					2130968629,
-					2130968637,
-					2130968757,
-					2130968775,
-					2130968776,
-					2130968803,
-					2130968811,
-					2130968873,
-					2130968899,
-					2130968909,
-					2130968921,
-					2130969040};
+					2130968647,
+					2130968648,
+					2130968661,
+					2130968801,
+					2130968823,
+					2130968824,
+					2130968858,
+					2130968866,
+					2130968982,
+					2130969046,
+					2130969073,
+					2130969096,
+					2130969234};
 			
 			// aapt resource value: 0
 			public const int FloatingActionButton_backgroundTint = 0;
@@ -12786,9 +17195,9 @@ namespace NDMA
 			// aapt resource value: 1
 			public const int FloatingActionButton_backgroundTintMode = 1;
 			
-			// aapt resource value: { 0x7F040037 }
+			// aapt resource value: { 0x7F04004E }
 			public static int[] FloatingActionButton_Behavior_Layout = new int[] {
-					2130968631};
+					2130968654};
 			
 			// aapt resource value: 0
 			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
@@ -12826,10 +17235,10 @@ namespace NDMA
 			// aapt resource value: 12
 			public const int FloatingActionButton_useCompatPadding = 12;
 			
-			// aapt resource value: { 0x7F040101,0x7F040117 }
+			// aapt resource value: { 0x7F04013A,0x7F04016C }
 			public static int[] FlowLayout = new int[] {
-					2130968833,
-					2130968855};
+					2130968890,
+					2130968940};
 			
 			// aapt resource value: 0
 			public const int FlowLayout_itemSpacing = 0;
@@ -12837,27 +17246,27 @@ namespace NDMA
 			// aapt resource value: 1
 			public const int FlowLayout_lineSpacing = 1;
 			
-			// aapt resource value: { 0x7F0400D2,0x7F0400D3,0x7F0400D4,0x7F0400D5,0x7F0400D6,0x7F0400D7 }
+			// aapt resource value: { 0x7F040102,0x7F040103,0x7F040104,0x7F040105,0x7F040106,0x7F040107 }
 			public static int[] FontFamily = new int[] {
-					2130968786,
-					2130968787,
-					2130968788,
-					2130968789,
-					2130968790,
-					2130968791};
+					2130968834,
+					2130968835,
+					2130968836,
+					2130968837,
+					2130968838,
+					2130968839};
 			
-			// aapt resource value: { 0x1010532,0x1010533,0x101053F,0x101056F,0x1010570,0x7F0400D0,0x7F0400D8,0x7F0400D9,0x7F0400DA,0x7F0401CF }
+			// aapt resource value: { 0x1010532,0x1010533,0x101053F,0x101056F,0x1010570,0x7F040100,0x7F040109,0x7F04010A,0x7F04010B,0x7F040291 }
 			public static int[] FontFamilyFont = new int[] {
 					16844082,
 					16844083,
 					16844095,
 					16844143,
 					16844144,
-					2130968784,
-					2130968792,
-					2130968793,
-					2130968794,
-					2130969039};
+					2130968832,
+					2130968841,
+					2130968842,
+					2130968843,
+					2130969233};
 			
 			// aapt resource value: 0
 			public const int FontFamilyFont_android_font = 0;
@@ -12907,11 +17316,11 @@ namespace NDMA
 			// aapt resource value: 5
 			public const int FontFamily_fontProviderQuery = 5;
 			
-			// aapt resource value: { 0x1010109,0x1010200,0x7F0400DB }
+			// aapt resource value: { 0x1010109,0x1010200,0x7F04010C }
 			public static int[] ForegroundLinearLayout = new int[] {
 					16843017,
 					16843264,
-					2130968795};
+					2130968844};
 			
 			// aapt resource value: 0
 			public const int ForegroundLinearLayout_android_foreground = 0;
@@ -12984,17 +17393,17 @@ namespace NDMA
 			// aapt resource value: 2
 			public const int GradientColor_android_type = 2;
 			
-			// aapt resource value: { 0x10100AF,0x10100C4,0x1010126,0x1010127,0x1010128,0x7F0400AA,0x7F0400AC,0x7F04012A,0x7F040158 }
+			// aapt resource value: { 0x10100AF,0x10100C4,0x1010126,0x1010127,0x1010128,0x7F0400D4,0x7F0400D6,0x7F04019A,0x7F040205 }
 			public static int[] LinearLayoutCompat = new int[] {
 					16842927,
 					16842948,
 					16843046,
 					16843047,
 					16843048,
-					2130968746,
-					2130968748,
-					2130968874,
-					2130968920};
+					2130968788,
+					2130968790,
+					2130968986,
+					2130969093};
 			
 			// aapt resource value: 2
 			public const int LinearLayoutCompat_android_baselineAligned = 2;
@@ -13053,24 +17462,24 @@ namespace NDMA
 			// aapt resource value: 1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
 			
-			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F040034,0x7F040035,0x7F04009F,0x7F0400EC,0x7F0400EE,0x7F0400EF,0x7F0400F0,0x7F0400F2,0x7F0400F3,0x7F04014D,0x7F04016F,0x7F040170 }
+			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F040047,0x7F040048,0x7F0400BF,0x7F040123,0x7F040125,0x7F040126,0x7F040127,0x7F040129,0x7F04012A,0x7F0401F1,0x7F040220,0x7F040221 }
 			public static int[] MaterialButton = new int[] {
 					16843191,
 					16843192,
 					16843193,
 					16843194,
-					2130968628,
-					2130968629,
-					2130968735,
-					2130968812,
-					2130968814,
-					2130968815,
-					2130968816,
-					2130968818,
-					2130968819,
-					2130968909,
-					2130968943,
-					2130968944};
+					2130968647,
+					2130968648,
+					2130968767,
+					2130968867,
+					2130968869,
+					2130968870,
+					2130968871,
+					2130968873,
+					2130968874,
+					2130969073,
+					2130969120,
+					2130969121};
 			
 			// aapt resource value: 3
 			public const int MaterialButton_android_insetBottom = 3;
@@ -13120,10 +17529,10 @@ namespace NDMA
 			// aapt resource value: 15
 			public const int MaterialButton_strokeWidth = 15;
 			
-			// aapt resource value: { 0x7F04016F,0x7F040170 }
+			// aapt resource value: { 0x7F040220,0x7F040221 }
 			public static int[] MaterialCardView = new int[] {
-					2130968943,
-					2130968944};
+					2130969120,
+					2130969121};
 			
 			// aapt resource value: 0
 			public const int MaterialCardView_strokeColor = 0;
@@ -13131,40 +17540,40 @@ namespace NDMA
 			// aapt resource value: 1
 			public const int MaterialCardView_strokeWidth = 1;
 			
-			// aapt resource value: { 0x7F040041,0x7F040042,0x7F040068,0x7F040072,0x7F040076,0x7F040084,0x7F040085,0x7F04008B,0x7F04008C,0x7F04008D,0x7F0400B4,0x7F0400CF,0x7F040125,0x7F040126,0x7F040130,0x7F04014F,0x7F04015F,0x7F040192,0x7F040197,0x7F040198,0x7F040199,0x7F04019A,0x7F04019B,0x7F04019C,0x7F04019D,0x7F04019E,0x7F04019F,0x7F0401A0,0x7F0401A5,0x7F0401AA,0x7F0401AB,0x7F0401AF }
+			// aapt resource value: { 0x7F040059,0x7F04005A,0x7F040084,0x7F04008E,0x7F040092,0x7F0400A0,0x7F0400A1,0x7F0400A8,0x7F0400A9,0x7F0400AA,0x7F0400DF,0x7F0400FF,0x7F040192,0x7F040193,0x7F0401B9,0x7F0401F8,0x7F04020F,0x7F040243,0x7F04024B,0x7F04024C,0x7F04024D,0x7F04024E,0x7F04024F,0x7F040250,0x7F040251,0x7F040252,0x7F040253,0x7F040254,0x7F040259,0x7F04025E,0x7F04025F,0x7F040263 }
 			public static int[] MaterialComponentsTheme = new int[] {
-					2130968641,
-					2130968642,
-					2130968680,
-					2130968690,
-					2130968694,
+					2130968665,
+					2130968666,
 					2130968708,
-					2130968709,
-					2130968715,
-					2130968716,
-					2130968717,
-					2130968756,
-					2130968783,
-					2130968869,
-					2130968870,
-					2130968880,
-					2130968911,
-					2130968927,
+					2130968718,
+					2130968722,
+					2130968736,
+					2130968737,
+					2130968744,
+					2130968745,
+					2130968746,
+					2130968799,
+					2130968831,
 					2130968978,
-					2130968983,
-					2130968984,
-					2130968985,
-					2130968986,
-					2130968987,
-					2130968988,
-					2130968989,
-					2130968990,
-					2130968991,
-					2130968992,
-					2130968997,
-					2130969002,
-					2130969003,
-					2130969007};
+					2130968979,
+					2130969017,
+					2130969080,
+					2130969103,
+					2130969155,
+					2130969163,
+					2130969164,
+					2130969165,
+					2130969166,
+					2130969167,
+					2130969168,
+					2130969169,
+					2130969170,
+					2130969171,
+					2130969172,
+					2130969177,
+					2130969182,
+					2130969183,
+					2130969187};
 			
 			// aapt resource value: 0
 			public const int MaterialComponentsTheme_bottomSheetDialogTheme = 0;
@@ -13289,7 +17698,7 @@ namespace NDMA
 			// aapt resource value: 2
 			public const int MenuGroup_android_visible = 2;
 			
-			// aapt resource value: { 0x1010002,0x101000E,0x10100D0,0x1010106,0x1010194,0x10101DE,0x10101DF,0x10101E1,0x10101E2,0x10101E3,0x10101E4,0x10101E5,0x101026F,0x7F04000D,0x7F04001F,0x7F040020,0x7F040028,0x7F040090,0x7F0400F2,0x7F0400F3,0x7F040131,0x7F040157,0x7F0401CB }
+			// aapt resource value: { 0x1010002,0x101000E,0x10100D0,0x1010106,0x1010194,0x10101DE,0x10101DF,0x10101E1,0x10101E2,0x10101E3,0x10101E4,0x10101E5,0x101026F,0x7F04000D,0x7F04001F,0x7F040020,0x7F040034,0x7F0400B0,0x7F040129,0x7F04012A,0x7F0401BD,0x7F040204,0x7F04028D }
 			public static int[] MenuItem = new int[] {
 					16842754,
 					16842766,
@@ -13307,13 +17716,13 @@ namespace NDMA
 					2130968589,
 					2130968607,
 					2130968608,
-					2130968616,
-					2130968720,
-					2130968818,
-					2130968819,
-					2130968881,
-					2130968919,
-					2130969035};
+					2130968628,
+					2130968752,
+					2130968873,
+					2130968874,
+					2130969021,
+					2130969092,
+					2130969229};
 			
 			// aapt resource value: 13
 			public const int MenuItem_actionLayout = 13;
@@ -13384,7 +17793,7 @@ namespace NDMA
 			// aapt resource value: 22
 			public const int MenuItem_tooltipText = 22;
 			
-			// aapt resource value: { 0x10100AE,0x101012C,0x101012D,0x101012E,0x101012F,0x1010130,0x1010131,0x7F040142,0x7F040171 }
+			// aapt resource value: { 0x10100AE,0x101012C,0x101012D,0x101012E,0x101012F,0x1010130,0x1010131,0x7F0401D5,0x7F040222 }
 			public static int[] MenuView = new int[] {
 					16842926,
 					16843052,
@@ -13393,8 +17802,8 @@ namespace NDMA
 					16843055,
 					16843056,
 					16843057,
-					2130968898,
-					2130968945};
+					2130969045,
+					2130969122};
 			
 			// aapt resource value: 4
 			public const int MenuView_android_headerBackground = 4;
@@ -13423,20 +17832,20 @@ namespace NDMA
 			// aapt resource value: 8
 			public const int MenuView_subMenuArrow = 8;
 			
-			// aapt resource value: { 0x10100D4,0x10100DD,0x101011F,0x7F0400B5,0x7F0400DE,0x7F0400FA,0x7F0400FB,0x7F0400FD,0x7F0400FF,0x7F040102,0x7F040105,0x7F04012B }
+			// aapt resource value: { 0x10100D4,0x10100DD,0x101011F,0x7F0400E1,0x7F040114,0x7F040133,0x7F040134,0x7F040136,0x7F040138,0x7F04013B,0x7F04013E,0x7F04019B }
 			public static int[] NavigationView = new int[] {
 					16842964,
 					16842973,
 					16843039,
-					2130968757,
-					2130968798,
-					2130968826,
-					2130968827,
-					2130968829,
-					2130968831,
-					2130968834,
-					2130968837,
-					2130968875};
+					2130968801,
+					2130968852,
+					2130968883,
+					2130968884,
+					2130968886,
+					2130968888,
+					2130968891,
+					2130968894,
+					2130968987};
 			
 			// aapt resource value: 0
 			public const int NavigationView_android_background = 0;
@@ -13474,15 +17883,15 @@ namespace NDMA
 			// aapt resource value: 11
 			public const int NavigationView_menu = 11;
 			
-			// aapt resource value: { 0x1010176,0x10102C9,0x7F040132 }
+			// aapt resource value: { 0x1010176,0x10102C9,0x7F0401C0 }
 			public static int[] PopupWindow = new int[] {
 					16843126,
 					16843465,
-					2130968882};
+					2130969024};
 			
-			// aapt resource value: { 0x7F040168 }
+			// aapt resource value: { 0x7F040219 }
 			public static int[] PopupWindowBackgroundState = new int[] {
-					2130968936};
+					2130969113};
 			
 			// aapt resource value: 0
 			public const int PopupWindowBackgroundState_state_above_anchor = 0;
@@ -13496,10 +17905,10 @@ namespace NDMA
 			// aapt resource value: 2
 			public const int PopupWindow_overlapAnchor = 2;
 			
-			// aapt resource value: { 0x7F040133,0x7F040136 }
+			// aapt resource value: { 0x7F0401C2,0x7F0401C5 }
 			public static int[] RecycleListView = new int[] {
-					2130968883,
-					2130968886};
+					2130969026,
+					2130969029};
 			
 			// aapt resource value: 0
 			public const int RecycleListView_paddingBottomNoButtons = 0;
@@ -13507,19 +17916,19 @@ namespace NDMA
 			// aapt resource value: 1
 			public const int RecycleListView_paddingTopNoTitle = 1;
 			
-			// aapt resource value: { 0x10100C4,0x10100F1,0x7F0400C9,0x7F0400CA,0x7F0400CB,0x7F0400CC,0x7F0400CD,0x7F04010A,0x7F04014C,0x7F040161,0x7F040167 }
+			// aapt resource value: { 0x10100C4,0x10100F1,0x7F0400F9,0x7F0400FA,0x7F0400FB,0x7F0400FC,0x7F0400FD,0x7F040144,0x7F0401E3,0x7F040212,0x7F040218 }
 			public static int[] RecyclerView = new int[] {
 					16842948,
 					16842993,
-					2130968777,
-					2130968778,
-					2130968779,
-					2130968780,
-					2130968781,
-					2130968842,
-					2130968908,
-					2130968929,
-					2130968935};
+					2130968825,
+					2130968826,
+					2130968827,
+					2130968828,
+					2130968829,
+					2130968900,
+					2130969059,
+					2130969106,
+					2130969112};
 			
 			// aapt resource value: 1
 			public const int RecyclerView_android_descendantFocusability = 1;
@@ -13554,39 +17963,53 @@ namespace NDMA
 			// aapt resource value: 10
 			public const int RecyclerView_stackFromEnd = 10;
 			
-			// aapt resource value: { 0x7F0400F8 }
+			// aapt resource value: { 0x10100C4 }
+			public static int[] SciChartHeatmapColourMap = new int[] {
+					16842948};
+			
+			// aapt resource value: 0
+			public const int SciChartHeatmapColourMap_android_orientation = 0;
+			
+			// aapt resource value: { 0x10100C4 }
+			public static int[] SciChartLegend = new int[] {
+					16842948};
+			
+			// aapt resource value: 0
+			public const int SciChartLegend_android_orientation = 0;
+			
+			// aapt resource value: { 0x7F040130 }
 			public static int[] ScrimInsetsFrameLayout = new int[] {
-					2130968824};
+					2130968880};
 			
 			// aapt resource value: 0
 			public const int ScrimInsetsFrameLayout_insetForeground = 0;
 			
-			// aapt resource value: { 0x7F04003A }
+			// aapt resource value: { 0x7F040051 }
 			public static int[] ScrollingViewBehavior_Layout = new int[] {
-					2130968634};
+					2130968657};
 			
 			// aapt resource value: 0
 			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
 			
-			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F040077,0x7F04008F,0x7F0400A5,0x7F0400DD,0x7F0400F4,0x7F040109,0x7F040146,0x7F040147,0x7F040151,0x7F040152,0x7F040172,0x7F040177,0x7F0401D2 }
+			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F040093,0x7F0400AF,0x7F0400CB,0x7F040110,0x7F04012B,0x7F040143,0x7F0401D9,0x7F0401DA,0x7F0401FB,0x7F0401FC,0x7F040223,0x7F040228,0x7F040299 }
 			public static int[] SearchView = new int[] {
 					16842970,
 					16843039,
 					16843296,
 					16843364,
-					2130968695,
-					2130968719,
-					2130968741,
-					2130968797,
-					2130968820,
-					2130968841,
-					2130968902,
-					2130968903,
-					2130968913,
-					2130968914,
-					2130968946,
-					2130968951,
-					2130969042};
+					2130968723,
+					2130968751,
+					2130968779,
+					2130968848,
+					2130968875,
+					2130968899,
+					2130969049,
+					2130969050,
+					2130969083,
+					2130969084,
+					2130969123,
+					2130969128,
+					2130969241};
 			
 			// aapt resource value: 0
 			public const int SearchView_android_focusable = 0;
@@ -13639,16 +18062,723 @@ namespace NDMA
 			// aapt resource value: 16
 			public const int SearchView_voiceIcon = 16;
 			
-			// aapt resource value: { 0x7F04015F,0x7F040160 }
-			public static int[] Snackbar = new int[] {
+			// aapt resource value: { 0x7F0400A7,0x7F0400E4,0x7F0400E5,0x7F04015D,0x7F04015E,0x7F04015F,0x7F040160,0x7F040161,0x7F040162,0x7F040163,0x7F040164,0x7F040165,0x7F040166,0x7F040273,0x7F040274,0x7F04027C,0x7F04027D,0x7F04027E,0x7F04027F,0x7F040280,0x7F040281,0x7F0402A6,0x7F0402A7,0x7F0402A8,0x7F0402A9,0x7F0402AA,0x7F0402AB,0x7F0402AC,0x7F0402AD,0x7F0402AE,0x7F0402AF,0x7F0402B0,0x7F0402B1,0x7F0402B2,0x7F0402B3,0x7F0402B4,0x7F0402B5,0x7F0402B6,0x7F0402B7 }
+			public static int[] SfChart = new int[] {
+					2130968743,
+					2130968804,
+					2130968805,
+					2130968925,
+					2130968926,
 					2130968927,
-					2130968928};
+					2130968928,
+					2130968929,
+					2130968930,
+					2130968931,
+					2130968932,
+					2130968933,
+					2130968934,
+					2130969203,
+					2130969204,
+					2130969212,
+					2130969213,
+					2130969214,
+					2130969215,
+					2130969216,
+					2130969217,
+					2130969254,
+					2130969255,
+					2130969256,
+					2130969257,
+					2130969258,
+					2130969259,
+					2130969260,
+					2130969261,
+					2130969262,
+					2130969263,
+					2130969264,
+					2130969265,
+					2130969266,
+					2130969267,
+					2130969268,
+					2130969269,
+					2130969270,
+					2130969271};
 			
-			// aapt resource value: { 0x101011F,0x7F0400B5,0x7F040127 }
+			// aapt resource value: 0
+			public const int SfChart_colorPalette = 0;
+			
+			// aapt resource value: 1
+			public const int SfChart_enableTrackball = 1;
+			
+			// aapt resource value: 2
+			public const int SfChart_enableZooming = 2;
+			
+			// aapt resource value: 3
+			public const int SfChart_legendDockPosition = 3;
+			
+			// aapt resource value: 4
+			public const int SfChart_legendIconHeight = 4;
+			
+			// aapt resource value: 5
+			public const int SfChart_legendIconWidth = 5;
+			
+			// aapt resource value: 6
+			public const int SfChart_legendItemMarginBottom = 6;
+			
+			// aapt resource value: 7
+			public const int SfChart_legendItemMarginLeft = 7;
+			
+			// aapt resource value: 8
+			public const int SfChart_legendItemMarginRight = 8;
+			
+			// aapt resource value: 9
+			public const int SfChart_legendItemMarginTop = 9;
+			
+			// aapt resource value: 10
+			public const int SfChart_legendOrientation = 10;
+			
+			// aapt resource value: 11
+			public const int SfChart_legendTitleText = 11;
+			
+			// aapt resource value: 12
+			public const int SfChart_legendVisibility = 12;
+			
+			// aapt resource value: 13
+			public const int SfChart_titleBackgroundColor = 13;
+			
+			// aapt resource value: 14
+			public const int SfChart_titleColor = 14;
+			
+			// aapt resource value: 15
+			public const int SfChart_titlePaddingBottom = 15;
+			
+			// aapt resource value: 16
+			public const int SfChart_titlePaddingLeft = 16;
+			
+			// aapt resource value: 17
+			public const int SfChart_titlePaddingRight = 17;
+			
+			// aapt resource value: 18
+			public const int SfChart_titlePaddingTop = 18;
+			
+			// aapt resource value: 19
+			public const int SfChart_titleSize = 19;
+			
+			// aapt resource value: 20
+			public const int SfChart_titleText = 20;
+			
+			// aapt resource value: 21
+			public const int SfChart_xAxis = 21;
+			
+			// aapt resource value: 22
+			public const int SfChart_xAxisLineColor = 22;
+			
+			// aapt resource value: 23
+			public const int SfChart_xAxisLineWidth = 23;
+			
+			// aapt resource value: 24
+			public const int SfChart_xAxisMajorGridLineColor = 24;
+			
+			// aapt resource value: 25
+			public const int SfChart_xAxisMajorGridLineWidth = 25;
+			
+			// aapt resource value: 26
+			public const int SfChart_xAxisTitleBackgroundColor = 26;
+			
+			// aapt resource value: 27
+			public const int SfChart_xAxisTitleSize = 27;
+			
+			// aapt resource value: 28
+			public const int SfChart_xAxisTitleText = 28;
+			
+			// aapt resource value: 29
+			public const int SfChart_xAxisTitleTextColor = 29;
+			
+			// aapt resource value: 30
+			public const int SfChart_yAxis = 30;
+			
+			// aapt resource value: 31
+			public const int SfChart_yAxisLineColor = 31;
+			
+			// aapt resource value: 32
+			public const int SfChart_yAxisLineWidth = 32;
+			
+			// aapt resource value: 33
+			public const int SfChart_yAxisMajorGridLineColor = 33;
+			
+			// aapt resource value: 34
+			public const int SfChart_yAxisMajorGridLineWidth = 34;
+			
+			// aapt resource value: 35
+			public const int SfChart_yAxisTitleBackgroundColor = 35;
+			
+			// aapt resource value: 36
+			public const int SfChart_yAxisTitleSize = 36;
+			
+			// aapt resource value: 37
+			public const int SfChart_yAxisTitleText = 37;
+			
+			// aapt resource value: 38
+			public const int SfChart_yAxisTitleTextColor = 38;
+			
+			// aapt resource value: { 0x7F040026,0x7F040027,0x7F040028,0x7F040029,0x7F04002A,0x7F04002B,0x7F04002D,0x7F04002E,0x7F04002F,0x7F040031,0x7F040032,0x7F040035,0x7F040039,0x7F04003A,0x7F0400AE,0x7F0400DC,0x7F0400E0,0x7F04010D,0x7F04010E,0x7F040111,0x7F040112,0x7F040113,0x7F040115,0x7F04012D,0x7F040131,0x7F040178,0x7F040179,0x7F040197,0x7F0401E2,0x7F0401F3,0x7F0401FA,0x7F040202,0x7F040209,0x7F040211,0x7F040295 }
+			public static int[] SfDataGrid = new int[] {
+					2130968614,
+					2130968615,
+					2130968616,
+					2130968617,
+					2130968618,
+					2130968619,
+					2130968621,
+					2130968622,
+					2130968623,
+					2130968625,
+					2130968626,
+					2130968629,
+					2130968633,
+					2130968634,
+					2130968750,
+					2130968796,
+					2130968800,
+					2130968845,
+					2130968846,
+					2130968849,
+					2130968850,
+					2130968851,
+					2130968853,
+					2130968877,
+					2130968881,
+					2130968952,
+					2130968953,
+					2130968983,
+					2130969058,
+					2130969075,
+					2130969082,
+					2130969090,
+					2130969097,
+					2130969105,
+					2130969237};
+			
+			// aapt resource value: 0
+			public const int SfDataGrid_allowDraggingColumn = 0;
+			
+			// aapt resource value: 1
+			public const int SfDataGrid_allowDraggingRow = 1;
+			
+			// aapt resource value: 2
+			public const int SfDataGrid_allowEditing = 2;
+			
+			// aapt resource value: 3
+			public const int SfDataGrid_allowGroupExpandCollapse = 3;
+			
+			// aapt resource value: 4
+			public const int SfDataGrid_allowLoadMore = 4;
+			
+			// aapt resource value: 5
+			public const int SfDataGrid_allowMultiSorting = 5;
+			
+			// aapt resource value: 6
+			public const int SfDataGrid_allowPullToRefresh = 6;
+			
+			// aapt resource value: 7
+			public const int SfDataGrid_allowResizingColumn = 7;
+			
+			// aapt resource value: 8
+			public const int SfDataGrid_allowSorting = 8;
+			
+			// aapt resource value: 9
+			public const int SfDataGrid_allowSwiping = 9;
+			
+			// aapt resource value: 10
+			public const int SfDataGrid_allowTriStateSorting = 10;
+			
+			// aapt resource value: 11
+			public const int SfDataGrid_alternationCount = 11;
+			
+			// aapt resource value: 12
+			public const int SfDataGrid_autoExpandGroups = 12;
+			
+			// aapt resource value: 13
+			public const int SfDataGrid_autoGenerateColumns = 13;
+			
+			// aapt resource value: 14
+			public const int SfDataGrid_columnSizer = 14;
+			
+			// aapt resource value: 16
+			public const int SfDataGrid_editorSelectionBehavior = 16;
+			
+			// aapt resource value: 15
+			public const int SfDataGrid_editTapAction = 15;
+			
+			// aapt resource value: 17
+			public const int SfDataGrid_frozenColumnsCount = 17;
+			
+			// aapt resource value: 18
+			public const int SfDataGrid_frozenRowsCount = 18;
+			
+			// aapt resource value: 19
+			public const int SfDataGrid_gridRowHeight = 19;
+			
+			// aapt resource value: 20
+			public const int SfDataGrid_gridSelectionMode = 20;
+			
+			// aapt resource value: 21
+			public const int SfDataGrid_groupingMode = 21;
+			
+			// aapt resource value: 22
+			public const int SfDataGrid_headerRowHeight = 22;
+			
+			// aapt resource value: 23
+			public const int SfDataGrid_indentColumnWidth = 23;
+			
+			// aapt resource value: 24
+			public const int SfDataGrid_isBusy = 24;
+			
+			// aapt resource value: 25
+			public const int SfDataGrid_loadMorePosition = 25;
+			
+			// aapt resource value: 26
+			public const int SfDataGrid_loadMoreText = 26;
+			
+			// aapt resource value: 27
+			public const int SfDataGrid_maxSwipeOffset = 27;
+			
+			// aapt resource value: 28
+			public const int SfDataGrid_resizingMode = 28;
+			
+			// aapt resource value: 29
+			public const int SfDataGrid_rowHeaderWidth = 29;
+			
+			// aapt resource value: 30
+			public const int SfDataGrid_scrollingMode = 30;
+			
+			// aapt resource value: 31
+			public const int SfDataGrid_selectedIndex = 31;
+			
+			// aapt resource value: 32
+			public const int SfDataGrid_showRowHeader = 32;
+			
+			// aapt resource value: 33
+			public const int SfDataGrid_sortTapAction = 33;
+			
+			// aapt resource value: 34
+			public const int SfDataGrid_verticalOverScrollMode = 34;
+			
+			// aapt resource value: { 0x7F0401BB,0x7F0401BC,0x7F0401BF,0x7F0401C6,0x7F0401C7,0x7F040203,0x7F040293 }
+			public static int[] SfDataPager = new int[] {
+					2130969019,
+					2130969020,
+					2130969023,
+					2130969030,
+					2130969031,
+					2130969091,
+					2130969235};
+			
+			// aapt resource value: 0
+			public const int SfDataPager_numericButtonBackground = 0;
+			
+			// aapt resource value: 1
+			public const int SfDataPager_numericButtonCount = 1;
+			
+			// aapt resource value: 2
+			public const int SfDataPager_orientation = 2;
+			
+			// aapt resource value: 3
+			public const int SfDataPager_pageCount = 3;
+			
+			// aapt resource value: 4
+			public const int SfDataPager_pageSize = 4;
+			
+			// aapt resource value: 5
+			public const int SfDataPager_selectionForeground = 5;
+			
+			// aapt resource value: 6
+			public const int SfDataPager_useOnDemandPaging = 6;
+			
+			// aapt resource value: { 0x7F0400CE,0x7F0400CF,0x7F0400E3,0x7F04014F,0x7F040150,0x7F040151,0x7F040152,0x7F040153,0x7F040154,0x7F040155,0x7F040156,0x7F040157,0x7F040158,0x7F040159,0x7F04015A,0x7F04015B,0x7F04017D,0x7F04017E,0x7F04017F,0x7F040180,0x7F040181,0x7F040182,0x7F040183,0x7F040184,0x7F040185,0x7F040186,0x7F040187,0x7F040188,0x7F040189,0x7F04018A,0x7F04018B,0x7F04018C,0x7F04018D,0x7F04018E,0x7F04018F,0x7F040190,0x7F040199,0x7F04019C,0x7F04019E,0x7F04019F,0x7F0401A0,0x7F0401A1,0x7F0401A2,0x7F0401A3,0x7F0401A4,0x7F0401A5,0x7F0401A6,0x7F0401A7,0x7F0401A8,0x7F0401A9,0x7F0401AA,0x7F0401AB,0x7F0401AC,0x7F0401AD,0x7F0401AE,0x7F0401AF,0x7F0401B0,0x7F0401B1,0x7F0401C1,0x7F0401E4,0x7F0401E5,0x7F0401E6,0x7F0401E7,0x7F0401E8,0x7F0401E9,0x7F0401EA,0x7F0401EB,0x7F0401EC,0x7F0401ED,0x7F0401EE,0x7F0401EF,0x7F0401F0,0x7F040206,0x7F040207,0x7F040289,0x7F04028B,0x7F040297,0x7F040298 }
+			public static int[] SfDateTimeRangeNavigator = new int[] {
+					2130968782,
+					2130968783,
+					2130968803,
+					2130968911,
+					2130968912,
+					2130968913,
+					2130968914,
+					2130968915,
+					2130968916,
+					2130968917,
+					2130968918,
+					2130968919,
+					2130968920,
+					2130968921,
+					2130968922,
+					2130968923,
+					2130968957,
+					2130968958,
+					2130968959,
+					2130968960,
+					2130968961,
+					2130968962,
+					2130968963,
+					2130968964,
+					2130968965,
+					2130968966,
+					2130968967,
+					2130968968,
+					2130968969,
+					2130968970,
+					2130968971,
+					2130968972,
+					2130968973,
+					2130968974,
+					2130968975,
+					2130968976,
+					2130968985,
+					2130968988,
+					2130968990,
+					2130968991,
+					2130968992,
+					2130968993,
+					2130968994,
+					2130968995,
+					2130968996,
+					2130968997,
+					2130968998,
+					2130968999,
+					2130969000,
+					2130969001,
+					2130969002,
+					2130969003,
+					2130969004,
+					2130969005,
+					2130969006,
+					2130969007,
+					2130969008,
+					2130969009,
+					2130969025,
+					2130969060,
+					2130969061,
+					2130969062,
+					2130969063,
+					2130969064,
+					2130969065,
+					2130969066,
+					2130969067,
+					2130969068,
+					2130969069,
+					2130969070,
+					2130969071,
+					2130969072,
+					2130969094,
+					2130969095,
+					2130969225,
+					2130969227,
+					2130969239,
+					2130969240};
+			
+			// aapt resource value: 0
+			public const int SfDateTimeRangeNavigator_deferredUpdateDelay = 0;
+			
+			// aapt resource value: 1
+			public const int SfDateTimeRangeNavigator_deferredUpdateEnabled = 1;
+			
+			// aapt resource value: 2
+			public const int SfDateTimeRangeNavigator_enableTooltip = 2;
+			
+			// aapt resource value: 3
+			public const int SfDateTimeRangeNavigator_leftThumbBackground = 3;
+			
+			// aapt resource value: 4
+			public const int SfDateTimeRangeNavigator_leftThumbHeight = 4;
+			
+			// aapt resource value: 5
+			public const int SfDateTimeRangeNavigator_leftThumbLineColor = 5;
+			
+			// aapt resource value: 6
+			public const int SfDateTimeRangeNavigator_leftThumbLineWidth = 6;
+			
+			// aapt resource value: 7
+			public const int SfDateTimeRangeNavigator_leftThumbStroke = 7;
+			
+			// aapt resource value: 8
+			public const int SfDateTimeRangeNavigator_leftThumbStrokeWidth = 8;
+			
+			// aapt resource value: 9
+			public const int SfDateTimeRangeNavigator_leftThumbWidth = 9;
+			
+			// aapt resource value: 10
+			public const int SfDateTimeRangeNavigator_leftTooltipBackgroundColor = 10;
+			
+			// aapt resource value: 11
+			public const int SfDateTimeRangeNavigator_leftTooltipMargin = 11;
+			
+			// aapt resource value: 12
+			public const int SfDateTimeRangeNavigator_leftTooltipStrokeColor = 12;
+			
+			// aapt resource value: 13
+			public const int SfDateTimeRangeNavigator_leftTooltipStrokeWidth = 13;
+			
+			// aapt resource value: 14
+			public const int SfDateTimeRangeNavigator_leftTooltipTextColor = 14;
+			
+			// aapt resource value: 15
+			public const int SfDateTimeRangeNavigator_leftTooltipTextSize = 15;
+			
+			// aapt resource value: 16
+			public const int SfDateTimeRangeNavigator_majorScaleGridLineColor = 16;
+			
+			// aapt resource value: 17
+			public const int SfDateTimeRangeNavigator_majorScaleGridLineWidth = 17;
+			
+			// aapt resource value: 18
+			public const int SfDateTimeRangeNavigator_majorScaleLabelAlignment = 18;
+			
+			// aapt resource value: 19
+			public const int SfDateTimeRangeNavigator_majorScaleLabelBackground = 19;
+			
+			// aapt resource value: 20
+			public const int SfDateTimeRangeNavigator_majorScaleLabelFormat = 20;
+			
+			// aapt resource value: 21
+			public const int SfDateTimeRangeNavigator_majorScaleLabelMargin = 21;
+			
+			// aapt resource value: 22
+			public const int SfDateTimeRangeNavigator_majorScaleLabelStroke = 22;
+			
+			// aapt resource value: 23
+			public const int SfDateTimeRangeNavigator_majorScaleLabelStrokeWidth = 23;
+			
+			// aapt resource value: 24
+			public const int SfDateTimeRangeNavigator_majorScaleLabelTextColor = 24;
+			
+			// aapt resource value: 25
+			public const int SfDateTimeRangeNavigator_majorScaleLabelTextSize = 25;
+			
+			// aapt resource value: 26
+			public const int SfDateTimeRangeNavigator_majorScalePosition = 26;
+			
+			// aapt resource value: 27
+			public const int SfDateTimeRangeNavigator_majorScaleSelectedLabelBackground = 27;
+			
+			// aapt resource value: 28
+			public const int SfDateTimeRangeNavigator_majorScaleSelectedLabelMargin = 28;
+			
+			// aapt resource value: 29
+			public const int SfDateTimeRangeNavigator_majorScaleSelectedLabelStroke = 29;
+			
+			// aapt resource value: 30
+			public const int SfDateTimeRangeNavigator_majorScaleSelectedLabelStrokeWidth = 30;
+			
+			// aapt resource value: 31
+			public const int SfDateTimeRangeNavigator_majorScaleSelectedLabelTextColor = 31;
+			
+			// aapt resource value: 32
+			public const int SfDateTimeRangeNavigator_majorScaleSelectedLabelTextSize = 32;
+			
+			// aapt resource value: 33
+			public const int SfDateTimeRangeNavigator_majorScaleTickColor = 33;
+			
+			// aapt resource value: 34
+			public const int SfDateTimeRangeNavigator_majorScaleTickWidth = 34;
+			
+			// aapt resource value: 35
+			public const int SfDateTimeRangeNavigator_majorScaleVisibility = 35;
+			
+			// aapt resource value: 36
+			public const int SfDateTimeRangeNavigator_maximumValue = 36;
+			
+			// aapt resource value: 37
+			public const int SfDateTimeRangeNavigator_minimumValue = 37;
+			
+			// aapt resource value: 38
+			public const int SfDateTimeRangeNavigator_minorScaleGridLineColor = 38;
+			
+			// aapt resource value: 39
+			public const int SfDateTimeRangeNavigator_minorScaleGridLineWidth = 39;
+			
+			// aapt resource value: 40
+			public const int SfDateTimeRangeNavigator_minorScaleLabelAlignment = 40;
+			
+			// aapt resource value: 41
+			public const int SfDateTimeRangeNavigator_minorScaleLabelBackground = 41;
+			
+			// aapt resource value: 42
+			public const int SfDateTimeRangeNavigator_minorScaleLabelFormat = 42;
+			
+			// aapt resource value: 43
+			public const int SfDateTimeRangeNavigator_minorScaleLabelMargin = 43;
+			
+			// aapt resource value: 44
+			public const int SfDateTimeRangeNavigator_minorScaleLabelStroke = 44;
+			
+			// aapt resource value: 45
+			public const int SfDateTimeRangeNavigator_minorScaleLabelStrokeWidth = 45;
+			
+			// aapt resource value: 46
+			public const int SfDateTimeRangeNavigator_minorScaleLabelTextColor = 46;
+			
+			// aapt resource value: 47
+			public const int SfDateTimeRangeNavigator_minorScaleLabelTextSize = 47;
+			
+			// aapt resource value: 48
+			public const int SfDateTimeRangeNavigator_minorScalePosition = 48;
+			
+			// aapt resource value: 49
+			public const int SfDateTimeRangeNavigator_minorScaleSelectedLabelBackground = 49;
+			
+			// aapt resource value: 50
+			public const int SfDateTimeRangeNavigator_minorScaleSelectedLabelMargin = 50;
+			
+			// aapt resource value: 51
+			public const int SfDateTimeRangeNavigator_minorScaleSelectedLabelStroke = 51;
+			
+			// aapt resource value: 52
+			public const int SfDateTimeRangeNavigator_minorScaleSelectedLabelStrokeWidth = 52;
+			
+			// aapt resource value: 53
+			public const int SfDateTimeRangeNavigator_minorScaleSelectedLabelTextColor = 53;
+			
+			// aapt resource value: 54
+			public const int SfDateTimeRangeNavigator_minorScaleSelectedLabelTextSize = 54;
+			
+			// aapt resource value: 55
+			public const int SfDateTimeRangeNavigator_minorScaleTickColor = 55;
+			
+			// aapt resource value: 56
+			public const int SfDateTimeRangeNavigator_minorScaleTickWidth = 56;
+			
+			// aapt resource value: 57
+			public const int SfDateTimeRangeNavigator_minorScaleVisibility = 57;
+			
+			// aapt resource value: 58
+			public const int SfDateTimeRangeNavigator_overlayColor = 58;
+			
+			// aapt resource value: 59
+			public const int SfDateTimeRangeNavigator_rightThumbBackground = 59;
+			
+			// aapt resource value: 60
+			public const int SfDateTimeRangeNavigator_rightThumbHeight = 60;
+			
+			// aapt resource value: 61
+			public const int SfDateTimeRangeNavigator_rightThumbLineColor = 61;
+			
+			// aapt resource value: 62
+			public const int SfDateTimeRangeNavigator_rightThumbLineWidth = 62;
+			
+			// aapt resource value: 63
+			public const int SfDateTimeRangeNavigator_rightThumbStroke = 63;
+			
+			// aapt resource value: 64
+			public const int SfDateTimeRangeNavigator_rightThumbStrokeWidth = 64;
+			
+			// aapt resource value: 65
+			public const int SfDateTimeRangeNavigator_rightThumbWidth = 65;
+			
+			// aapt resource value: 66
+			public const int SfDateTimeRangeNavigator_rightTooltipBackground = 66;
+			
+			// aapt resource value: 67
+			public const int SfDateTimeRangeNavigator_rightTooltipMargin = 67;
+			
+			// aapt resource value: 68
+			public const int SfDateTimeRangeNavigator_rightTooltipStroke = 68;
+			
+			// aapt resource value: 69
+			public const int SfDateTimeRangeNavigator_rightTooltipStrokeWidth = 69;
+			
+			// aapt resource value: 70
+			public const int SfDateTimeRangeNavigator_rightTooltipTextColor = 70;
+			
+			// aapt resource value: 71
+			public const int SfDateTimeRangeNavigator_rightTooltipTextSize = 71;
+			
+			// aapt resource value: 72
+			public const int SfDateTimeRangeNavigator_showMajorGridLines = 72;
+			
+			// aapt resource value: 73
+			public const int SfDateTimeRangeNavigator_showMinorGridLines = 73;
+			
+			// aapt resource value: 74
+			public const int SfDateTimeRangeNavigator_tooltipDisplayMode = 74;
+			
+			// aapt resource value: 75
+			public const int SfDateTimeRangeNavigator_tooltipFormat = 75;
+			
+			// aapt resource value: 76
+			public const int SfDateTimeRangeNavigator_viewRangeEnd = 76;
+			
+			// aapt resource value: 77
+			public const int SfDateTimeRangeNavigator_viewRangeStart = 77;
+			
+			// aapt resource value: { 0x7F04002C,0x7F040054,0x7F0400C4,0x7F0400E2,0x7F040108,0x7F040198,0x7F0401BA,0x7F0401BE,0x7F0401CB,0x7F0401D1,0x7F0401FF,0x7F040294,0x7F04029A,0x7F04029B }
+			public static int[] SfNumericTextBox = new int[] {
+					2130968620,
+					2130968660,
+					2130968772,
+					2130968802,
+					2130968840,
+					2130968984,
+					2130969018,
+					2130969022,
+					2130969035,
+					2130969041,
+					2130969087,
+					2130969236,
+					2130969242,
+					2130969243};
+			
+			// aapt resource value: 0
+			public const int SfNumericTextBox_allowNull = 0;
+			
+			// aapt resource value: 1
+			public const int SfNumericTextBox_borderColor = 1;
+			
+			// aapt resource value: 2
+			public const int SfNumericTextBox_culture = 2;
+			
+			// aapt resource value: 3
+			public const int SfNumericTextBox_enableGroupSeparator = 3;
+			
+			// aapt resource value: 4
+			public const int SfNumericTextBox_fontSize = 4;
+			
+			// aapt resource value: 5
+			public const int SfNumericTextBox_maximumDecimalDigits = 5;
+			
+			// aapt resource value: 6
+			public const int SfNumericTextBox_numberFormat = 6;
+			
+			// aapt resource value: 7
+			public const int SfNumericTextBox_numericTextBoxValue = 7;
+			
+			// aapt resource value: 8
+			public const int SfNumericTextBox_parsingMode = 8;
+			
+			// aapt resource value: 9
+			public const int SfNumericTextBox_percentDisplayMode = 9;
+			
+			// aapt resource value: 10
+			public const int SfNumericTextBox_selectAllOnFocus = 10;
+			
+			// aapt resource value: 11
+			public const int SfNumericTextBox_valueChangeMode = 11;
+			
+			// aapt resource value: 12
+			public const int SfNumericTextBox_watermark = 12;
+			
+			// aapt resource value: 13
+			public const int SfNumericTextBox_watermarkColor = 13;
+			
+			// aapt resource value: { 0x7F04020F,0x7F040210 }
+			public static int[] Snackbar = new int[] {
+					2130969103,
+					2130969104};
+			
+			// aapt resource value: { 0x101011F,0x7F0400E1,0x7F040194 }
 			public static int[] SnackbarLayout = new int[] {
 					16843039,
-					2130968757,
-					2130968871};
+					2130968801,
+					2130968980};
 			
 			// aapt resource value: 0
 			public const int SnackbarLayout_android_maxWidth = 0;
@@ -13665,13 +18795,13 @@ namespace NDMA
 			// aapt resource value: 1
 			public const int Snackbar_snackbarStyle = 1;
 			
-			// aapt resource value: { 0x10100B2,0x1010176,0x101017B,0x1010262,0x7F040140 }
+			// aapt resource value: { 0x10100B2,0x1010176,0x101017B,0x1010262,0x7F0401D3 }
 			public static int[] Spinner = new int[] {
 					16842930,
 					16843126,
 					16843131,
 					16843362,
-					2130968896};
+					2130969043};
 			
 			// aapt resource value: 3
 			public const int Spinner_android_dropDownWidth = 3;
@@ -13722,22 +18852,22 @@ namespace NDMA
 			// aapt resource value: 1
 			public const int StateListDrawable_android_visible = 1;
 			
-			// aapt resource value: { 0x1010124,0x1010125,0x1010142,0x7F04015A,0x7F040165,0x7F040178,0x7F040179,0x7F04017B,0x7F0401B3,0x7F0401B4,0x7F0401B5,0x7F0401CC,0x7F0401CD,0x7F0401CE }
+			// aapt resource value: { 0x1010124,0x1010125,0x1010142,0x7F04020A,0x7F040216,0x7F040229,0x7F04022A,0x7F04022C,0x7F040267,0x7F040268,0x7F040269,0x7F04028E,0x7F04028F,0x7F040290 }
 			public static int[] SwitchCompat = new int[] {
 					16843044,
 					16843045,
 					16843074,
-					2130968922,
-					2130968933,
-					2130968952,
-					2130968953,
-					2130968955,
-					2130969011,
-					2130969012,
-					2130969013,
-					2130969036,
-					2130969037,
-					2130969038};
+					2130969098,
+					2130969110,
+					2130969129,
+					2130969130,
+					2130969132,
+					2130969191,
+					2130969192,
+					2130969193,
+					2130969230,
+					2130969231,
+					2130969232};
 			
 			// aapt resource value: 1
 			public const int SwitchCompat_android_textOff = 1;
@@ -13796,33 +18926,33 @@ namespace NDMA
 			// aapt resource value: 2
 			public const int TabItem_android_text = 2;
 			
-			// aapt resource value: { 0x7F04017C,0x7F04017D,0x7F04017E,0x7F04017F,0x7F040180,0x7F040181,0x7F040182,0x7F040183,0x7F040184,0x7F040185,0x7F040186,0x7F040187,0x7F040188,0x7F040189,0x7F04018A,0x7F04018B,0x7F04018C,0x7F04018D,0x7F04018E,0x7F04018F,0x7F040190,0x7F040191,0x7F040193,0x7F040194,0x7F040195 }
+			// aapt resource value: { 0x7F04022D,0x7F04022E,0x7F04022F,0x7F040230,0x7F040231,0x7F040232,0x7F040233,0x7F040234,0x7F040235,0x7F040236,0x7F040237,0x7F040238,0x7F040239,0x7F04023A,0x7F04023B,0x7F04023C,0x7F04023D,0x7F04023E,0x7F04023F,0x7F040240,0x7F040241,0x7F040242,0x7F040244,0x7F040245,0x7F040246 }
 			public static int[] TabLayout = new int[] {
-					2130968956,
-					2130968957,
-					2130968958,
-					2130968959,
-					2130968960,
-					2130968961,
-					2130968962,
-					2130968963,
-					2130968964,
-					2130968965,
-					2130968966,
-					2130968967,
-					2130968968,
-					2130968969,
-					2130968970,
-					2130968971,
-					2130968972,
-					2130968973,
-					2130968974,
-					2130968975,
-					2130968976,
-					2130968977,
-					2130968979,
-					2130968980,
-					2130968981};
+					2130969133,
+					2130969134,
+					2130969135,
+					2130969136,
+					2130969137,
+					2130969138,
+					2130969139,
+					2130969140,
+					2130969141,
+					2130969142,
+					2130969143,
+					2130969144,
+					2130969145,
+					2130969146,
+					2130969147,
+					2130969148,
+					2130969149,
+					2130969150,
+					2130969151,
+					2130969152,
+					2130969153,
+					2130969154,
+					2130969156,
+					2130969157,
+					2130969158};
 			
 			// aapt resource value: 0
 			public const int TabLayout_tabBackground = 0;
@@ -13899,7 +19029,7 @@ namespace NDMA
 			// aapt resource value: 24
 			public const int TabLayout_tabUnboundedRipple = 24;
 			
-			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x1010098,0x101009A,0x101009B,0x1010161,0x1010162,0x1010163,0x1010164,0x10103AC,0x7F0400D1,0x7F040196 }
+			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x1010098,0x101009A,0x101009B,0x1010161,0x1010162,0x1010163,0x1010164,0x10103AC,0x7F040101,0x7F040247 }
 			public static int[] TextAppearance = new int[] {
 					16842901,
 					16842902,
@@ -13912,8 +19042,8 @@ namespace NDMA
 					16843107,
 					16843108,
 					16843692,
-					2130968785,
-					2130968982};
+					2130968833,
+					2130969159};
 			
 			// aapt resource value: 10
 			public const int TextAppearance_android_fontFamily = 10;
@@ -13954,36 +19084,36 @@ namespace NDMA
 			// aapt resource value: 12
 			public const int TextAppearance_textAllCaps = 12;
 			
-			// aapt resource value: { 0x101009A,0x1010150,0x7F040043,0x7F040044,0x7F040045,0x7F040046,0x7F040047,0x7F040048,0x7F040049,0x7F04004A,0x7F04004B,0x7F0400A0,0x7F0400A1,0x7F0400A2,0x7F0400A3,0x7F0400B8,0x7F0400B9,0x7F0400E0,0x7F0400E1,0x7F0400E2,0x7F0400E6,0x7F0400E7,0x7F0400E8,0x7F04013A,0x7F04013B,0x7F04013C,0x7F04013D,0x7F04013E }
+			// aapt resource value: { 0x101009A,0x1010150,0x7F04005B,0x7F04005C,0x7F04005D,0x7F04005E,0x7F04005F,0x7F040060,0x7F040061,0x7F040062,0x7F040063,0x7F0400C0,0x7F0400C1,0x7F0400C2,0x7F0400C3,0x7F0400E8,0x7F0400E9,0x7F040117,0x7F040118,0x7F040119,0x7F04011D,0x7F04011E,0x7F04011F,0x7F0401CC,0x7F0401CD,0x7F0401CE,0x7F0401CF,0x7F0401D0 }
 			public static int[] TextInputLayout = new int[] {
 					16842906,
 					16843088,
-					2130968643,
-					2130968644,
-					2130968645,
-					2130968646,
-					2130968647,
-					2130968648,
-					2130968649,
-					2130968650,
-					2130968651,
-					2130968736,
-					2130968737,
-					2130968738,
-					2130968739,
-					2130968760,
-					2130968761,
-					2130968800,
-					2130968801,
-					2130968802,
-					2130968806,
-					2130968807,
+					2130968667,
+					2130968668,
+					2130968669,
+					2130968670,
+					2130968671,
+					2130968672,
+					2130968673,
+					2130968674,
+					2130968675,
+					2130968768,
+					2130968769,
+					2130968770,
+					2130968771,
 					2130968808,
-					2130968890,
-					2130968891,
-					2130968892,
-					2130968893,
-					2130968894};
+					2130968809,
+					2130968855,
+					2130968856,
+					2130968857,
+					2130968861,
+					2130968862,
+					2130968863,
+					2130969036,
+					2130969037,
+					2130969038,
+					2130969039,
+					2130969040};
 			
 			// aapt resource value: 1
 			public const int TextInputLayout_android_hint = 1;
@@ -14069,11 +19199,11 @@ namespace NDMA
 			// aapt resource value: 27
 			public const int TextInputLayout_passwordToggleTintMode = 27;
 			
-			// aapt resource value: { 0x1010034,0x7F0400B6,0x7F0400B7 }
+			// aapt resource value: { 0x1010034,0x7F0400E6,0x7F0400E7 }
 			public static int[] ThemeEnforcement = new int[] {
 					16842804,
-					2130968758,
-					2130968759};
+					2130968806,
+					2130968807};
 			
 			// aapt resource value: 0
 			public const int ThemeEnforcement_android_textAppearance = 0;
@@ -14084,37 +19214,224 @@ namespace NDMA
 			// aapt resource value: 2
 			public const int ThemeEnforcement_enforceTextAppearance = 2;
 			
-			// aapt resource value: { 0x10100AF,0x1010140,0x7F040051,0x7F04007F,0x7F040080,0x7F040091,0x7F040092,0x7F040093,0x7F040094,0x7F040095,0x7F040096,0x7F040123,0x7F040124,0x7F040128,0x7F04012D,0x7F04012E,0x7F040140,0x7F040173,0x7F040174,0x7F040175,0x7F0401BB,0x7F0401BD,0x7F0401BE,0x7F0401BF,0x7F0401C0,0x7F0401C1,0x7F0401C2,0x7F0401C3,0x7F0401C4 }
+			// aapt resource value: { 0x7F040040,0x7F040041,0x7F040042,0x7F040043,0x7F040049,0x7F04004A,0x7F04004B,0x7F04004C,0x7F040070,0x7F040071,0x7F040072,0x7F040073,0x7F0400AC,0x7F0400AD,0x7F0400C5,0x7F0400C7,0x7F0400C8,0x7F0400C9,0x7F0400CA,0x7F0400CC,0x7F0400CD,0x7F040140,0x7F04015C,0x7F040168,0x7F040169,0x7F04016B,0x7F04017C,0x7F040191,0x7F04019D,0x7F0401B2,0x7F0401B3,0x7F0401B4,0x7F0401DF,0x7F0401E0,0x7F0401E1,0x7F0401F2,0x7F0401F4,0x7F0401F5,0x7F0401F6,0x7F040248,0x7F040249,0x7F04024A,0x7F04026D,0x7F04026E,0x7F04026F,0x7F040284 }
+			public static int[] ThemeProvider = new int[] {
+					2130968640,
+					2130968641,
+					2130968642,
+					2130968643,
+					2130968649,
+					2130968650,
+					2130968651,
+					2130968652,
+					2130968688,
+					2130968689,
+					2130968690,
+					2130968691,
+					2130968748,
+					2130968749,
+					2130968773,
+					2130968775,
+					2130968776,
+					2130968777,
+					2130968778,
+					2130968780,
+					2130968781,
+					2130968896,
+					2130968924,
+					2130968936,
+					2130968937,
+					2130968939,
+					2130968956,
+					2130968977,
+					2130968989,
+					2130969010,
+					2130969011,
+					2130969012,
+					2130969055,
+					2130969056,
+					2130969057,
+					2130969074,
+					2130969076,
+					2130969077,
+					2130969078,
+					2130969160,
+					2130969161,
+					2130969162,
+					2130969197,
+					2130969198,
+					2130969199,
+					2130969220};
+			
+			// aapt resource value: 0
+			public const int ThemeProvider_axisBandsColor = 0;
+			
+			// aapt resource value: 1
+			public const int ThemeProvider_axisTooltipBackground = 1;
+			
+			// aapt resource value: 2
+			public const int ThemeProvider_axisTooltipTextColor = 2;
+			
+			// aapt resource value: 3
+			public const int ThemeProvider_axisTooltipTextSize = 3;
+			
+			// aapt resource value: 4
+			public const int ThemeProvider_bandFillDownColor = 4;
+			
+			// aapt resource value: 5
+			public const int ThemeProvider_bandFillUpColor = 5;
+			
+			// aapt resource value: 6
+			public const int ThemeProvider_bandStrokeDownColor = 6;
+			
+			// aapt resource value: 7
+			public const int ThemeProvider_bandStrokeUpColor = 7;
+			
+			// aapt resource value: 8
+			public const int ThemeProvider_candleStickFillDownColor = 8;
+			
+			// aapt resource value: 9
+			public const int ThemeProvider_candleStickFillUpColor = 9;
+			
+			// aapt resource value: 10
+			public const int ThemeProvider_candleStickStrokeDownColor = 10;
+			
+			// aapt resource value: 11
+			public const int ThemeProvider_candleStickStrokeUpColor = 11;
+			
+			// aapt resource value: 12
+			public const int ThemeProvider_columnFillColor = 12;
+			
+			// aapt resource value: 13
+			public const int ThemeProvider_columnLineColor = 13;
+			
+			// aapt resource value: 14
+			public const int ThemeProvider_cursorLineColor = 14;
+			
+			// aapt resource value: 15
+			public const int ThemeProvider_defaultAnnotationGripsBackgroundColor = 15;
+			
+			// aapt resource value: 16
+			public const int ThemeProvider_defaultAnnotationGripsStrokeColor = 16;
+			
+			// aapt resource value: 17
+			public const int ThemeProvider_defaultPieSegmentTitleTextColor = 17;
+			
+			// aapt resource value: 18
+			public const int ThemeProvider_defaultPieSegmentTitleTextSize = 18;
+			
+			// aapt resource value: 19
+			public const int ThemeProvider_defaultTextColor = 19;
+			
+			// aapt resource value: 20
+			public const int ThemeProvider_defaultTextSize = 20;
+			
+			// aapt resource value: 21
+			public const int ThemeProvider_labelBackground = 21;
+			
+			// aapt resource value: 22
+			public const int ThemeProvider_legendBackground = 22;
+			
+			// aapt resource value: 23
+			public const int ThemeProvider_lineAnnotationLineColor = 23;
+			
+			// aapt resource value: 24
+			public const int ThemeProvider_lineAnnotationLineThickness = 24;
+			
+			// aapt resource value: 25
+			public const int ThemeProvider_lineSeriesColor = 25;
+			
+			// aapt resource value: 26
+			public const int ThemeProvider_majorGridLinesColor = 26;
+			
+			// aapt resource value: 27
+			public const int ThemeProvider_majorTickLinesLength = 27;
+			
+			// aapt resource value: 28
+			public const int ThemeProvider_minorGridLinesColor = 28;
+			
+			// aapt resource value: 29
+			public const int ThemeProvider_minorTickLinesLength = 29;
+			
+			// aapt resource value: 30
+			public const int ThemeProvider_mountainAreaColor = 30;
+			
+			// aapt resource value: 31
+			public const int ThemeProvider_mountainLineColor = 31;
+			
+			// aapt resource value: 32
+			public const int ThemeProvider_renderableSeriesAreaBorderColor = 32;
+			
+			// aapt resource value: 33
+			public const int ThemeProvider_renderableSeriesAreaFillColor = 33;
+			
+			// aapt resource value: 34
+			public const int ThemeProvider_renderableSeriesAreaStrokeThickness = 34;
+			
+			// aapt resource value: 35
+			public const int ThemeProvider_rolloverLineColor = 35;
+			
+			// aapt resource value: 36
+			public const int ThemeProvider_rubberBandFillColor = 36;
+			
+			// aapt resource value: 37
+			public const int ThemeProvider_rubberBandStrokeColor = 37;
+			
+			// aapt resource value: 38
+			public const int ThemeProvider_sciChartBackground = 38;
+			
+			// aapt resource value: 39
+			public const int ThemeProvider_textAnnotationBackgroundColor = 39;
+			
+			// aapt resource value: 40
+			public const int ThemeProvider_textAnnotationTextColor = 40;
+			
+			// aapt resource value: 41
+			public const int ThemeProvider_textAnnotationTextSize = 41;
+			
+			// aapt resource value: 42
+			public const int ThemeProvider_tickTextColor = 42;
+			
+			// aapt resource value: 43
+			public const int ThemeProvider_tickTextSize = 43;
+			
+			// aapt resource value: 44
+			public const int ThemeProvider_tickTextTypeFace = 44;
+			
+			// aapt resource value: 45
+			public const int ThemeProvider_titleTextSize = 45;
+			
+			// aapt resource value: { 0x10100AF,0x1010140,0x7F040069,0x7F04009B,0x7F04009C,0x7F0400B1,0x7F0400B2,0x7F0400B3,0x7F0400B4,0x7F0400B5,0x7F0400B6,0x7F04017A,0x7F04017B,0x7F040195,0x7F0401B6,0x7F0401B7,0x7F0401D3,0x7F040224,0x7F040225,0x7F040226,0x7F040272,0x7F040276,0x7F040277,0x7F040278,0x7F040279,0x7F04027A,0x7F04027B,0x7F040282,0x7F040283 }
 			public static int[] Toolbar = new int[] {
 					16842927,
 					16843072,
-					2130968657,
-					2130968703,
-					2130968704,
-					2130968721,
-					2130968722,
-					2130968723,
-					2130968724,
-					2130968725,
-					2130968726,
-					2130968867,
-					2130968868,
-					2130968872,
-					2130968877,
-					2130968878,
-					2130968896,
-					2130968947,
-					2130968948,
-					2130968949,
-					2130969019,
-					2130969021,
-					2130969022,
-					2130969023,
-					2130969024,
-					2130969025,
-					2130969026,
-					2130969027,
-					2130969028};
+					2130968681,
+					2130968731,
+					2130968732,
+					2130968753,
+					2130968754,
+					2130968755,
+					2130968756,
+					2130968757,
+					2130968758,
+					2130968954,
+					2130968955,
+					2130968981,
+					2130969014,
+					2130969015,
+					2130969043,
+					2130969124,
+					2130969125,
+					2130969126,
+					2130969202,
+					2130969206,
+					2130969207,
+					2130969208,
+					2130969209,
+					2130969210,
+					2130969211,
+					2130969218,
+					2130969219};
 			
 			// aapt resource value: 0
 			public const int Toolbar_android_gravity = 0;
@@ -14203,19 +19520,19 @@ namespace NDMA
 			// aapt resource value: 28
 			public const int Toolbar_titleTextColor = 28;
 			
-			// aapt resource value: { 0x1010000,0x10100DA,0x7F040134,0x7F040135,0x7F0401B1 }
+			// aapt resource value: { 0x1010000,0x10100DA,0x7F0401C3,0x7F0401C4,0x7F040265 }
 			public static int[] View = new int[] {
 					16842752,
 					16842970,
-					2130968884,
-					2130968885,
-					2130969009};
+					2130969027,
+					2130969028,
+					2130969189};
 			
-			// aapt resource value: { 0x10100D4,0x7F040034,0x7F040035 }
+			// aapt resource value: { 0x10100D4,0x7F040047,0x7F040048 }
 			public static int[] ViewBackgroundHelper = new int[] {
 					16842964,
-					2130968628,
-					2130968629};
+					2130968647,
+					2130968648};
 			
 			// aapt resource value: 0
 			public const int ViewBackgroundHelper_android_background = 0;
