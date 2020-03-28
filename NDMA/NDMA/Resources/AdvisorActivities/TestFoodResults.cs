@@ -1,14 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 
 using Android.App;
 using Android.Content;
+using Android.Graphics;
 using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using Com.Syncfusion.Charts;
+using NDMA.Resources.NutritionalAdvisors;
 
 namespace NDMA.Resources.AdvisorActivities
 {
@@ -29,6 +33,75 @@ namespace NDMA.Resources.AdvisorActivities
                 SetResult(Result.Ok);
                 Finish();
             };
+
+            //working with the chart itself
+            SfChart chart = FindViewById<SfChart>(Resource.Id.SfChartTestData);
+
+            //the primary axis itself  
+            CategoryAxis primaryAxis = new CategoryAxis();
+            //setting the colours of the object itself
+            primaryAxis.LineStyle.StrokeColor = Color.White;
+            primaryAxis.Title.Text = "Calories";
+            primaryAxis.Title.StrokeColor = Color.White;
+            primaryAxis.Title.TextColor = Color.White;
+            primaryAxis.LabelStyle.TextColor = Color.Black;
+            chart.PrimaryAxis = primaryAxis;
+
+            // secondary Axis
+            NumericalAxis secondaryAxis = new NumericalAxis();
+            //setting the colours
+            secondaryAxis.Title.Text = "Amount Consumed (in kcal)";
+            secondaryAxis.LineStyle.StrokeColor = Color.White;
+            secondaryAxis.Title.StrokeColor = Color.White;
+            secondaryAxis.Title.TextColor = Color.White;
+            secondaryAxis.LabelStyle.TextColor = Color.Black;
+
+            //adding the axis to the charts
+            chart.SecondaryAxis = secondaryAxis;
+
+            var elements = NutrionalAdvisor.GetCaloriesAdvise(FoodStorageItems.StaticFoodCollection.StoredFood, this);
+
+            var loggedDataCalories = FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0 ? NutrionalAdvisor.GetStaticCalories() : 0;
+
+            var recommendedData = NutrionalAdvisor.GetRecommendedAmount();
+
+            //working with the chart data to be deisplayed
+            ObservableCollection<ChartData> ConsumedData = new ObservableCollection<ChartData>()
+            {
+                new ChartData{Name = "User Comsumed ",
+                    //Height = loggedDataCalories
+                    //the code below is test data
+                    Height = 2000
+                }
+            };
+
+            //Initializing column series
+            ColumnSeries Consumedseries = new ColumnSeries();
+            Consumedseries.ItemsSource = ConsumedData;
+            Consumedseries.XBindingPath = "Name";
+            Consumedseries.YBindingPath = "Height";
+            Consumedseries.Spacing = 0.5;
+            Consumedseries.Label = "User Comsumed";
+
+            ObservableCollection<ChartData> RecommendedData = new ObservableCollection<ChartData>()
+            {
+                new ChartData{Name = "Recommended Amount",Height = recommendedData}
+            };
+
+            //Initializing column series
+            ColumnSeries Recommendedseries = new ColumnSeries();
+            Recommendedseries.ItemsSource = RecommendedData;
+            Recommendedseries.XBindingPath = "Name";
+            Recommendedseries.YBindingPath = "Height";
+            Recommendedseries.Color = Color.BlueViolet;
+            Recommendedseries.Spacing = 0.5;
+            Recommendedseries.Label = "Recommended Amount";
+
+            //adding the series to the chart itself
+            chart.Series.Add(Consumedseries);
+            chart.Series.Add(Recommendedseries);
+
+            chart.Legend.Visibility = Visibility.Visible;
         }
     }
 }
