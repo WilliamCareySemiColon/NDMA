@@ -6,6 +6,7 @@ using System.Text;
 
 using Android.App;
 using Android.Content;
+using Android.Graphics;
 using Android.OS;
 using Android.Runtime;
 using Android.Views;
@@ -25,8 +26,11 @@ namespace NDMA.Resources.AdvisorActivities
         {
             base.OnCreate(savedInstanceState);
 
-            //Register Syncfusion license
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MjI4MzE1QDMxMzcyZTM0MmUzMEhtcEU5a1lNRDBkSW9qWnM2OTIxSklSUnI2UW9PaEJPZ01aU2UyVFdYdjg9");
+            //Register Syncfusion license - trial liscense itself
+            Syncfusion.
+                Licensing.
+                SyncfusionLicenseProvider.
+                RegisterLicense("MjI4MzE1QDMxMzcyZTM0MmUzMEhtcEU5a1lNRDBkSW9qWnM2OTIxSklSUnI2UW9PaEJPZ01aU2UyVFdYdjg9");
 
             // Create your application here
             SetContentView(Resource.Layout.AdvisorMain);
@@ -44,63 +48,36 @@ namespace NDMA.Resources.AdvisorActivities
             checkQuicklyBtn.Click += delegate { ButtonClicked("checkQuickly"); };
             cancel.Click += delegate { ButtonClicked("cancel"); };
             //setting the handlers on the images  WeeklyStatusImage
-            ImageView dailyStatusImage = FindViewById<ImageView>(Resource.Id.DailyStatusImage);
-            //ImageView weeklyStatusImage = FindViewById<ImageView>(Resource.Id.WeeklyStatusImage);
+            //ImageView dailyStatusImage = FindViewById<ImageView>(Resource.Id.DailyStatusImage);
+            ////ImageView weeklyStatusImage = FindViewById<ImageView>(Resource.Id.WeeklyStatusImage);
+            //dailyStatusImage.Click += delegate { ImageClicked("Daily"); };
 
-            dailyStatusImage.Click += delegate { ImageClicked("Daily"); };
-            //weeklyStatusImage.Click += delegate { ImageClicked("Weekly"); };
-
-            //Newer items
-            ////////////////////////////////////////////////////////////////////////////////////
-            //// set license key before using SciChart
-            //SciChartSurface.SetRuntimeLicenseKey("");
-
-            //// Get our chart from the layout resource,
-            //var chart = FindViewById<SciChartSurface>(Resource.Id.Chart);
-
-            //// Create a numeric X axis
-            //var xAxis = new NumericAxis(this) { AxisTitle = "Number of Samples (per Series)" };
-
-            //// Create a numeric Y axis
-            //var yAxis = new NumericAxis(this)
-            //{
-            //    AxisTitle = "Value",
-            //    VisibleRange = new DoubleRange(-1, 1)
-            //};
-
-            //// Add xAxis to the XAxes collection of the chart
-            //chart.XAxes.Add(xAxis);
-
-            //// Add yAxis to the YAxes collection of the chart
-            //chart.YAxes.Add(yAxis);
-            //////////////////////////////////////////////////////////////////////////////////////////////////
+            //working with the chart itself
             SfChart chart = FindViewById<SfChart>(Resource.Id.SfChart);
-                //new SfChart(this);
 
-            //Initializing Primary Axis
-            //CategoryAxis primaryAxis = new CategoryAxis();
-
-            //chart.PrimaryAxis = primaryAxis;
-
-            ////Initializing Secondary Axis
-            //NumericalAxis secondaryAxis = new NumericalAxis();
-
-            //chart.SecondaryAxis = secondaryAxis;
-
-            // Initializing primary axis
+            //the primary axis itself  
             CategoryAxis primaryAxis = new CategoryAxis();
-
+            //setting the colours of the object itself
+            primaryAxis.LineStyle.StrokeColor = Color.White;
             primaryAxis.Title.Text = "Name";
-
+            primaryAxis.Title.StrokeColor = Color.White;
+            primaryAxis.Title.TextColor = Color.White;
+            primaryAxis.LabelStyle.TextColor = Color.Black;
             chart.PrimaryAxis = primaryAxis;
 
-            //Initializing secondary Axis
+            // secondary Axis
             NumericalAxis secondaryAxis = new NumericalAxis();
-
+            //setting the colours
             secondaryAxis.Title.Text = "Height (in cm)";
+            secondaryAxis.LineStyle.StrokeColor = Color.White;
+            secondaryAxis.Title.StrokeColor = Color.White;
+            secondaryAxis.Title.TextColor = Color.White;
+            secondaryAxis.LabelStyle.TextColor = Color.Black;
 
+            //adding the axis to the charts
             chart.SecondaryAxis = secondaryAxis;
-
+            
+            //working with the chart data to be deisplayed
             ObservableCollection<ChartData> Data = new ObservableCollection<ChartData>()
             {
                 new ChartData { Name = "David", Height = 180 },
@@ -111,16 +88,16 @@ namespace NDMA.Resources.AdvisorActivities
 
             //Initializing column series
             ColumnSeries series = new ColumnSeries();
-
             series.ItemsSource = Data;
-
             series.XBindingPath = "Name";
-
             series.YBindingPath = "Height";
 
+            //adding the series to the chart itself
             chart.Series.Add(series);
+
         }
 
+        //mtehod when a image clicked to redirect to another layout - placeholder for inital graph design
         private void ImageClicked(String id)
         {
             if(String.Equals(id,"Daily"))

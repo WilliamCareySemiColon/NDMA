@@ -3,18 +3,13 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-     android:layout_marginTop = "220dp">
-
-    <!--<com.scichart.charting.visuals.SciChartSurface
-       android:id="@+id/Chart"
-       android:layout_width="fill_parent"
-       android:layout_height="0px"
-       android:layout_weight="1"/>-->
+     android:layout_marginTop = "200dp">
 
     <Com.Syncfusion.Charts.SfChart
         android:id="@+id/SfChart"
         android:layout_width="fill_parent"
         android:layout_height="0px"
-        android:layout_weight="1"/>
+        android:layout_weight="1"
+        />
 
 </LinearLayout>

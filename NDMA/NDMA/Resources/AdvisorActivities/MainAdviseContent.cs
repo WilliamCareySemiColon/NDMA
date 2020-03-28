@@ -29,23 +29,12 @@ namespace NDMA.Resources.AdvisorActivities
 
             header.Text = "Main advise contents";
 
-            string[] Sm = new string[]
-            {
-                "Sample",
-                "Sample",
-                "Sample",
-                "Sample",
-                 "Sample"
-            };
+            //used test sample data
+            //string[] Sm = new string[] { "Sample", "Sample",
+            //    "Sample", "Sample","Sample"};
 
-            string[] Sm2 = new string[]
-           {
-                "Sample",
-                "Sample",
-                "Sample",
-                "Sample",
-                 "Sample"
-           };
+            //string[] Sm2 = new string[] {"Sample","Sample",
+            //    "Sample","Sample","Sample"};
 
             TextView adviseText = FindViewById<TextView>(Resource.Id.AdviseParagraph);
 
