@@ -59,7 +59,7 @@ namespace NDMA.Resources.AdvisorActivities
             CategoryAxis primaryAxis = new CategoryAxis();
             //setting the colours of the object itself
             primaryAxis.LineStyle.StrokeColor = Color.White;
-            primaryAxis.Title.Text = "Name";
+            primaryAxis.Title.Text = "Calories";
             primaryAxis.Title.StrokeColor = Color.White;
             primaryAxis.Title.TextColor = Color.White;
             primaryAxis.LabelStyle.TextColor = Color.Black;
@@ -68,7 +68,7 @@ namespace NDMA.Resources.AdvisorActivities
             // secondary Axis
             NumericalAxis secondaryAxis = new NumericalAxis();
             //setting the colours
-            secondaryAxis.Title.Text = "Height (in cm)";
+            secondaryAxis.Title.Text = "Amount Consumed (in kcal)";
             secondaryAxis.LineStyle.StrokeColor = Color.White;
             secondaryAxis.Title.StrokeColor = Color.White;
             secondaryAxis.Title.TextColor = Color.White;
@@ -76,24 +76,50 @@ namespace NDMA.Resources.AdvisorActivities
 
             //adding the axis to the charts
             chart.SecondaryAxis = secondaryAxis;
-            
+
+            var elements = NutrionalAdvisor.GetCaloriesAdvise(FoodStorageItems.StaticFoodCollection.StoredFood, this);
+
+            var loggedDataCalories = FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0 ? NutrionalAdvisor.GetStaticCalories() : 0 ;
+
+            var recommendedData = NutrionalAdvisor.GetRecommendedAmount();
+
             //working with the chart data to be deisplayed
-            ObservableCollection<ChartData> Data = new ObservableCollection<ChartData>()
+            ObservableCollection<ChartData> ConsumedData = new ObservableCollection<ChartData>()
             {
-                new ChartData { Name = "David", Height = 180 },
-                new ChartData { Name = "Michael", Height = 170 },
-                new ChartData { Name = "Steve", Height = 160 },
-                new ChartData { Name = "Joel", Height = 182 }
+                new ChartData{Name = "User Comsumed ",
+                    Height = loggedDataCalories
+                    //the code below is test data
+                    //Height = 2000
+                }
             };
 
             //Initializing column series
-            ColumnSeries series = new ColumnSeries();
-            series.ItemsSource = Data;
-            series.XBindingPath = "Name";
-            series.YBindingPath = "Height";
+            ColumnSeries Consumedseries = new ColumnSeries();
+            Consumedseries.ItemsSource = ConsumedData;
+            Consumedseries.XBindingPath = "Name";
+            Consumedseries.YBindingPath = "Height";
+            Consumedseries.Spacing =  0.5;
+            Consumedseries.Label = "User Comsumed";
+
+            ObservableCollection<ChartData> RecommendedData = new ObservableCollection<ChartData>()
+            {
+                new ChartData{Name = "Recommended Amount",Height = recommendedData}
+            };
+
+            //Initializing column series
+            ColumnSeries Recommendedseries = new ColumnSeries();
+            Recommendedseries.ItemsSource = RecommendedData;
+            Recommendedseries.XBindingPath = "Name";
+            Recommendedseries.YBindingPath = "Height";
+            Recommendedseries.Color = Color.BlueViolet;
+            Recommendedseries.Spacing = 0.5;
+            Recommendedseries.Label = "Recommended Amount";
 
             //adding the series to the chart itself
-            chart.Series.Add(series);
+            chart.Series.Add(Consumedseries);
+            chart.Series.Add(Recommendedseries);
+
+            chart.Legend.Visibility = Visibility.Visible;
 
         }
 
