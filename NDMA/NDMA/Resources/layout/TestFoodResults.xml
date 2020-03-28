@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <RelativeLayout 
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
@@ -6,10 +6,31 @@
     android:background = "@drawable/BackGroundGradient"
     >
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="480dp"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentEnd = "true"
+        >
+
+        <include 
+            layout="@layout/Testfoodresultslayout"/>
+
+     </ScrollView>
+
     <Button
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true"
+        android:layout_alignParentStart = "true"
+        android:layout_alignParentEnd = "true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop = "650dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-       android:text="Finsih View Details"
+        android:text="Finsih View Details"
         android:id="@+id/FinishAssessingInfoBtn"
         android:background = "@drawable/custombutton"
         android:textColor = "@color/GhostWhite"
