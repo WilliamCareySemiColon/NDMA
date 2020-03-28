@@ -6,14 +6,14 @@
     android:layout_height="match_parent"
     android:background = "@drawable/BackGroundGradient ">
 
-    <Button
+    <!--<Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text = " View Account "
         android:id = "@+id/ViewAccount"
         android:background = "@drawable/custombutton"
         android:textColor = "@color/GhostWhite"
-    />
+    />-->
 
     <Button
         android:layout_width="wrap_content"

@@ -23,11 +23,11 @@ namespace NDMA.Resources
             // Create your application here
             SetContentView(Resource.Layout.Home);
             //Button Connections
-            Button viewAccount = FindViewById<Button>(Resource.Id.ViewAccount);
+            //Button viewAccount = FindViewById<Button>(Resource.Id.ViewAccount);
             Button vistAdvisorSystem = FindViewById<Button>(Resource.Id.AdvisorSystem);
             Button LogDailyDiet = FindViewById<Button>(Resource.Id.LogDiet);
 
-            viewAccount.Click += delegate { ButtonClicked("View"); };
+            //viewAccount.Click += delegate { ButtonClicked("View"); };
 
             vistAdvisorSystem.Click += delegate { ButtonClicked("Advise"); };
 
