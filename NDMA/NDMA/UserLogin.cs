@@ -9,6 +9,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using NDMA.Resources.ZZZTestData;
 
 namespace NDMA.Resources
 {
@@ -51,12 +52,19 @@ namespace NDMA.Resources
                 string usernameValue = username.Text;
                 string passwordValue = password.Text;
 
-                Toast.MakeText(Application.Context,
-                "Username =  " + usernameValue + " password = " + passwordValue,
-                ToastLength.Short).Show();
-
-                Intent HomeActivity = new Intent(this, typeof(Home));
-                StartActivity(HomeActivity);
+                if(String.Equals(usernameValue, TestSampleData.Username) &&
+                    String.Equals(passwordValue, TestSampleData.Password))
+                {
+                    Intent HomeActivity = new Intent(this, typeof(Home));
+                    StartActivity(HomeActivity);
+                }
+                else
+                {
+                    Toast.MakeText(Application.Context,
+                        "Username != Will190198 password != password",
+                        ToastLength.Short).Show();
+                }
+               
             }
             else if (string.Equals(id, "Register", StringComparison.CurrentCulture))
             {
