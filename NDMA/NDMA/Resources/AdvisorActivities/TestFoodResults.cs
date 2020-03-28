@@ -34,6 +34,21 @@ namespace NDMA.Resources.AdvisorActivities
                 Finish();
             };
 
+            TextView displayText = FindViewById<TextView>(Resource.Id.TestSampleTextViewResult);
+
+            var cal = NutrionalAdvisor.GetCalorieCount(FoodStorageForTestData.FoodStorage.FoodCollectionItems);
+
+            var context = NutrionalAdvisor.GetCalorieAdvise(cal);
+
+            if(context.Length ==1)
+            {
+                displayText.Text = context[0];
+            }
+            else
+            {
+                displayText.Text = context[1];
+            }
+          
             //working with the chart itself
             SfChart chart = FindViewById<SfChart>(Resource.Id.SfChartTestData);
 
