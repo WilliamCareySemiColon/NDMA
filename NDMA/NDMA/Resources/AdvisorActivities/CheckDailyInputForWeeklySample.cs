@@ -90,8 +90,8 @@ namespace NDMA.Resources.AdvisorActivities
                     "Cannot check unless all the fields are fields with the necessary food details", 
                     ToastLength.Short).Show();
 
-                Intent intent = new Intent(this, typeof(TestFoodResults));
-                StartActivityForResult(intent, 8);
+                //Intent intent = new Intent(this, typeof(TestFoodResults));
+                //StartActivityForResult(intent, 8);
             }
             else
             {

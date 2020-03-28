@@ -46,7 +46,14 @@ namespace NDMA.Resources.AdvisorActivities
             }
             else
             {
-                displayText.Text = context[1];
+                if(String.Equals(context[0],"Obesity"))
+                {
+                    displayText.Text = "Overweight\n " + context[1];
+                }
+                else
+                {
+                    displayText.Text = "Underweight\n " + context[1];
+                }
             }
           
             //working with the chart itself
@@ -84,9 +91,9 @@ namespace NDMA.Resources.AdvisorActivities
             ObservableCollection<ChartData> ConsumedData = new ObservableCollection<ChartData>()
             {
                 new ChartData{Name = "User Comsumed ",
-                    //Height = loggedDataCalories
                     //the code below is test data
-                    Height = 2000
+                    //Height = 2000
+                    Height = cal
                 }
             };
 
