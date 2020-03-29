@@ -23,8 +23,14 @@
 
 The logging system is one of the two core aspects of the application.
 
-| Activity                | Adpater used in Activity        | Adapter layout file                | Activity Layout File(s)     |
-| ----------------------- | ------------------------------- | ---------------------------------- | --------------------------- |
-| logDiet.CS              | CustomDefaultListAdapter.CS     | CustomSimpleListLayout.xml         | FoodDailySchedule.xml       | LogDiet.xml | foodloggedlist.Xml |
-| SearchForFoodFromApi.cs | CustomSearchedAPIListAdapter.cs | DisplaySearchedAPIListLayout.xml   | SearchForFood.xml           | SearchForFoodListView.xml | NA |
-| FoodLayoutSpec.cs       | FoodLayoutSpecArrayAdapter.cs   | FoodLayoutSpecListViewContents.xml | FoodLayoutSpecification.xml | NA | NA |
+| Activity                | Activity Layout File(s)     |
+| ----------------------- | --------------------------- |
+| logDiet.CS              | FoodDailySchedule.xml       | LogDiet.xml | foodloggedlist.Xml |
+| SearchForFoodFromApi.cs | SearchForFood.xml           | SearchForFoodListView.xml | NA |
+| FoodLayoutSpec.cs       | FoodLayoutSpecification.xml | NA | NA |
+
+| Activity                | Adpater used in Activity        | Adapter layout file                |
+| ----------------------- | ------------------------------- | ---------------------------------- |
+| logDiet.CS              | CustomDefaultListAdapter.CS     | CustomSimpleListLayout.xml         |
+| SearchForFoodFromApi.cs | CustomSearchedAPIListAdapter.cs | DisplaySearchedAPIListLayout.xml   |
+| FoodLayoutSpec.cs       | FoodLayoutSpecArrayAdapter.cs   | FoodLayoutSpecListViewContents.xml |
