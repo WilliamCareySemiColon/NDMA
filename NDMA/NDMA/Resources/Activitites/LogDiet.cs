@@ -14,6 +14,10 @@ using NDMA.Resources.JsonLoggedFood;
 
 namespace NDMA.Resources
 {
+    /*****************************************************************************************************************************
+     * The logging system part of the application. It is called by the Home.cs. At the start of the application, it ges the food
+     * schdeule from the user itself, then allow the user to input the diet 
+     ****************************************************************************************************************************/
     [Activity(Label = "LogDiet")]
     public class LogDiet : Activity
     {
@@ -24,20 +28,18 @@ namespace NDMA.Resources
             base.OnCreate(savedInstanceState);
 
             // Create your application here
-            if(FoodStorageItems.FoodScheduleStorage.Template == null)
-            {
+            if(FoodStorageItems.FoodScheduleStorage.Template == null) {
+                //the schedule for food daily schedule
                 SetContentView(Resource.Layout.FoodDailySchedule);
 
                 GetTemplateFromUser();
-            }
-           else
-            {
+            } else {
                 SetUpMainLoggingPage();
             }
         }
 
-        private void ButtonClicked(string id)
-        {
+        //the method that happens when the button on the pages outside the listview is clicked
+        private void ButtonClicked(string id) {
             switch (id)
             {
                 //case "add":
@@ -46,11 +48,13 @@ namespace NDMA.Resources
                 //        StartActivity(SearchForFoodActivity);
                 //        break;
                 //    }
+                //The cancel functionality to cancel the dailly schedule updates
                 case "cancel":
                     {
                         Finish();
                         break;
                     }
+                //Discard to to discard all the updates and start again
                 case "discard":
                     {
                         FoodStorageItems.FoodScheduleStorage.Template = null;
@@ -66,15 +70,15 @@ namespace NDMA.Resources
                 //        Toast.MakeText(Application.Context, "You have pressed the button with the id " + id, ToastLength.Short).Show();
                 //        break;
                 //    }
+                //Submit is to submit the logged changes to the system
                 case "submit":
                     {
                         FoodStorageItems.FoodScheduleStorage.Template = null;
                         FoodStorageItems.FoodScheduleStorage.ScheduleTrack = null;
                         FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage = null;
                         FoodStorageItems.FoodScheduleStorage.ScheduleID = null;
-                        //Toast.MakeText(Application.Context,
-                        //    "The size of the list is "  + FoodStorageItems.StaticFoodCollection.StoredFood.Count
-                        //    , ToastLength.Short).Show();
+
+                        Toast.MakeText(Application.Context,"Food has been successfully logged", ToastLength.Short).Show();
                         Finish();
                         break;
                     }
@@ -83,9 +87,9 @@ namespace NDMA.Resources
                         break;
                     }
             }//end switch
-
         }
 
+        //The main method to set up the page of the main aspect of the logging feature itself.
         private void SetUpMainLoggingPage()
         {
             SetContentView(Resource.Layout.LogDiet);
@@ -107,6 +111,7 @@ namespace NDMA.Resources
             SetListView();
         }
 
+        //the ability to draw the listview to capture the details of the food and the food detaila
         public void SetListView()
         {
             //attempting to connect to the listview
@@ -118,6 +123,7 @@ namespace NDMA.Resources
             list.Adapter = listSimpleAdapter;
         }
 
+        //The method to get the checkbox schedule from the user 
         private void GetTemplateFromUser()
         {
             Button cancel = FindViewById<Button>(Resource.Id.CancelSchBtn), submit = FindViewById<Button>(Resource.Id.SubmitSchBtn);
@@ -142,6 +148,8 @@ namespace NDMA.Resources
             }
         }
 
+        //the method that is called when the checkbox schedule has been decided itself
+        //It gets the checked checkboxs and create the schudule to meet the requirements
         private void ProceedToMainLoggingPage()
         {
             int amount = 0;
@@ -190,6 +198,7 @@ namespace NDMA.Resources
             SetUpMainLoggingPage();
         }
 
+        //when an other activities finsihes and returns to this activity
         protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data)
         {
             if(requestCode == 2)

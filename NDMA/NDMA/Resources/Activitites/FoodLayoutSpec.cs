@@ -18,6 +18,9 @@ namespace NDMA.Resources
     [Activity(Label = "FoodLayoutSpec")]
     public class FoodLayoutSpec : Activity
     {
+        /**************************************************************************************************************
+         * The class that displays the food ingredient contents before they log the food as well as the name and images
+         **************************************************************************************************************/
         private String[] IngNames, IngAmount;
         DBFood food;
         protected override void OnCreate(Bundle savedInstanceState)
@@ -36,8 +39,7 @@ namespace NDMA.Resources
             var count = ingrdients.Count;
             IngNames = new String[count];
             IngAmount = new String[count];
-            for(int i = 0; i < count;i++)
-            {
+            for(int i = 0; i < count;i++) {
                 IngNames[i] = ingrdients.ToArray()[i].Text;
                 IngAmount[i] = ingrdients.ToArray()[i].Weight.ToString();
             }
@@ -72,7 +74,7 @@ namespace NDMA.Resources
             //Button AddIngredient = FindViewById<Button>(Resource.Id.AddIngredient);
             //AddIngredient.Click += delegate { ClickItem("sample"); };
 
-            ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, IngNames);
+            //ArrayAdapter listAdapter = new ArrayAdapter(Application.Context, Android.Resource.Layout.SimpleListItem1, IngNames);
             FoodLayoutSpecArrayAdapter FoodListAdapter = new FoodLayoutSpecArrayAdapter(this, IngNames, IngAmount);
             ListView list = FindViewById<ListView>(Resource.Id.NutFoodList);
             list.Adapter = FoodListAdapter;
@@ -82,16 +84,13 @@ namespace NDMA.Resources
         {
             Android.Graphics.Bitmap imageBitmap = null;
 
-            using (var webClient = new System.Net.WebClient())
-            {
+            using (var webClient = new System.Net.WebClient()) {
                 var imageBytes = webClient.DownloadData(url);
-                if (imageBytes != null && imageBytes.Length > 0)
-                {
+                if (imageBytes != null && imageBytes.Length > 0) {
                     imageBitmap = Android.Graphics.BitmapFactory.DecodeByteArray(imageBytes, 0, imageBytes.Length);
                 }
             }
-
             return imageBitmap;
-        }
+        }//end the GetImageBitmapFromUrl
     }
 }

@@ -14,7 +14,9 @@ namespace NDMA.Resources.Adapter
 {
     class FoodLayoutSpecArrayAdapter : BaseAdapter
     {
-
+        /***************************************************************************************************************
+         * This adapter was used from the FoodListLayout area
+         **************************************************************************************************************/
         Activity context;
         public String[] FoodItemsName, FoodItemsAmount;
 

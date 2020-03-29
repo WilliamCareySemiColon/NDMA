@@ -15,6 +15,10 @@ namespace NDMA.Resources.Adapter
 {
     class CustomDefaultListAdapter : BaseAdapter
     {
+        /*********************************************************************************************************
+         * logDiet.cs uses this adapter to display the listview for the food schedule itself contained in the 
+         * customDefaultListLayout layout file listview
+         ********************************************************************************************************/
         Activity context;
         String [] headerCollection;
         String[] foodNames;
@@ -24,24 +28,20 @@ namespace NDMA.Resources.Adapter
             this.headerCollection = headerCollection;
             this.foodNames = foodNames;
         }
-        public override int Count
-        {
+        public override int Count {
             get {return headerCollection.Length; }
         }
-        public override Java.Lang.Object GetItem(int position)
-        {
+        public override Java.Lang.Object GetItem(int position) {
             return headerCollection[position];
         }
-        public override long GetItemId(int position)
-        {
+        public override long GetItemId(int position) {
             return position;
         }
 
-        public override View GetView(int position, View convertView, ViewGroup parent)
-        {
+        //the method to display the listview schedule for the user and the handlers for the food itself
+        public override View GetView(int position, View convertView, ViewGroup parent) {
             //Get our object for this position
             var item = headerCollection[position];
-
             var view = (convertView ?? context.LayoutInflater.Inflate(Resource.Layout.CustomSimpleListLayout, parent, false)) as LinearLayout;
 
             //Find references to each subview in the list item's view
@@ -49,23 +49,21 @@ namespace NDMA.Resources.Adapter
             //Assign this item's values to the various subviews 
             textTop.Text = item;
 
-            if (FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage != null)
-            {
+            if (FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage != null) {
                 var FoodNames = view.FindViewById(Resource.Id.SimpleListViewTextViewType) as TextView;
                 FoodNames.Text = FoodStorageItems.FoodScheduleStorage.FoodItemNamesStorage.ToArray()[position];
             }
 
-            //capture the button
+            //capture the button and assign the handlers itself
             var button = view.FindViewById(Resource.Id.SimpleListViewAddButton) as Button;
             button.Click += delegate {
                 FoodStorageItems.FoodScheduleStorage.ScheduleID = item;
-
                 Intent SearchForFoodActivity = new Intent(context, typeof(SearchForFoodFromApi));
                 context.StartActivityForResult(SearchForFoodActivity,2);              
             };
 
             //Finally return the view 
             return view;
-        }
+        }//end GetView method
     }
 }

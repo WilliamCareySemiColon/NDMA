@@ -14,6 +14,9 @@ using NDMA.Resources.JsonLoggedFood;
 
 namespace NDMA.Resources.Adapter
 {
+    /*************************************************************************************
+     * This adapter class is used inside the SearchForFoodFromApi class
+     ************************************************************************************/
     class CustomSearchedAPIListAdapter : BaseAdapter
     {
         public Activity context;
@@ -26,21 +29,17 @@ namespace NDMA.Resources.Adapter
             this.foods = food;
            
         }
-        public override int Count
-        {
+        public override int Count {
             get { return foods.Count; }
         }
-        public override Java.Lang.Object GetItem(int position)
-        {
+        public override Java.Lang.Object GetItem(int position) {
             return position;
         }
-        public override long GetItemId(int position)
-        {
+        public override long GetItemId(int position) {
             return position;
         }
-
-        public override View GetView(int position, View convertView, ViewGroup parent)
-        {
+        
+        public override View GetView(int position, View convertView, ViewGroup parent) {
             //Get our object for this position
             var item = foods.Hits.ToArray()[position];
 
@@ -61,26 +60,18 @@ namespace NDMA.Resources.Adapter
             return view;
         }
 
-        private Android.Graphics.Bitmap GetImageBitmapFromUrl(string url)
-        {
+        private Android.Graphics.Bitmap GetImageBitmapFromUrl(string url) {
             Android.Graphics.Bitmap imageBitmap = null;
-
-            using (var webClient = new System.Net.WebClient())
-            {
+            using (var webClient = new System.Net.WebClient()) {
                 var imageBytes = webClient.DownloadData(url);
-                if (imageBytes != null && imageBytes.Length > 0)
-                {
+                if (imageBytes != null && imageBytes.Length > 0) {
                     imageBitmap = Android.Graphics.BitmapFactory.DecodeByteArray(imageBytes, 0, imageBytes.Length);
                 }
-
-
             }
-
             return imageBitmap;
         }
 
-        public String GetItemAtPosition(int position)
-        {
+        public String GetItemAtPosition(int position) {
             return foods.Hits.ToArray()[position].Recipe.label;
         }
     }

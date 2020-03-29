@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--***********************************************
+The activitity called indirectly by the LogDiet 
+activity to create the daily schedule for the user
+************************************************-->
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
@@ -12,7 +16,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:divider="@color/GhostWhite"
-        android:dividerHeight="4dp"
-    />
+        android:dividerHeight="4dp"/>
 
 </LinearLayout>

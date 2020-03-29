@@ -1,4 +1,7 @@
-
+<!--***********************************************
+The activitity called directly by the LogDiet 
+activity to create the daily schedule for the user
+************************************************-->
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"

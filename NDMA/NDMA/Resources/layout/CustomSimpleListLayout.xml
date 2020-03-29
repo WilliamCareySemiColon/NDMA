@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--***********************************************
+The layout file which is used by the 
+CustomDefaultListAdapter to fill the contents of the 
+listview used by the logdiet activity and layout file
+itself
+**************************************************-->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="horizontal"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    >
+    android:layout_height="match_parent">
 
     <TextView
         android:layout_width="wrap_content"
@@ -13,8 +18,7 @@
         android:textColor = "@color/GhostWhite"
         android:textSize = "24dp"
         android:layout_marginTop = "10dp"
-         android:layout_marginBottom = "10dp"
-    />
+         android:layout_marginBottom = "10dp"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -24,8 +28,7 @@
         android:textColor = "@color/GhostWhite"
         android:textSize = "22dp"
         android:layout_marginTop = "10dp"
-         android:layout_marginBottom = "10dp"
-    />
+         android:layout_marginBottom = "10dp"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -36,7 +39,6 @@
         android:textSize = "33dp"
         android:background = "@drawable/custombutton"
         android:textColor = "@color/GhostWhite"
-        android:layout_marginTop = "10dp"
-    />
+        android:layout_marginTop = "10dp"/>
 
 </LinearLayout>
