@@ -98,8 +98,8 @@ namespace NDMA.Resources
 
                 if(stringToPassToDB != null)
                 {
-                    // Intent HomeActivity = new Intent(this, typeof(Home));
-                    // StartActivity(HomeActivity);
+                    Intent HomeActivity = new Intent(this, typeof(Home));
+                    StartActivity(HomeActivity);
                 }
                 else
                 {
