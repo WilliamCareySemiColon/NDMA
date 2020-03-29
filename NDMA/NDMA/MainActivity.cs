@@ -9,11 +9,12 @@ using System;
 
 namespace NDMA
 {
+    /**************************************************************************
+     * The starter activity to launch the application for access to the system
+     *************************************************************************/
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
-    public class MainActivity : AppCompatActivity
-    {
-        protected override void OnCreate(Bundle savedInstanceState)
-        {
+    public class MainActivity : AppCompatActivity {
+        protected override void OnCreate(Bundle savedInstanceState) {
             base.OnCreate(savedInstanceState);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             // Set our view from the "main" layout resource
@@ -23,15 +24,8 @@ namespace NDMA
             Button Register = FindViewById<Button>(Resource.Id.Register);
             Button Login = FindViewById<Button>(Resource.Id.Login);
 
-            Login.Click += delegate
-            {
-                ButtonClicked("Login");
-            };
-
-            Register.Click += delegate
-            {
-                ButtonClicked("Register");
-            };
+            Login.Click += delegate { ButtonClicked("Login"); };
+            Register.Click += delegate { ButtonClicked("Register"); };
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
@@ -40,20 +34,18 @@ namespace NDMA
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
 
-        private void ButtonClicked(String id)
-        {
-            if(String.Equals(id, "Login",StringComparison.CurrentCulture))
-            {
+        //the method for when either of the button is clcked
+        private void ButtonClicked(String id) {
+            if(String.Equals(id, "Login",StringComparison.CurrentCulture)) {
                 //switching to the the login page
                 Intent LoginActivity = new Intent(this, typeof(UserLogin));
                 StartActivity(LoginActivity);
             }
-            else if(String.Equals(id, "Register", StringComparison.CurrentCulture))
-            {
+            else if(String.Equals(id, "Register", StringComparison.CurrentCulture)) {
                 //start the register page
                 Intent RegisterActivity = new Intent(this, typeof(Register));
                 StartActivity(RegisterActivity);
             }
-        }
+        } //end the buttonClicked method
     }
 }
