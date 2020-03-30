@@ -106,7 +106,7 @@ namespace NDMA.Resources.AdvisorActivities
             Recommendedseries.ItemsSource = RecommendedData;
             Recommendedseries.XBindingPath = "Name";
             Recommendedseries.YBindingPath = "Height";
-            Recommendedseries.Color = Color.BlueViolet;
+            Recommendedseries.Color = Color.Navy;
             Recommendedseries.Spacing = 0.5;
             Recommendedseries.Label = "Recommended Amount";
 

@@ -114,14 +114,14 @@ namespace NDMA.Resources
             var conPassText = Confirmpassword.Text;
 
             //regex expression to confirm email address
-            Regex regex = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
-            Match match = regex.Match(emailText);
+            //Regex regex = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
+            //Match match = regex.Match(emailText);
 
             if ((!(String.Equals(nameText, "") && String.Equals(usernameText, "") &&
                  String.Equals(emailText, "") && String.Equals(passText, "") &&
                  String.Equals(conPassText, "")))&& String.Equals(passText, conPassText)
                  && GenderText != null && AgeText != null
-                 && match.Success
+                 //&& match.Success
             )
             {
                 return new string[] { nameText, usernameText, emailText, passText };
