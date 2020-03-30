@@ -104,14 +104,14 @@ The inital plan was to analylise the macronutrients but only got the chance to a
 
 ## Test Data for the application - these are test data to allow the application to behave as desired rather then use the cloud database
 
-### ZZZTestData Directory
+### ZZZTestData Directory - Test data for user information and food information itself
 
 CalculatedSubstance.cs
 Substance.cs
 TestRecAmoDBData.cs
 TestSampleData.cs
 
-### TestStaticData Directory
+### TestStaticData Directory - Test data for Nutrition Advice
 
 StaticDataModel.cs
 
@@ -119,8 +119,3 @@ StaticDataModel.cs
 | --------------------- | ------------------------ | ------------ |
 | NutritionalDifficulty | NutritionslDifficulty.cs | NA           |
 | FoodAndDiet           | FoodCategory.cs          | Diet.cs      |
-
-Markup : _ NutritionalDifficulty
-_ NutritionslDifficulty.cs
-_ FoodAndDiet
-_ FoodCategory.cs \* Diet.cs
