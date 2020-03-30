@@ -17,6 +17,12 @@ namespace NDMA.Resources.APIResources
 {
     public static class RecipeSearchClass
     {
+        /**********************************************************************************
+         * The ideal way to decouple the application to use HTTP connetion - to search the 
+         * api for the logged food itself
+         * 
+         * This is not used inside the application
+         *********************************************************************************/
         //food api creditails to read from
         private static readonly string[] FoodDBApiCreds = new string[] {
             "40bde6df" , "3249bb41449954869d9cae17f11061b1" };

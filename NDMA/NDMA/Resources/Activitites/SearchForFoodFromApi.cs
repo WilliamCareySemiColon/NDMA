@@ -103,8 +103,8 @@ namespace NDMA.Resources
         //the method to select the food from the listview itself
         private void ListItemClicked(int position, long id) {
             var t = food.Hits.ToArray()[position];
-            FoodStorage.FoodStorage.food = food;
-            FoodStorage.FoodStorage.DBFood = t;
+            FoodStorage.FoodStorageItems.food = food;
+            FoodStorage.FoodStorageItems.DBFood = t;
             Intent FoodSpecActvity = new Intent(this, typeof(FoodLayoutSpec));
             StartActivityForResult(FoodSpecActvity, 1);
         }

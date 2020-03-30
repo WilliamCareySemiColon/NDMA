@@ -82,7 +82,7 @@
     <Compile Include="Resources\AdvisorActivities\WeeklyStatusGraph.cs" />
     <Compile Include="Resources\APIResources\RecipeSearchClass.cs" />
     <Compile Include="Resources\FoodStorageItems\FoodScheduleStorage.cs" />
-    <Compile Include="Resources\FoodStorageItems\FoodStorage.cs" />
+    <Compile Include="Resources\FoodStorageItems\FoodStorageItems.cs" />
     <Compile Include="Resources\FoodStorageItems\StaticFoodCollection.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBFood.cs" />
     <Compile Include="Resources\JsonLoggedFood\DBNutrients.cs" />

@@ -67,3 +67,60 @@ The below table displayed the activities, the adpater used with the activity, th
 | CheckDailyInputForWeeklySample.cs | NA                                  | NA                                 | Yes                   |
 | TestDataSearchAPI.cs              | TestCustomSearchedAPIListAdapter.cs | DisplaySearchedAPIListLayout.xml   | Yes                   |
 | TestFoodResults.cs                | NA                                  | NA                                 | Yes                   |
+
+## Other classes used inside the application itself
+
+### API Resource
+
+RecipeSearchClass.cs - There is not used inside the application itself
+
+### The drawable resource
+
+BackGroundGradient.xml - The background look for the application overall look
+CustomButton.xml - The button look for the application
+
+### JsonLoggedFood directory classes
+
+The directory to read the json string of the food, store them inside different classes and use them within the application for analysis
+
+DBFood
+DBNutrients
+FoodSpec
+Ingredients
+ParsedFoodCollection
+TotalOverallNutrients
+
+### FoodStorageItems
+
+FoodScheduleStorage
+FoodStorageItems
+StaticFoodCollection
+
+## Nutritional Advisor - NutrionalAdvisor.cs
+
+This static class is the main advisor part of the application. It contains the methods which does the analysis of the food provided within the application for the nutrition analysis and return the needed feedback for the user.
+
+The inital plan was to analylise the macronutrients but only got the chance to analysis the calorie intake
+
+## Test Data for the application - these are test data to allow the application to behave as desired rather then use the cloud database
+
+### ZZZTestData Directory
+
+CalculatedSubstance.cs
+Substance.cs
+TestRecAmoDBData.cs
+TestSampleData.cs
+
+### TestStaticData Directory
+
+StaticDataModel.cs
+
+| Directory             | Class used 1             | Class Used 2 |
+| --------------------- | ------------------------ | ------------ |
+| NutritionalDifficulty | NutritionslDifficulty.cs | NA           |
+| FoodAndDiet           | FoodCategory.cs          | Diet.cs      |
+
+Markup : _ NutritionalDifficulty
+_ NutritionslDifficulty.cs
+_ FoodAndDiet
+_ FoodCategory.cs \* Diet.cs

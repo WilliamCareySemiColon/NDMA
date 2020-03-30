@@ -30,7 +30,7 @@ namespace NDMA.Resources
             // Create your application here FoodLayoutSpecification
             SetContentView(Resource.Layout.FoodLayoutSpecification);
             //getting the food details
-            food = FoodStorage.FoodStorage.DBFood;
+            food = FoodStorage.FoodStorageItems.DBFood;
             var ingrdients = food.Recipe.Ingredients;
             //setting the food image into the displaying on the page.
             var foodImage = FindViewById<ImageView>(Resource.Id.FoodLayoutPhotoId);

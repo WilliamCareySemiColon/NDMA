@@ -1,29 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 using Android.App;
-using Android.Content;
-using Android.OS;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
 using NDMA.Resources.JsonLoggedFood;
 using NDMA.Resources.ZZZTestData;
 using NDMA.TestStaticData;
 
 namespace NDMA.Resources.NutritionalAdvisors
 {
+    /***************************************************************************************************************
+     * The static class to provide the feedback to the user by getting the food data and analysising
+     * 
+     * This version of the application is only analysising the calaories section
+     * 
+     * Had other plans to calaculate the macronutrients
+     ***************************************************************************************************************/
     public static class NutrionalAdvisor
     {
         private static double calAmount = 0;
-        public static double GetCalorieCount(List<DBFood> dBFoodCollection)
-        {
+        public static double GetCalorieCount(List<DBFood> dBFoodCollection) {
             double cal = 0;
 
-            foreach (DBFood food in dBFoodCollection)
-            {
+            foreach (DBFood food in dBFoodCollection) {
                 var nutritionCollection = food.Recipe.TotalNutrients;
 
                 var caloriesChecking = nutritionCollection.ENERC_KCAL;
@@ -36,18 +34,15 @@ namespace NDMA.Resources.NutritionalAdvisors
             return cal;
         }
 
-        public static double GetStaticCalories()
-        {
+        public static double GetStaticCalories(){
             return calAmount;
         }
 
-        public static float GetRecommendedAmount()
-        {
+        public static float GetRecommendedAmount(){
             return TestSampleData.Calories;
         }
 
-        public static String [] GetCalorieAdvise(double cal)
-        {
+        public static String [] GetCalorieAdvise(double cal){
             String[] message;
             if (cal > TestSampleData.Calories)
             {
@@ -88,22 +83,14 @@ namespace NDMA.Resources.NutritionalAdvisors
             var message = GetCalorieAdvise(cal);
 
             return message;
-            //if (cal > TestSampleData.Calories) {
-            //    return StaticDataModel.Obesity.GetDescription();
-            //}
-            //else if (cal < TestSampleData.MinCalories) {
-            //    return StaticDataModel.Underweight.GetDescription();
-            //} else {
-            //    return "Amount of calories comsuned within acceptable paramters";
-            //}
+           
         }
 
         //actually methods for the three main pages
-        public static int GetOverConsumedProducts(List<DBFood> dBFoodCollection)
-        {
+        //part of the planned food itself
+        public static int GetOverConsumedProducts(List<DBFood> dBFoodCollection) {
             double cal = 0, fat = 0, fasat = 0, chocdf = 0, fibig = 0, sugar = 0, protein = 0, water = 0;
-            foreach (DBFood food in dBFoodCollection)
-            {
+            foreach (DBFood food in dBFoodCollection) {
                 var foodIn = food.Recipe.TotalNutrients;
 
                 cal += foodIn.ENERC_KCAL.quantity;
@@ -117,15 +104,14 @@ namespace NDMA.Resources.NutritionalAdvisors
             }
             //going over each of the variables to find the over consumed food
             List<double> OverComsumedfood = new List<double>();
+
             //calories
-            if(cal > TestSampleData.Calories)
-            {
+            if(cal > TestSampleData.Calories) {
                 OverComsumedfood.Add(cal);
             }
             //fat - going through percentage rather then direct value
             float FatPercentage = float.Parse(TestRecAmoDBData.Fat.MaxPercentage);
-            if(fat > (TestSampleData.Calories * (FatPercentage / 100)))
-            {
+            if(fat > (TestSampleData.Calories * (FatPercentage / 100))){
                 OverComsumedfood.Add(fat);
             }
             //carbs
@@ -134,8 +120,7 @@ namespace NDMA.Resources.NutritionalAdvisors
                     TestRecAmoDBData.Carbohydrates.AmountMale.Length - 1,1
                     )
                 );
-            if (chocdf > Carb)
-            {
+            if (chocdf > Carb) {
                 OverComsumedfood.Add(chocdf);
             }
             //protein
@@ -144,8 +129,7 @@ namespace NDMA.Resources.NutritionalAdvisors
                     TestRecAmoDBData.Protein.AmountMale.Length - 1, 1
                     )
                 );
-            if (protein > proteinInput)
-            {
+            if (protein > proteinInput) {
                 OverComsumedfood.Add(protein);
             }
             //water
@@ -155,10 +139,8 @@ namespace NDMA.Resources.NutritionalAdvisors
                      )
                  );
 
-            if(water > waterInput)
-            {
-                if (protein > proteinInput)
-                {
+            if(water > waterInput) {
+                if (protein > proteinInput){
                     OverComsumedfood.Add(protein);
                 }
             }
@@ -168,11 +150,9 @@ namespace NDMA.Resources.NutritionalAdvisors
         }
 
         //actually methods for the three main pages
-        public static int GetUnderConsumedProducts(List<DBFood> dBFoodCollection)
-        {
+        public static int GetUnderConsumedProducts(List<DBFood> dBFoodCollection) {
             double cal = 0, fat = 0, fasat = 0, chocdf = 0, fibig = 0, sugar = 0, protein = 0, water = 0;
-            foreach (DBFood food in dBFoodCollection)
-            {
+            foreach (DBFood food in dBFoodCollection) {
                 var foodIn = food.Recipe.TotalNutrients;
 
                 cal += foodIn.ENERC_KCAL.quantity;
@@ -187,14 +167,12 @@ namespace NDMA.Resources.NutritionalAdvisors
             //going over each of the variables to find the over consumed food
             List<double> UnderComsumedfood = new List<double>();
             //calories
-            if (cal < TestSampleData.MinCalories)
-            {
+            if (cal < TestSampleData.MinCalories){
                 UnderComsumedfood.Add(cal);
             }
             //fat - going through percentage rather then direct value
             float FatPercentage = float.Parse(TestRecAmoDBData.Fat.MinPercentage);
-            if (fat < (TestSampleData.Calories * (FatPercentage / 100)))
-            {
+            if (fat < (TestSampleData.Calories * (FatPercentage / 100))){
                 UnderComsumedfood.Add(fat);
             }
             //carbs
@@ -203,8 +181,7 @@ namespace NDMA.Resources.NutritionalAdvisors
                     TestRecAmoDBData.Carbohydrates.AmountMale.Length - 1, 1
                     )
                 );
-            if (chocdf < Carb)
-            {
+            if (chocdf < Carb){
                 UnderComsumedfood.Add(chocdf);
             }
             //protein
@@ -213,8 +190,7 @@ namespace NDMA.Resources.NutritionalAdvisors
                     TestRecAmoDBData.Protein.AmountMale.Length - 1, 1
                     )
                 );
-            if (protein < proteinInput)
-            {
+            if (protein < proteinInput){
                 UnderComsumedfood.Add(protein);
             }
             //water
@@ -224,8 +200,7 @@ namespace NDMA.Resources.NutritionalAdvisors
                      )
                  );
 
-            if (water < waterInput)
-            {
+            if (water < waterInput){
                 if (protein > proteinInput)
                 {
                     UnderComsumedfood.Add(protein);
@@ -234,13 +209,7 @@ namespace NDMA.Resources.NutritionalAdvisors
 
             //return data
             return UnderComsumedfood.Count;
-        }
-
-        //the method to getting the advise from the system
-        public static void GetNutritionalAdvise(List<DBFood> dBFoodCollection)
-        {
-
-        }
+        }//GetUnderConsumedProducts end
 
     }
 }

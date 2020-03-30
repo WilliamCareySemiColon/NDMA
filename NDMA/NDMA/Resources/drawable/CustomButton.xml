@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <!--Code logic found at the site https://www.c-sharpcorner.com/article/customize-button-in-xamarin-android/ -->
+<!--The application look for the buttons-->
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item>
     <layer-list>
