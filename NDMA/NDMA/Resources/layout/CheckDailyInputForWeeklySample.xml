@@ -1,9 +1,12 @@
-
+<!--**************************************************
+The layout file that is used by the checkdailyinput
+activity itself
+***************************************************-->
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background = "@drawable/BackGroundGradient ">
+    android:background = "@drawable/BackGroundGradient">
 
     <TextView
         android:layout_width="wrap_content"
@@ -19,8 +22,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:layout_marginTop = "20dp"
-        android:textColor = "#000"
-    />
+        android:textColor = "#000"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -35,8 +37,7 @@
         android:layout_marginLeft="40dp"
         android:layout_marginRight="200dp"
         android:layout_marginTop = "100dp"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -52,8 +53,7 @@
         android:layout_marginRight="40dp"
         android:layout_marginTop = "100dp"
         android:background = "@drawable/custombutton"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -69,8 +69,7 @@
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp"
         android:layout_marginTop = "180dp"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -85,8 +84,7 @@
         android:layout_marginLeft="40dp"
         android:layout_marginRight="200dp"
         android:layout_marginTop = "250dp"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -102,8 +100,7 @@
         android:layout_marginRight="40dp"
         android:layout_marginTop = "250dp"
         android:background = "@drawable/custombutton"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -119,8 +116,7 @@
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp"
         android:layout_marginTop = "330dp"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -135,8 +131,7 @@
         android:layout_marginLeft="40dp"
         android:layout_marginRight="200dp"
         android:layout_marginTop = "400dp"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -152,8 +147,7 @@
         android:layout_marginRight="40dp"
         android:layout_marginTop = "400dp"
         android:background = "@drawable/custombutton"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -169,8 +163,7 @@
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp"
         android:layout_marginTop = "480dp"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
 <Button
         android:layout_width="wrap_content"
@@ -187,8 +180,7 @@
         android:layout_marginTop = "600dp"
         android:id = "@+id/CancelCheck"
         android:background = "@drawable/custombutton"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -205,6 +197,5 @@
         android:layout_marginTop = "600dp"
         android:id = "@+id/SubmitCheck"
         android:background = "@drawable/custombutton"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 </RelativeLayout>

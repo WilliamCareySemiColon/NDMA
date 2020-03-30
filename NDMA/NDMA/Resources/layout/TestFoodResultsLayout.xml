@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--**********************************************
+The TestFoodResult layout used by the 
+TestFoodResult activity
+***********************************************-->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
      android:layout_height="580dp"
-    android:layout_marginTop = "330dp"
-   >
+    android:layout_marginTop = "330dp">
 
     <Com.Syncfusion.Charts.SfChart
         android:id="@+id/SfChartTestData"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:layout_weight="1"
-        />
+        android:layout_weight="1"/>
 
 </LinearLayout>

@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--***************************************************
+The layout activity used by both DailyStatusGraph and
+WeeklyStatusGraph activity - both are not used inside the 
+application
+****************************************************-->
 <RelativeLayout 
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background = "@drawable/BackGroundGradient ">
+    android:background = "@drawable/BackGroundGradient">
 
     <TextView
         android:layout_width="wrap_content"
@@ -18,8 +23,7 @@
         android:layout_marginLeft="80dp"
         android:layout_marginRight="80dp"
         android:layout_marginTop = "30dp"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <ImageView
         android:layout_width="wrap_content"
@@ -34,7 +38,6 @@
         android:id = "@+id/PeriodlyStatusImage"
         android:src = "@drawable/abc_ab_share_pack_mtrl_alpha"
     />
-
 
     <Button
         android:layout_width="wrap_content"
@@ -51,7 +54,6 @@
         android:layout_marginTop = "500dp"
         android:id = "@+id/ReturnToAdviseSearchBtn"
         android:background = "@drawable/custombutton"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
 </RelativeLayout>

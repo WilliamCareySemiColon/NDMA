@@ -15,6 +15,10 @@ namespace NDMA.Resources.AdvisorActivities
     [Activity(Label = "DailyStatusGraph")]
     public class DailyStatusGraph : Activity
     {
+        /****************************************************************************************************************
+         * The activity to display the daily graph trends for the user - due to timing contraints, this activity is not 
+         * being used
+         ****************************************************************************************************************/
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -24,7 +28,6 @@ namespace NDMA.Resources.AdvisorActivities
 
             Button button = FindViewById<Button>(Resource.Id.ReturnToAdviseSearchBtn);
             button.Click += delegate { Finish(); };
-
         }
     }
 }

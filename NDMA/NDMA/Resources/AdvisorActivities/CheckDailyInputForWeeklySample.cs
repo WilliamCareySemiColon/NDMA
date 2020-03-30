@@ -1,13 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 using Android.App;
 using Android.Content;
 using Android.OS;
 using Android.Runtime;
-using Android.Views;
 using Android.Widget;
 
 namespace NDMA.Resources.AdvisorActivities
@@ -15,6 +12,11 @@ namespace NDMA.Resources.AdvisorActivities
     [Activity(Label = "CheckDailyInputForWeeklySample")]
     public class CheckDailyInputForWeeklySample : Activity
     {
+        /***************************************************************************************************************************
+         * The activity to take test input from the user and display the advise and the calorie intake of that input - this will be 
+         * conducted through searching the api for the food then finding out if they are accurate themselves through the advise and 
+         * the chart provided in the aftermath. This activity is getting the input from the user
+         **************************************************************************************************************************/
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -40,15 +42,10 @@ namespace NDMA.Resources.AdvisorActivities
 
             Button dinnerAdd = FindViewById<Button>(Resource.Id.TestAddDinnerBtn);
             dinnerAdd.Click += delegate { ButtonPressed("dinner"); };
-
-            TextView bFast = FindViewById<TextView>(Resource.Id.InputBreakFastName);
-            TextView lunch = FindViewById<TextView>(Resource.Id.InputLunchName);
-            TextView dinner = FindViewById<TextView>(Resource.Id.InputDinnerName);
-
         }
 
-        private void ButtonPressed(string id)
-        {
+        //the method called by the add buttons within the application for searching the api for the food
+        private void ButtonPressed(string id) {
             switch(id)
             {
                 case "breakfast":
@@ -76,8 +73,9 @@ namespace NDMA.Resources.AdvisorActivities
             StartActivityForResult(TestDataApiSearchIntent, 4);
         }
 
-        private void CheckFoodStatus()
-        {
+        //the method to ensure all the fields have been filled before they check the recommendations based of a three main part diet plan
+        //breakfast, lunch and dinner
+        private void CheckFoodStatus() {
             var bFatsText = FindViewById<TextView>(Resource.Id.InputBreakFastName).Text;
             var lunchText = FindViewById<TextView>(Resource.Id.InputLunchName).Text;
             var dinnrText = FindViewById<TextView>(Resource.Id.InputDinnerName).Text;
@@ -89,20 +87,14 @@ namespace NDMA.Resources.AdvisorActivities
                 Toast.MakeText(this, 
                     "Cannot check unless all the fields are fields with the necessary food details", 
                     ToastLength.Short).Show();
-
-                //Intent intent = new Intent(this, typeof(TestFoodResults));
-                //StartActivityForResult(intent, 8);
-            }
-            else
-            {
+            } else {
                 Intent intent = new Intent(this, typeof(TestFoodResults));
                 StartActivityForResult(intent, 8);
             }
         }
-
+        //the method to find the needed button, disable it and return the needed textview
         private TextView GetTextView()
         {
-
             switch (FoodStorageForTestData.FoodStorage.FoodTrackId)
             {
                 case "Breakfast":
@@ -130,10 +122,9 @@ namespace NDMA.Resources.AdvisorActivities
             }
         }
 
-        protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data)
-        {
-            if(requestCode == 4 && resultCode == Result.Ok)
-            {
+        //the method to get the result back from searchng the api or the food results
+        protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data) {
+            if(requestCode == 4 && resultCode == Result.Ok) {
                 //Toast.MakeText(this, "Application was successfully in returning the data", ToastLength.Short).Show();
                 var textviewSet = GetTextView();
                 textviewSet.Text = FoodStorageForTestData.FoodStorage.FoodCollectionItems.ToArray()[
@@ -144,11 +135,9 @@ namespace NDMA.Resources.AdvisorActivities
             else if (requestCode == 8 && resultCode == Result.Ok)
             {
                 Finish();
-            }
-            else
-            {
+            } else {
                 Toast.MakeText(this, "Application was not successfully in returning the data", ToastLength.Short).Show();
             }
-        }
+        }// OnActivityResult end
     }
 }

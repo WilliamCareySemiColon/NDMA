@@ -19,17 +19,18 @@ namespace NDMA.Resources.AdvisorActivities
     [Activity(Label = "TestFoodResults")]
     public class TestFoodResults : Activity
     {
-        protected override void OnCreate(Bundle savedInstanceState)
-        {
+        /*******************************************************************************************************
+         * The activity to display the food results and get the advice from the nutrional advisor and the chart 
+         * display for the graphical advice
+         *******************************************************************************************************/
+        protected override void OnCreate(Bundle savedInstanceState) {
             base.OnCreate(savedInstanceState);
 
             // Create your application here
             SetContentView(Resource.Layout.TestFoodResults);
 
             Button FinishAssessingInfoBtn = FindViewById<Button>(Resource.Id.FinishAssessingInfoBtn);
-
-            FinishAssessingInfoBtn.Click += delegate
-            {
+            FinishAssessingInfoBtn.Click += delegate {
                 SetResult(Result.Ok);
                 Finish();
             };
@@ -37,21 +38,14 @@ namespace NDMA.Resources.AdvisorActivities
             TextView displayText = FindViewById<TextView>(Resource.Id.TestSampleTextViewResult);
 
             var cal = NutrionalAdvisor.GetCalorieCount(FoodStorageForTestData.FoodStorage.FoodCollectionItems);
-
             var context = NutrionalAdvisor.GetCalorieAdvise(cal);
 
-            if(context.Length ==1)
-            {
+            if(context.Length ==1) {
                 displayText.Text = context[0];
-            }
-            else
-            {
-                if(String.Equals(context[0],"Obesity"))
-                {
+            } else {
+                if(String.Equals(context[0],"Obesity")) {
                     displayText.Text = "Overweight\n " + context[1];
-                }
-                else
-                {
+                } else {
                     displayText.Text = "Underweight\n " + context[1];
                 }
             }
@@ -82,14 +76,11 @@ namespace NDMA.Resources.AdvisorActivities
             chart.SecondaryAxis = secondaryAxis;
 
             var elements = NutrionalAdvisor.GetCaloriesAdvise(FoodStorageItems.StaticFoodCollection.StoredFood, this);
-
             var loggedDataCalories = FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0 ? NutrionalAdvisor.GetStaticCalories() : 0;
-
             var recommendedData = NutrionalAdvisor.GetRecommendedAmount();
 
             //working with the chart data to be deisplayed
-            ObservableCollection<ChartData> ConsumedData = new ObservableCollection<ChartData>()
-            {
+            ObservableCollection<ChartData> ConsumedData = new ObservableCollection<ChartData>(){
                 new ChartData{Name = "User Comsumed ",
                     //the code below is test data
                     //Height = 2000
@@ -105,8 +96,7 @@ namespace NDMA.Resources.AdvisorActivities
             Consumedseries.Spacing = 0.5;
             Consumedseries.Label = "User Comsumed";
 
-            ObservableCollection<ChartData> RecommendedData = new ObservableCollection<ChartData>()
-            {
+            ObservableCollection<ChartData> RecommendedData = new ObservableCollection<ChartData>(){
                 new ChartData{Name = "Recommended Amount",Height = recommendedData}
             };
 
@@ -122,8 +112,7 @@ namespace NDMA.Resources.AdvisorActivities
             //adding the series to the chart itself
             chart.Series.Add(Consumedseries);
             chart.Series.Add(Recommendedseries);
-
             chart.Legend.Visibility = Visibility.Visible;
-        }
+        }//end oncreate method
     }
 }

@@ -1,16 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 
 using Android.App;
-using Android.Content;
 using Android.OS;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
-using NDMA.Resources.Adapter;
 using NDMA.TestStaticData;
 
 namespace NDMA.Resources.AdvisorActivities
@@ -18,44 +9,34 @@ namespace NDMA.Resources.AdvisorActivities
     [Activity(Label = "Underdone")]
     public class Underdone : Activity
     {
+        /**********************************************************************************************
+         * The activity to display to the user the food contents that they displayed which they 
+         * underconsumed on - this activity is not being used
+         ********************************************************************************************/
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
 
             // Create your application here
             SetContentView(Resource.Layout.UserAdviseMainLayout);
-
             //TextView header = FindViewById<TextView>(Resource.Id.HeaderMainAdvise);
-
             //header.Text = "Underdone advise contents";
 
             var caloriesItems = NutritionalAdvisors.NutrionalAdvisor.GetCaloriesAdvise(FoodStorageItems.StaticFoodCollection.StoredFood, this);
 
-            if (caloriesItems.Length == 3)
-            {
+            if (caloriesItems.Length == 3) {
                 //var image = Convert.FromBase64String(caloriesItems[2]);
                 //var imageBitmap = Android.Graphics.BitmapFactory.DecodeByteArray(image, 0, image.Length);
 
                 var image = String.Equals(caloriesItems[0], "Obesity") ? StaticDataModel.Obesity.GetImage() : StaticDataModel.Underweight.GetImage();
-
             };
 
-            string[] Sm = new string[]
-            {
-                "Sample",
-                "Sample",
-                "Sample",
-                "Sample",
-                 "Sample"
+            string[] Sm = new string[] { "Sample",
+                "Sample", "Sample","Sample","Sample"
             };
 
-            string[] Sm2 = new string[]
-           {
-                "Sample",
-                "Sample",
-                "Sample",
-                "Sample",
-                 "Sample"
+            string[] Sm2 = new string[] {"Sample",
+                "Sample","Sample","Sample","Sample"
            };
 
             //ListView list = FindViewById<ListView>(Resource.Id.AdviseFoodListView);

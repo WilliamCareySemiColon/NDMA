@@ -1,21 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
+﻿
 using Android.App;
-using Android.Content;
 using Android.OS;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
-using NDMA.Resources.Adapter;
 
 namespace NDMA.Resources.AdvisorActivities
 {
     [Activity(Label = "OverdoneAdvise")]
     public class OverdoneAdvise : Activity
     {
+        /**********************************************************************************************
+         * The activity to display to the user the food contents that they displayed which they 
+         * overconsumed on - this activity is not being used
+         ********************************************************************************************/
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -24,25 +19,14 @@ namespace NDMA.Resources.AdvisorActivities
             SetContentView(Resource.Layout.UserAdviseMainLayout);
 
             //TextView header = FindViewById<TextView>(Resource.Id.HeaderMainAdvise);
-
             //header.Text = "Overdone advise contents";
 
-            string[] Sm = new string[]
-            {
-                "Sample",
-                "Sample",
-                "Sample",
-                "Sample",
-                 "Sample"
+            string[] Sm = new string[] { "Sample",
+                "Sample","Sample","Sample","Sample"
             };
 
-            string[] Sm2 = new string[]
-           {
-                "Sample",
-                "Sample",
-                "Sample",
-                "Sample",
-                 "Sample"
+            string[] Sm2 = new string[] { "Sample",
+                "Sample","Sample","Sample","Sample"
            };
 
             //ListView list = FindViewById<ListView>(Resource.Id.AdviseFoodListView);

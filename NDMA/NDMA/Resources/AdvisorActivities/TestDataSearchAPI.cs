@@ -19,6 +19,10 @@ namespace NDMA.Resources.AdvisorActivities
     [Activity(Label = "TestDataSearchAPI")]
     public class TestDataSearchAPI : Activity
     {
+        /**********************************************************************************************************************
+         * The activity for the user to qeury the api to get back food data to log for the sample input. The string arrays are 
+         * the key and password to the application itself
+         *********************************************************************************************************************/
         //varaibles to make the class work
         private readonly string[] FoodDBApiCreds = new string[] {
             "40bde6df" , "3249bb41449954869d9cae17f11061b1" };
@@ -39,8 +43,7 @@ namespace NDMA.Resources.AdvisorActivities
         ParsedFoodCollection food;
         TestCustomSearchedAPIListAdapter listAdapter;
 
-        protected override void OnCreate(Bundle savedInstanceState)
-        {
+        protected override void OnCreate(Bundle savedInstanceState) {
             base.OnCreate(savedInstanceState);
 
             // Create your application here
@@ -58,34 +61,28 @@ namespace NDMA.Resources.AdvisorActivities
             searchBtn.Click += delegate { SearchApi(search.Text); };
         }
 
-        private void SearchApi(string message)
-        {
-
-            if (message.Length >= 3)
-            {
-                Toast.MakeText(this,
-               "Application is searching for the items with the keyword: " + message,
-               ToastLength.Long).Show();
+        //search the api for the food data
+        private void SearchApi(string message) {
+            if (message.Length >= 2) {
+                Toast.MakeText(this,"Application is searching for the items with the keyword: " + message,
+                    ToastLength.Long).Show();
 
                 GetFood(message);
-            }
-            else
-            {
+            } else {
                 Toast.MakeText(this,
                 "character length needs to be at least 3 charaters: " + message,
                 ToastLength.Long).Show();
             }
         }
 
-        private async void GetFood(String keyWord)
-        {
+        //getting the json food back from the api
+        private async void GetFood(String keyWord) {
             client = new HttpClient();
             int from = 0, to = 10;
             string url = "https://api.edamam.com/search?q=" + keyWord + "&app_id=" + RecipeSearchApCreds[0] + "&app_key="
                 + RecipeSearchApCreds[1] + "&from=" + from + "&to=" + to;
             ListView list = FindViewById<ListView>(Resource.Id.SearchFoodList);
-            try
-            {
+            try {
                 uri = new Uri(url);
                 response = await client.GetAsync(uri);
                 json = await response.Content.ReadAsStringAsync();
@@ -93,9 +90,7 @@ namespace NDMA.Resources.AdvisorActivities
                 food = JsonConvert.DeserializeObject<ParsedFoodCollection>(json);
                 listAdapter = new TestCustomSearchedAPIListAdapter(this, food);
                 list.Adapter = listAdapter;
-            }
-            catch (Exception e)
-            {
+            } catch (Exception e) {
                 Toast.MakeText(Application.Context, "Error while retreiving the results from the api. Try agina later"
                     + e.Message.ToString(), ToastLength.Long).Show();
             }
@@ -105,10 +100,9 @@ namespace NDMA.Resources.AdvisorActivities
             };
         }
 
-        private void ListItemClicked(int position, long id)
-        {
+        //the method that is called when the listview is clicked on
+        private void ListItemClicked(int position, long id) {
             var t = food.Hits.ToArray()[position];
-
             FoodStorageForTestData.FoodStorage.food = food;
             FoodStorageForTestData.FoodStorage.DBFood = t;
 
@@ -116,20 +110,13 @@ namespace NDMA.Resources.AdvisorActivities
             StartActivityForResult(FoodSpecActvity, 1);
         }
 
-        protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data)
-        {
-
-            if (requestCode == 1)
-            {
-                if (resultCode == Result.Ok)
-                {
-                    SetResult(Result.Ok);
-                    Finish();
-                }
-                //if (resultCode == Result.Canceled){
-                //}
+        protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data){
+            if (requestCode == 1 && resultCode == Result.Ok) {
+                SetResult(Result.Ok);
+                Finish();
+            //if (resultCode == Result.Canceled){
+            //}
             }
-
-        }
+        }//end OnActivityResult
     }
 }

@@ -12,6 +12,10 @@ using Android.Widget;
 
 namespace NDMA.Resources.AdvisorActivities
 {
+        /****************************************************************************************************************
+         * The activity to display the daily graph trends for the user - due to timing contraints, this activity is not 
+         * being used
+         ****************************************************************************************************************/
     [Activity(Label = "WeeklyStatusGraph")]
     public class WeeklyStatusGraph : Activity
     {

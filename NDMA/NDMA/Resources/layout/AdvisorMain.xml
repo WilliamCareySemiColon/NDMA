@@ -1,9 +1,11 @@
-
+<!--**********************************************
+The layout file used by the main advisor system
+***********************************************-->
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background = "@drawable/BackGroundGradient ">
+    android:background = "@drawable/BackGroundGradient">
 
     <TextView
         android:layout_width="wrap_content"
@@ -18,8 +20,7 @@
         android:layout_marginLeft="80dp"
         android:layout_marginRight="80dp"
         android:layout_marginTop = "30dp"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -34,8 +35,7 @@
         android:layout_marginTop = "80dp"
         android:id = "@+id/AdviseBtn"
         android:background = "@drawable/custombutton"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
    <!-- <Button
         android:layout_width="wrap_content"
@@ -81,8 +81,7 @@
         android:layout_marginTop = "80dp"
         android:id = "@+id/CheckQuicklyBtn"
         android:background = "@drawable/custombutton"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -97,8 +96,7 @@
         android:layout_marginTop = "80dp"
         android:id = "@+id/CancelAdvise"
         android:background = "@drawable/custombutton"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -113,8 +111,7 @@
         android:layout_marginLeft="120dp"
         android:layout_marginRight="120dp"
         android:layout_marginTop = "160dp"
-        android:textColor = "@color/GhostWhite"
-    />
+        android:textColor = "@color/GhostWhite"/>
 
     <!--<ImageView
         android:layout_width="wrap_content"
@@ -130,39 +127,6 @@
         android:src = "@drawable/abc_ab_share_pack_mtrl_alpha"
     />-->
 
-    <include
-        layout="@layout/test_graph_layout"
-        />
-
-
-  <!--  <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text = "Weekly Status"
-        android:textAlignment = "center"
-        android:textSize = "22dp"
-        android:layout_alignParentLeft = "true"
-        android:layout_alignParentRight = "true"
-        android:layout_alignParentStart = "true"
-        android:layout_alignParentEnd = "true"
-        android:layout_marginLeft="100dp"
-        android:layout_marginRight="100dp"
-        android:layout_marginTop = "400dp"
-        android:textColor = "@color/GhostWhite"
-    />-->
-
-    <!--<ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft = "true"
-        android:layout_alignParentRight = "true"
-        android:layout_alignParentStart = "true"
-        android:layout_alignParentEnd = "true"
-        android:layout_marginLeft="60dp"
-        android:layout_marginRight="60dp"
-        android:layout_marginTop = "450dp"
-        android:id = "@+id/WeeklyStatusImage"
-        android:src = "@drawable/abc_ab_share_pack_mtrl_alpha"
-    />-->
+    <include layout="@layout/test_graph_layout" />
 
 </RelativeLayout>

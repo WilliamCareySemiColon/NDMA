@@ -1,10 +1,12 @@
-
+<!--**********************************************
+The TestFoodResult layout used by the 
+TestFoodResult activity
+***********************************************-->
 <RelativeLayout 
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background = "@drawable/BackGroundGradient"
-    >
+    android:background = "@drawable/BackGroundGradient">
 
     <TextView
         android:layout_alignParentLeft = "true"
@@ -45,11 +47,10 @@
         android:layout_height="wrap_content"
         android:text="Advice for the food"
         android:id="@+id/TestSampleTextViewResult"
-            android:textColor = "@color/GhostWhite"/>
+        android:textColor = "@color/GhostWhite"/>
     </ScrollView>
 
-        <include layout="@layout/Testfoodresultslayout"/>
-
+    <include layout="@layout/Testfoodresultslayout"/>
 
     <Button
         android:layout_alignParentLeft = "true"
@@ -64,7 +65,6 @@
         android:text="Finsih View Details"
         android:id="@+id/FinishAssessingInfoBtn"
         android:background = "@drawable/custombutton"
-        android:textColor = "@color/GhostWhite"
-        />
+        android:textColor = "@color/GhostWhite"/>
 
 </RelativeLayout>

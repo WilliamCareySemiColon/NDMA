@@ -12,7 +12,10 @@ using Android.Widget;
 
 namespace NDMA.Resources.Adapter
 {
-    //AdvisorListDisplayFoodContents
+    /*******************************************************************************************************************************
+     * The adapter that was planned to be used by the MainAdviseContent during development. However, due to change in development
+     * needs, the adapter is not used from the MainAdviseContent activity
+     ******************************************************************************************************************************/
     class AdvisorAdapter : BaseAdapter
     {
         Activity context;
