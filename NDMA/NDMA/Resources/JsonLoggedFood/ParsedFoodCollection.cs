@@ -15,6 +15,10 @@ namespace NDMA.Resources.JsonLoggedFood
 {
     public class ParsedFoodCollection
     {
+        /******************************************************************************************************************************
+         * The class to actually parse the data from the ednaman api searched, store it and use it for the application analysis purpose
+         ******************************************************************************************************************************/
+
         [JsonProperty("q")]
         public String Q { get; set; }
 

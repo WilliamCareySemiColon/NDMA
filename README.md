@@ -119,3 +119,14 @@ StaticDataModel.cs
 | --------------------- | ------------------------ | ------------ |
 | NutritionalDifficulty | NutritionslDifficulty.cs | NA           |
 | FoodAndDiet           | FoodCategory.cs          | Diet.cs      |
+
+# External Applications used and liscenses used for the application
+
+| NDMA Application Functionality | External Application Source Used | Reason                                                            |
+| ------------------------------ | -------------------------------- | ----------------------------------------------------------------- |
+| Logging System                 | Edamam                           | To access their recipe food database to display to the user       |
+| Advisor System                 | Syncfusion                       | To use the chart for display the user trends regarding their food |
+
+With Edamam, an account had to be set up for the use of their database and getting access to the personal limited use through keys and password itself
+
+With Syncfusion, an account had to be made to get access to a 30 day trial liscense (started last Friday 27th March) for the chart usage
