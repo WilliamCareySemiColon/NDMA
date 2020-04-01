@@ -43,8 +43,13 @@ namespace NDMA.Resources
         HttpResponseMessage response;
         String json;
         Uri uri;
-        ParsedFoodCollection food;
+        public ParsedFoodCollection food;
         CustomSearchedAPIListAdapter listAdapter;
+
+        //variables to capture the items
+        public EditText search;
+        Button cancel;
+        public Button searchBtn;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -55,8 +60,8 @@ namespace NDMA.Resources
 
             EditText search = FindViewById<EditText>(Resource.Id.Search);
             //Button handlers
-            Button cancel = FindViewById<Button>(Resource.Id.Cancel);
-            Button searchBtn = FindViewById<Button>(Resource.Id.btnSearch);
+            cancel = FindViewById<Button>(Resource.Id.Cancel);
+            searchBtn = FindViewById<Button>(Resource.Id.btnSearch);
 
             cancel.Click += delegate {
                 SetResult(Result.Canceled);
@@ -66,7 +71,7 @@ namespace NDMA.Resources
         }
 
         //the method to call the asyc method to search the api for the approiate food itself
-        private void SearchApi(string message){
+        public void SearchApi(string message){
             if (message.Length >= 2) {
                 Toast.MakeText(this, "Application is searching for the items with the keyword: " + message,
                     ToastLength.Long).Show();
