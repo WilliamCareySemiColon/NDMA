@@ -64,7 +64,7 @@ namespace NDMA.Resources.AdvisorActivities
             // secondary Axis
             NumericalAxis secondaryAxis = new NumericalAxis();
             //setting the colours
-            secondaryAxis.Title.Text = "Amount Consumed (in kcal)";
+            secondaryAxis.Title.Text = "Amount Consumed ";
             secondaryAxis.LineStyle.StrokeColor = Color.White;
             secondaryAxis.Title.StrokeColor = Color.White;
             secondaryAxis.Title.TextColor = Color.White;
@@ -76,16 +76,27 @@ namespace NDMA.Resources.AdvisorActivities
             var elements = NutrionalAdvisor.GetCaloriesAdvise(FoodStorageItems.StaticFoodCollection.StoredFood, this);
 
             var loggedDataCalories = FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0 ? NutrionalAdvisor.GetStaticCalories() : 0 ;
+            var carbLoggedData = FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0 ? NutrionalAdvisor.GetStaticCarbs() : 0;
+            var waterLogged = FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0 ? NutrionalAdvisor.GetStaticWater() : 0;
+            var fatLogged = FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0 ? NutrionalAdvisor.GetStaticFat() : 0;
+            var protienLogged = FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0 ? NutrionalAdvisor.GetStaticProtein() : 0;
+            var fiberLogged = FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0 ? NutrionalAdvisor.GetStaticFiber() : 0;
 
             var recommendedData = NutrionalAdvisor.GetRecommendedAmount();
+            var recommendCarbs = NutrionalAdvisor.GetRecommendedCarbAmount();
+            var recommendedProtein = NutrionalAdvisor.GetRecommendedProteinAmount();
+            var recommendedFat = NutrionalAdvisor.GetRecommendedFatAmount();
+            var recommendedWater = NutrionalAdvisor.GetRecommendedWaterAmount();
+            var recommededFiber = NutrionalAdvisor.GetRecommendedFiberAmount();
 
             //working with the chart data to be deisplayed
             ObservableCollection<ChartData> ConsumedData = new ObservableCollection<ChartData>() {
-                new ChartData{Name = "User Comsumed ",
-                    Height = loggedDataCalories
-                    //the code below is test data
-                    //Height = 2000
-                }
+                new ChartData{ Name = "Cal (KCAL)",Height = loggedDataCalories },
+                new ChartData{ Name = "Carbs (g)",Height = carbLoggedData },
+                new ChartData{ Name = "Water (ml)",Height = waterLogged },
+                new ChartData{ Name = "Fat (g) ",Height = fatLogged },
+                new ChartData{ Name = "Protein (g)",Height = protienLogged },
+                new ChartData{ Name = "Fiber (g)",Height = fiberLogged }
             };
 
             //Initializing column series
@@ -93,12 +104,16 @@ namespace NDMA.Resources.AdvisorActivities
             Consumedseries.ItemsSource = ConsumedData;
             Consumedseries.XBindingPath = "Name";
             Consumedseries.YBindingPath = "Height";
-            Consumedseries.Spacing =  0.5;
+            //Consumedseries.Spacing =  0.5;
             Consumedseries.Label = "User Comsumed";
 
             ObservableCollection<ChartData> RecommendedData = new ObservableCollection<ChartData>() {
-                new ChartData{Name = "Recommended Amount",
-                    Height = recommendedData}
+                new ChartData {Name = "", Height = recommendedData },
+                new ChartData{Name = "",Height = recommendCarbs},
+                new ChartData{Name = "", Height = recommendedWater},
+                new ChartData{Name = "", Height = fatLogged},
+                new ChartData{Name = "", Height = recommendedProtein},  
+                new ChartData {Name = "",Height = recommededFiber}
             };
 
             //Initializing column series
@@ -107,7 +122,7 @@ namespace NDMA.Resources.AdvisorActivities
             Recommendedseries.XBindingPath = "Name";
             Recommendedseries.YBindingPath = "Height";
             Recommendedseries.Color = Color.Navy;
-            Recommendedseries.Spacing = 0.5;
+            //Recommendedseries.Spacing = 0.5;
             Recommendedseries.Label = "Recommended Amount";
 
             //adding the series to the chart itself
@@ -115,6 +130,8 @@ namespace NDMA.Resources.AdvisorActivities
             chart.Series.Add(Recommendedseries);
 
             chart.Legend.Visibility = Visibility.Visible;
+
+            Toast.MakeText(this, "Fiber contains " + fiberLogged, ToastLength.Short).Show();
 
         }
 

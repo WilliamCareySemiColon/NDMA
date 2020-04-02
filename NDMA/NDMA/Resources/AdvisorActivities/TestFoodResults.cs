@@ -75,19 +75,31 @@ namespace NDMA.Resources.AdvisorActivities
             //adding the axis to the charts
             chart.SecondaryAxis = secondaryAxis;
 
-            var elements = NutrionalAdvisor.GetCaloriesAdvise(FoodStorageItems.StaticFoodCollection.StoredFood, this);
-            var loggedDataCalories = FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0 ? NutrionalAdvisor.GetStaticCalories() : 0;
+            var loggedDataCalories =  NutrionalAdvisor.GetStaticCalories();
+            var carbLoggedData = NutrionalAdvisor.GetStaticCarbs();
+            var waterLogged = NutrionalAdvisor.GetStaticWater() ;
+            var fatLogged = NutrionalAdvisor.GetStaticFat() ;
+            var protienLogged = NutrionalAdvisor.GetStaticProtein() ;
+            var fiberLogged =  NutrionalAdvisor.GetStaticFiber();
+
             var recommendedData = NutrionalAdvisor.GetRecommendedAmount();
+            var recommendCarbs = NutrionalAdvisor.GetRecommendedCarbAmount();
+            var recommendedProtein = NutrionalAdvisor.GetRecommendedProteinAmount();
+            var recommendedFat = NutrionalAdvisor.GetRecommendedFatAmount();
+            var recommendedWater = NutrionalAdvisor.GetRecommendedWaterAmount();
+            var recommededFiber = NutrionalAdvisor.GetRecommendedFiberAmount();
 
             //working with the chart data to be deisplayed
-            ObservableCollection<ChartData> ConsumedData = new ObservableCollection<ChartData>(){
-                new ChartData{Name = "User Comsumed ",
-                    //the code below is test data
-                    //Height = 2000
-                    Height = cal
-                }
+            ObservableCollection<ChartData> ConsumedData = new ObservableCollection<ChartData>() {
+                new ChartData{ Name = "Cal (KCAL)",Height = loggedDataCalories },
+                new ChartData{ Name = "Carbs (g)",Height = carbLoggedData },
+                new ChartData{ Name = "Water (ml)",Height = waterLogged },
+                new ChartData{ Name = "Fat (g) ",Height = fatLogged },
+                new ChartData{ Name = "Protein (g)",Height = protienLogged },
+                new ChartData{ Name = "Fiber (g)",Height = fiberLogged }
             };
 
+           
             //Initializing column series
             ColumnSeries Consumedseries = new ColumnSeries();
             Consumedseries.ItemsSource = ConsumedData;
@@ -96,8 +108,13 @@ namespace NDMA.Resources.AdvisorActivities
             Consumedseries.Spacing = 0.5;
             Consumedseries.Label = "User Comsumed";
 
-            ObservableCollection<ChartData> RecommendedData = new ObservableCollection<ChartData>(){
-                new ChartData{Name = "Recommended Amount",Height = recommendedData}
+            ObservableCollection<ChartData> RecommendedData = new ObservableCollection<ChartData>() {
+                new ChartData {Name = "", Height = recommendedData },
+                new ChartData{Name = "",Height = recommendCarbs},
+                new ChartData{Name = "", Height = recommendedWater},
+                new ChartData{Name = "", Height = fatLogged},
+                new ChartData{Name = "", Height = recommendedProtein},
+                new ChartData {Name = "",Height = recommededFiber}
             };
 
             //Initializing column series

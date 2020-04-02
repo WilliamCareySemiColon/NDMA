@@ -17,16 +17,32 @@ namespace NDMA.Resources.NutritionalAdvisors
      ***************************************************************************************************************/
     public static class NutrionalAdvisor
     {
+        //the calorie count
         private static double calAmount = 0;
+        //the macronutrients variables
+        private static double carbAmount = 0;
+        private static double waterAmount = 0;
+        private static double fatAmount = 0;
+        private static double proteinAmount = 0;
+        private static double fiberAmount = 0;
+
         public static double GetCalorieCount(List<DBFood> dBFoodCollection) {
             double cal = 0;
 
             foreach (DBFood food in dBFoodCollection) {
                 var nutritionCollection = food.Recipe.TotalNutrients;
-
-                var caloriesChecking = nutritionCollection.ENERC_KCAL;
-
-                cal += caloriesChecking.quantity;
+                //capture the calorie amount
+                cal += nutritionCollection.ENERC_KCAL.quantity;
+                //capture the carb amount
+                carbAmount += nutritionCollection.CHOCDF.quantity;
+                //capture the water amount 
+                waterAmount += nutritionCollection.WATER.quantity;
+                //capture the fat amount
+                fatAmount += nutritionCollection.FAT.quantity;
+                //capture the protein amount
+                proteinAmount += nutritionCollection.PROCNT.quantity;
+                //capture the fiberAmount
+                fiberAmount += nutritionCollection.FIBTG.quantity;
             }
 
             calAmount = cal;
@@ -38,8 +54,72 @@ namespace NDMA.Resources.NutritionalAdvisors
             return calAmount;
         }
 
+        public static double GetStaticCarbs(){
+            return carbAmount;
+        }
+
+        public static double GetStaticWater(){
+            return waterAmount;
+        }
+
+        public static double GetStaticFat(){
+            return fatAmount;
+        }
+
+        public static double GetStaticProtein(){
+            return proteinAmount;
+        }
+
+        public static double GetStaticFiber(){
+            return fiberAmount;
+        }
+
         public static float GetRecommendedAmount(){
             return TestSampleData.Calories;
+        }
+
+        public static float GetRecommendedWaterAmount() {
+            var waterString = TestRecAmoDBData.Water.AmountMale;
+
+            var newWaterString = waterString.Remove(waterString.Length - 1, 1);
+
+            return ((float.Parse(newWaterString)) * 1000);
+
+        }
+
+        public static float GetRecommendedCarbAmount()
+        {
+            var carbString = TestRecAmoDBData.Carbohydrates.AmountMale;
+
+            var parsedcarbString = carbString.Remove(carbString.Length - 1, 1);
+
+            return float.Parse(parsedcarbString);
+        }
+
+        public static float GetRecommendedProteinAmount()
+        {
+            var proteinString = TestRecAmoDBData.Protein.AmountMale;
+
+            var parseProteinString = proteinString.Remove(proteinString.Length - 1, 1);
+
+            return float.Parse(parseProteinString);
+        }
+
+        public static float GetRecommendedFatAmount()
+        {
+            float FatPercentage = float.Parse(TestRecAmoDBData.Fat.MaxPercentage);
+
+            return (TestSampleData.Calories * (FatPercentage / 100));
+           
+        }
+
+        public static float GetRecommendedFiberAmount()
+        {
+            var fiberString = TestRecAmoDBData.Fiber.AmountMale;
+
+            var parseFiberString = fiberString.Remove(fiberString.Length - 1, 1);
+
+            return float.Parse(parseFiberString);
         }
 
         public static String [] GetCalorieAdvise(double cal){
@@ -52,7 +132,7 @@ namespace NDMA.Resources.NutritionalAdvisors
                 {
                     modelspec.GetName(),
                     modelspec.GetDescription(),
-                modelspec.GetImage().ToString()
+                    modelspec.GetImage().ToString()
                 };
 
                 return message;
