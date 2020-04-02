@@ -32,6 +32,10 @@ namespace NDMA.Resources.JsonLoggedFood
         {
             Hits = new List<DBFood>();
         }
+        public List<DBFood> GetList()
+        {
+            return Hits;
+        }
 
     }
 }
