@@ -105,7 +105,7 @@ namespace NDMA.Resources.AdvisorActivities
             Consumedseries.ItemsSource = ConsumedData;
             Consumedseries.XBindingPath = "Name";
             Consumedseries.YBindingPath = "Height";
-            Consumedseries.Spacing = 0.5;
+            //Consumedseries.Spacing = 0.5;
             Consumedseries.Label = "User Comsumed";
 
             ObservableCollection<ChartData> RecommendedData = new ObservableCollection<ChartData>() {
@@ -123,7 +123,7 @@ namespace NDMA.Resources.AdvisorActivities
             Recommendedseries.XBindingPath = "Name";
             Recommendedseries.YBindingPath = "Height";
             Recommendedseries.Color = Color.Navy;
-            Recommendedseries.Spacing = 0.5;
+            //Recommendedseries.Spacing = 0.5;
             Recommendedseries.Label = "Recommended Amount";
 
             //adding the series to the chart itself

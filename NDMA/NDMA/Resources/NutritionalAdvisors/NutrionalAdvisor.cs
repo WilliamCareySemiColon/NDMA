@@ -11,9 +11,7 @@ namespace NDMA.Resources.NutritionalAdvisors
     /***************************************************************************************************************
      * The static class to provide the feedback to the user by getting the food data and analysising
      * 
-     * This version of the application is only analysising the calaories section
-     * 
-     * Had other plans to calaculate the macronutrients
+     * This version of the application is analysising the macnutrients and calories section
      ***************************************************************************************************************/
     public static class NutrionalAdvisor
     {
@@ -26,6 +24,7 @@ namespace NDMA.Resources.NutritionalAdvisors
         private static double proteinAmount = 0;
         private static double fiberAmount = 0;
 
+        //getting the static contents and assigning them to their variables
         public static double GetCalorieCount(List<DBFood> dBFoodCollection) {
             double cal = 0;
 
@@ -50,6 +49,7 @@ namespace NDMA.Resources.NutritionalAdvisors
             return cal;
         }
 
+        //getting access to each static content from the advisor
         public static double GetStaticCalories(){
             return calAmount;
         }
@@ -74,6 +74,7 @@ namespace NDMA.Resources.NutritionalAdvisors
             return fiberAmount;
         }
 
+        //getting the recommended amount of contents from the user
         public static float GetRecommendedAmount(){
             return TestSampleData.Calories;
         }
@@ -84,11 +85,9 @@ namespace NDMA.Resources.NutritionalAdvisors
             var newWaterString = waterString.Remove(waterString.Length - 1, 1);
 
             return ((float.Parse(newWaterString)) * 1000);
-
         }
 
-        public static float GetRecommendedCarbAmount()
-        {
+        public static float GetRecommendedCarbAmount(){
             var carbString = TestRecAmoDBData.Carbohydrates.AmountMale;
 
             var parsedcarbString = carbString.Remove(carbString.Length - 1, 1);
@@ -96,8 +95,7 @@ namespace NDMA.Resources.NutritionalAdvisors
             return float.Parse(parsedcarbString);
         }
 
-        public static float GetRecommendedProteinAmount()
-        {
+        public static float GetRecommendedProteinAmount(){
             var proteinString = TestRecAmoDBData.Protein.AmountMale;
 
             var parseProteinString = proteinString.Remove(proteinString.Length - 1, 1);
@@ -105,16 +103,13 @@ namespace NDMA.Resources.NutritionalAdvisors
             return float.Parse(parseProteinString);
         }
 
-        public static float GetRecommendedFatAmount()
-        {
+        public static float GetRecommendedFatAmount(){
             float FatPercentage = float.Parse(TestRecAmoDBData.Fat.MaxPercentage);
 
             return (TestSampleData.Calories * (FatPercentage / 100));
-           
         }
 
-        public static float GetRecommendedFiberAmount()
-        {
+        public static float GetRecommendedFiberAmount(){
             var fiberString = TestRecAmoDBData.Fiber.AmountMale;
 
             var parseFiberString = fiberString.Remove(fiberString.Length - 1, 1);
@@ -122,6 +117,7 @@ namespace NDMA.Resources.NutritionalAdvisors
             return float.Parse(parseFiberString);
         }
 
+        //methods to get the calorie advise - connects to test data itself
         public static String [] GetCalorieAdvise(double cal){
             String[] message;
             if (cal > TestSampleData.Calories)
@@ -166,8 +162,18 @@ namespace NDMA.Resources.NutritionalAdvisors
            
         }
 
-        //actually methods for the three main pages
-        //part of the planned food itself
+        /***********************************************************************************************************
+         * If time permits, construct advice for all the macronutrients itself
+         ***********************************************************************************************************/
+
+            //Area to implement the advice for macronutrients
+
+        /************************************************************************************************************
+         * Part of the development process was to get the food list, find which prouducts are either overcomsumed
+         * or underconsumed, append them to a list and return that list. Due to changes in development plans, these
+         * methods are not used (the main reason for changes in development plans was lack of time alongside the 
+         * need of a more clear layout)
+         **********************************************************************************************************/
         public static int GetOverConsumedProducts(List<DBFood> dBFoodCollection) {
             double cal = 0, fat = 0, fasat = 0, chocdf = 0, fibig = 0, sugar = 0, protein = 0, water = 0;
             foreach (DBFood food in dBFoodCollection) {

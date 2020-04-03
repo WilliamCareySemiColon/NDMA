@@ -34,8 +34,31 @@ namespace NDMA.Resources
             vistAdvisorSystem.Click += delegate { ButtonClicked("Advise"); };
             LogDailyDiet.Click += delegate { ButtonClicked("Log"); };
 
+            //Capture the imageview
+            ImageView image = FindViewById<ImageView>(Resource.Id.WelcomeImage);
+            image.
+                SetImageBitmap(
+                GetImageBitmapFromUrl("https://previews.123rf.com/images/photomts/photomts1604/photomts160400124/55893365-smiling-face-made-from-fruit-on-a-wooden-background-fruit-smile-two-halves-of-oranges-and-one-banana.jpg"
+                ));
+
             //setting the static list for later measurements
             FoodStorageItems.StaticFoodCollection.StoredFood = new List<JsonLoggedFood.DBFood>();
+        }
+
+        private Android.Graphics.Bitmap GetImageBitmapFromUrl(string url)
+        {
+            Android.Graphics.Bitmap imageBitmap = null;
+
+            using (var webClient = new System.Net.WebClient())
+            {
+                var imageBytes = webClient.DownloadData(url);
+                if (imageBytes != null && imageBytes.Length > 0)
+                {
+                    imageBitmap = Android.Graphics.BitmapFactory.DecodeByteArray(imageBytes, 0, imageBytes.Length);
+                }
+            }
+
+            return imageBitmap;
         }
 
         //the button clicked method that is used by every button on the page

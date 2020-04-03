@@ -76,24 +76,26 @@ RecipeSearchClass.cs - There is not used inside the application itself
 
 ### The drawable resource
 
-BackGroundGradient.xml - The background look for the application overall look
+BackGroundGradient.xml - The background look for the application overall look.
 CustomButton.xml - The button look for the application
 
 ### JsonLoggedFood directory classes
 
-The directory to read the json string of the food, store them inside different classes and use them within the application for analysis
+The directory to read the json string of the food, store them inside different classes and use them within the application for analysis. These classes are:
 
-DBFood
-DBNutrients
-FoodSpec
-Ingredients
-ParsedFoodCollection
+DBFood,
+DBNutrients,
+FoodSpec,
+Ingredients,
+ParsedFoodCollection and
 TotalOverallNutrients
 
 ### FoodStorageItems
 
-FoodScheduleStorage
-FoodStorageItems
+The food items to store and track the movement of the logged food as they get logged themselves. These classes are:
+
+FoodScheduleStorage,
+FoodStorageItems and
 StaticFoodCollection
 
 ## Nutritional Advisor - NutrionalAdvisor.cs
@@ -106,14 +108,17 @@ The inital plan was to analylise the macronutrients but only got the chance to a
 
 ### ZZZTestData Directory - Test data for user information and food information itself
 
-CalculatedSubstance.cs
-Substance.cs
-TestRecAmoDBData.cs
+These classes contain the test data for the use of the application. They are known as:
+
+CalculatedSubstance.cs,
+Substance.cs,
+TestRecAmoDBData.cs and
 TestSampleData.cs
 
 ### TestStaticData Directory - Test data for Nutrition Advice
 
-StaticDataModel.cs
+The StaticDataModel.cs is used to derive more test data for the usage of the application. For the StaticDataModel.cs, the directory
+which it uses it data are contained in the following table
 
 | Directory             | Class used 1             | Class Used 2 |
 | --------------------- | ------------------------ | ------------ |
