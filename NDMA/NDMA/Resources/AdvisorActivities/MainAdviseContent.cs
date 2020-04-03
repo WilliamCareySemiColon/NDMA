@@ -38,26 +38,75 @@ namespace NDMA.Resources.AdvisorActivities
             TextView adviseText = FindViewById<TextView>(Resource.Id.AdviseParagraph);
 
             if (FoodStorageItems.StaticFoodCollection.StoredFood.Count != 0) {
+
                 var elements = NutrionalAdvisor.GetCaloriesAdvise(FoodStorageItems.StaticFoodCollection.StoredFood, this);
-                if (elements.Length == 1)
-                {
-                    adviseText.Text = elements[0];
+                var WaterElement = NutrionalAdvisor.GetWaterAdvice();
+                var FatElement = NutrionalAdvisor.GetFatAdvice();
+                var ProteinElement = NutrionalAdvisor.GetProteinAdvice();
+                var CarbElement = NutrionalAdvisor.GetCarb();
+
+                //appending the calorie contents
+                if (elements.Length == 1){
+                    adviseText.Text += elements[0] + "\n\n";
                 } else {
-                    adviseText.Text = elements[0] + "\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticCalories() 
+                    adviseText.Text += elements[0] + "\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticCalories() 
                         + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedAmount()
                         + "\n\nDescription \n" + elements[1];
                     if (String.Equals(elements[0], "Obesity"))
                     {
                         ImageView image = FindViewById<ImageView>(Resource.Id.AdvisePhoto);
                         image.SetImageBitmap(StaticDataModel.Obesity.GetImage());
-                    }
-                    else
-                    {
+                    } else {
                         ImageView image = FindViewById<ImageView>(Resource.Id.AdvisePhoto);
                         image.SetImageBitmap(StaticDataModel.Underweight.GetImage());
                     }
                 }
-            } else {
+                //appending the water content
+                if(WaterElement.Length == 1){
+                    adviseText.Text += "\n\n" + WaterElement[0] + "\n\n";
+                } else {
+                    adviseText.Text +="\n\n" + WaterElement[0] + "\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticWater()
+                        + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedWaterAmount()
+                        + "\n\n" + WaterElement[1];
+                }
+                //appending the fat content
+                if(FatElement != null)
+                {
+                    adviseText.Text += "\n\n" + FatElement[0] + "\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticFat()
+                       + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedFatAmount()
+                       + "\n\nDescription \n" + FatElement[1];
+                } else {
+
+                    adviseText.Text += "\n\n Fat Amount\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticFat()
+                       + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedFatAmount()
+                       + "\n\n";
+                }
+
+                //appending the protein
+                if (ProteinElement != null)
+                {
+                    adviseText.Text += "\n\n" + ProteinElement[0] + "\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticProtein()
+                       + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedProteinAmount()
+                       + "\n\nDescription \n" + ProteinElement[1];
+                } else {
+
+                    adviseText.Text += "\n\n Protein Amount\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticProtein()
+                       + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedProteinAmount()
+                       + "\n\n";
+                }
+                if(CarbElement != null)
+                {
+                    adviseText.Text += "\n\n" + CarbElement[0] + "\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticCarbs()
+                       + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedCarbAmount()
+                       + "\n\nDescription \n" + CarbElement[1];
+                } else {
+
+                    adviseText.Text += "\n\n Carb Amount\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticCarbs()
+                       + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedCarbAmount()
+                       + "\n\n";
+                }
+            }
+            else {
                 adviseText.Text = "There is no advise to be made at this current of time as no food has been current logged for the application";
             }
 

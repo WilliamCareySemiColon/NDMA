@@ -166,7 +166,81 @@ namespace NDMA.Resources.NutritionalAdvisors
          * If time permits, construct advice for all the macronutrients itself
          ***********************************************************************************************************/
 
-            //Area to implement the advice for macronutrients
+        public static string[] GetWaterAdvice()
+        {
+            if(GetStaticWater() > GetRecommendedAmount())
+            {
+                var element = StaticDataModel.WaterToxication;
+
+                return new string[]
+                {
+                   element.GetName(),
+                    element.GetDescription()
+                };
+            }
+            else if (GetStaticWater() < GetRecommendedAmount())
+            {
+                var element = StaticDataModel.WaterDefieicent;
+
+                return new string[]
+                {
+                   element.GetName(),
+                    element.GetDescription()
+                };
+            } else {
+                return new string[] { "Water amount is in the correct amount" };
+            }
+        }
+
+        public static string [] GetCarb()
+        {
+            if(GetStaticCarbs() < GetRecommendedCarbAmount())
+            {
+                var element = StaticDataModel.Carbs;
+                return new string[]
+                {
+                    element.GetName(),
+                    element.GetDescription()
+                };
+            }
+            else {
+                return null;
+            }
+        }
+
+        public static string[] GetProteinAdvice()
+        {
+            if(GetStaticProtein() < GetRecommendedProteinAmount())
+            {
+                var element = StaticDataModel.ProteinDeficient;
+                return new string[]
+                {
+                    element.GetName(),
+                    element.GetDescription()
+                };
+            }
+            else
+            {
+                return null;
+            }
+        }
+
+        public static string [] GetFatAdvice()
+        {
+            if (GetStaticFat() < GetRecommendedFatAmount())
+            {
+                var element = StaticDataModel.FatDefieicent;
+                return new string[]
+                {
+                    element.GetName(),
+                    element.GetDescription()
+                };
+            }
+            else
+            {
+                return null;
+            }
+        }
 
         /************************************************************************************************************
          * Part of the development process was to get the food list, find which prouducts are either overcomsumed

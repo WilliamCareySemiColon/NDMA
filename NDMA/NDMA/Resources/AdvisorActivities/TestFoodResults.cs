@@ -25,6 +25,11 @@ namespace NDMA.Resources.AdvisorActivities
          *******************************************************************************************************/
         protected override void OnCreate(Bundle savedInstanceState) {
             base.OnCreate(savedInstanceState);
+            //Register Syncfusion license - trial liscense itself
+            Syncfusion.
+                Licensing.
+                SyncfusionLicenseProvider.
+                RegisterLicense("MjI4MzE1QDMxMzcyZTM0MmUzMEhtcEU5a1lNRDBkSW9qWnM2OTIxSklSUnI2UW9PaEJPZ01aU2UyVFdYdjg9");
 
             // Create your application here
             SetContentView(Resource.Layout.TestFoodResults);
@@ -35,21 +40,65 @@ namespace NDMA.Resources.AdvisorActivities
                 Finish();
             };
 
-            TextView displayText = FindViewById<TextView>(Resource.Id.TestSampleTextViewResult);
+            TextView adviseText = FindViewById<TextView>(Resource.Id.TestSampleTextViewResult);
 
             var cal = NutrionalAdvisor.GetCalorieCount(FoodStorageForTestData.FoodStorage.FoodCollectionItems);
             var context = NutrionalAdvisor.GetCalorieAdvise(cal);
+            var WaterElement = NutrionalAdvisor.GetWaterAdvice();
+            var FatElement = NutrionalAdvisor.GetFatAdvice();
+            var ProteinElement = NutrionalAdvisor.GetProteinAdvice();
+            var CarbElement = NutrionalAdvisor.GetCarb();
 
-            if(context.Length ==1) {
-                displayText.Text = context[0];
+            if (context.Length ==1) {
+                adviseText.Text += context[0] + "\n\n";
             } else {
                 if(String.Equals(context[0],"Obesity")) {
-                    displayText.Text = "Overweight\n " + context[1];
+                    adviseText.Text += "Overweight\n " + context[1] + "\n\n";
                 } else {
-                    displayText.Text = "Underweight\n " + context[1];
+                    adviseText.Text += "Underweight\n " + context[1] + "\n\n";
                 }
+
             }
-          
+            //appending the water content
+            if (WaterElement.Length == 1){
+                adviseText.Text += "\n\n" + WaterElement[0] + "\n\n";
+            } else {
+                adviseText.Text += "\n\n" + WaterElement[0] + "\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticWater()
+                    + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedWaterAmount()
+                    + "\n\n" + WaterElement[1];
+            }
+            //appending the fat content
+            if (FatElement != null) {
+                adviseText.Text += "\n\n" + FatElement[0] + "\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticFat()
+                   + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedFatAmount()
+                   + "\n\nDescription \n" + FatElement[1];
+            } else {
+                adviseText.Text += "\n\n Fat Amount\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticFat()
+                   + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedFatAmount()
+                   + "\n\n";
+            }
+
+            //appending the protein
+            if (ProteinElement != null){
+                adviseText.Text += "\n\n" + ProteinElement[0] + "\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticProtein()
+                   + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedProteinAmount()
+                   + "\n\nDescription \n" + ProteinElement[1];
+            } else { 
+                adviseText.Text += "\n\n Protein Amount\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticProtein()
+                   + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedProteinAmount()
+                   + "\n\n";
+            }
+            //carb amount
+            if (CarbElement != null) {
+                adviseText.Text += "\n\n" + CarbElement[0] + "\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticCarbs()
+                   + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedCarbAmount()
+                   + "\n\nDescription \n" + CarbElement[1];
+            } else {
+                adviseText.Text += "\n\n Carb Amount\n\n Amount Comsumed: " + NutrionalAdvisor.GetStaticCarbs()
+                   + "\n Amount recommended on personal status: " + NutrionalAdvisor.GetRecommendedCarbAmount()
+                   + "\n\n";
+            }
+
             //working with the chart itself
             SfChart chart = FindViewById<SfChart>(Resource.Id.SfChartTestData);
 

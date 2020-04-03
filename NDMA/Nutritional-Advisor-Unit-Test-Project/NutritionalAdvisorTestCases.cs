@@ -22,11 +22,15 @@ namespace Nutritional_Advisor_Unit_Test_Project
         [TestMethod]
         public void TestNutrionalAdvisor_TestItemsCollectionInitally_Pass()
         {
+            items = null;
+
             //arrange
             GetSampleItems();
 
-            //sleep for ten seconds
-            Thread.Sleep(10000);
+            ////sleep for ten seconds
+            //Thread.Sleep(10000);
+
+            while (items == null) ;
 
             //act
             var ListCollection = items.GetList();
@@ -38,11 +42,15 @@ namespace Nutritional_Advisor_Unit_Test_Project
         [TestMethod]
         public void TestNutrionalAdvisor_TestFoodCollectionCaloriesVsRecommendedAreDifferent_Pass()
         {
+            items = null;
+
             //arrange
             GetSampleItems();
 
-            //sleep for ten seconds
-            Thread.Sleep(10000);
+            ////sleep for ten seconds
+            //Thread.Sleep(10000);
+
+            while (items == null) ;
 
             //act
             var ListCollection = items.GetList();
@@ -57,8 +65,12 @@ namespace Nutritional_Advisor_Unit_Test_Project
         [TestMethod]
         public void TestNutrionalAdvisor_TestFoodCollectionCaloriesToEnsureTheContentPassThrough_Pass()
         {
+            items = null;
+
             //arrange
             GetSampleItems();
+
+            while (items == null) ;
 
             //sleep for ten seconds
             Thread.Sleep(10000);
