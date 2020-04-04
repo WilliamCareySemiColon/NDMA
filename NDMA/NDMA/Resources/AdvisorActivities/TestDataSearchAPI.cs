@@ -88,16 +88,37 @@ namespace NDMA.Resources.AdvisorActivities
                 json = await response.Content.ReadAsStringAsync();
 
                 food = JsonConvert.DeserializeObject<ParsedFoodCollection>(json);
-                listAdapter = new TestCustomSearchedAPIListAdapter(this, food);
-                list.Adapter = listAdapter;
+
+                if (food.Hits.Count == 0)
+                {
+                    //found the builder at the following site
+                    //https://forums.xamarin.com/discussion/18186/how-to-start-an-activity-from-a-dialog-when-ok-button-is-pressed
+                    AlertDialog.Builder builder = new AlertDialog.Builder(this);
+                    builder.SetTitle("Error - Food not found")
+                        .SetMessage("There was no food that macthes your Query")
+                        .SetPositiveButton("OK", delegate
+                        {
+                            void Click()
+                            {
+                                return;
+                            }
+                        });
+
+                    builder.Show();
+                } else {
+                    listAdapter = new TestCustomSearchedAPIListAdapter(this, food);
+                    list.Adapter = listAdapter;
+
+                    list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e) {
+                        ListItemClicked(e.Position, e.Position);
+                    };
+                }
+
             } catch (Exception e) {
                 Toast.MakeText(Application.Context, "Error while retreiving the results from the api. Try agina later"
                     + e.Message.ToString(), ToastLength.Long).Show();
             }
 
-            list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e) {
-                ListItemClicked(e.Position, e.Position);
-            };
         }
 
         //the method that is called when the listview is clicked on

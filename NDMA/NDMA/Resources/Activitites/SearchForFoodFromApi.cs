@@ -73,8 +73,8 @@ namespace NDMA.Resources
         //the method to call the asyc method to search the api for the approiate food itself
         public void SearchApi(string message){
             if (message.Length >= 2) {
-                Toast.MakeText(this, "Application is searching for the items with the keyword: " + message,
-                    ToastLength.Long).Show();
+                //Toast.MakeText(this, "Application is searching for the items with the keyword: " + message,
+                //    ToastLength.Short).Show();
                 GetFood(message);
             } else {
                 Toast.MakeText(this, "character length needs to be at least 3 charaters: " + message,ToastLength.Long).Show();
@@ -93,17 +93,38 @@ namespace NDMA.Resources
                 response = await client.GetAsync(uri);
                 json = await response.Content.ReadAsStringAsync();
 
+                Toast.MakeText(this, json, ToastLength.Long).Show();
+
                 food = JsonConvert.DeserializeObject<ParsedFoodCollection>(json);
+                if (food.Hits.Count == 0)
+                {
+                    AlertDialog.Builder builder = new AlertDialog.Builder(this);
+                    builder.SetTitle("Error - Food not found")
+                        .SetMessage("There was no food that macthes your Query")
+                        .SetPositiveButton("OK", delegate 
+                        {
+                            void Click()
+                            {
+                                return;
+                            }
+                        });
+
+                    builder.Show();
+
+                } else{
+                    listAdapter = new CustomSearchedAPIListAdapter(this, food);
+                    list.Adapter = listAdapter;
+
+                    list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e) {
+                        ListItemClicked(e.Position, e.Position);
+                    };
+                }
                 listAdapter = new CustomSearchedAPIListAdapter(this, food);
                 list.Adapter = listAdapter;
             } catch (Exception e) {
                 Toast.MakeText(Application.Context, "Error while retreiving the results from the api. Try agina later" 
                     + e.Message.ToString() , ToastLength.Long).Show();
             }
-
-            list.ItemClick += delegate (object sender, AdapterView.ItemClickEventArgs e) {
-                ListItemClicked(e.Position, e.Position);
-            };
         }
         //the method to select the food from the listview itself
         private void ListItemClicked(int position, long id) {
