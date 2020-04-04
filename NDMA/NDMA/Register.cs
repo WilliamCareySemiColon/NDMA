@@ -15,7 +15,7 @@ namespace NDMA.Resources
     {
         //the strings and ids to properly capture the strings and ids of the dropdowns for the page
         private String GenderText = null, AgeText = null;
-        private Int32 AgeCatId, SexCatId;
+        //private Int32 AgeCatId, SexCatId;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -31,15 +31,15 @@ namespace NDMA.Resources
                 Resource.Array.AgeCategory, Android.Resource.Layout.SimpleSpinnerItem);
             ageCategoryAdapter.SetDropDownViewResource(Android.Resource.Layout.SimpleSpinnerDropDownItem);
             ageCategory.Adapter = ageCategoryAdapter;
-            AgeCatId = ageCategory.Id;
+            //AgeCatId = ageCategory.Id;
             //sex category details
             Spinner sexCategory = FindViewById<Spinner>(Resource.Id.SexCategory);
-            sexCategory.ItemSelected += new EventHandler<AdapterView.ItemSelectedEventArgs>(Spinner_ItemSelected);
+            sexCategory.ItemSelected += new EventHandler<AdapterView.ItemSelectedEventArgs>(Spinner_ItemSelected2);
             ArrayAdapter sexCategoryAdpater = ArrayAdapter.CreateFromResource(this,
                 Resource.Array.SexCategory, Android.Resource.Layout.SimpleSpinnerItem);
             sexCategoryAdpater.SetDropDownViewResource(Android.Resource.Layout.SimpleSpinnerDropDownItem);
             sexCategory.Adapter = sexCategoryAdpater;
-            SexCatId = sexCategory.Id;
+            //SexCatId = sexCategory.Id;
             //button details
             Button register = FindViewById<Button>(Resource.Id.Register);
             register.Click += delegate
@@ -58,21 +58,20 @@ namespace NDMA.Resources
         private void Spinner_ItemSelected(Object sender, AdapterView.ItemSelectedEventArgs e)
         {
             var spinner = sender as Spinner;
-            var id = spinner.Id;
+            AgeText = string.Equals(
+                spinner.GetItemAtPosition(e.Position).ToString(),
+                "Age Category", StringComparison.CurrentCulture) ?
+                null: spinner.GetItemAtPosition(e.Position).ToString();
+        }
 
-            //making sure the string is getting the correct string from the approiate dropdown
-            if(id == AgeCatId) {
-                GenderText = string.Equals(
-                    spinner.GetItemAtPosition(e.Position).ToString(),
-                    "Age Category", StringComparison.CurrentCulture) ?
-                    spinner.GetItemAtPosition(e.Position).ToString() : null;
-            } 
-            else if (id == SexCatId) {
-                AgeText = string.Equals(
-                    spinner.GetItemAtPosition(e.Position).ToString(), 
-                    "Sex Category", StringComparison.CurrentCulture) ?
-                    spinner.GetItemAtPosition(e.Position).ToString() : null;
-            }
+        private void Spinner_ItemSelected2(Object sender, AdapterView.ItemSelectedEventArgs e)
+        {
+            var spinner = sender as Spinner;
+
+            GenderText = string.Equals(
+                spinner.GetItemAtPosition(e.Position).ToString(),
+                "Sex Category", StringComparison.CurrentCulture) ?
+                null : spinner.GetItemAtPosition(e.Position).ToString();
         }
 
         //The method when the register and login button are pressed
@@ -90,11 +89,10 @@ namespace NDMA.Resources
                 var stringToPassToDB = GatherContents();
 
                 if(stringToPassToDB != null) {
+                    Toast.MakeText(Application.Context, "Welcome to the application", ToastLength.Short).Show();
                     Intent HomeActivity = new Intent(this, typeof(Home));
                     StartActivity(HomeActivity);
-                } else {
-                    Toast.MakeText(this, "all the fields needs to be filled in correct", ToastLength.Short).Show();
-                }
+                } 
             }
         }
 
@@ -114,15 +112,54 @@ namespace NDMA.Resources
             var conPassText = Confirmpassword.Text;
 
             //regex expression to confirm email address
-            //Regex regex = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
-            //Match match = regex.Match(emailText);
+            Regex regex = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
+            Match match = regex.Match(emailText);
 
-            if ((!(String.Equals(nameText, "") && String.Equals(usernameText, "") &&
-                 String.Equals(emailText, "") && String.Equals(passText, "") &&
-                 String.Equals(conPassText, "")))&& String.Equals(passText, conPassText)
-                 && GenderText != null && AgeText != null
-                 //&& match.Success
-            )
+            var flag = true;
+
+            if(String.Equals(nameText, "") || nameText.Length < 2)
+            {
+                Toast.MakeText(this, "name is in the incorrect format", ToastLength.Short).Show();
+                flag = false;
+            }
+
+            if(String.Equals(usernameText, "") || usernameText.Length < 4)
+            {
+                Toast.MakeText(this, "Username is in the incorrect format", ToastLength.Short).Show();
+                flag = false;
+            }
+
+            if (String.Equals(emailText, "") || (!match.Success))
+            {
+                Toast.MakeText(this, "Email is in the incorrect format", ToastLength.Short).Show();
+                flag = false;
+            }
+
+            if (String.Equals(passText, "") || passText.Length < 4)
+            {
+                Toast.MakeText(this, "password is in the incorrect format", ToastLength.Short).Show();
+                flag = false;
+            }
+
+            if (!String.Equals(conPassText, passText))
+            {
+                Toast.MakeText(this, "confirm password and password are not the same", ToastLength.Short).Show();
+                flag = false;
+            }
+
+            if (GenderText == null)
+            {
+                Toast.MakeText(this, "Gender needs to be selected", ToastLength.Short).Show();
+                flag = false;
+            }
+
+            if (AgeText == null)
+            {
+                Toast.MakeText(this, "Age needs to be selected", ToastLength.Short).Show();
+                flag = false;
+            }
+
+            if(flag)
             {
                 return new string[] { nameText, usernameText, emailText, passText };
             } else {

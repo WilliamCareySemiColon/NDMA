@@ -98,6 +98,8 @@ namespace NDMA.Resources
                 food = JsonConvert.DeserializeObject<ParsedFoodCollection>(json);
                 if (food.Hits.Count == 0)
                 {
+                //found the builder at the following site
+                //https://forums.xamarin.com/discussion/18186/how-to-start-an-activity-from-a-dialog-when-ok-button-is-pressed
                     AlertDialog.Builder builder = new AlertDialog.Builder(this);
                     builder.SetTitle("Error - Food not found")
                         .SetMessage("There was no food that macthes your Query")
