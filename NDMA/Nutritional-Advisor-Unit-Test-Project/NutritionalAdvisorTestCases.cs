@@ -22,17 +22,14 @@ namespace Nutritional_Advisor_Unit_Test_Project
         [TestMethod]
         public void TestNutrionalAdvisor_TestItemsCollectionInitally_Pass()
         {
+            //arrange
             items = null;
 
-            //arrange
+            //act
             GetSampleItems();
-
-            ////sleep for ten seconds
-            //Thread.Sleep(10000);
 
             while (items == null) ;
 
-            //act
             var ListCollection = items.GetList();
 
             //assert
@@ -42,17 +39,14 @@ namespace Nutritional_Advisor_Unit_Test_Project
         [TestMethod]
         public void TestNutrionalAdvisor_TestFoodCollectionCaloriesVsRecommendedAreDifferent_Pass()
         {
+            //arrange
             items = null;
 
-            //arrange
+            //act
             GetSampleItems();
-
-            ////sleep for ten seconds
-            //Thread.Sleep(10000);
 
             while (items == null) ;
 
-            //act
             var ListCollection = items.GetList();
             var amount = NutrionalAdvisor.GetCalorieCount(ListCollection);
 
@@ -72,9 +66,6 @@ namespace Nutritional_Advisor_Unit_Test_Project
 
             while (items == null) ;
 
-            //sleep for ten seconds
-            Thread.Sleep(10000);
-
             //act
             var ListCollection = items.GetList();
             var amount = NutrionalAdvisor.GetCalorieCount(ListCollection);
@@ -85,10 +76,10 @@ namespace Nutritional_Advisor_Unit_Test_Project
             Assert.AreEqual(amount, amount2, "The recommendation system could not process the calories properly due to internal errors");
         }
 
+        //method to assist the tester methods
         private async void GetSampleItems()
         {
-            //Recipe search api
-
+            //Recipe search api - using apple as a example
             var client = new HttpClient();
             int from = 0, to = 10;
             string url = "https://api.edamam.com/search?q=apple&app_id=" + RecipeSearchApCreds[0] + "&app_key="

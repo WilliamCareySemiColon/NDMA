@@ -73,8 +73,8 @@ namespace NDMA.Resources
         //the method to call the asyc method to search the api for the approiate food itself
         public void SearchApi(string message){
             if (message.Length >= 2) {
-                //Toast.MakeText(this, "Application is searching for the items with the keyword: " + message,
-                //    ToastLength.Short).Show();
+                Toast.MakeText(this, "Application is searching for the items with the keyword: " + message,
+                    ToastLength.Short).Show();
                 GetFood(message);
             } else {
                 Toast.MakeText(this, "character length needs to be at least 3 charaters: " + message,ToastLength.Long).Show();
@@ -92,8 +92,6 @@ namespace NDMA.Resources
                 uri = new Uri(url);
                 response = await client.GetAsync(uri);
                 json = await response.Content.ReadAsStringAsync();
-
-                Toast.MakeText(this, json, ToastLength.Long).Show();
 
                 food = JsonConvert.DeserializeObject<ParsedFoodCollection>(json);
                 if (food.Hits.Count == 0)

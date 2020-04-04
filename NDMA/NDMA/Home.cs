@@ -45,6 +45,7 @@ namespace NDMA.Resources
             FoodStorageItems.StaticFoodCollection.StoredFood = new List<JsonLoggedFood.DBFood>();
         }
 
+        //getting the image from the internet and set it as the main picture
         private Android.Graphics.Bitmap GetImageBitmapFromUrl(string url)
         {
             Android.Graphics.Bitmap imageBitmap = null;
@@ -67,6 +68,7 @@ namespace NDMA.Resources
                 //Switching to the logging funtionality of the application
                 case "Log":
                     {
+                        Toast.MakeText(Application.Context, "Logging page is loading", ToastLength.Short).Show();
                         Intent LogDietActivity = new Intent(this, typeof(LogDiet));
                         StartActivity(LogDietActivity);
                         break;
@@ -74,6 +76,7 @@ namespace NDMA.Resources
                 //Switching to the advise funtionality of the application
                 case "Advise":
                     {
+                        Toast.MakeText(Application.Context, "Advise page is loading", ToastLength.Short).Show();
                         Intent AdviseActivity = new Intent(this, typeof(AdvisorMain));
                         StartActivity(AdviseActivity);
                         break;
